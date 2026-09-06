@@ -1,0 +1,12 @@
+.git
+.github
+.venv
+__pycache__
+*.pyc
+results
+work
+data/reference
+*.sqlite
+*.npz
+*.docx
+

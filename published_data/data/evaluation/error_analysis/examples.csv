@@ -1,0 +1,151 @@
+label,error_class,gsm,raw_label,detail
+Condition,branch_violation,GSM1430437,alcohol,D000428
+Condition,branch_violation,GSM1430438,alcohol,D000428
+Condition,branch_violation,GSM1430439,stress,D013315
+Condition,branch_violation,GSM1430440,stress,D013315
+Condition,branch_violation,GSM1430441,stress,D013315
+Condition,branch_violation,GSM1430443,stress,D013315
+Condition,branch_violation,GSM1430444,stress,D013315
+Condition,branch_violation,GSM1430449,alcohol,D000428
+Condition,branch_violation,GSM1430450,alcohol,D000428
+Condition,branch_violation,GSM1430452,alcohol,D000428
+Condition,branch_violation,GSM1430453,alcohol,D000428
+Condition,branch_violation,GSM1430454,stress,D013315
+Condition,branch_violation,GSM1430455,stress,D013315
+Condition,branch_violation,GSM1430456,stress,D013315
+Condition,branch_violation,GSM1430463,stress,D013315
+Condition,branch_violation,GSM1430464,stress,D013315
+Condition,branch_violation,GSM1430465,stress,D013315
+Condition,branch_violation,GSM1430467,alcohol,D000428
+Condition,branch_violation,GSM1430468,alcohol,D000428
+Condition,branch_violation,GSM1430470,alcohol,D000428
+Condition,branch_violation,GSM1430471,alcohol,D000428
+Condition,branch_violation,GSM1430473,stress,D013315
+Condition,branch_violation,GSM1430474,stress,D013315
+Condition,branch_violation,GSM1430479,alcohol,D000428
+Condition,branch_violation,GSM1430480,alcohol,D000428
+Condition,oov_recoverable,GSM2837297,Waldenstrom’s macroglobulinemia,D008258
+Condition,oov_recoverable,GSM2837298,Waldenstrom’s macroglobulinemia,D008258
+Condition,oov_recoverable,GSM2837299,Waldenstrom’s macroglobulinemia,D008258
+Condition,oov_recoverable,GSM2837300,Waldenstrom’s macroglobulinemia,D008258
+Condition,oov_recoverable,GSM2837301,Waldenstrom’s macroglobulinemia,D008258
+Condition,oov_recoverable,GSM2837302,Waldenstrom’s macroglobulinemia,D008258
+Condition,oov_recoverable,GSM2837303,Waldenstrom’s macroglobulinemia,D008258
+Condition,oov_recoverable,GSM2837304,Waldenstrom’s macroglobulinemia,D008258
+Condition,oov_recoverable,GSM1122691,Intellectual_Disability,D008607
+Condition,oov_recoverable,GSM992019,non-hodgkin’s lymphoma,D008228
+Condition,oov_recoverable,GSM992029,non-hodgkin’s lymphoma,D008228
+Condition,oov_recoverable,GSM1361179,Keloid,D007627
+Condition,oov_recoverable,GSM1361180,Keloid,D007627
+Condition,oov_recoverable,GSM1361181,Keloid,D007627
+Condition,oov_recoverable,GSM1361182,Keloid,D007627
+Condition,oov_recoverable,GSM1361183,Keloid,D007627
+Condition,oov_recoverable,GSM1361184,Keloid,D007627
+Condition,oov_recoverable,GSM4568957,Hypertrophic scar,D017439
+Condition,oov_recoverable,GSM4568958,Hypertrophic scar,D017439
+Condition,oov_recoverable,GSM4568959,Hypertrophic scar,D017439
+Condition,oov_recoverable,GSM4568960,Hypertrophic scar,D017439
+Condition,oov_recoverable,GSM4568961,Hypertrophic scar,D017439
+Condition,oov_recoverable,GSM4568962,Hypertrophic scar,D017439
+Condition,oov_recoverable,GSM1975015,Brain tumor,D001932
+Condition,oov_recoverable,GSM887714,medullary_carcinoma,D018276
+Condition,value_no_concept,GSM555578,Mock,Mock
+Condition,value_no_concept,GSM555579,Mock,Mock
+Condition,value_no_concept,GSM555580,Mock,Mock
+Condition,value_no_concept,GSM555581,Mock,Mock
+Condition,value_no_concept,GSM555582,Mock,Mock
+Condition,value_no_concept,GSM1695211,Naive,Naive
+Condition,value_no_concept,GSM1695212,Naive,Naive
+Condition,value_no_concept,GSM1695213,Naive,Naive
+Condition,value_no_concept,GSM1695216,Naive,Naive
+Condition,value_no_concept,GSM1695219,Naive,Naive
+Condition,value_no_concept,GSM1695220,Naive,Naive
+Condition,value_no_concept,GSM2131226,Mock,Mock
+Condition,value_no_concept,GSM2131228,Mock,Mock
+Condition,value_no_concept,GSM2131230,Mock,Mock
+Condition,value_no_concept,GSM2131232,Mock,Mock
+Condition,value_no_concept,GSM2891643,WT,Wild Type
+Condition,value_no_concept,GSM2891644,WT,Wild Type
+Condition,value_no_concept,GSM2891645,WT,Wild Type
+Condition,value_no_concept,GSM2891646,WT,Wild Type
+Condition,value_no_concept,GSM1152887,Mock,Mock
+Condition,value_no_concept,GSM1152890,Mock,Mock
+Condition,value_no_concept,GSM1152896,Mock,Mock
+Condition,value_no_concept,GSM1539440,CTL,Control
+Condition,value_no_concept,GSM1539441,CTL,Control
+Condition,value_no_concept,GSM1539446,CTL,Control
+Tissue,oov_recoverable,GSM1362626,Breast,D001940
+Tissue,oov_recoverable,GSM1362632,Breast,D001940
+Tissue,oov_recoverable,GSM1362593,Breast,D001940
+Tissue,oov_recoverable,GSM1362603,Breast,D001940
+Tissue,oov_recoverable,GSM5031774,STO,CVCL_3420
+Tissue,oov_recoverable,GSM5031775,STO,CVCL_3420
+Tissue,oov_recoverable,GSM5031776,STO,CVCL_3420
+Tissue,oov_recoverable,GSM1254356,LnCaP/AR,CVCL_C7XA
+Tissue,oov_recoverable,GSM1254357,LnCaP/AR,CVCL_C7XA
+Tissue,oov_recoverable,GSM1254358,LnCaP/AR,CVCL_C7XA
+Tissue,oov_recoverable,GSM1254359,LnCaP/AR,CVCL_C7XA
+Tissue,oov_recoverable,GSM1254360,LnCaP/AR,CVCL_C7XA
+Tissue,oov_recoverable,GSM1254361,LnCaP/AR,CVCL_C7XA
+Tissue,oov_recoverable,GSM1254362,LnCaP/AR,CVCL_C7XA
+Tissue,oov_recoverable,GSM1254363,LnCaP/AR,CVCL_C7XA
+Tissue,oov_recoverable,GSM1254364,LnCaP/AR,CVCL_C7XA
+Tissue,oov_recoverable,GSM1254365,LnCaP/AR,CVCL_C7XA
+Tissue,oov_recoverable,GSM1254366,LnCaP/AR,CVCL_C7XA
+Tissue,oov_recoverable,GSM1254367,LnCaP/AR,CVCL_C7XA
+Tissue,oov_recoverable,GSM1254368,LnCaP/AR,CVCL_C7XA
+Tissue,oov_recoverable,GSM1254369,LnCaP/AR,CVCL_C7XA
+Tissue,oov_recoverable,GSM1254370,LnCaP/AR,CVCL_C7XA
+Tissue,oov_recoverable,GSM1254371,LnCaP/AR,CVCL_C7XA
+Tissue,oov_recoverable,GSM1254372,LnCaP/AR,CVCL_C7XA
+Tissue,oov_recoverable,GSM1254373,LnCaP/AR,CVCL_C7XA
+Treatment,branch_violation,GSM1708178,ITGB4 knockdown,D055785
+Treatment,branch_violation,GSM1708179,ITGB4 knockdown,D055785
+Treatment,branch_violation,GSM1708180,ITGB4 knockdown,D055785
+Treatment,branch_violation,GSM1708187,BCL10 knockdown,D055785
+Treatment,branch_violation,GSM1708188,BCL10 knockdown,D055785
+Treatment,branch_violation,GSM1708189,BCL10 knockdown,D055785
+Treatment,branch_violation,GSM1708191,EGFR_2_knockdown,D055785
+Treatment,branch_violation,GSM1708193,ESPL1 knockdown,D055785
+Treatment,branch_violation,GSM1708194,ESPL1 knockdown,D055785
+Treatment,branch_violation,GSM1708195,ESPL1 knockdown,D055785
+Treatment,branch_violation,GSM1708196,RPS6KB1 knockdown,D055785
+Treatment,branch_violation,GSM1708197,RPS6KB1 knockdown,D055785
+Treatment,branch_violation,GSM1708198,RPS6KB1 knockdown,D055785
+Treatment,branch_violation,GSM1708202,WDR3_1_knockdown,D055785
+Treatment,branch_violation,GSM1708204,WDR3_3_knockdown,D055785
+Treatment,branch_violation,GSM1708218,PIK3C3_2_knockdown,D055785
+Treatment,branch_violation,GSM1708229,TSC2_1_knockdown,D055785
+Treatment,branch_violation,GSM2249767,LC90 concentration of zinc phthalocyanine-encapsulating cationic liposomes (ZPCLs) treated with 500-mW laser light,D061885
+Treatment,branch_violation,GSM1272372,LVAD Implantation,D006353
+Treatment,branch_violation,GSM1272377,LVAD Implantation,D006353
+Treatment,branch_violation,GSM1272379,LVAD Implantation,D006353
+Treatment,branch_violation,GSM1272380,LVAD Implantation,D006353
+Treatment,branch_violation,GSM1272389,LVAD Implantation,D006353
+Treatment,branch_violation,GSM1272390,LVAD Implantation,D006353
+Treatment,branch_violation,GSM1272391,LVAD Implantation,D006353
+Treatment,oov_recoverable,GSM1197727,α-MSH,D009074
+Treatment,oov_recoverable,GSM1197732,α-MSH,D009074
+Treatment,oov_recoverable,GSM1197735,α-MSH,D009074
+Treatment,oov_recoverable,GSM1197736,α-MSH,D009074
+Treatment,oov_recoverable,GSM1197740,α-MSH,D009074
+Treatment,oov_recoverable,GSM1197742,α-MSH,D009074
+Treatment,oov_recoverable,GSM1197743,α-MSH,D009074
+Treatment,oov_recoverable,GSM1197744,α-MSH,D009074
+Treatment,oov_recoverable,GSM1197746,α-MSH,D009074
+Treatment,oov_recoverable,GSM1197748,α-MSH,D009074
+Treatment,oov_recoverable,GSM1197751,α-MSH,D009074
+Treatment,oov_recoverable,GSM1197753,α-MSH,D009074
+Treatment,oov_recoverable,GSM1197755,α-MSH,D009074
+Treatment,oov_recoverable,GSM1197757,α-MSH,D009074
+Treatment,oov_recoverable,GSM1197760,α-MSH,D009074
+Treatment,oov_recoverable,GSM1197762,α-MSH,D009074
+Treatment,oov_recoverable,GSM1197763,α-MSH,D009074
+Treatment,oov_recoverable,GSM1197765,α-MSH,D009074
+Treatment,oov_recoverable,GSM1197771,α-MSH,D009074
+Treatment,oov_recoverable,GSM1197772,α-MSH,D009074
+Treatment,oov_recoverable,GSM2288637,AID-/-,D007316
+Treatment,oov_recoverable,GSM2288638,AID-/-,D007316
+Treatment,oov_recoverable,GSM2288639,AID-/-,D007316
+Treatment,oov_recoverable,GSM2752297,DMSO,D004121
+Treatment,oov_recoverable,GSM2752298,DMSO,D004121

@@ -1,0 +1,20 @@
+{
+  "tp": 37052,
+  "fp": 109,
+  "fn": 1348,
+  "pool": 38400,
+  "recall": 0.9648958333333333,
+  "precision": 0.9970668173622884,
+  "released_tp": 3409,
+  "released_fn": 34998,
+  "released_pool": 38407,
+  "released_recall": 0.08875986148358372,
+  "released_precision": 1.0,
+  "seen": 37,
+  "fully": 19,
+  "partly": 18,
+  "none": 0,
+  "occurrences": 53021,
+  "distinct": 539,
+  "resolved_pct": 83.68
+}

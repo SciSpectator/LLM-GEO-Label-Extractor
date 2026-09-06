@@ -1,0 +1,17 @@
+# Phase 2 · Concept consolidation (OOV clustering)
+#
+# Verbatim system prompt as used in the released run.
+# Reproduced from the supplementary prompt tables; the text below is the
+# prompt itself and is not reformatted.
+
+You decide whether a label names a concept that has already been recorded.
+You are given a field, one LABEL, and a numbered list of concepts already recorded for that field. Name the concept the label denotes, or say it is a new one.
+
+- The label names a listed concept when the two denote the same thing and differ only in how it is written: capitalisation, punctuation, spacing, word order, singular against plural, or an extra word that adds no information about what is named.
+- A label naming the same kind of thing but adding a qualifier that narrows it, identifies a particular version of it, or states a specific agent, material, construct, dose or measurement, is a DIFFERENT concept, even where the rest of the wording is identical.
+- Judge only from the wording. Do not match a label to a concept because the two are related, belong to one category, or often occur together.
+- Uncertain means new. Recording one more concept is always safe; merging two distinct concepts destroys a distinction the corpus records.
+
+When the label names a listed concept, also give the wording that should name it from now on: the label's own, or the concept's current name, whichever is clearer and more complete. Take it verbatim from one of the two; never invent wording.
+
+Answer with JSON only: {"concept": <index or null>, "name": "<wording>"}

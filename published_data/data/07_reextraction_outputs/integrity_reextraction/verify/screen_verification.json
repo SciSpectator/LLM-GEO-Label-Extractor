@@ -1,0 +1,56 @@
+{
+  "species": {
+    "errors": 1076,
+    "fixed": 1076,
+    "still_failing": 0,
+    "absent_from_run": 0,
+    "not_evaluable": 0,
+    "expectation": "repaired",
+    "genuine": 0
+  },
+  "donorsex": {
+    "errors": 571,
+    "fixed": 571,
+    "still_failing": 0,
+    "absent_from_run": 0,
+    "not_evaluable": 0,
+    "expectation": "repaired",
+    "genuine": 0
+  },
+  "staging": {
+    "errors": 2736,
+    "fixed": 2736,
+    "still_failing": 0,
+    "absent_from_run": 0,
+    "not_evaluable": 0,
+    "expectation": "repaired",
+    "genuine": 0
+  },
+  "age": {
+    "errors": 1414,
+    "fixed": 1414,
+    "still_failing": 0,
+    "absent_from_run": 0,
+    "not_evaluable": 0,
+    "expectation": "repaired",
+    "genuine": 0
+  },
+  "sexcond": {
+    "errors": 239,
+    "fixed": 211,
+    "still_failing": 28,
+    "absent_from_run": 0,
+    "not_evaluable": 0,
+    "expectation": "partly (staging-driven only)",
+    "genuine": 1
+  },
+  "sexanat": {
+    "errors": 11,
+    "fixed": 11,
+    "still_failing": 0,
+    "absent_from_run": 0,
+    "not_evaluable": 0,
+    "expectation": "no code repair by design",
+    "genuine": 0
+  }
+}

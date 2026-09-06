@@ -1,0 +1,620 @@
+column,acronym,samples,resolved,target,id
+Condition,NSCLC,16375,yes,"Carcinoma, Non-Small-Cell Lung",D002289
+Condition,SLE,4683,yes,"Lupus Erythematosus, Systemic",D008180
+Condition,AML,3494,yes,"Leukemia, Myeloid, Acute",D015470
+Condition,CLL,1836,yes,"Leukemia, Lymphocytic, Chronic, B-Cell",D015451
+Condition,GBM,1038,yes,Glioblastoma,D005909
+Condition,DLBCL,1002,yes,"Lymphoma, Large B-Cell, Diffuse",D016403
+Condition,MDS,885,yes,Myelodysplastic Syndromes,D009190
+Condition,CD,751,yes,Crohn Disease,D003424
+Condition,SIV,677,no,SIV,ART-C-00181
+Condition,ABMR,676,no,antibody-mediated rejection,ART-C-00008
+Condition,AD,647,yes,Alzheimer Disease,D000544
+Condition,RRMS,566,yes,"Multiple Sclerosis, Relapsing-Remitting",D020529
+Condition,UC,556,yes,"Colitis, Ulcerative",D003093
+Condition,Obese,539,no,Obese,ART-C-00026
+Condition,HC,539,no,Not Specified,
+Condition,RSV,503,yes,Respiratory Syncytial Virus Infections,D018357
+Condition,IPF,478,yes,Idiopathic Pulmonary Fibrosis,D054990
+Condition,BP,470,yes,Pain,D010146
+Condition,HNSCC,383,yes,Squamous Cell Carcinoma of Head and Neck,D000077195
+Condition,MDD,376,yes,Major Depressive Disorder,D003865
+Condition,ALS,344,yes,Amyotrophic Lateral Sclerosis,D000690
+Condition,HCC,322,yes,"Carcinoma, Hepatocellular",D006528
+Condition,NASH,321,yes,Non-alcoholic Fatty Liver Disease,D065626
+Condition,RA,320,yes,"Arthritis, Rheumatoid",D001172
+Condition,SZA,301,no,SZA,ART-C-00098
+Condition,OA,268,no,OA,ART-C-00024
+Condition,T1D,267,yes,"Diabetes Mellitus, Type 1",D003922
+Condition,TCMR,255,yes,"Hypersensitivity, Delayed",D006968
+Condition,Mock,254,no,Mock,
+Condition,SCD,248,yes,"Anemia, Sickle Cell",D000755
+Condition,Colon,245,yes,"Diverticulum, Colon",D004241
+Condition,HD,244,no,HD,ART-C-00096
+Condition,MGUS,243,yes,Multiple Myeloma,D009101
+Condition,ASD,241,yes,Autism Spectrum Disorder,D000067877
+Condition,H1N1,232,yes,"Influenza, Human",D007251
+Condition,ccRCC,232,yes,"Carcinoma, Renal Cell",D002292
+Condition,SSc,228,yes,"Scleroderma, Systemic",D012595
+Condition,HCV,227,yes,Hepatitis C,D006526
+Condition,SZ,215,yes,Schizophrenia,D012559
+Condition,Other,214,no,Other,ART-C-00001
+Condition,LPR,210,no,LPR,ART-C-00225
+Condition,MI,206,yes,Myocardial Infarction,D009203
+Condition,CRC,198,yes,Colorectal Neoplasms,D015179
+Condition,BP1,193,yes,Bipolar Disorder,D001714
+Condition,SJIA,184,yes,"Arthritis, Juvenile",D001171
+Condition,SCLC,180,yes,Small Cell Lung Carcinoma,D055752
+Condition,CHF,176,yes,Heart Failure,D006333
+Condition,TNBC,173,yes,Triple Negative Breast Neoplasms,D064726
+Condition,sPTD,166,yes,Premature Birth,D047928
+Condition,JIA,164,yes,"Arthritis, Juvenile",D001171
+Condition,Case,163,no,CASE,ART-C-00104
+Condition,CIS,159,yes,Syndrome,D013577
+Condition,IPD,157,yes,Parkinson Disease,D010300
+Condition,CML,143,yes,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",D015464
+Condition,PCOS,135,yes,Polycystic Ovary Syndrome,D011085
+Condition,SPMS,135,yes,"Multiple Sclerosis, Chronic Progressive",D020528
+Condition,SHIV,133,no,Simian Immunodeficiency Virus,ART-C-00101
+Condition,TB,130,yes,Tuberculosis,D014376
+Condition,OFI,128,no,OFI,ART-C-00015
+Condition,HVT,126,no,healthy volunteers,ART-C-00102
+Condition,FTD,125,yes,Frontotemporal Dementia,D057180
+Condition,CTR,125,no,Not Specified,
+Condition,DM,125,yes,Myotonic Dystrophy,D009223
+Condition,MCI,120,no,Mild Cognative Impairment,ART-C-00125
+Condition,LS,112,no,LS,ART-C-00112
+Condition,HBV,111,yes,Hepatitis B,D006509
+Condition,OSCC,110,yes,Squamous Cell Carcinoma of Head and Neck,D000077195
+Condition,MM,110,yes,Multiple Myeloma,D009101
+Condition,SGA,108,no,small birth weight for gestational age,ART-C-00006
+Condition,STEMI,103,no,segment elevation myocardial infarction,ART-C-00183
+Condition,NSOI,102,no,NSOI,ART-C-00156
+Condition,DKD,101,yes,Diabetic Nephropathies,D003928
+Condition,Deaf,100,yes,Deafness,D003638
+Condition,HDM,99,no,HDM,ART-C-00106
+Condition,NR,99,no,No Rejection,ART-C-00174
+Condition,CASE,95,no,CASE,ART-C-00104
+Condition,PDAC,93,yes,"Carcinoma, Pancreatic Ductal",D021441
+Condition,Frail,93,yes,Frailty,D000073496
+Condition,CLAD,90,no,CLAD,ART-C-00281
+Condition,Mixed,89,no,MIXED,ART-C-00094
+Condition,FSHD,88,yes,"Muscular Dystrophy, Facioscapulohumeral",D020391
+Condition,SIRS,88,yes,Systemic Inflammatory Response Syndrome,D018746
+Condition,NHVs,81,yes,Human Characteristics,D040821
+Condition,CFS,81,yes,"Fatigue Syndrome, Chronic",D015673
+Condition,AP,80,no,AP,ART-C-00017
+Condition,DCM,80,yes,"Cardiomyopathy, Dilated",D002311
+Condition,CKD,79,yes,"Renal Insufficiency, Chronic",D051436
+Condition,HV,77,no,healthy volunteers,ART-C-00102
+Condition,WM,77,yes,Waldenstrom Macroglobulinemia,D008258
+Condition,CTL,77,no,Control,
+Condition,HNC,76,yes,Head and Neck Neoplasms,D006258
+Condition,RR,76,no,Reproductive Receptivity,ART-C-00230
+Condition,MIM,75,yes,Amyotrophic Lateral Sclerosis,D000690
+Condition,HS,75,no,HS,ART-C-00340
+Condition,PTB,74,yes,"Tuberculosis, Pulmonary",D014397
+Condition,FSGS,73,yes,"Glomerulosclerosis, Focal Segmental",D005923
+Condition,GIST,72,yes,Gastrointestinal Stromal Tumors,D046152
+Condition,IFTA,71,no,IFTA,ART-C-00154
+Condition,NP,70,no,NP,ART-C-00016
+Condition,IRIS,66,yes,Immune Reconstitution Inflammatory Syndrome,D054019
+Condition,SCZ,66,yes,Schizophrenia,D012559
+Condition,Term,66,no,Term,ART-C-00253
+Condition,NKTL,66,no,NKTL,ART-C-00325
+Condition,FAP,65,no,FAP,ART-C-00014
+Condition,pABMR,64,no,antibody-mediated rejection,ART-C-00008
+Condition,PMF,63,no,Peripheral Blood,ART-C-00049
+Condition,CF,63,yes,Cystic Fibrosis,D003550
+Condition,IBS,63,yes,Irritable Bowel Syndrome,D043183
+Condition,PPMS,61,no,PPMS,ART-C-00116
+Condition,ATL,61,yes,"Leukemia-Lymphoma, Adult T-Cell",D015459
+Condition,PV,60,yes,Polycythemia Vera,D011087
+Condition,TAA,59,yes,"Aortic Aneurysm, Thoracic",D017545
+Condition,NEG,58,no,Not Specified,
+Condition,SMZL,57,no,SMZL,ART-C-00060
+Condition,Vata,56,no,Vata,ART-C-00232
+Condition,IBD,55,yes,Inflammatory Bowel Diseases,D015212
+Condition,ALCL,55,no,ALCL,ART-C-00090
+Condition,NonTD,55,no,Not Specified,
+Condition,EAC,55,no,EAC,ART-C-00194
+Condition,DDLPS,55,yes,Liposarcoma,D008080
+Condition,IDC,54,yes,"Carcinoma, Ductal, Breast",D018270
+Condition,BPH,53,no,bonito fish peptide hydrolysate,ART-C-00176
+Condition,Kapha,53,no,Kapha,ART-C-00231
+Condition,ATRT,52,yes,Medulloblastoma,D008527
+Condition,Naive,51,no,Naive,
+Condition,PSP,51,yes,"Supranuclear Palsy, Progressive",D013494
+Condition,CDL,50,yes,"Colitis, Ulcerative",D003093
+Condition,HIDS,48,yes,Hyper-IgM Immunodeficiency Syndrome,D053306
+Condition,Old,47,no,Old,ART-C-00064
+Condition,pSS,47,no,primary Sj gren s syndrome,ART-C-00158
+Condition,IBDu,46,yes,Inflammatory Bowel Diseases,D015212
+Condition,ESCC,45,yes,Esophageal Squamous Cell Carcinoma,D000077277
+Condition,DLE,45,yes,"Lupus Erythematosus, Discoid",D008179
+Condition,AGA,44,no,AGA,ART-C-00009
+Condition,FOP,44,yes,Friedreich Ataxia,D005621
+Condition,EPTB,44,yes,"Tuberculosis, Extrapulmonary",D000092225
+Condition,NGT,43,no,Not Specified,
+Condition,ADC,43,no,Adult,ART-C-00276
+Condition,PAD,42,yes,Peripheral Arterial Disease,D058729
+Condition,RV1B,42,no,Rhinovirus 1B,ART-C-00312
+Condition,ALL,41,yes,Precursor Cell Lymphoblastic Leukemia-Lymphoma,D054198
+Condition,HGPS,41,yes,Progeria,D011371
+Condition,GPD,41,no,GPD,ART-C-00095
+Condition,PPD,41,yes,"Depression, Postpartum",D019052
+Condition,Pompe,41,yes,Glycogen Storage Disease Type II,D006009
+Condition,DMD,40,yes,"Muscular Dystrophy, Duchenne",D020388
+Condition,Cured,40,no,Cured,ART-C-00134
+Condition,Neg,40,no,Not Specified,
+Condition,LPS,39,no,lipopolysaccharide,ART-C-00022
+Condition,T2D,39,yes,"Diabetes Mellitus, Type 2",D003924
+Condition,NL,39,no,NL,ART-C-00111
+Condition,NDV,39,yes,Newcastle Disease,D009521
+Condition,PNA,39,yes,Lung Diseases,D008171
+Condition,CP,38,no,clinical classification,ART-C-00013
+Condition,T2DM,38,yes,"Diabetes Mellitus, Type 2",D003924
+Condition,BCLL,37,yes,"Leukemia, Lymphocytic, Chronic, B-Cell",D015451
+Condition,IPAH,36,no,IPAH,ART-C-00033
+Condition,HSP,36,no,HSP,ART-C-00105
+Condition,pGBM,36,no,primary glioblastomas,ART-C-00311
+Condition,Ctrl,35,no,Control,
+Condition,CGD,35,no,CGD,ART-C-00136
+Condition,MSP,35,yes,Amyotrophic Lateral Sclerosis,D000690
+Condition,LTBI,35,yes,Latent Tuberculosis,D055985
+Condition,AAP,34,yes,Alopecia Areata,D000506
+Condition,SBI,34,no,SBI,ART-C-00237
+Condition,FL,34,yes,"Lymphoma, Follicular",D008224
+Condition,HF,34,yes,Heart Failure,D006333
+Condition,IGDM,33,yes,"Diabetes, Gestational",D016640
+Condition,JMML,33,no,JMML,ART-C-00041
+Condition,Lean,33,no,Lean,ART-C-00050
+Condition,RCC,33,yes,"Carcinoma, Renal Cell",D002292
+Condition,TED,33,yes,Graves Ophthalmopathy,D049970
+Condition,AMS,33,no,after maternal bariatric surgery,ART-C-00286
+Condition,VTE,32,yes,Venous Thromboembolism,D054556
+Condition,HVA,32,yes,Venom Hypersensitivity,D000092422
+Condition,CAD,31,yes,Coronary Artery Disease,D003324
+Condition,LUSC,31,no,LUSC,ART-C-00303
+Condition,HSV2,31,yes,Herpes Simplex,D006561
+Condition,MAP,30,yes,Mindfulness,D064866
+Condition,SARC,30,no,SARC,ART-C-00308
+Condition,cMCL,30,yes,"Lymphoma, Mantle-Cell",D020522
+Condition,SONFH,30,yes,Osteonecrosis,D010020
+Condition,ET,29,yes,"Thrombocythemia, Essential",D013920
+Condition,ROBD,29,no,restricted oxygen breathing device,ART-C-00150
+Condition,PSC,28,yes,"Cholangitis, Sclerosing",D015209
+Condition,Fetal,28,no,Fetal,ART-C-00178
+Condition,AOD,28,yes,Oligodendroglioma,D009837
+Condition,MCD,27,no,Not Specified,
+Condition,CFAP,27,yes,Adenomatous Polyposis Coli,D011125
+Condition,LUAD,27,yes,Adenocarcinoma of Lung,D000077192
+Condition,ILC,26,no,invLCIS,ART-C-00032
+Condition,IUGR,26,yes,Fetal Growth Retardation,D005317
+Condition,MIXED,26,no,MIXED,ART-C-00094
+Condition,SLID,26,yes,Imprinting Disorders,D000096803
+Condition,CGVHD,26,no,Chronic Graft-versus-Host-Disease,ART-C-00197
+Condition,MILD,26,no,SARS +ve Mild,ART-C-00275
+Condition,IgAN,25,yes,"Glomerulonephritis, IGA",D005922
+Condition,PET,25,no,post-ET,ART-C-00177
+Condition,ILD,25,yes,"Lung Diseases, Interstitial",D017563
+Condition,LR,25,no,LR,ART-C-00228
+Condition,IGT,25,yes,Glucose Intolerance,D018149
+Condition,DGF,25,no,"pDGF, DGF lasting > 14 days",ART-C-00345
+Condition,DGDM,24,yes,"Diabetes, Gestational",D016640
+Condition,HCMV,24,no,human cytomegalovirus,ART-C-00084
+Condition,GDM,24,yes,"Diabetes, Gestational",D016640
+Condition,ANCA,24,no,ANCA,ART-C-00140
+Condition,DM2,24,yes,Myotonic Dystrophy,D009223
+Condition,nnMCL,24,no,nnMCL,ART-C-00324
+Condition,ETMR,23,no,ETMR,ART-C-00185
+Condition,CAPS,23,yes,Cryopyrin-Associated Periodic Syndromes,D056587
+Condition,MN,22,no,MN,ART-C-00037
+Condition,PBC,22,yes,"Liver Cirrhosis, Biliary",D008105
+Condition,NSIP,22,no,NSIP,ART-C-00180
+Condition,ICF,22,yes,"Fatigue Syndrome, Chronic",D015673
+Condition,SCLE,22,yes,"Lupus Erythematosus, Systemic",D008180
+Condition,Donor,21,no,Donor,ART-C-00055
+Condition,TOF,21,yes,Tetralogy of Fallot,D013771
+Condition,pTCMR,21,yes,"Hypersensitivity, Delayed",D006968
+Condition,PTC,21,yes,"Thyroid Cancer, Papillary",D000077273
+Condition,pPCL,21,yes,"Leukemia, Plasma Cell",D007952
+Condition,MCL,21,yes,"Lymphoma, Mantle-Cell",D020522
+Condition,PE,21,yes,Pre-Eclampsia,D011225
+Condition,FPIES,21,no,FPIES,ART-C-00342
+Condition,CRPC,21,yes,"Prostatic Neoplasms, Castration-Resistant",D064129
+Condition,ACLE,20,no,ACLE,ART-C-00241
+Condition,Mania,20,yes,Mania,D000087122
+Condition,PSD,19,yes,"Dementia, Vascular",D015140
+Condition,sCAD,19,yes,Coronary Disease,D003327
+Condition,CAKUT,19,no,CAKUT,ART-C-00266
+Condition,Nash,18,yes,Non-alcoholic Fatty Liver Disease,D065626
+Condition,BAV,18,yes,Bicuspid Aortic Valve Disease,D000082882
+Condition,NEC,18,no,Not Specified,
+Condition,OD,18,no,Oligodendroglial tumor,ART-C-00189
+Condition,SSM,18,yes,"Carcinoma, Squamous Cell",D002294
+Condition,HAdV,18,yes,"Adenovirus Infections, Human",D000258
+Condition,FUO,18,no,FUO,ART-C-00238
+Condition,AII,18,no,AII,ART-C-00318
+Condition,APAH,17,yes,Pulmonary Arterial Hypertension,D000081029
+Condition,JDM,17,yes,Dermatomyositis,D003882
+Condition,III,17,no,Interferon Signalling Molecules,ART-C-00120
+Condition,DIPG,17,yes,Diffuse Intrinsic Pontine Glioma,D000080443
+Condition,MLID,17,no,methylation disturbance,ART-C-00153
+Condition,HLNRA,17,no,high level natural radiation areas,ART-C-00198
+Condition,Post,17,no,Post-exercise,ART-C-00328
+Condition,cin3,17,yes,Uterine Cervical Dysplasia,D002578
+Condition,HPV16,16,yes,Papillomavirus Infections,D030361
+Condition,H3N2,16,yes,"Influenza, Human",D007251
+Condition,SqLC,16,yes,"Carcinoma, Squamous Cell",D002294
+Condition,UA,16,yes,"Angina, Unstable",D000789
+Condition,Lupus,16,yes,"Lupus Erythematosus, Systemic",D008180
+Condition,BC,16,yes,Breast Neoplasms,D001943
+Condition,RAEB2,15,no,RAEB2,ART-C-00045
+Condition,CTRL,15,no,Control,
+Condition,PXA,15,yes,"Neoplasms, Neuroepithelial",D018302
+Condition,iCCA,15,yes,Cholangiocarcinoma,D018281
+Condition,GPA,15,yes,Granulomatosis with Polyangiitis,D014890
+Condition,PiZZ,15,no,PiZZ,ART-C-00199
+Condition,BKVN,15,no,BKVN,ART-C-00248
+Condition,PDC,15,no,PDC,ART-C-00292
+Condition,p53KO,15,no,p53 knockout,ART-C-00299
+Condition,GVHD,15,yes,Graft vs Host Disease,D006086
+Condition,PD,14,yes,Parkinson Disease,D010300
+Condition,AMD,14,yes,Macular Degeneration,D008268
+Condition,CdLS,14,yes,De Lange Syndrome,D003635
+Condition,MF,14,yes,Myeloproliferative Disorders,D009196
+Condition,DMX,14,no,"DM-like, no DMPK or ZNF9 expansion",ART-C-00243
+Condition,PF,14,no,PF,ART-C-00245
+Condition,GAS,14,no,GAS,ART-C-00246
+Condition,sJIA,14,yes,"Arthritis, Juvenile",D001171
+Condition,LPP,14,yes,Lichen Planus,D008010
+Condition,MG,13,yes,Myasthenia Gravis,D009157
+Condition,DLCL,13,no,DLCL,ART-C-00074
+Condition,sCLE,13,no,Subacute CLE,ART-C-00114
+Condition,MBL,13,no,MBL,ART-C-00135
+Condition,DM1,13,yes,Myotonic Dystrophy,D009223
+Condition,SMA,13,yes,"Muscular Atrophy, Spinal",D009134
+Condition,cSCC,13,yes,Cutaneous Squamous Cell Carcinoma,D000099314
+Condition,LGD,13,no,Not Specified,
+Condition,UF,13,yes,Idiopathic Pulmonary Fibrosis,D054990
+Condition,AFAP,13,yes,Adenomatous Polyposis Coli,D011125
+Condition,OCCC,13,no,OCCC,ART-C-00208
+Condition,WBM,13,no,WBM,ART-C-00287
+Condition,Pre,13,no,Pre-exercise,ART-C-00326
+Condition,CVD,13,yes,Cardiovascular Diseases,D002318
+Condition,EPN,13,no,EPN,ART-C-00355
+Condition,CDi,13,no,CDi,ART-C-00357
+Condition,PCa,12,yes,Prostatic Neoplasms,D011471
+Condition,HPS,12,no,HPS,ART-C-00067
+Condition,PTLD,12,no,PTLD,ART-C-00076
+Condition,DLB,12,yes,Dementia,D003704
+Condition,PEL,12,no,PEL,ART-C-00131
+Condition,PDD,12,no,PDD,ART-C-00130
+Condition,pFAS,12,yes,Fetal Alcohol Spectrum Disorders,D063647
+Condition,LEAN,12,no,Lean,ART-C-00050
+Condition,EPR,12,no,endometrial receptivity related genes,ART-C-00226
+Condition,i2a,12,yes,Crohn Disease,D003424
+Condition,PABC,12,yes,"Pregnancy Complications, Neoplastic",D011252
+Condition,EGPA,12,no,EGPA,ART-C-00309
+Condition,ANL,12,no,extensive study of nonlesional AD,ART-C-00327
+Condition,MVP,12,yes,Mitral Valve Prolapse,D008945
+Condition,UCMD,12,no,UCMD,ART-C-00346
+Condition,AIS,12,no,AIS,ART-C-00361
+Condition,AAA,11,yes,"Aortic Aneurysm, Abdominal",D017544
+Condition,Delay,11,no,Delay,ART-C-00108
+Condition,FBE,11,no,FBE,ART-C-00188
+Condition,ERA,11,no,ERA,ART-C-00251
+Condition,SRS,11,yes,Silver-Russell Syndrome,D056730
+Condition,Fed,11,no,Fed,ART-C-00297
+Condition,CCALD,11,yes,Adrenoleukodystrophy,D000326
+Condition,CMML,10,yes,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",D015464
+Condition,T21,10,no,T21,ART-C-00048
+Condition,CDH,10,yes,"Hernias, Diaphragmatic, Congenital",D065630
+Condition,MMC,10,yes,Meningomyelocele,D008591
+Condition,PSYCH,10,yes,Psychiatry,D011570
+Condition,NoVAP,10,no,Not Specified,
+Condition,VAP,10,yes,"Pneumonia, Ventilator-Associated",D053717
+Condition,MSI,10,yes,Microsatellite Instability,D053842
+Condition,cKD,10,no,CKD,ART-C-00122
+Condition,PVAN,10,yes,Polyomavirus Infections,D027601
+Condition,CR,10,no,chronic rejection,ART-C-00279
+Condition,CRPS,10,yes,Complex Regional Pain Syndromes,D020918
+Condition,MALT,10,yes,"Lymphoma, B-Cell, Marginal Zone",D018442
+Condition,HHV6,10,no,human herpesvirus 6,ART-C-00314
+Condition,SARS,10,no,SARS,ART-C-00334
+Condition,CVID,10,yes,Common Variable Immunodeficiency,D017074
+Condition,LRTI,9,yes,Latent Tuberculosis,D055985
+Condition,CBD,9,no,CBD,ART-C-00062
+Condition,AMKL,9,yes,"Leukemia, Megakaryoblastic, Acute",D007947
+Condition,APL,9,yes,"Leukemia, Promyelocytic, Acute",D015473
+Condition,SHAM,9,no,Sham,
+Condition,TTTS,9,no,twin-twin transfusion syndrome,ART-C-00081
+Condition,PNET,9,yes,"Neuroectodermal Tumors, Primitive, Peripheral",D018241
+Condition,SMM,9,yes,Waldenstrom Macroglobulinemia,D008258
+Condition,Sham,9,no,Sham,
+Condition,AIED,9,no,AIED,ART-C-00162
+Condition,FSHD1,9,yes,"Muscular Dystrophy, Facioscapulohumeral",D020391
+Condition,HCL,9,yes,"Leukemia, Hairy Cell",D007943
+Condition,ITP,9,yes,"Purpura, Thrombocytopenic, Idiopathic",D016553
+Condition,IBDU,9,no,IBDU IBD29 colon biopsy colon biopsy diagnosis,ART-C-00285
+Condition,i2b,9,no,i2b,ART-C-00278
+Condition,WD,9,yes,Whipple Disease,D008061
+Condition,NLPHL,9,yes,"Lymphoma, Non-Hodgkin",D008228
+Condition,EWS,9,yes,"Sarcoma, Ewing",D012512
+Condition,EoE,9,yes,Esophagitis,D004941
+Condition,DN,8,yes,Diabetic Nephropathies,D003928
+Condition,TOL,8,no,Tolerant,ART-C-00056
+Condition,BeS,8,no,beryllium-sensitized,ART-C-00058
+Condition,OIS,8,no,oncogene-induced senescence,ART-C-00088
+Condition,MSA,8,yes,Multiple System Atrophy,D019578
+Condition,BMD,8,yes,"Muscular Dystrophy, Duchenne",D020388
+Condition,PRMS,8,no,PRMS,ART-C-00115
+Condition,AGEP,8,no,AGEP,ART-C-00133
+Condition,SCI,8,yes,Spinal Cord Injuries,D013119
+Condition,CCC,8,no,Not Specified,
+Condition,sAML,8,yes,"Leukemia, Myeloid, Acute",D015470
+Condition,FRAXE,8,no,FRAXE fragile site associated intellectual disability,ART-C-00163
+Condition,Dup7,8,yes,Chromosome Disorders,D025063
+Condition,AR,8,no,allograft rejection,ART-C-00200
+Condition,Dep,8,no,Dep,ART-C-00203
+Condition,Ins,8,no,Ins,ART-C-00204
+Condition,Pitta,8,no,Pitta,ART-C-00235
+Condition,AF,8,yes,Atrial Fibrillation,D001281
+Condition,CTCL,8,no,CTCL,ART-C-00270
+Condition,Th0,8,no,Th0,ART-C-00262
+Condition,uVTE,8,yes,Venous Thromboembolism,D054556
+Condition,ND,8,no,ND,ART-C-00305
+Condition,EOAD,8,yes,Alzheimer Disease,D000544
+Condition,OII,8,no,OII,ART-C-00323
+Condition,AL,8,no,abnormalities that characterize lesional AD,ART-C-00329
+Condition,VL,8,yes,"Leishmaniasis, Visceral",D007898
+Condition,ASTRO,7,yes,Astrocytoma,D001254
+Condition,PAH,7,yes,Pulmonary Arterial Hypertension,D000081029
+Condition,H11N9,7,no,H11N9,ART-C-00072
+Condition,CCAM,7,no,CCAM,ART-C-00075
+Condition,sPCL,7,yes,"Leukemia, Plasma Cell",D007952
+Condition,HPV,7,yes,Papillomavirus Infections,D030361
+Condition,M0,7,no,M0,ART-C-00217
+Condition,EBV,7,yes,Epstein-Barr Virus Infections,D020031
+Condition,EMT,7,no,Epithelial-to-mesenchymal transition,ART-C-00254
+Condition,LCNEC,7,yes,Adenocarcinoma of Lung,D000077192
+Condition,MOCK,7,no,Mock,
+Condition,NOMOA,7,no,NOMOA,ART-C-00284
+Condition,OSA,7,yes,"Sleep Apnea, Obstructive",D020181
+Condition,PSEN1,7,no,Presenilin 1,ART-C-00317
+Condition,URTI,6,yes,Respiratory Tract Infections,D012141
+Condition,Euth,6,no,Euth,ART-C-00027
+Condition,HIV2,6,no,HIV2,ART-C-00059
+Condition,IFNa,6,no,interferon-alpha,ART-C-00068
+Condition,Young,6,no,Young,ART-C-00071
+Condition,TGCT,6,no,TGCT,ART-C-00078
+Condition,CIN1,6,no,CIN1,ART-C-00086
+Condition,SCA3,6,yes,Machado-Joseph Disease,D017827
+Condition,MPR,6,no,Morphet-Pemphigoid,ART-C-00132
+Condition,FGR,6,yes,Fetal Growth Retardation,D005317
+Condition,MPSII,6,yes,Mucopolysaccharidosis II,D016532
+Condition,DCD,6,yes,Death,D003643
+Condition,PMBL,6,no,PMBL,ART-C-00175
+Condition,AOA,6,no,AOA,ART-C-00190
+Condition,HGD,6,no,HGD,ART-C-00193
+Condition,CTC,6,no,Not Specified,
+Condition,M2c,6,no,M2c,ART-C-00220
+Condition,M1,6,no,M1,ART-C-00218
+Condition,M2a,6,no,M2a,ART-C-00219
+Condition,Mtgf,6,no,Mitogen-like growth factor,ART-C-00221
+Condition,FFI,6,yes,"Insomnia, Fatal Familial",D034062
+Condition,pTa,6,no,pTa,ART-C-00247
+Condition,HGSOC,6,no,HGSOC,ART-C-00264
+Condition,SLOS,6,yes,Smith-Lemli-Opitz Syndrome,D019082
+Condition,LPL,6,yes,"Leukemia, Lymphocytic, Chronic, B-Cell",D015451
+Condition,DCL,6,yes,"Leishmaniasis, Diffuse Cutaneous",D016774
+Condition,FECD,6,yes,Fuchs' Endothelial Dystrophy,D005642
+Condition,MODY5,6,no,MODY5,ART-C-00335
+Condition,ALD,6,yes,"Liver Diseases, Alcoholic",D008108
+Condition,NPC,6,no,NPC,ART-C-00341
+Condition,time0,6,no,time0,ART-C-00344
+Condition,PAPA,5,no,PAPA syndrome,ART-C-00029
+Condition,FPF,5,yes,Pulmonary Fibrosis,D011658
+Condition,PBM,5,yes,Pancreaticobiliary Maljunction,D000080222
+Condition,HEV,5,yes,Hepatitis E,D016751
+Condition,SJS,5,yes,Stevens-Johnson Syndrome,D013262
+Condition,PAT,5,no,pancreatitis CP periampullary cancer,ART-C-00159
+Condition,IDA,5,yes,"Anemia, Iron-Deficiency",D018798
+Condition,pTOL,5,no,pTOL,ART-C-00161
+Condition,NBM,5,no,NBM,ART-C-00168
+Condition,COP,5,no,Not Specified,
+Condition,SSD,5,yes,Depression,D003863
+Condition,WDLPS,5,yes,Liposarcoma,D008080
+Condition,FALS,5,yes,Amyotrophic Lateral Sclerosis,D000690
+Condition,FD,5,yes,"Dysautonomia, Familial",D004402
+Condition,ARCI,5,no,ARCI,ART-C-00236
+Condition,DIPG2,5,yes,Diffuse Intrinsic Pontine Glioma,D000080443
+Condition,H5N1,5,no,H1N1 pandemic,ART-C-00249
+Condition,H5N2,5,no,H5N1 A/Finch/England/2051/94,ART-C-00250
+Condition,mHTT,5,no,mutant HTT,ART-C-00255
+Condition,H7N1,5,no,H1N1 pandemic,ART-C-00249
+Condition,LINC,5,no,linc-GALNTL6-4,ART-C-00261
+Condition,HLRCC,5,no,HLRCC,ART-C-00256
+Condition,PDTC,5,no,PDTC,ART-C-00263
+Condition,FFA,5,no,FFA,ART-C-00280
+Condition,MALD1,5,no,MALD1,ART-C-00310
+Condition,Naïve,5,no,Naive,
+Condition,sGBM,5,yes,Glioblastoma,D005909
+Condition,TDP43,5,no,TDP43,ART-C-00316
+Condition,Tau,5,no,Tau,ART-C-00321
+Condition,IV,5,no,IV,ART-C-00331
+Condition,ICL,5,yes,"T-Lymphocytopenia, Idiopathic CD4-Positive",D018344
+Condition,HIVE,5,no,HIVE,ART-C-00339
+Condition,NS,4,no,nonsmokers,ART-C-00053
+Condition,SCA28,4,no,SCA28,ART-C-00083
+Condition,PTPR,4,no,PTPR,ART-C-00118
+Condition,WT,4,no,Wild Type,
+Condition,Human,4,no,Human,ART-C-00129
+Condition,DHT,4,no,dihydrotestosterone,ART-C-00137
+Condition,IC,4,no,IC patient,ART-C-00138
+Condition,HUVEC,4,no,human umbilical vein endothelial cells,ART-C-00143
+Condition,PHx,4,no,partial hepatectomy,ART-C-00167
+Condition,DIP,4,yes,Idiopathic Pulmonary Fibrosis,D054990
+Condition,RV16,4,no,rhinovirus 16,ART-C-00213
+Condition,SR1,4,no,SR1,ART-C-00210
+Condition,DMSO,4,no,dimethyl sulfoxide,ART-C-00209
+Condition,I3P,4,no,Indole-3-pyruvate,ART-C-00211
+Condition,PCO,4,no,pulmonary endothelial cells,ART-C-00214
+Condition,DIPG3,4,yes,Diffuse Intrinsic Pontine Glioma,D000080443
+Condition,NMM,4,no,NMM,ART-C-00242
+Condition,CGL,4,no,Not Specified,
+Condition,Th17,4,no,Th17,ART-C-00268
+Condition,shSCR,4,no,shSCR,ART-C-00271
+Condition,CMT1A,4,yes,Charcot-Marie-Tooth Disease,D002607
+Condition,Rhino,4,no,Human rhinovirus,ART-C-00288
+Condition,SDRPL,4,yes,"Leukemia, Lymphocytic, Chronic, B-Cell",D015451
+Condition,AUV,4,no,AUV,ART-C-00307
+Condition,AtWBS,4,yes,Williams Syndrome,D018980
+Condition,WBS,4,yes,Williams Syndrome,D018980
+Condition,ARDS,4,yes,Respiratory Distress Syndrome,D012128
+Condition,CDc,4,no,Not Specified,
+Condition,LCL,4,no,localized,ART-C-00336
+Condition,HPFH,4,yes,Hemoglobinopathies,D006453
+Condition,dcSSc,4,yes,"Scleroderma, Diffuse",D045743
+Condition,CCCA,4,yes,Alopecia,D000505
+Condition,HPeV1,4,no,Human parechovirus 1,ART-C-00359
+Condition,NBIA,4,yes,Neurodegenerative Diseases,D019636
+Condition,MCF7,3,no,MCF7 cells,ART-C-00031
+Condition,RAEB1,3,no,RAEB1,ART-C-00043
+Condition,RCMD,3,no,RCMD,ART-C-00051
+Condition,nonPD,3,no,Not Specified,
+Condition,HCRED,3,no,immortalized human lung epithelial,ART-C-00063
+Condition,CCL,3,no,Not Specified,
+Condition,DRD,3,yes,Parkinson Disease,D010300
+Condition,UTI,3,no,UTI,ART-C-00100
+Condition,PPP,3,yes,"Keratoderma, Palmoplantar",D007645
+Condition,NCI,3,no,No Cognative Impairment,ART-C-00126
+Condition,LSCC,3,yes,Squamous Cell Carcinoma of Head and Neck,D000077195
+Condition,LGG,3,no,LGG,ART-C-00155
+Condition,DFNB,3,no,differentiate under basal conditions without FGF,ART-C-00165
+Condition,SCA2,3,yes,Spinocerebellar Ataxias,D020754
+Condition,TPE,3,yes,"Tuberculosis, Pleural",D014396
+Condition,BE,3,yes,Barrett Esophagus,D001471
+Condition,SQ,3,no,SQ,ART-C-00184
+Condition,CLS,3,no,CLS,ART-C-00195
+Condition,PDSS,3,no,PDSS,ART-C-00207
+Condition,KD1,3,no,KD1,ART-C-00257
+Condition,CHB,3,yes,"Hepatitis B, Chronic",D019694
+Condition,KTU,3,no,KTU,ART-C-00267
+Condition,KT,3,no,KT,ART-C-00274
+Condition,PBS,3,no,Phosphate-Buffered Saline,ART-C-00283
+Condition,TRG2,3,no,tumour regression grade,ART-C-00290
+Condition,TNF,3,no,Tumor Necrosis Factor-alpha,ART-C-00296
+Condition,UVB,3,no,UVB,ART-C-00306
+Condition,II,3,no,II,ART-C-00330
+Condition,DMOG,3,no,dimethyloxalylglycine,ART-C-00333
+Condition,DIG,3,no,DIG,ART-C-00338
+Condition,shC,3,no,shCtrl,ART-C-00349
+Condition,TLC,3,no,taurolithocholic acid,ART-C-00356
+Condition,LOPET,3,no,LOPET,ART-C-00358
+Condition,FPAH,2,no,FPAH,ART-C-00034
+Condition,NDA,2,no,Not Specified,
+Condition,MPN,2,yes,Myeloproliferative Disorders,D009196
+Condition,NTC,2,no,Not Specified,
+Condition,PTL,2,yes,Pre-Eclampsia,D011225
+Condition,AWS,2,no,AWS,ART-C-00080
+Condition,PLWIH,2,no,PLWIH,ART-C-00082
+Condition,KBD,2,yes,Kashin-Beck Disease,D057767
+Condition,PPPP,2,yes,Psoriasis,D011565
+Condition,PIN,2,no,PIN,ART-C-00123
+Condition,DRESS,2,no,DRESS,ART-C-00127
+Condition,SKOV3,2,no,SKOV3,ART-C-00142
+Condition,HIV,2,yes,HIV Infections,D015658
+Condition,DENV,2,yes,Dengue,D003715
+Condition,CMMoL,2,yes,"Leukemia, Myelomonocytic, Chronic",D015477
+Condition,RBS,2,no,RBS,ART-C-00160
+Condition,POAG,2,no,POAG,ART-C-00164
+Condition,HDLI,2,no,HDLI,ART-C-00169
+Condition,MFH,2,no,MFH,ART-C-00170
+Condition,SqCCL,2,yes,"Carcinoma, Squamous Cell",D002294
+Condition,WS,2,no,whole blood,ART-C-00191
+Condition,NMZL,2,no,NMZL,ART-C-00196
+Condition,MSS,2,no,microsatellite stable,ART-C-00215
+Condition,GvHD,2,yes,Graft vs Host Disease,D006086
+Condition,BPD,2,yes,Bronchopulmonary Dysplasia,D001997
+Condition,ADD,2,yes,Autism Spectrum Disorder,D000067877
+Condition,CG,2,no,Not Specified,
+Condition,AMM,2,yes,Smoldering Multiple Myeloma,D000075122
+Condition,PS,2,no,PS,ART-C-00229
+Condition,Hyp,2,yes,Hypoxia,D000860
+Condition,Askin,2,no,Askin,ART-C-00258
+Condition,eCLD,2,no,eCLD,ART-C-00260
+Condition,Th1,2,no,Th1,ART-C-00265
+Condition,Th2,2,no,Th2,ART-C-00269
+Condition,AA,2,no,areata,ART-C-00273
+Condition,Adult,2,no,Adult,ART-C-00276
+Condition,TME,2,no,tumour microenvironment,ART-C-00277
+Condition,SCC,2,yes,"Carcinoma, Squamous Cell",D002294
+Condition,TRG4,2,no,tumour regression grade,ART-C-00290
+Condition,PML,2,no,PML,ART-C-00293
+Condition,Ctrl3,2,no,Not Specified,
+Condition,Type2,2,no,Type2,ART-C-00301
+Condition,EMZL,2,no,EMZL,ART-C-00302
+Condition,TKA,2,no,total knee arthroplasty,ART-C-00304
+Condition,MRSA,2,no,MRSA,ART-C-00313
+Condition,NSLC,2,yes,"Carcinoma, Non-Small-Cell Lung",D002289
+Condition,OPA1,2,no,OPA1 Haploinsufficiency,ART-C-00337
+Condition,CSB,2,yes,Cockayne Syndrome,D003057
+Condition,PACD,2,no,PACD,ART-C-00348
+Condition,LGLL,2,yes,"Leukemia, Large Granular Lymphocytic",D054066
+Condition,CUP,2,no,CUP,ART-C-00351
+Condition,Aged,2,no,Aged,ART-C-00360
+Condition,AKI,1,yes,Acute Kidney Injury,D058186
+Condition,PC3,1,yes,Prostatic Neoplasms,D011471
+Condition,FGGS,1,no,FGGS,ART-C-00040
+Condition,NDB,1,no,Normal donor,ART-C-00044
+Condition,hTeno,1,no,human tenocyte,ART-C-00057
+Condition,HIV1,1,yes,HIV Infections,D015658
+Condition,gCJD,1,no,genetic Creutzfeldt-Jakob disease,ART-C-00091
+Condition,CEL,1,yes,Neoplasms,D009369
+Condition,RADY,1,yes,Respiratory Distress Syndrome,D012128
+Condition,Mild,1,no,Mild,ART-C-00103
+Condition,EAE,1,no,EAE,ART-C-00124
+Condition,SCID,1,yes,Severe Combined Immunodeficiency,D016511
+Condition,mTLE,1,yes,"Epilepsy, Temporal Lobe",D004833
+Condition,hESC,1,no,human Embryonic Stem Cells,ART-C-00144
+Condition,pFASD,1,yes,Fetal Alcohol Spectrum Disorders,D063647
+Condition,MM249,1,yes,Multiple Myeloma,D009101
+Condition,LiM2,1,no,LiM2,ART-C-00149
+Condition,MC,1,no,MC,ART-C-00152
+Condition,fALS,1,yes,Amyotrophic Lateral Sclerosis,D000690
+Condition,DBD,1,yes,Brain Death,D001926
+Condition,EIB,1,yes,"Asthma, Exercise-Induced",D001250
+Condition,Grade,1,no,genomic grade,ART-C-00172
+Condition,LMM,1,no,LMM,ART-C-00187
+Condition,CVB3,1,no,CVB3,ART-C-00206
+Condition,CSE,1,no,cigarette smoke extract,ART-C-00212
+Condition,pcEVT,1,no,proximal column extravillous trophoblasts,ART-C-00223
+Condition,OPM1,1,no,OPM1,ART-C-00224
+Condition,Basal,1,no,Basal,ART-C-00227
+Condition,MAL,1,no,MAL,ART-C-00233
+Condition,TBI,1,no,total body irradiation,ART-C-00234
+Condition,nonTD,1,no,Not Specified,
+Condition,Aging,1,no,aging,ART-C-00065
+Condition,NEPC,1,yes,Neuroendocrine Tumors,D018358
+Condition,CMV,1,yes,Cytomegalovirus Infections,D003586
+Condition,Uninf,1,no,Not Specified,
+Condition,HP,1,no,HP,ART-C-00294
+Condition,TRG3,1,no,tumor regression grade,ART-C-00295
+Condition,DMPM,1,no,DMPM,ART-C-00298
+Condition,PTCL,1,yes,"Lymphoma, T-Cell, Peripheral",D016411
+Condition,sALS,1,no,sporadic ALS,ART-C-00300
+Condition,CTEPH,1,no,CTEPH,ART-C-00315
+Condition,GRN,1,no,GRN,ART-C-00319
+Condition,ADH,1,no,Atypical hyperplasias,ART-C-00322
+Condition,MAPT,1,no,MAPT,ART-C-00332
+Condition,IS,1,yes,Ischemic Stroke,D000083242
+Condition,SLEb,1,yes,"Lupus Erythematosus, Systemic",D008180
+Condition,SLEa,1,yes,"Lupus Erythematosus, Systemic",D008180
+Condition,XDP,1,no,XDP,ART-C-00347
+Condition,POLG1,1,no,POLG1,ART-C-00350
+Condition,POLG6,1,no,POLG6,ART-C-00352
+Condition,POLG3,1,no,POLG3,ART-C-00353
+Condition,POLG2,1,no,POLG2,ART-C-00354
+Condition,PAIS,1,yes,Androgen-Insensitivity Syndrome,D013734

@@ -1,0 +1,342 @@
+item,field,label,verdict,reason
+1,Condition,"Colitis, Ulcerative",correct,UC in title and diagnosis
+1,Condition,left sided disease,correct,extent E2 left sided in characteristics
+2,Condition,Myocardial Ischemia,correct,ischemic status stated
+2,Condition,Heart Failure,correct,heart failure: yes
+3,Condition,escc,correct,engineered escc stated
+3,Condition,non-invading,correct,escc non-invading in characteristics
+4,Condition,Breast Neoplasms,correct,breast tumor
+4,Condition,Breast Neoplasms,incorrect,duplicate label
+5,Treatment,Gene Knockdown Techniques,correct,HSF1 knockdown treatment
+5,Treatment,Wild-type HSF1,correct,wild-type HSF1 re-expression treatment
+6,Condition,Lung Neoplasms,correct,lung tumor stated
+6,Condition,Not Specified,incorrect,Not Specified mixed with real label
+7,Condition,Urinary Bladder Neoplasms,correct,bladder cancer
+7,Condition,pT1 G3,correct,stage and grade pT1 G3
+8,Condition,"Carcinoma, Renal Cell",correct,chromophobe renal cell cancer
+8,Condition,Kidney Neoplasms,correct,renal tumor
+9,Condition,Medulloblastoma,correct,primary medulloblastoma
+9,Condition,large cell/anaplastic,correct,subtype stated
+10,Condition,"Sarcoma, Ewing",correct,Ewing sarcoma stated
+10,Condition,Primary tumor,correct,tumor type Primary Tumor
+11,Tissue,Tongue,correct,source tissue Tongue
+11,Tissue,Oral cavity squamous cell carcinoma tumor,correct,tissue field states this
+12,Treatment,Hormone Replacement Therapy,indeterminate,no treatment info in metadata
+12,Treatment,"Chemotherapy, Adjuvant",indeterminate,no treatment info in metadata
+13,Condition,primary prostate cancer,correct,primary prostate cancer stated
+13,Condition,NED,correct,case-control group NED
+14,Tissue,Bone Marrow,correct,tissue bone marrow
+14,Tissue,CD34+ cells,correct,CD34+ cells source
+15,Condition,Fetal Alcohol Spectrum Disorders,correct,disease FASD
+15,Condition,ARND,correct,subgroup ARND
+16,Condition,Liver Neoplasms,correct,liver cancer
+16,Condition,tumorous tissue,correct,tumorous tissue stated
+17,Condition,Medulloblastoma,correct,medulloblastoma
+17,Condition,Not Specified,incorrect,Not Specified mixed with real labels
+17,Condition,Group4_gamma,correct,subtype Group4_gamma
+18,Condition,c-ALL/Pre-B-ALL without t(9; 22),correct,leukemia class matches characteristics
+19,Condition,Lymphoma,correct,disease Lymphoma
+19,Condition,DLBCL,correct,submitting diagnosis DLBCL
+19,Condition,PMBL,correct,final diagnosis PMBL
+20,Condition,Precursor Cell Lymphoblastic Leukemia-Lymphoma,correct,pediatric ALL
+20,Condition,Not Specified,incorrect,Not Specified mixed with real label
+21,Condition,Breast Neoplasms,correct,luminal breast cancer
+21,Condition,Early,correct,loco-regional recurrence EARLY
+22,Condition,primary lung tumors,correct,primary lung tumor stated
+22,Condition,IB,correct,pathological stage IB
+22,Condition,I,correct,pstage I
+22,Condition,relapsed,correct,relapse relapsed
+23,Condition,Prostatic Neoplasms,correct,prostate tumor
+23,Condition,gleason's grade: 7 (3+4),correct,gleason grade stated
+24,Tissue,Bone Marrow,correct,tissue bone marrow
+24,Tissue,Plasma Cells,correct,CD138+ plasma cells
+25,Condition,Astrocytoma,correct,astrocytoma stated
+25,Condition,grade 2,correct,tumor grading Grade 2
+26,Treatment,Not Specified,incorrect,Not Specified mixed with real label
+26,Treatment,10 μM nutlin3a,correct,treated with 10uM nutlin3a
+27,Condition,Stage: IV,correct,Stage IV stated
+27,Condition,Adenocarcinoma,correct,morphology Adenocarcinoma
+28,Condition,Colorectal Neoplasms,correct,colorectal cancer
+28,Condition,tumor stage: 2,correct,tumor stage 2
+28,Condition,msi-status: MSI-H,correct,msi-status MSI-H
+29,Treatment,AraC (50 mg/kg/day),indeterminate,no treatment info in metadata
+29,Treatment,saline control,indeterminate,no treatment info in metadata
+30,Tissue,Bone Marrow,correct,tissue bone marrow
+30,Tissue,mononucleated cells,correct,cell type mononucleated cells
+31,Condition,Precursor Cell Lymphoblastic Leukemia-Lymphoma,correct,ALL stated
+31,Condition,Precursor-B-ALL,correct,all type Precursor-B-ALL
+31,Condition,Common ALL,correct,all subtype Common ALL
+31,Condition,Recurrence,correct,relapse type stated
+32,Treatment,Neoadjuvant Therapy,correct,neoadjuvant chemoradiation rectal cancer
+32,Treatment,"Chemoradiation, 825 mg/m2, twice daily alone or in combination with oxaliplatine 50 mg/m2 once weekly",correct,crt Cap chemoradiation supported
+33,Condition,non-small cell lung cancer (NSCLC),correct,NSCLC stated
+33,Condition,adenocarcinoma,correct,nsclc type adenocarcinoma
+33,Condition,Stage: I,correct,Stage I
+33,Condition,T1N0M0,correct,tnm T1N0M0
+33,Condition,IA,correct,6th tnm stage IA
+34,Treatment,middle n6 level tertile,incorrect,"measured level, not treatment; wrong field"
+34,Treatment,middle n3 level tertile,incorrect,"measured level, not treatment; wrong field"
+34,Treatment,middle sfa/pufa ratio tertile,incorrect,"measured ratio, not treatment; wrong field"
+35,Condition,non-small cell lung cancer (NSCLC),correct,NSCLC stated
+35,Condition,squamous cell carcinoma,correct,nsclc type squamous
+35,Condition,Stage: I,correct,Stage I
+36,Condition,Prostatic Neoplasms,correct,prostate cancer
+36,Condition,gleason score: 8,correct,gleason score 8
+36,Condition,Not Specified,incorrect,Not Specified mixed with real labels
+37,Condition,"Carcinoma, Non-Small-Cell Lung",correct,non-small cell lung cancer
+37,Condition,tumor_stage: 2B,correct,tumor_stage 2B
+38,Treatment,bevacizumab-erlotinib,indeterminate,drugs not in metadata
+38,Treatment,cisplatine + gemcitabine,indeterminate,drugs not in metadata
+39,Condition,Breast Neoplasms,correct,breast tumor
+39,Condition,Stage: II,correct,Stage II
+40,Condition,Medulloblastoma,correct,disease state primary medulloblastoma
+40,Condition,Breast Neoplasms,correct,breast cancer tumor tissue
+40,Condition,Stage: 2,correct,Stage 2 in characteristics
+40,Condition,grade: 3,correct,grade 3 in characteristics
+41,Condition,"Leukemia, Lymphocytic, Chronic, B-Cell",correct,chronic lymphocytic leukaemia
+41,Condition,aggressive GEP signature,correct,prognostic aggressive GEP signature
+42,Condition,Psoriasis,correct,disease state moderate-to-severe psoriasis
+43,Condition,Multiple Myeloma,correct,multiple myeloma
+43,Condition,Recurrence,correct,relapse stated
+44,Treatment,Trabectedin,indeterminate,drug not named in metadata
+44,Treatment,1.25 uM olaparib,indeterminate,drug not named in metadata
+44,Treatment,Trabectedin,incorrect,duplicate label
+44,Treatment,1.25 uM olaparib,incorrect,duplicate label
+44,Treatment,Not Specified,incorrect,Not Specified mixed with labels
+45,Condition,IC,correct,stage IC
+45,Condition,grade: 1,correct,grade 1
+45,Condition,endometrioid,correct,histology endometrioid
+46,Condition,Polycythemia Vera,correct,Polycythemia Vera stated
+46,Condition,Myeloproliferative Disorders,correct,disease MPD
+47,Condition,AML with normal karyotype,correct,diagnosis matches
+47,Condition,de novo AML,correct,disease state de novo AML
+48,Condition,Ovary,incorrect,"organ tissue, wrong field for condition"
+48,Condition,Stage: IIIc,correct,Stage IIIc
+48,Condition,chemotherapy resistant,correct,classification chemotherapy resistant
+49,Condition,Adenocarcinoma,correct,gastric adenocarcinoma
+49,Condition,Pathological Stage: 2,correct,pathological stage 2
+50,Condition,AML,correct,subject status AML
+50,Condition,BLAST,correct,phenotype BLAST
+51,Condition,Medulloblastoma,correct,medulloblastoma
+51,Condition,SHH,correct,subgroup SHH
+52,Condition,"Myoclonic Epilepsies, Progressive",incorrect,"sample is IPEX, not epilepsy"
+52,Condition,FOXP3 wild type,correct,genotype FOXP3 wild type
+53,Condition,Arthritis,correct,inflammatory arthritis
+53,Condition,"Arthritis, Reactive",correct,working diagnosis Reactive Arthritis
+54,Condition,SLE,correct,SLE stated
+54,Condition,apl,correct,apl: 1
+54,Condition,lac,correct,lac: 1
+55,Condition,Breast Neoplasms,correct,breast tumor
+55,Condition,Neoplasms by Histologic Type,incorrect,"generic MeSH category, not diagnosis"
+56,Condition,SIRS,incorrect,dataset-level term; sample is sepsis
+56,Condition,sepsis,correct,title/source indicate sepsis
+56,Condition,septic shock,incorrect,dataset-level term; sample is sepsis
+57,Condition,Primary Spinal Ependymoma,correct,tissue subtype stated
+57,Condition,Grade II,correct,histological grade 2
+58,Condition,Normal,correct,disease state normal
+58,Condition,Not Specified,incorrect,Not Specified mixed with real label
+59,Condition,Adenocarcinoma of Lung,correct,lung adenocarcinoma
+59,Condition,Stage: 1a,indeterminate,"stage not shown, metadata truncated"
+60,Condition,prostatectomy,incorrect,"surgical procedure, wrong field"
+60,Condition,Gleason score: 7,correct,gleason score 7
+60,Condition,extraprostatic,correct,pathologic stage extraprostatic
+61,Tissue,Blood,correct,peripheral blood
+61,Tissue,"Killer Cells, Natural",correct,NK cells
+62,Condition,Breast Neoplasms,correct,primary breast cancer tissue
+62,Condition,Stage: 2,correct,Stage 2 in characteristics
+62,Condition,t stage: 2,correct,t stage 2 in characteristics
+62,Condition,n stage: 1,correct,n stage 1 in characteristics
+63,Treatment,ANIT,correct,chemical treatment ANIT
+63,Treatment,10 uM,correct,dose 10 uM
+64,Treatment,Linuron,correct,treatment chemical Linuron
+64,Treatment,R1881_0.33nM,correct,R1881 in title
+65,Treatment,Granulocyte-Macrophage Colony-Stimulating Factor,correct,GM-CSF factor
+65,Treatment,Interleukin-10,correct,IL-10 factor
+66,Condition,Crohn Disease,correct,disease Crohn's
+66,Condition,Inflamed area,correct,inflammation Inflamed area
+67,Treatment,immortalized with hTERT,correct,treatment immortalized hTERT
+67,Treatment,express SNAIL1,correct,transducer express SNAIL1
+68,Condition,Medulloblastoma,correct,medulloblastoma
+68,Condition,Medulloblastoma,incorrect,duplicate label
+69,Treatment,MMF,indeterminate,no metadata provided
+69,Treatment,plaquenil,indeterminate,no metadata provided
+70,Condition,Breast Neoplasms,correct,breast tumor
+70,Condition,Stage: II,correct,Stage II
+70,Condition,Breast Neoplasms,incorrect,duplicate label
+71,Treatment,Paclitaxel,correct,arm Paclitaxel
+71,Treatment,pembrolizumab,correct,arm Pembrolizumab
+72,Condition,Neuroblastoma,correct,neuroblastoma
+72,Condition,Stage: 2A,correct,Stage 2a
+73,Tissue,iPSC,correct,iPSC source
+73,Tissue,foreskin fibroblast,correct,donor cell type foreskin fibroblast
+74,Condition,"Carcinoma, Pancreatic Ductal",correct,PDAC
+74,Condition,T3N1M0,correct,tumor stage T3N1M0
+74,Condition,2,correct,tumor grade 2
+75,Condition,"Carcinoma, Renal Cell",correct,renal clear cell carcinoma
+75,Condition,"Carcinoma, Renal Cell",incorrect,duplicate label
+75,Condition,Neoplasms,correct,carcinoma is a neoplasm
+76,Condition,"Carcinoma, Ductal, Breast",correct,invasive breast carcinoma
+76,Condition,3,correct,tumor stage 3
+77,Condition,Ovarian Neoplasms,correct,epithelial ovarian tumor
+77,Condition,"Cystadenoma, Serous",incorrect,benign term for invasive grade3 tumor
+77,Condition,Neoplasm Invasiveness,correct,tumor stage invasive
+78,Condition,Melanoma,correct,melanoma
+78,Condition,metastatic,correct,primary/metastatic Metastatic
+79,Condition,Psoriasis,correct,psoriasis
+79,Condition,Psoriasis,incorrect,duplicate label
+80,Condition,Adenocarcinoma of Lung,correct,lung adenocarcinoma
+80,Condition,Stage: 1a,indeterminate,"stage not shown, metadata truncated"
+81,Tissue,Lung,correct,lung tissue
+81,Tissue,transplanted lung tissue,correct,tissue transplanted lung
+82,Condition,Adrenal Cortex Neoplasms,correct,adrenocortical tumor ACC
+82,Condition,Stage: III,correct,Stage III
+83,Treatment,TNF⍺/IL-17,correct,stimulation TNF/IL-17
+83,Treatment,DMSO,correct,bet inhibition DMSO vehicle
+84,Condition,Crohn Disease,indeterminate,disease not named in metadata
+84,Condition,clinical remission,correct,remwk8 clinical remission Y
+85,Condition,Neuroblastoma,correct,neuroblastoma
+85,Condition,High Risk,correct,high risk 1
+85,Condition,inss stage: 4,correct,inss stage 4
+85,Condition,Disease Progression,correct,progression 1
+85,Condition,Death,correct,death from disease 1
+86,Condition,COVID-19,correct,SARS-CoV-2 infected
+86,Condition,Multi-organ,indeterminate,"metadata truncated, unclear"
+87,Condition,Atrial Fibrillation,correct,atrial fibrillation
+87,Condition,Mitral Valve Insufficiency,correct,severe mitral regurgitation
+88,Condition,Ovarian Neoplasms,correct,serous ovarian cancer
+88,Condition,"Carcinoma, Ovarian Epithelial",correct,epithelial ovarian cancer
+89,Condition,Neoplasms,correct,developed cancer
+89,Condition,Breast Neoplasms,correct,developed breast cancer
+89,Condition,BRCA1/2 mutation,correct,carries brca mutation
+90,Treatment,LPS,correct,stimulation LPS
+90,Treatment,aCD3-aCD28,correct,stimulation aCD3-aCD28
+91,Tissue,SNB-75,correct,cell line SNB-75
+91,Tissue,CNS,correct,tissue CNS
+92,Tissue,SNB-19,correct,cell line SNB-19
+92,Tissue,CNS,correct,tissue CNS
+93,Tissue,Prostate,correct,prostate epithelium
+93,Tissue,BPH-1,correct,cell line BPH1
+94,Condition,"Carcinoma, Renal Cell",correct,clear cell renal cell carcinoma
+94,Condition,Neoplasms,correct,carcinoma is a neoplasm
+95,Tissue,Parenchyma,correct,Parenchyma source
+95,Tissue,Terminal bronchiole,correct,segment Terminal bronchiole
+96,Treatment,antiRSPO3 antibody,correct,treated with antiRSPO3
+96,Treatment,Irinotecan,correct,treated with irinotecan
+97,Tissue,Adrenal Cortex,correct,adrenal tissue
+97,Tissue,Zona Glomerulosa,correct,tissue subtype Zona Glomerulosa
+98,Treatment,CPEB4,correct,orf CPEB4 overexpression
+98,Treatment,puromycin,indeterminate,selection agent not in metadata
+99,Treatment,IFNg+TNF,correct,activation IFNg+TNF
+99,Treatment,Rosiglitazone,correct,treatment Rosiglitazone
+100,Condition,Prostatic Neoplasms,correct,prostate tumor
+100,Condition,gleason's grade: <=6,correct,gleason grade <=6
+101,Condition,"Carcinoma, Papillary",correct,papillary serous carcinoma
+101,Condition,Fallopian Tube Carcinoma,correct,fallopian tube carcinoma co-occurrence
+102,Condition,Colorectal Neoplasms,correct,colorectal primary
+102,Condition,PDCCE tumor,correct,sample type PDCCE tumor
+102,Condition,Neoplasm Metastasis,correct,metastatic tumor site liver
+103,Treatment,Proto-Oncogene Proteins p21(ras),correct,RAS induced senescence
+103,Treatment,siRNA RELA,correct,sirna siRNA RELA
+104,Condition,Glioblastoma,correct,glioblastoma multiforme
+104,Condition,grade: IV,correct,grade IV
+105,Condition,"Carcinoma, Hepatocellular",correct,hepatocellular carcinoma
+105,Condition,Liver Neoplasms,correct,liver tumor
+105,Condition,ajcc stage: 1,correct,ajcc stage 1
+106,Condition,Squamous Cell Carcinoma of Head and Neck,correct,oral squamous cell carcinoma
+106,Condition,T2N2bM0,correct,pathological state T2N2bM0
+107,Condition,Prostatic Neoplasms,correct,prostate cancer
+107,Condition,gleason score: 7,correct,gleason score 7
+107,Condition,biochemical failure,correct,biochemical failure 1
+107,Condition,pathologic tumor stage: 3a,correct,pathologic tumor stage 3a
+108,Condition,Melanoma,correct,malignant melanoma
+108,Condition,Melanoma,incorrect,duplicate label
+109,Condition,Fibrosis,correct,cirrhosis fibrosis
+109,Condition,HCC,correct,hepatocellular carcinoma
+110,Treatment,TOR Serine-Threonine Kinases,correct,rapamycin mTOR inhibitor treatment
+110,Treatment,sh p73-1,correct,rnai sh p73-1
+111,Condition,Breast Neoplasms,correct,breast tumor
+111,Condition,Stage: II,correct,Stage II
+112,Treatment,empty pSG213 vector,correct,empty pSG213 vector
+112,Treatment,2ug/ml doxycycline,correct,2ug/ml doxycycline treatment
+113,Condition,SLE,correct,disease state SLE
+113,Condition,active LN (ALN),correct,nephritis state active LN
+114,Treatment,Not Specified,incorrect,Not Specified mixed with real label
+114,Treatment,vehicle (EtOH),correct,treatment vehicle EtOH
+115,Condition,SLE,correct,SLE stated
+115,Condition,Systemic lupus erythematosus (SLE),incorrect,duplicate synonym of SLE
+116,Condition,Precursor Cell Lymphoblastic Leukemia-Lymphoma,correct,ALL patients
+116,Condition,remission,correct,disease status Remission
+117,Treatment,siControl,correct,treatment siControl
+117,Treatment,vehicle (ethanol),correct,hormone treatment vehicle ethanol
+118,Condition,Ovarian Neoplasms,correct,ovarian cancer
+118,Condition,Stage: 3c,correct,Stage 3c
+119,Condition,"Cystadenocarcinoma, Serous",correct,serous cystadenocarcinoma
+119,Condition,IIIc,correct,diseasestaging IIIC
+119,Condition,G3,correct,tumorgrading G3
+120,Condition,overweight/obese,correct,phenotype overweight/obese
+120,Condition,prediabetic,correct,disease state prediabetic
+121,Condition,c-ALL/Pre-B-ALL without t(9; 22),correct,leukemia class matches characteristics
+122,Tissue,melanoma,incorrect,"disease, wrong field for tissue"
+122,Tissue,Human skin,correct,Human skin source
+123,Treatment,Radiography,incorrect,"X-ray therapy is radiotherapy, not imaging"
+123,Treatment,Tam,correct,adjuvant Tam tamoxifen
+124,Condition,Hypersensitivity,correct,allergy 1
+124,Condition,Asthma,correct,asthma 1
+125,Condition,Breast Neoplasms,correct,breast tumor
+125,Condition,Not Specified,incorrect,Not Specified mixed with real label
+126,Condition,Colorectal Neoplasms,correct,colorectal cancer
+126,Condition,Neoplasms,correct,cancer is neoplasm
+127,Condition,Nasal Polyps,correct,chronic rhinosinusitis with nasal polyps
+127,Condition,inflamed mucosa,correct,tissue inflamed mucosa
+128,Condition,Pancreatic Neoplasms,correct,pancreatic tumor
+128,Condition,G2,correct,grading G2
+128,Condition,Stage: IB,correct,Stage IB
+129,Condition,Psoriasis,correct,psoriasis
+129,Condition,Not Specified,incorrect,Not Specified mixed with real label
+130,Condition,Colorectal Neoplasms,correct,colorectal adenocarcinoma
+130,Condition,Stage 1,correct,Stage stage 1
+131,Condition,Glioblastoma,correct,glioblastoma
+131,Condition,GBM (IV),correct,Stage GBM IV
+132,Condition,Prostatic Neoplasms,correct,prostate tumor
+132,Condition,Gleason's Grade >=8,correct,gleason grade >=8
+133,Condition,Precursor T-Cell Lymphoblastic Leukemia-Lymphoma,correct,T-ALL
+133,Condition,Leukemia,correct,leukemia
+134,Condition,Medulloblastoma,correct,medulloblastoma
+134,Condition,Medulloblastoma,incorrect,duplicate label
+135,Condition,primary lung tumors,correct,primary lung tumor
+135,Condition,pathological stage: II,correct,pathological stage II
+135,Condition,relapsed,correct,relapse relapsed
+136,Condition,"Leukemia, Lymphocytic, Chronic, B-Cell",correct,chronic lymphocytic leukaemia
+136,Condition,aggressive GEP signature,correct,aggressive GEP signature
+137,Condition,Non–Muscle-Invasive Bladder Cancer,correct,NMIBC stated
+137,Condition,Luminal CIS-like,correct,hede Luminal CIS-like
+137,Condition,T1,correct,Stage T1
+137,Condition,High grade,correct,grade High
+138,Condition,Breast Neoplasms,correct,breast tumor
+138,Condition,Triple Negative Breast Neoplasms,correct,cancer subtype Triple negative
+139,Treatment,MMF,correct,drug_group MMF
+139,Treatment,prednisone_dosis: 10,indeterminate,prednisone not in visible metadata
+139,Treatment,plaquenil: 1,indeterminate,plaquenil not in visible metadata
+140,Treatment,Estradiol,correct,estradiol treated
+140,Treatment,Dihydrotestosterone,correct,dihydrotestosterone treated
+141,Tissue,Blood,correct,tissue blood
+141,Tissue,CD4 T-cells,correct,cell type CD4 T-cells
+142,Condition,SLE,correct,disease state SLE
+142,Condition,Proliferative nephritis,indeterminate,nephritis not in visible metadata
+143,Condition,Adenocarcinoma,correct,gastric adenocarcinoma
+143,Condition,Recurrence,correct,status recurrence 1
+143,Condition,Pathological Stage: 2,correct,pathological stage 2
+144,Treatment,Dimethyl Sulfoxide,correct,treatment DMSO
+144,Treatment,miR371 precursor,correct,transfection miR371 precursor
+145,Condition,Breast Neoplasms,correct,breast tumor
+145,Condition,Breast Neoplasms,incorrect,duplicate label
+146,Treatment,Ramucirumab,correct,LY3009806 is ramucirumab
+146,Treatment,Docetaxel,correct,treatment Docetaxel
+147,Treatment,INTS1sh,correct,INTS1 knockdown
+147,Treatment,EGF,correct,treatment EGF
+148,Treatment,Mifepristone,correct,RU 486 is mifepristone
+148,Treatment,10 nm,correct,dose 10 nM
+149,Treatment,Noggin Protein,indeterminate,factor not in metadata
+149,Treatment,BNE supplemented with FGF2 and EGF,indeterminate,factors not in metadata
+150,Treatment,Axl Receptor Tyrosine Kinase,indeterminate,target not in visible metadata
+150,Treatment,2µL,incorrect,"volume, not a treatment"

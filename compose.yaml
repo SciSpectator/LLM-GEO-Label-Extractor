@@ -1,0 +1,23 @@
+services:
+  pipeline:
+    build: .
+    env_file:
+      - path: .env
+        required: false
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    volumes:
+      - ./data:/data:ro
+      - ./data/reference:/references:ro
+      - ./results:/results
+    command:
+      - --input
+      - /data/GEOmetadb.sqlite
+      - --out-dir
+      - /results
+      - --vocab
+      - /references/vocab.sqlite
+      - --index
+      - /references/vocab_index.npz
+      - --cellosaurus
+      - /references/cellosaurus.sqlite

@@ -1,0 +1,12 @@
+{
+  "extracted": {
+    "Tissue": 802359,
+    "Condition": 647077,
+    "Treatment": 369311
+  },
+  "resolved_pct": {
+    "Tissue": 80.69,
+    "Condition": 62.9,
+    "Treatment": 23.13
+  }
+}

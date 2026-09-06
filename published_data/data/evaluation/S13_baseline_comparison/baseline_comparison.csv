@@ -1,0 +1,13 @@
+task,metric,field,rule_based,exact_mesh,embedding_top1,ours
+extraction,accuracy_manual_gold,Tissue,0.445,,,0.997
+extraction,accuracy_manual_gold,Condition,0.228,,,0.950
+extraction,accuracy_manual_gold,Treatment,0.245,,,0.866
+normalization,coverage_of_extracted_labels,Tissue,,0.3168,1.000,0.8069
+normalization,coverage_of_extracted_labels,Condition,,0.3501,1.000,0.6291
+normalization,coverage_of_extracted_labels,Treatment,,0.0746,1.000,0.2313
+normalization,accuracy_answerable_slice,Tissue,,1.000,0.685,0.985
+normalization,accuracy_answerable_slice,Condition,,1.000,0.702,0.993
+normalization,accuracy_answerable_slice,Treatment,,1.000,0.610,0.982
+normalization,f1_answerable_slice,Tissue,,,,0.993
+normalization,f1_answerable_slice,Condition,,,,0.996
+normalization,f1_answerable_slice,Treatment,,,,0.991

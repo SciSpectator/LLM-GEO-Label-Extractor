@@ -1,0 +1,6 @@
+Field checked,Checked against,n comparable,Contradictions,Rate,Published n,Published contradictions,n reproduces,contradictions reproduce
+Extracted Sex,Sex-specific tissue,9613,11,0.11%,9522,11,no,yes
+Extracted Sex,Sex-specific condition,3975,55,1.38%,3761,55,no,yes
+Extracted Sex,Cell-line donor sex,79551,571,0.72%,79551,571,yes,yes
+Corpus species,Cell-line species,167476,1076,0.64%,167476,1076,yes,yes
+Extracted age,"Late-onset disease (AD, PD & COPD with age <18)",4102,348,8.48%,4102,348,yes,yes

@@ -1,0 +1,1501 @@
+gsm,Condition_extracted,Condition_gold,Condition_verdict,Tissue_extracted,Tissue_gold,Tissue_verdict
+GSM51787,Stomach Neoplasms,stomach cancer,TP,Gastric,Stomach,TP
+GSM1187677,Non-obese individual,control,TP,Subcutaneous white adipose tissue,adipose stem cells,TP
+GSM1293370,plaque type psoriasis,psoriasis,TP,Epidermis,Epidermis,TP
+GSM639778,Lesional,tendinitis,TP,Tendons; Suspraspinatus,Tendons,TP
+GSM425876,IA; grade: 2; Endometrioid,endometrial cancer,TP,Endometrium,Uterine tumors (endometrioid histologic subtype) - Stage-Grade:IA-G2,TP
+GSM337248,normal skin from controls,control,TP,Skin,Skin tissue,TP
+GSM277801,high grade serous carcinoma,serous cystadenocarcinoma,TP,high grade serous carcinoma,Fallopian tube,TP
+GSM317683,control,control,TP,prefrontal cortex (BA10),Cerebral cortex,TP
+GSM1376750,normal skin,control,TP,normal skin,Skin,TP
+GSM627154,Autistic Disorder,autism spectrum disorder,TP,Lymphocytes,blood lymphocytes,TP
+GSM1348949,Normal; Benign,control,TP,Benign prostate tissue,Radical prostatectomy tissue samples (TMPRSS2:ERG gene fusion NEGATIVE) and Benign prostate tissue,TP
+GSM388081,normal,control,TP,Pancreas,Pancreatic tissue,TP
+GSM1200310,healthy,control,TP,Peripheral Blood Mononuclear Cell (PBMC),Peripheral blood mononuclear cells,TP
+GSM98174,asthmatic,asthma,TP,airway epithelial brushing,Epithelial Cell,TP
+GSM1053966,Down Syndrome,Down syndrome,TP,CCL54,induced pluripotent stem cells,TP
+GSM35017,normal,control,TP,Lung,Lung Tissue,TP
+GSM348185,RF+ polyarthritis,arthritis,TP,"Leukocytes, Mononuclear",PBMC (peripheral blood mononuclear cells),TP
+GSM892385,control,control,TP,biceps,bicep,TP
+GSM51770,Stomach Neoplasms,control,FP,gastric cancer,Stomach,TP
+GSM129241,normal tissue,control,TP,Vulva,vulvar intraepithelial neoplasia (VIN) lesions,TP
+GSM1398656,adjacent non-tumorous,control,TP,Parenchymal Tissue,Tumor tissues and Adjacent non-tumorous tissues of Hepatocellular Carcinoma,TP
+GSM1403310,"Carcinoma, Hepatocellular",hepatocellular carcinoma,TP,"Leukocytes, Mononuclear",Peripheral blood mononuclear cell,TP
+GSM802174,healthy,control,TP,Skin,Non-lesional (NL) Skin,TP
+GSM1398645,hepatocellular carcinoma tumor,hepatocellular carcinoma,TP,Parenchymal Tissue,Tumor tissues and Adjacent non-tumorous tissues of Hepatocellular Carcinoma,TP
+GSM815449,ANL,atopic dermatitis,TP,Skin,derma (skin),TP
+GSM66680,healthy subject,control,TP,human peripheral blood mononuclear cells,Peripheral blood mononuclear cell,TP
+GSM397630,Glioblastoma; IV,glioblastoma multiforme,TP,brain tumor tissue,Brain tumor tissue samples of human gliomas and normal brain - Grade:IV - Primary tumor,TP
+GSM709358,"Hepatitis, Alcoholic",alcoholic hepatitis,TP,liver biopsy sample,liver tissue,TP
+GSM509803,normal adjacent esophageal tissue,control,TP,normal adjacent esophageal tissue,Esophageal normal adjacent tissue,TP
+GSM419161,sickle-cell,sickle cell anemia,TP,Blood,peripheral blood,TP
+GSM240030,"Colitis, Ulcerative; no macroscopic signs of inflammation",ulcerative colitis,TP,Colonic mucosal endoscopic pinch biopsy,Colonic mucosa - Non-Inflamed,TP
+GSM627107,control,control,TP,Lymphocytes,blood lymphocytes,TP
+GSM153845,Normal mucosa,control,TP,human head and neck normal mucosa,Head and Neck Squamous Cell (Normal vs. Tumor),TP
+GSM39172,HIV seropositive,Human immunodeficiency virus infectious disease,TP,human PBMC,Peripheral blood mononuclear cell,TP
+GSM1293379,plaque type psoriasis,psoriasis,TP,Epidermis,Epidermis,TP
+GSM14550,healthy,control,TP,Human polymorphonuclear (PMN) leukocytes,Blood neutrophil,TP
+GSM337222,normal skin from controls,control,TP,skin_tissue,Skin tissue,TP
+GSM630802,schizophrenic,schizophrenia,TP,hiPSC-derived 6-week-old neurons,Induced pluripotent stem cell-derived neurons - Female,TP
+GSM300415,"Spondylitis, Ankylosing",ankylosing spondylitis,TP,Macrophages,macrophage,TP
+GSM414947,Tissue in Pancreatic Cancer,control,TP,Normal Tissue in Pancreatic Cancer Sample,Pancreatic tissue,TP
+GSM12600,Pulmonary Arterial Hypertension,pulmonary hypertension,TP,"Leukocytes, Mononuclear",Peripheral blood mononuclear cell,TP
+GSM1336946,Systemic lupus erythematosus (SLE),systemic lupus erythematosus,TP,CD4 positive T cells,CD4+ T cells - European-American SLE patients,TP
+GSM213123,nobpd,control,TP,umbilical cord tissue,Premature newborn umbilical cords - Higher gestational age newborns,TP
+GSM736480,Healthy; Normal Control,control,TP,Blood,lymphoblastoid cells,TP
+GSM670469,control,control,TP,Blood,peripheral blood,TP
+GSM359983,normal,control,TP,Ovarian Surface Epithelia,ovarian epithelial cells,TP
+GSM388096,normal,control,TP,Pancreas,Pancreatic tissue,TP
+GSM346563,type 2 diabetic,type 2 diabetes mellitus,TP,Intima media,Mammary arterial tissue,TP
+GSM545766,schizophrenic,schizophrenia,TP,"superior temporal cortex (Brodmann Area 22, BA22)",Superior temporal cortex - postmortem - Female,TP
+GSM217738,Marfan subject,Marfan syndrome,TP,Skin fibroblasts,Fibroblast,TP
+GSM948572,UC; non-involved mucosa,ulcerative colitis,TP,Human Colon,Intestinal mucosa,TP
+GSM98190,asthmatic,asthma,TP,airway epithelial brushing,Epithelial Cell,TP
+GSM1398668,adjacent non-tumorous,control,TP,Parenchymal Tissue,Tumor tissues and Adjacent non-tumorous tissues of Hepatocellular Carcinoma,TP
+GSM107456,Not Specified,bacterial infectious disease,FN,monocyte derived dendritic cells,Dendritic cell,TP
+GSM337229,normal skin from controls,control,TP,skin_tissue,Skin tissue,TP
+GSM217778,HD patient,Huntington's disease,TP,lymphocytes (blood),Lymphocytes from patients with moderate stage Huntington's disease - Female,TP
+GSM1588029,"Thyroid Carcinoma, Anaplastic",anaplastic thyroid carcinoma,TP,anaplastic thyroid carcinoma,Anaplastic thyroid carcinoma tissue and Normal thyroid tissue,TP
+GSM1327257,normal thyroid,control,TP,normal thyroid tissue,Papillary thyroid carcinoma tumors (without a BRAF mutation) and Normal thyroid specimens,TP
+GSM388088,normal,control,TP,Pancreas,Pancreatic tissue,TP
+GSM851984,Barrett's,Barrett's esophagus,TP,Barrett's,Esopahgus endoscopic biopsies,TP
+GSM12599,Pulmonary Arterial Hypertension,pulmonary hypertension,TP,"Leukocytes, Mononuclear",Peripheral blood mononuclear cell,TP
+GSM665421,mild asthma,asthma,TP,Leukocytes,white blood cells - Male Mild Asthma,TP
+GSM140232,heterozygote FH,familial hypercholesterolemia,TP,Monocytes,Monocytes - Heterozygous FH,TP
+GSM892375,control,control,TP,biceps,bicep,TP
+GSM103404,MDS; RA; del(5q),anemia,TP,CD34+ cells,CD34+ cells (refractory anemia),TP
+GSM8918,Not Specified,control,TP,Gastric biopsies,Gastric Tissue,TP
+GSM815442,AL,atopic dermatitis,TP,Skin,Skin (LESIONAL atopic dermatitis (AL) skin lesions),TP
+GSM141551,heterozygote FH,familial hypercholesterolemia,TP,human CD3 positive T cells,T lymphocytes - Heterozygous FH,TP
+GSM677131,healthy control,control,TP,PBMCs,PBMC (peripheral blood mononuclear cells),TP
+GSM72244,normal non-smoker,control,TP,"Macrophages, Alveolar",Alveolar Macrophage,TP
+GSM93938,healthy control,control,TP,Mucous Membrane,Intestine - Large Intestine - Colon (MMHCC),FP
+GSM1398674,adjacent non-tumorous,control,TP,Parenchymal Tissue,Tumor tissues and Adjacent non-tumorous tissues of Hepatocellular Carcinoma,TP
+GSM979142,"Carcinoma, Hepatocellular",control,TP,non-tumor,HCC tumor and matched non-tumor surrounding tissues,TP
+GSM160534,healthy donors,control,TP,immature dendritic cells,Dendritic cell,TP
+GSM29597,control,control,TP,sigmoid colon biopsy,sigmoid colons (mucosal biopsy),TP
+GSM1267423,Psoriasis,psoriasis,TP,LS skin biopsy,skin,TP
+GSM1509616,Systemic lupus erythematosus (SLE),systemic lupus erythematosus,TP,Blood,Connective Tissue in Joints,TP
+GSM72247,normal smoker,chronic obstructive pulmonary disease,FP,"Macrophages, Alveolar",Alveolar Macrophage,TP
+GSM907808,non-AD,control,TP,Frontal Lobe,female frontal cortex,TP
+GSM1053955,normal,control,TP,Fibroblasts,fibroblast,TP
+GSM509818,Esophageal Squamous Cell Carcinoma,esophagus squamous cell carcinoma,TP,esophageal squamous cell carcinoma,Esophageal normal adjacent tissue,TP
+GSM141545,homozygote FH,familial hypercholesterolemia,TP,human CD3 positive T cells,T lymphocytes - Homozygous FH,TP
+GSM479936,healthy,control,TP,human peripheral blood mononuclear cells,Peripheral blood mononuclear cells,TP
+GSM1150697,AAA; non-aneurysmal AAA neck,abdominal aortic aneurysm,TP,aortic wall,Aorta,TP
+GSM627127,control,control,TP,Lymphocytes,peripheral blood lymphocytes,TP
+GSM217787,HD patient,Huntington's disease,TP,lymphocytes (blood),Lymphocytes from patients with moderate stage Huntington's disease - Male,TP
+GSM213491,Seminoma; pT1; pN1,testis seminoma,TP,seminoma specimen,Testicular seminoma tumors (at pT1) and normal testicular tissue,TP
+GSM286723,Sham infected,control,TP,Nasal Mucosa,Nose,TP
+GSM488132,control,control,TP,Brain (Inferior Olivary Nucleus),PD medullas,TP
+GSM892389,control,control,TP,biceps,bicep,TP
+GSM1089615,Slow progressing fibrosis,idiopathic pulmonary fibrosis,TP,cultured human fibroblasts,Lung fibroblasts (Slow progressing fibrosis),TP
+GSM490139,normal,control,TP,Pancreas; Epithelial Cells,Epithelial cells (pancreatic duct),TP
+GSM98201,asthmatic,asthma,TP,airway epithelial brushing,Epithelial Cell,TP
+GSM103348,MDS; RARS; del(5q),anemia,TP,CD34+ cells,CD34+ cells (refractory anemia with ringed sideroblasts),TP
+GSM360040,ovarian adenocarcinoma,ovarian cancer,TP,Ovarian Cancer Epithelia,ovarian epithelial cells,TP
+GSM337362,psoriatic patients,Psoriasis vulgaris,TP,skin_tissue,Skin tissue,TP
+GSM1327528,Tuberculosis,tuberculosis,TP,"Leukocytes, Mononuclear",Peripheral blood mononuclear cells,TP
+GSM140251,control participant,control,TP,human CD14 positive monopcytes,Monocytes - Heterozygous FH,TP
+GSM1337119,healthy control,control,TP,CD20 positive B cells,CD20+ B cells - European-American SLE patients,TP
+GSM595407,healthy,control,TP,Lung,Whole lung - EARLY idiopathic pulmonary fibrosis - male,TP
+GSM627136,Autistic Disorder,control,FP,Lymphocytes,peripheral blood lymphocytes,TP
+GSM1588040,normal thyroid,control,TP,Normal thyroid,Anaplastic thyroid carcinoma tissue and Normal thyroid tissue,TP
+GSM425905,IB; grade: 1,endometrial cancer,TP,Endometrium,Uterine tumors (endometrioid histologic subtype) - Stage-Grade:IB-G1,TP
+GSM300147,healthy donor,control,TP,Bone Marrow,Haematopoietic stem cell,TP
+GSM545728,control,control,TP,"superior temporal cortex (Brodmann Area 22, BA22)",Superior temporal cortex - postmortem - Female,TP
+GSM346586,type 2 diabetic,type 2 diabetes mellitus,TP,Intima media,Mammary arterial tissue,TP
+GSM39872,AML,acute myeloid leukemia,TP,mononuclear cells isolated from peripheral blood or bone marrow,Mononuclear Leukocyte,TP
+GSM663774,unruptured aneurysm,intracranial aneurysm,TP,arterial tissue,cerebral artery,TP
+GSM144440,nickel allergic,allergic contact dermatitis,TP,Skin,nickel-allergic patients whose SKINS were exposed to nickel - 96 hours,TP
+GSM13150,Not Specified,control,TP,PMBCs,Peripheral blood mononuclear cell,TP
+GSM340286,oligoarticular JIA,arthritis,TP,"Leukocytes, Mononuclear",PBMC (peripheral blood mononuclear cells),TP
+GSM545833,Multiple Sclerosis,multiple sclerosis,TP,"Leukocytes, Mononuclear",peripheral blood mononuclear cells,TP
+GSM94831,healthy control,control,TP,Heart Ventricles,Myocardial tissue,TP
+GSM627185,Autistic Disorder,autism spectrum disorder,TP,Lymphocytes,blood lymphocytes,TP
+GSM14556,"Granulomatous Disease, Chronic",chronic granulomatous disease,TP,Human polymorphonuclear (PMN) leukocytes,Blood neutrophil,TP
+GSM1337094,Systemic lupus erythematosus (SLE),systemic lupus erythematosus,TP,CD20 positive B cells,CD20+ B cells - European-American SLE patients,TP
+GSM340269,enthesitis-related arthritis,arthritis,TP,"Leukocytes, Mononuclear",PBMC (peripheral blood mononuclear cells),TP
+GSM1411023,Turner Syndrome,Turner syndrome,TP,Amniotic Fluid,amniotic fluid,TP
+GSM851990,Barrett's,Barrett's esophagus,TP,Barrett's,esophagus,TP
+GSM907812,non-AD,control,TP,Frontal Lobe,female frontal cortex,TP
+GSM948551,non-inflammatory control,control,TP,Human Colon,Intestinal mucosa,TP
+GSM11492,Multiple Myeloma; lytic-lesion,Osteolysis,FP,Bone Marrow,Leukocyte - Lymphocyte - B-Lymphocyte - Plasma Cell (MMHCC),TP
+GSM213509,Seminoma; pT3,testis seminoma,TP,seminoma specimen,Testicular seminoma tumors (at pT3) and normal testicular tissue,TP
+GSM425930,inactive endometrium,control,TP,Endometrium,Uterine tumors (endometrioid histologic subtype) - Stage-Grade:IA-G2,TP
+GSM665438,Severe asthma,asthma,TP,Leukocytes,white blood cells - Female Severe Asthma,TP
+GSM1200312,healthy,control,TP,Peripheral Blood Mononuclear Cell (PBMC),Peripheral blood mononuclear cells,TP
+GSM397640,Astrocytoma; Grade AII,astrocytoma,TP,Astrocytoma,Brain tumor tissue samples of human gliomas and normal brain - Grade:AII - Primary tumor,TP
+GSM151962,Autism no regression,autistic disorder,TP,Blood,whole blood cells,TP
+GSM479976,healthy,control,TP,human peripheral blood mononuclear cells,Peripheral blood mononuclear cells,TP
+GSM665439,Severe asthma,asthma,TP,Leukocytes,white blood cells - Female Severe Asthma,TP
+GSM425883,IA; grade: 2; Endometrioid,endometrial cancer,TP,Endometrium,Uterine tumors (endometrioid histologic subtype) - Stage-Grade:IA-G2,TP
+GSM98628,no known history of glaucoma,control,TP,trabecular meshwork cells,Trabecular Meshwork,TP
+GSM1098453,skin squamous cell carcinoma,skin squamous cell carcinoma,TP,skin squamous cell carcinoma,Skin from SCCs and Normal human epidermis,TP
+GSM217708,Marfan subject,Marfan syndrome,TP,Skin fibroblasts,Fibroblast,TP
+GSM156949,PCOS,polycystic ovary syndrome,TP,Vastus lateralis muscle,Skeletal muscle,TP
+GSM1187675,morbidly obese,morbid obesity,TP,Subcutaneous white adipose tissue,adipose stem cells,TP
+GSM349744,Not Specified,control,TP,T-Lymphocytes,CD3+ T cells,TP
+GSM1167109,normal control,control,TP,Blood,Peripheral blood,TP
+GSM1167077,patient without recurrent events,acute myocardial infarction,TP,Blood,Peripheral blood,TP
+GSM907848,non-AD,control,TP,Temporal Lobe,male temporal cortex,TP
+GSM886623,mutation (Arg1174Gln) in the tyrosine kinase domain of the insulin receptor gene (INSR),type 2 diabetes mellitus,TP,Vastus lateralis muscle,skeletal muscle,TP
+GSM184371,Parkinson Disease,Parkinson's disease,TP,Substantia Nigra,Substantia nigra - Female,TP
+GSM907838,non-AD,control,TP,Temporal Lobe,female temporal cortex,TP
+GSM1501837,"Adenocarcinoma of breast, ductal; G3; IIIA; T3; N1a; distant metastasis; Breast Neoplasms",breast adenocarcinoma,TP,breast tumor tissue,Breast epithelium,TP
+GSM172881,DM1,myotonic dystrophy type 1,TP,human embryonic stem (hES) cells line VUB03_DM1,embryonic stem cells,TP
+GSM286714,Postinfection,Rhinovirus infection,TP,Nasal Mucosa,Nose,TP
+GSM151972,Autism no regression,autistic disorder,TP,Blood,whole blood cells,TP
+GSM627100,control,control,TP,Lymphocytes,blood lymphocytes,TP
+GSM213088,nobpd,control,TP,umbilical cord tissue,Premature newborn umbilical cords - Lower gestational age newborns,TP
+GSM627209,Autistic Disorder,autism spectrum disorder,TP,Lymphocytes,blood lymphocytes,TP
+GSM1130416,control subject,control,TP,leukocytes from whole blood,peripheral blood leukocytes,TP
+GSM300417,"Spondylitis, Ankylosing",ankylosing spondylitis,TP,Macrophages,macrophage,TP
+GSM1336934,Systemic lupus erythematosus (SLE),systemic lupus erythematosus,TP,CD4 positive T cells,CD4+ T cells - European-American SLE patients,TP
+GSM244486,"Shock, Septic",Septic Shock,TP,Blood,Whole blood,TP
+GSM97907,"oligodendroglioma, grade 3",oligodendroglioma,TP,Brain tissue,CNS - Brain (MMHCC),TP
+GSM11500,Multiple Myeloma; lytic-lesion,Osteolysis,FP,Bone Marrow,Leukocyte - Lymphocyte - B-Lymphocyte - Plasma Cell (MMHCC),TP
+GSM1174159,healthy control,control,TP,"Muscle, Skeletal",Pathological skeletal muscle fibers,TP
+GSM425893,IB; grade: 1,endometrial cancer,TP,Endometrium,Uterine tumors (endometrioid histologic subtype) - Stage-Grade:IB-G1,TP
+GSM554035,IS patient; Hypertension,Ischemic stroke,TP,"Leukocytes, Mononuclear",Peripheral blood mononuclear cells (collected from IS patients at least 6 months after the first and only stroke event),TP
+GSM523116,B-precursor acute lymphoblastic leukemia; Down Syndrome,Down syndrome,TP,Bone Marrow,bone marrow,TP
+GSM103347,MDS; RA; del(5q),anemia,TP,CD34+ cells,CD34+ cells (refractory anemia),TP
+GSM300118,chronic myeloid leukaemia,chronic myeloid leukemia,TP,Bone Marrow,Haematopoietic stem cell,TP
+GSM1089617,normal,control,TP,cultured human fibroblasts,Lung fibroblasts (Slow progressing fibrosis),TP
+GSM627162,Autistic Disorder,autism spectrum disorder,TP,Lymphocytes,blood lymphocytes,TP
+GSM1501865,extent of primary tumor,control,TP,Breast,Breast epithelium,TP
+GSM97964,"oligodendroglioma, grade 2",oligodendroglioma,TP,Brain tissue,CNS - Brain (MMHCC),TP
+GSM372297,normal,control,TP,Skin,Non-lesional skin,TP
+GSM12763,Not Specified,Helicobacter pylori gastrointestinal tract infection,FN,Gastric biopsies,Gastric Tissue,TP
+GSM1560966,normal esophageal tissue,control,TP,Fibroblasts,KYSE human esophageal squamous cell carcinoma cell line and Normal esophageal tissue,FP
+GSM414925,Pancreatic Neoplasms; Neoplasms,pancreatic cancer,TP,Tumor Tissue in Pancreatic Cancer Sample,Pancreatic tissue,TP
+GSM1130443,control subject,control,TP,leukocytes from whole blood,peripheral blood leukocytes,TP
+GSM372321,Psoriasis; non-lesional,psoriasis,TP,Skin,Non-lesional skin,TP
+GSM709353,control,control,TP,liver biopsy sample,liver tissue,TP
+GSM815428,ANL,atopic dermatitis,TP,Skin,derma (skin),TP
+GSM439811,schizophrenic,schizophrenia,TP,Brain BA10,Anterior prefrontal cortex - postmortem - Female,TP
+GSM300108,chronic myeloid leukaemia,chronic myeloid leukemia,TP,Bone Marrow,Haematopoietic stem cell,TP
+GSM1398707,hepatocellular carcinoma tumor,hepatocellular carcinoma,TP,Parenchymal Tissue,Tumor tissues and Adjacent non-tumorous tissues of Hepatocellular Carcinoma,TP
+GSM11546,Multiple Myeloma; lytic-lesion,Osteolysis,FP,Bone Marrow,Leukocyte - Lymphocyte - B-Lymphocyte - Plasma Cell (MMHCC),TP
+GSM1152314,Multiple Myeloma,multiple myeloma,TP,Bone Marrow; Multiple Myeloma (MM) plasma cells,Bone marrow plasma cells,TP
+GSM337288,uninvolved skin,psoriasis,TP,skin_tissue,Non-lesional (NL) Skin - (Uninvolved samples),TP
+GSM630805,schizophrenic,schizophrenia,TP,hiPSC-derived 6-week-old neurons,Induced pluripotent stem cell-derived neurons - Male,TP
+GSM34383,normal donor,control,TP,Synovial tissues,Synovial Membrane,TP
+GSM788318,severe asthmatic,asthma,TP,CD4+ T-Cells,Circulating CD4+ T-cells (severe asthma),TP
+GSM1327248,PTC; BRAF mutation,papillary thyroid carcinoma,TP,PTC with a BRAF mutation,Papillary thyroid carcinoma tumors (with a BRAF mutation) and Normal thyroid specimens,TP
+GSM1337008,healthy control,control,TP,CD8 positive T cells,CD8+ T cells - African-American SLE patients,TP
+GSM39837,AML,acute myeloid leukemia,TP,Mononuclear cells; Blood; Bone Marrow,Mononuclear Leukocyte,TP
+GSM1398655,hepatocellular carcinoma tumor,hepatocellular carcinoma,TP,Parenchymal Tissue,Tumor tissues and Adjacent non-tumorous tissues of Hepatocellular Carcinoma,TP
+GSM300402,control,control,TP,Macrophages,macrophage,TP
+GSM665391,healthy control,control,TP,Leukocytes,white blood cells - Male Mild Asthma,TP
+GSM483339,Myelodysplastic syndromes (MDS); Refractory anemia (RA),myelodysplastic syndrome,TP,Bone Marrow; CD34+ hematopoietic stem cells (HSC),CD34+ hematopoietic stem cells (refractory anemia),TP
+GSM483438,Myelodysplastic syndromes (MDS); Refractory anemia with ringed sideroblasts (RARS),myelodysplastic syndrome,TP,Bone Marrow; CD34+ hematopoietic stem cells (HSC),CD34+ hematopoietic stem cells (refractory anemia with ringed sideroblasts),TP
+GSM372311,Psoriasis; non-lesional,psoriasis,TP,Skin,Non-lesional skin,TP
+GSM290423,healthy control,control,TP,Blood Platelets,platelets,TP
+GSM948567,UC patient in remission,ulcerative colitis,TP,Human Colon,Intestinal mucosa,TP
+GSM14575,"Granulomatous Disease, Chronic",chronic granulomatous disease,TP,Human polymorphonuclear (PMN) leukocytes,Blood neutrophil,TP
+GSM49943,Infected,Anaplasmosis,TP,NB4 PROMYELOCYTIC CELLS,Leukemic Cell,TP
+GSM175780,normal,control,TP,Endometrium,Endometrium,TP
+GSM242078,Acute Appendicitis,appendicitis,TP,Appendix,Appendix,TP
+GSM13121,"Stress Disorders, Post-Traumatic",post-traumatic stress disorder,TP,PMBCs,Peripheral blood mononuclear cell,TP
+GSM753612,healthy,control,TP,Blood; Leukocytes,Peripheral white blood cells,TP
+GSM700423,healthy (non EBS),control,TP,Keratinocytes,Epidermal punch biopsies,TP
+GSM490143,normal,control,TP,Epithelial Cells,Epithelial cells (pancreatic duct),TP
+GSM277809,high grade serous carcinoma,serous cystadenocarcinoma,TP,high grade serous carcinoma,Fallopian tube,TP
+GSM217648,control subject,control,TP,Skin fibroblasts,Fibroblast,TP
+GSM1200301,hepatocellular carcinoma (HCC),hepatocellular carcinoma,TP,Peripheral Blood Mononuclear Cell (PBMC),Peripheral blood mononuclear cells,TP
+GSM213114,Bronchopulmonary Dysplasia,bronchopulmonary dysplasia,TP,umbilical cord tissue,Premature newborn umbilical cords - Lower gestational age newborns,TP
+GSM337257,normal skin from controls,control,TP,skin_tissue,Skin tissue,TP
+GSM107459,Not Specified,bacterial infectious disease,FN,monocyte derived dendritic cells,Dendritic cell,TP
+GSM1130484,control subject,control,TP,leukocytes from whole blood,peripheral blood leukocytes,TP
+GSM8922,Not Specified,control,TP,Gastric biopsies,Gastric Tissue,TP
+GSM317653,Bipolar Disorder,bipolar disorder,TP,prefrontal cortex (BA10),Prefrontal Cortex,TP
+GSM1060124,Atheroma plaque; Hypertension,atherosclerosis,TP,Atheroma plaque,Carotid artery,TP
+GSM439795,schizophrenic,schizophrenia,TP,Brain BA10,Anterior prefrontal cortex - postmortem - Female,TP
+GSM1130459,bipolar patient,bipolar disorder,TP,leukocytes from whole blood,peripheral blood leukocytes,TP
+GSM79060,HIV encephalitis,HIV encephalitis,TP,brain (frontal cortex),frontal cortex,TP
+GSM29622,Colitis,ulcerative colitis,TP,sigmoid colon biopsy,Sigmoid colon,TP
+GSM892353,FSHD,facioscapulohumeral muscular dystrophy,TP,biceps,bicep,TP
+GSM300139,healthy donor,control,TP,Bone Marrow,Haematopoietic stem cell,TP
+GSM11465,Multiple Myeloma,control,FP,Bone Marrow,Leukocyte - Lymphocyte - B-Lymphocyte - Plasma Cell (MMHCC),TP
+GSM1398688,adjacent non-tumorous,control,TP,Parenchymal Tissue,Tumor tissues and Adjacent non-tumorous tissues of Hepatocellular Carcinoma,TP
+GSM213495,Seminoma; pT2,testis seminoma,TP,Testis,Testicular seminoma tumors (at pT2) and normal testicular tissue,TP
+GSM201855,control,control,TP,Vastus lateralis muscle,Skeletal muscle (from obese women with polycystic ovary syndrome),TP
+GSM414953,Tissue in Pancreatic Cancer,control,TP,Normal Tissue in Pancreatic Cancer Sample,Pancreatic tissue,TP
+GSM545843,Multiple Sclerosis,multiple sclerosis,TP,"Leukocytes, Mononuclear",peripheral blood mononuclear cells,TP
+GSM800771,Neoplasms; metastatic recurrence; Stage: 3B,colorectal cancer,TP,cancer,Colon,TP
+GSM907863,non-AD,control,TP,Hippocampus,female hippocampus,TP
+GSM1361630,LGSC; borderline,control,TP,Ovarian tumor,low-grade serous ovarian carcinomas (tumors from patients with matched border control),TP
+GSM11592,Multiple Myeloma; lytic-lesion,Osteolysis,FP,Bone Marrow,Leukocyte - Lymphocyte - B-Lymphocyte - Plasma Cell (MMHCC),TP
+GSM545826,healthy,control,TP,"Leukocytes, Mononuclear",peripheral blood mononuclear cells,TP
+GSM388151,Neoplasms,pancreatic ductal adenocarcinoma,TP,Pancreas,Pancreatic tissue,TP
+GSM483495,healthy control,control,TP,Bone Marrow; CD34+ hematopoietic stem cells (HSC),CD34+ hematopoietic stem cells (refractory anemia with excess blasts 2),TP
+GSM11555,Multiple Myeloma; lytic-lesion,Osteolysis,FP,Bone Marrow,Leukocyte - Lymphocyte - B-Lymphocyte - Plasma Cell (MMHCC),TP
+GSM802141,Psoriasis,psoriasis,TP,Skin,Non-lesional (NL) Skin,TP
+GSM639776,Lesional,tendinitis,TP,Tendons; Patellar,Tendons,TP
+GSM523148,B-precursor acute lymphoblastic leukemia; Non-Down syndrome,control,TP,Bone Marrow,bone marrow,TP
+GSM595437,advanced idiopathic pulmonary fibrosis (IPF),idiopathic pulmonary fibrosis,TP,Lung; lower lobe,Lung - LOWER LOBE - ADVANCED idiopathic pulmonary fibrosis - Female,TP
+GSM1336970,Systemic lupus erythematosus (SLE),systemic lupus erythematosus,TP,CD8 positive T cells,CD8+ T cells - African-American SLE patients,TP
+GSM523134,B-precursor acute lymphoblastic leukemia; Non-Down syndrome,control,TP,Bone Marrow,bone marrow,TP
+GSM1560943,Esophageal Squamous Cell Carcinoma,esophagus squamous cell carcinoma,TP,Human esophageal squamous cell carcinoma cell line,KYSE human esophageal squamous cell carcinoma cell line and Normal esophageal tissue,TP
+GSM337213,normal skin from controls,control,TP,skin_tissue,Skin tissue,TP
+GSM175774,Disease 9,endometriosis of ovary,TP,Endometrium/Ovary,Endometrium,TP
+GSM213074,Bronchopulmonary Dysplasia,bronchopulmonary dysplasia,TP,umbilical cord tissue,Premature newborn umbilical cords - Lower gestational age newborns,TP
+GSM902392,"Carcinoma, Adenoid Cystic",salivary gland adenoid cystic carcinoma,TP,Adenoid Cystic Carcinoma; parotid salivary gland,salivary tissue,TP
+GSM483338,Myelodysplastic syndromes (MDS); refractory anemia with excess blasts 1 (RAEB1),myelodysplastic syndrome,TP,Bone Marrow; CD34+ hematopoietic stem cells (HSC),CD34+ hematopoietic stem cells (refractory anemia with excess blasts 1),TP
+GSM463731,Pancreatic ductal adenocarcinoma,pancreatic cancer,TP,tumor,pancreas,TP
+GSM277459,PCOS; Obesity,polycystic ovary syndrome,TP,luteinized human cumulus cells,Cumulus cells cultured (Obese patients),TP
+GSM1509621,Systemic lupus erythematosus (SLE),systemic lupus erythematosus,TP,Blood,Connective Tissue in Joints,TP
+GSM95504,Colorectal Neoplasms,Carcinoma in situ of large intestine,TP,colon biopsy,Colon,TP
+GSM155565,normal,control,TP,"Colon, Sigmoid",Colon,TP
+GSM187593,normal control,control,TP,peripheral blood mononuclear cells (PBMCs),Peripheral blood mononuclear cell,TP
+GSM1130467,bipolar patient,bipolar disorder,TP,leukocytes from whole blood,peripheral blood leukocytes,TP
+GSM439787,control,control,TP,Brain BA10,Anterior prefrontal cortex - postmortem - Female,TP
+GSM27041,neuropathologically normal for age; Non-Demented,Senescence,FP,human frontal cortex,frontal cortex,TP
+GSM14584,"Granulomatous Disease, Chronic",chronic granulomatous disease,TP,Human polymorphonuclear (PMN) leukocytes,Blood neutrophil,TP
+GSM388129,Neoplasms,pancreatic ductal adenocarcinoma,TP,Pancreas,Pancreatic tissue,TP
+GSM152009,mental retardation or developmental delay,intellectual disability,TP,Blood,whole blood cells,TP
+GSM153827,Normal mucosa,control,TP,human head and neck normal mucosa,Head and Neck Squamous Cell (Normal vs. Tumor),TP
+GSM155919,Normal liver tissue,control,TP,Parenchymal Tissue,Liver,TP
+GSM483373,Myelodysplastic syndromes (MDS); refractory anemia with excess blasts 1 (RAEB1),myelodysplastic syndrome,TP,Bone Marrow; CD34+ hematopoietic stem cells (HSC),CD34+ hematopoietic stem cells (refractory anemia with excess blasts 1),TP
+GSM677169,"acutely admitted, severely psychotic schizophrenia",schizophrenia,TP,PBMCs,PBMC (peripheral blood mononuclear cells),TP
+GSM677177,healthy control,control,TP,PBMCs,PBMC (peripheral blood mononuclear cells),TP
+GSM483443,Myelodysplastic syndromes (MDS); Refractory anemia (RA),myelodysplastic syndrome,TP,Bone Marrow; CD34+ hematopoietic stem cells (HSC),CD34+ hematopoietic stem cells (refractory anemia),TP
+GSM397643,Astrocytoma; Grade AII,astrocytoma,TP,Astrocytoma,Brain tumor tissue samples of human gliomas and normal brain - Grade:AII - Primary tumor,TP
+GSM286654,Postinfection,Rhinovirus infection,TP,Nasal Mucosa,Nose,TP
+GSM140252,control participant,control,TP,human CD14 positive monopcytes,Monocytes - Heterozygous FH,TP
+GSM66619,healthy subject,bacterial infectious disease,TP,human peripheral blood mononuclear cells,Peripheral blood mononuclear cell,TP
+GSM337258,normal skin from controls,control,TP,skin_tissue,Skin tissue,TP
+GSM941957,renal cell carcinoma (RCC),renal cell carcinoma,TP,Monocytes,Blood myelomonocytic cells from RCC and Healthy blood myelomonocytic cells,TP
+GSM39122,HIV seropositive,Human immunodeficiency virus infectious disease,TP,human PBMC,Peripheral blood mononuclear cell,TP
+GSM290405,sickle cell,sickle cell anemia,TP,Blood Platelets,platelets,TP
+GSM153836,human head and neck cancer,head and neck squamous cell carcinoma,TP,human head and neck cancer,Head and Neck Squamous Cell (Normal vs. Tumor),TP
+GSM153839,Normal mucosa,control,TP,human head and neck normal mucosa,Head and Neck Squamous Cell (Normal vs. Tumor),TP
+GSM1174432,PCOS,polycystic ovary syndrome,TP,Endometrium; Epithelial Cells,Epithelial cells,TP
+GSM340298,Arthritis,arthritis,TP,"Leukocytes, Mononuclear",PBMC (peripheral blood mononuclear cells),TP
+GSM1130470,bipolar patient,bipolar disorder,TP,leukocytes from whole blood,peripheral blood leukocytes,TP
+GSM1192716,Braak α-synuclein stages 5-6; Parkinson Disease,Lewy body dementia,TP,Substantia Nigra,Substantia nigra - Braak &Icirc;&plusmn;-synuclein stage 5-6,TP
+GSM377470,control,control,TP,Muscle: Biceps,skeletal muscle (biceps &amp; deltoid),TP
+GSM419147,control,control,TP,Blood,peripheral blood,TP
+GSM545740,control,control,TP,"superior temporal cortex (Brodmann Area 22, BA22)",Superior temporal cortex - postmortem - Female,TP
+GSM419152,sickle-cell,sickle cell anemia,TP,Blood,peripheral blood,TP
+GSM74879,Benign,control,TP,prostate tissue,Prostate tissue (primary prostate tumor),TP
+GSM265036,"Arthritis, Rheumatoid",rheumatoid arthritis,TP,synovial fluid macrophages,Synovial fluid macrophages,TP
+GSM1267446,normal,control,TP,Normal skin biopsy,skin,TP
+GSM1060120,Atheroma plaque; Hypertension,atherosclerosis,TP,Atheroma plaque,Carotid artery,TP
+GSM847091,CCALD,adrenoleukodystrophy,TP,Dermal fibroblast,Dermal fibroblast (from childhood cerebral adrenoleukodystrophy (CCALD) patient) and healthy fibroblasts,TP
+GSM677184,remitted schizophrenia patient,schizophrenia,TP,PBMCs,PBMC (peripheral blood mononuclear cells),TP
+GSM665394,healthy control,control,TP,Leukocytes,white blood cells - Male Mild Asthma,TP
+GSM7843,normal,control,TP,Cervix Uteri,Uterus - Cervix (MMHCC),TP
+GSM627184,Autistic Disorder,autism spectrum disorder,TP,Lymphocytes,blood lymphocytes,TP
+GSM155986,Early HCC,hepatocellular carcinoma,TP,human liver,Liver,TP
+GSM627119,control,control,TP,Lymphocytes,blood lymphocytes,TP
+GSM1327242,PTC; BRAF mutation,papillary thyroid carcinoma,TP,PTC with a BRAF mutation,Papillary thyroid carcinoma tumors (with a BRAF mutation) and Normal thyroid specimens,TP
+GSM709362,"Hepatitis, Alcoholic",alcoholic hepatitis,TP,liver biopsy sample,liver tissue,TP
+GSM340351,RF- polyarthritis,arthritis,TP,"Leukocytes, Mononuclear",PBMC (peripheral blood mononuclear cells),TP
+GSM11568,Multiple Myeloma; lytic-lesion,Osteolysis,FP,Bone Marrow,Leukocyte - Lymphocyte - B-Lymphocyte - Plasma Cell (MMHCC),TP
+GSM300141,healthy donor,control,TP,Bone Marrow,Haematopoietic stem cell,TP
+GSM979107,hepatocellular carcinoma (HCC),hepatocellular carcinoma,TP,tumor,HCC tumor and matched non-tumor surrounding tissues,TP
+GSM244511,"Shock, Septic",Septic Shock,TP,Blood,Whole blood,TP
+GSM915459,normal control,ulcerative colitis,TP,colon biopsie,colon mucosa,TP
+GSM66651,healthy subject,bacterial infectious disease,TP,human peripheral blood mononuclear cells,Peripheral blood mononuclear cell,TP
+GSM892374,FSHD,facioscapulohumeral muscular dystrophy,TP,deltoid,deltoid,TP
+GSM463744,tumor grade: 3; t-stage: 1; n-stage: 1; ajcc classif. (2002): 2b,control,TP,pancreatic control tissue,pancreas,TP
+GSM65722,Post allergen challenge,allergic asthma,TP,bronchial epithelium,Bronchial epithelium,TP
+GSM140249,control participant,control,TP,human CD14 positive monopcytes,Monocytes - Heterozygous FH,TP
+GSM286724,Postinfection,Rhinovirus infection,TP,Nasal Mucosa,Nose,TP
+GSM1130452,bipolar patient,bipolar disorder,TP,leukocytes from whole blood,peripheral blood leukocytes,TP
+GSM537594,PolyRF+,arthritis,TP,"Leukocytes, Mononuclear",PBMC (peripheral blood mononuclear cells),TP
+GSM201856,control,control,TP,Vastus lateralis muscle,Skeletal muscle (from obese women with polycystic ovary syndrome),TP
+GSM1152334,Multiple Myeloma,multiple myeloma,TP,Bone Marrow; Multiple Myeloma (MM) plasma cells,Bone marrow plasma cells,TP
+GSM979100,hepatocellular carcinoma (HCC),hepatocellular carcinoma,TP,tumor,HCC tumor and matched non-tumor surrounding tissues,TP
+GSM665437,Severe asthma,asthma,TP,Leukocytes,white blood cells - Female Severe Asthma,TP
+GSM665393,healthy control,control,TP,Leukocytes,white blood cells - Male Mild Asthma,TP
+GSM948592,UC,ulcerative colitis,TP,Human Colon,Intestinal mucosa,TP
+GSM1130402,bipolar patient,bipolar disorder,TP,leukocytes from whole blood,peripheral blood leukocytes,TP
+GSM1045526,control,control,TP,deciduous teeth dental pulp,dental pulp stem cell culture,TP
+GSM1560947,Esophageal Squamous Cell Carcinoma,esophagus squamous cell carcinoma,TP,Human esophageal squamous cell carcinoma cell line,KYSE human esophageal squamous cell carcinoma cell line and Normal esophageal tissue,TP
+GSM286685,control,control,TP,Nasal Mucosa,Nose,TP
+GSM1053981,normal,control,TP,Fibroblasts,fibroblast,TP
+GSM665419,mild asthma,asthma,TP,Leukocytes,white blood cells - Male Mild Asthma,TP
+GSM213473,Seminoma; pT1,testis seminoma,TP,seminoma specimen,Testicular seminoma tumors (at pT1) and normal testicular tissue,TP
+GSM265030,Sepsis,control,TP,Plasma,Whole blood,TP
+GSM346589,type 2 diabetic,type 2 diabetes mellitus,TP,Intima media,Mammary arterial tissue,TP
+GSM39168,HIV seropositive,Human immunodeficiency virus infectious disease,TP,human PBMC,Peripheral blood mononuclear cell,TP
+GSM155935,very early HCC,hepatocellular carcinoma,TP,human liver,Liver,TP
+GSM709354,control,control,TP,liver biopsy sample,liver tissue,TP
+GSM1179368,infected with KY/136 (pdmH1N1),swine influenza,TP,human lung epithelial cells,primary lung bronchial epithelial cells,TP
+GSM340354,RF- polyarticular JIA,arthritis,TP,"Leukocytes, Mononuclear",PBMC (peripheral blood mononuclear cells),TP
+GSM187618,new onset sJIA,JRA - Juvenile rheumatoid arthritis,TP,peripheral blood mononuclear cells (PBMCs),Peripheral blood mononuclear cell,TP
+GSM372301,normal,control,TP,Skin,Non-lesional skin,TP
+GSM414961,Neoplasms; Pancreatic Neoplasms,pancreatic cancer,TP,Tumor Tissue in Pancreatic Cancer Sample,Pancreatic tissue,TP
+GSM1130487,control subject,control,TP,leukocytes from whole blood,peripheral blood leukocytes,TP
+GSM479949,Sarcoidosis,sarcoidosis,TP,human peripheral blood mononuclear cells,Peripheral blood mononuclear cells,TP
+GSM569478,early SS,Sjogren's syndrome,TP,"Salivary Glands, Minor",Minor salivary glands - Early Sjogren's syndrome,TP
+GSM610690,non-alcoholic steatohepatitis (NASH),NASH,TP,Liver,Liver,TP
+GSM265019,Sepsis,control,TP,Plasma,Whole blood,TP
+GSM144432,nickel_allergic,allergic contact dermatitis,TP,Skin,nickel-allergic patients whose SKINS were exposed to nickel - 48 hours,TP
+GSM545731,control,control,TP,"superior temporal cortex (Brodmann Area 22, BA22)",Superior temporal cortex - postmortem - Male,TP
+GSM217697,Marfan subject,Marfan syndrome,TP,Skin fibroblasts,Fibroblast,TP
+GSM266853,healthy,control,TP,healthy chondrocytes,Chondrocyte,TP
+GSM1361636,low-grade serous ovarian carcinomas,ovarian serous carcinoma,TP,Ovarian tumor,low-grade serous ovarian carcinomas (tumors from patients with matched border control),TP
+GSM545745,schizophrenic,schizophrenia,TP,"superior temporal cortex (Brodmann Area 22, BA22)",Superior temporal cortex - postmortem - Male,TP
+GSM85498,Breast Neoplasms,breast cancer,TP,breast tumor,Mammary Gland Tissue,TP
+GSM266969,healthy control,control,TP,CD4+CD25+high regulatory T cells,T lymphocyte,TP
+GSM533901,NSIP,idiopathic interstitial pneumonia,TP,Lung,Lung Tissue,TP
+GSM425849,IA; grade: 3; Endometrioid,endometrial cancer,TP,Endometrium,Uterine tumors (endometrioid histologic subtype) - Stage-Grade:IA-G3,TP
+GSM1130481,bipolar patient,bipolar disorder,TP,leukocytes from whole blood,peripheral blood leukocytes,TP
+GSM979176,"Carcinoma, Hepatocellular",control,TP,non-tumor,HCC tumor and matched non-tumor surrounding tissues,TP
+GSM892370,FSHD,facioscapulohumeral muscular dystrophy,TP,deltoid,deltoid,TP
+GSM1152353,healthy donor,control,TP,Bone Marrow; Normal Plama Cells (NPC),Bone marrow plasma cells,TP
+GSM483359,Myelodysplastic syndromes (MDS); Refractory anemia with ringed sideroblasts (RARS),myelodysplastic syndrome,TP,Bone Marrow; CD34+ hematopoietic stem cells (HSC),CD34+ hematopoietic stem cells (refractory anemia with ringed sideroblasts),TP
+GSM560973,"Colitis, Ulcerative",ulcerative colitis,TP,Colon; Mucous Membrane,Intestinal biopsies,TP
+GSM627117,control,control,TP,Lymphocytes,peripheral blood lymphocytes,TP
+GSM746740,Systemic lupus erythematosous (SLE),lupus erythematosus,TP,Blood; Sorted B cell,Peripheral blood B cells (inactive lupus),TP
+GSM802171,healthy,control,TP,Skin,Non-lesional (NL) Skin,TP
+GSM907801,Alzheimer Disease,Alzheimer's disease,TP,Frontal Lobe,male frontal cortex,TP
+GSM627204,Autistic Disorder,autism spectrum disorder,TP,Lymphocytes,blood lymphocytes,TP
+GSM509789,normal adjacent esophageal tissue,control,TP,normal adjacent esophageal tissue,Esophageal normal adjacent tissue,TP
+GSM439800,schizophrenic,schizophrenia,TP,Brain BA10,Anterior prefrontal cortex - postmortem - Female,TP
+GSM172872,DM1-affected,myotonic dystrophy type 1,TP,Neural precursor cells,neural precursor cells,TP
+GSM153838,human head and neck cancer,head and neck squamous cell carcinoma,TP,human head and neck cancer,Head and Neck Squamous Cell (Normal vs. Tumor),TP
+GSM277782,normal control,control,TP,Fallopian tube epithelium,Fallopian tube,TP
+GSM337250,normal skin from controls,control,TP,skin_tissue,Skin tissue,TP
+GSM266967,healthy control,control,TP,CD4+CD25+high regulatory T cells,T lymphocyte,TP
+GSM545732,control,control,TP,"superior temporal cortex (Brodmann Area 22, BA22)",Superior temporal cortex - postmortem - Male,TP
+GSM1060129,Hypertension,control,TP,carotid tissue,Carotid artery,TP
+GSM213482,Seminoma; pT1,testis seminoma,TP,seminoma specimen,Testicular seminoma tumors (at pT1) and normal testicular tissue,TP
+GSM1267414,Psoriasis,psoriasis,TP,LS skin biopsy,skin,TP
+GSM8920,Not Specified,Helicobacter pylori gastrointestinal tract infection,FN,Gastric biopsies,Gastric Tissue,TP
+GSM318433,control,control,TP,Neurons,Neurons - male,TP
+GSM92475,Not Specified,control,TP,"brain, cerebellum",CNS - Brain - Cerebellum (MMHCC),TP
+GSM488111,control,control,TP,Brain (Dorsal Motor Nucleus of the Vagus),PD medullas,TP
+GSM153841,Normal mucosa,control,TP,human head and neck normal mucosa,Head and Neck Squamous Cell (Normal vs. Tumor),TP
+GSM300125,chronic myeloid leukaemia,chronic myeloid leukemia,TP,Bone Marrow,Haematopoietic stem cell,TP
+GSM172875,normal embryos,control,TP,human embryonic stem (hES) cells,embryonic stem cells,TP
+GSM907841,non-AD,control,TP,Temporal Lobe,female temporal cortex,TP
+GSM103350,MDS; RAEB1; del(5q),anemia,TP,CD34+ cells,CD34+ cells (refractory anemia with excess blasts),TP
+GSM129248,vulvar intraepithelial neoplasia (VIN),Vulvar intraepithelial tumor,TP,Vulva,vulvar intraepithelial neoplasia (VIN) lesions,TP
+GSM425912,IA; grade: 1; Endometrioid,endometrial cancer,TP,Endometrium,Uterine tumors (endometrioid histologic subtype) - Stage-Grade:IA-G1,TP
+GSM317340,control,control,TP,"Muscle Fibers, Skeletal",Muscle tissue,TP
+GSM337337,psoriatic patients,Psoriasis vulgaris,TP,skin_tissue,Skin tissue,TP
+GSM1501840,"Adenocarcinoma of breast, ductal; tumor grade: G3; mininal stage grouping: IIA; t (extent of primary tumor): T2; n (lymph node metastasis): N0; er: 0; pgr: 0; dfs-month: 28; dfs-event: 1; distant metastasis: 1",breast adenocarcinoma,TP,breast tumor tissue,Breast epithelium,TP
+GSM337318,uninvolved skin,psoriasis,TP,skin_tissue,Non-lesional (NL) Skin - (Uninvolved samples),TP
+GSM277789,non-malignant,control,TP,Fallopian tube epithelium,Fallopian tube,TP
+GSM1130437,control subject,control,TP,leukocytes from whole blood,peripheral blood leukocytes,TP
+GSM317324,"Diabetes Mellitus, Type 2",type 2 diabetes mellitus,TP,"Muscle Fibers, Skeletal",Muscle tissue,TP
+GSM98145,asthmatic,asthma,TP,airway epithelial brushing,Epithelial Cell,TP
+GSM569485,moderate SS,Sjogren's syndrome,TP,"Salivary Glands, Minor",Minor salivary glands - Moderate Sjogren's syndrome,TP
+GSM282592,Not Specified,Nicotine addiction,FN,peripheral ganglion,Ganglioneuroblastoma,TP
+GSM148748,normal skin,control,TP,Skin,Skin,TP
+GSM184359,normal controls,control,TP,Substantia Nigra,Substantia nigra - Female,TP
+GSM899026,Microcrystalline arthritis,control,TP,synovial biopsies,synovial biopsies from affected knees,TP
+GSM287665,healthy,control,TP,peripheral blood monocytes,Peripheral blood monocytes,TP
+GSM4889,ic,interstitial cystitis,TP,bladder epithelial cells,Bladder Tissue,TP
+GSM545751,schizophrenic,schizophrenia,TP,"superior temporal cortex (Brodmann Area 22, BA22)",Superior temporal cortex - postmortem - Male,TP
+GSM13151,Not Specified,control,TP,PMBCs,Peripheral blood mononuclear cell,TP
+GSM144434,nickel allergic,allergic contact dermatitis,TP,Skin,nickel-allergic patients whose SKINS were not exposed to nickel,TP
+GSM1130480,bipolar patient,bipolar disorder,TP,leukocytes from whole blood,peripheral blood leukocytes,TP
+GSM886610,healthy control,control,TP,Vastus lateralis muscle,skeletal muscle,TP
+GSM286697,Postinfection,Rhinovirus infection,TP,Nasal Mucosa,Nose,TP
+GSM388090,normal,control,TP,Pancreas,Pancreatic tissue,TP
+GSM535606,"Carcinoma, Intraductal, Noninfiltrating",ductal carcinoma in situ,TP,breast tumor,Mammary gland,TP
+GSM907818,non-AD,control,TP,Frontal Lobe,male frontal cortex,TP
+GSM665430,Severe asthma,asthma,TP,Leukocytes,white blood cells - Male Severe Asthma,TP
+GSM30363,normal sample RNA for Control,control,TP,"Leukocytes, Mononuclear",Peripheral blood mononuclear cell,TP
+GSM899031,Seronegative arthritis,control,TP,synovial biopsies,synovial biopsies from affected knees,TP
+GSM337334,psoriatic patients,Psoriasis vulgaris,TP,skin_tissue,Skin tissue,TP
+GSM554049,IS; diabetes; Hypercholesterolemia,Ischemic stroke,TP,"Leukocytes, Mononuclear",Peripheral blood mononuclear cells (collected from IS patients at least 6 months after the first and only stroke event),TP
+GSM1152364,Smoldering Multiple Myeloma (SMM),smoldering myeloma,TP,Bone Marrow,Bone marrow plasma cells,TP
+GSM569475,non-SS control,control,TP,"Salivary Glands, Minor",Minor salivary glands - Early Sjogren's syndrome,TP
+GSM483367,Myelodysplastic syndromes (MDS); refractory anemia with excess blasts 2 (RAEB2),myelodysplastic syndrome,TP,Bone Marrow; CD34+ hematopoietic stem cells (HSC),CD34+ hematopoietic stem cells (refractory anemia with excess blasts 2),TP
+GSM388130,Neoplasms,pancreatic ductal adenocarcinoma,TP,Pancreas,Pancreatic tissue,TP
+GSM388126,Neoplasms,pancreatic ductal adenocarcinoma,TP,Pancreas,Pancreatic tissue,TP
+GSM151966,Autism no regression,autistic disorder,TP,Blood,whole blood cells,TP
+GSM14558,"Granulomatous Disease, Chronic",chronic granulomatous disease,TP,Human polymorphonuclear (PMN) leukocytes,Blood neutrophil,TP
+GSM346579,type 2 diabetic,type 2 diabetes mellitus,TP,Intima media,Mammary arterial tissue,TP
+GSM1060159,Hypertension,control,TP,carotid tissue,Carotid artery,TP
+GSM662762,normal,control,TP,prostate stroma,Stromal cells,TP
+GSM286696,control,control,TP,Nasal Mucosa,Nose,TP
+GSM337201,normal skin from controls,control,TP,skin_tissue,Skin tissue,TP
+GSM1327246,PTC; BRAF mutation,papillary thyroid carcinoma,TP,PTC with a BRAF mutation,Papillary thyroid carcinoma tumors (with a BRAF mutation) and Normal thyroid specimens,TP
+GSM277790,non-malignant,control,TP,Fallopian tube epithelium,Fallopian tube,TP
+GSM217720,Marfan subject,Marfan syndrome,TP,Skin fibroblasts,Fibroblast,TP
+GSM902396,"Carcinoma, Adenoid Cystic; metastasis to lung",salivary gland adenoid cystic carcinoma,TP,Adenoid Cystic Carcinoma; parotid salivary gland,salivary tissue,TP
+GSM265024,Sepsis,control,TP,Plasma,Whole blood,TP
+GSM677160,remitted schizophrenia patient,schizophrenia,TP,PBMCs,PBMC (peripheral blood mononuclear cells),TP
+GSM187605,normal control,control,TP,peripheral blood mononuclear cells (PBMCs),Peripheral blood mononuclear cell,TP
+GSM71991,normal non-smoker,control,TP,"Macrophages, Alveolar",Alveolar Macrophage,TP
+GSM1398646,adjacent non-tumorous,control,TP,Parenchymal Tissue,Tumor tissues and Adjacent non-tumorous tissues of Hepatocellular Carcinoma,TP
+GSM77378,normal thyroid,control,TP,Normal thyroid,Thyroid Gland (MMHCC),TP
+GSM337262,uninvolved skin,psoriasis,TP,skin_tissue,Non-lesional (NL) Skin - (Uninvolved samples),TP
+GSM425858,ic; grade: 2; Endometrioid,endometrial cancer,TP,Endometrium,Uterine tumors (endometrioid histologic subtype) - Stage-Grade:IC-G2,TP
+GSM388121,Neoplasms,pancreatic ductal adenocarcinoma,TP,Pancreas,Pancreatic tissue,TP
+GSM12592,Pulmonary Arterial Hypertension,pulmonary hypertension,TP,"Leukocytes, Mononuclear",Peripheral blood mononuclear cell,TP
+GSM388092,normal,control,TP,Pancreas,Pancreatic tissue,TP
+GSM815440,AL,atopic dermatitis,TP,Skin,Skin (LESIONAL atopic dermatitis (AL) skin lesions),TP
+GSM595419,healthy,control,TP,Lung,Whole lung - EARLY idiopathic pulmonary fibrosis - male,TP
+GSM187621,new onset sJIA,JRA - Juvenile rheumatoid arthritis,TP,peripheral blood mononuclear cells (PBMCs),Peripheral blood mononuclear cell,TP
+GSM535615,healthy,control,TP,Breast,Mammary gland,TP
+GSM287664,healthy,control,TP,peripheral blood monocytes,Peripheral blood monocytes,TP
+GSM277807,high grade serous carcinoma,serous cystadenocarcinoma,TP,high grade serous carcinoma,Fallopian tube,TP
+GSM300106,chronic myeloid leukaemia,chronic myeloid leukemia,TP,Bone Marrow,Haematopoietic stem cell,TP
+GSM97830,"oligodendroglioma, grade 2",oligodendroglioma,TP,Brain tissue,CNS - Brain (MMHCC),TP
+GSM488120,Parkinson Disease,Parkinson's disease,TP,Brain (Inferior Olivary Nucleus),ION (inferior olivary nucleus),TP
+GSM1152329,Multiple Myeloma,multiple myeloma,TP,Bone Marrow; Multiple Myeloma (MM) plasma cells,Bone marrow plasma cells,TP
+GSM244508,normal,control,TP,Blood,Whole blood,TP
+GSM155577,unaffected colon,Crohn's disease,TP,Colon,Colon,TP
+GSM1501845,"Adenocarcinoma of breast, ductal; tumor grade: G3; mininal stage grouping: I; t (extent of primary tumor): T1c; n (lymph node metastasis): N0 (i-); er: 0; pgr: 0; distant metastasis: 0",breast adenocarcinoma,TP,breast tumor tissue,Breast epithelium,TP
+GSM29081,MacularDegen,macular degeneration,TP,Human fibroblast,Fibroblast,TP
+GSM317336,control,control,TP,"Muscle Fibers, Skeletal",Muscle tissue,TP
+GSM129238,vulvar intraepithelial neoplasia (VIN),Vulvar intraepithelial tumor,TP,Vulva,vulvar intraepithelial neoplasia (VIN) lesions,TP
+GSM1232085,normal,control,TP,Normal_Kidney_Biopsy,Cirrhotic Livers and Normal Kidneys from the same patients,TP
+GSM802147,healthy,control,TP,Skin,Non-lesional (NL) Skin,TP
+GSM317677,Depression,mental depression,TP,prefrontal cortex (BA10),Prefrontal Cortex,TP
+GSM1348946,normal,control,TP,Benign prostate tissue,Radical prostatectomy tissue samples (TMPRSS2:ERG gene fusion NEGATIVE) and Benign prostate tissue,TP
+GSM85222,Neoplasms,papillary thyroid carcinoma,TP,Thyroid Gland,Thyroid Gland (MMHCC),TP
+GSM217773,control,control,TP,lymphocytes (blood),Lymphocytes from patients with moderate stage Huntington's disease - Male,TP
+GSM533891,UIP/IPF,idiopathic interstitial pneumonia,TP,Lung,Lung Tissue,TP
+GSM1501835,"Adenocarcinoma of breast, ductal; G2; IIB; T2; N1b",breast adenocarcinoma,TP,breast tumor tissue,Breast epithelium,TP
+GSM346573,control subject,control,TP,Intima media,Mammary arterial tissue,TP
+GSM187590,normal control,control,TP,peripheral blood mononuclear cells (PBMCs),Peripheral blood mononuclear cell,TP
+GSM213083,bpd,bronchopulmonary dysplasia,TP,umbilical cord tissue,Premature newborn umbilical cords - Lower gestational age newborns,TP
+GSM318428,control,control,TP,Neurons,Neurons - male,TP
+GSM535610,"Carcinoma, Intraductal, Noninfiltrating",ductal carcinoma in situ,TP,breast tumor,Mammary gland,TP
+GSM1337000,Systemic lupus erythematosus (SLE),systemic lupus erythematosus,TP,CD8 positive T cells,CD8+ T cells - European-American SLE patients,TP
+GSM172869,Neural precursor phenotype,control,TP,Neural precursor cells,neural precursor cells,TP
+GSM337287,uninvolved skin,psoriasis,TP,skin_tissue,Non-lesional (NL) Skin - (Uninvolved samples),TP
+GSM317660,Bipolar Disorder,bipolar disorder,TP,prefrontal cortex (BA10),Prefrontal Cortex,TP
+GSM1501842,"Adenocarcinoma of breast, ductal; tumor grade: G2; mininal stage grouping: IIA; t (extent of primary tumor): T1c; n (lymph node metastasis): N1mi; Breast Neoplasms",breast adenocarcinoma,TP,breast tumor tissue,Breast epithelium,TP
+GSM140253,control participant,control,TP,human CD14 positive monopcytes,Monocytes - Heterozygous FH,TP
+GSM1150696,AAA; non-aneurysmal AAA neck tissue,abdominal aortic aneurysm,TP,aortic wall,Aorta,TP
+GSM483491,healthy control,control,TP,Bone Marrow; CD34+ hematopoietic stem cells (HSC),CD34+ hematopoietic stem cells (refractory anemia with excess blasts 2),TP
+GSM340320,RF- polyarticular JIA,arthritis,TP,"Leukocytes, Mononuclear",PBMC (peripheral blood mononuclear cells),TP
+GSM101304,morbidly obese,obesity,FP,muscle (vastus lateralis),Muscle - Striated (Skeletal) (MMHCC),TP
+GSM590167,Pancreatic adenocarcinoma,control,TP,Panc-1 pancreatic adenocarcinoma cell line,PANC-1 PANCREATIC ADENOCARCINOMA CELL LINE,TP
+GSM5163,Not Specified,control,TP,mammary epithelial cells,Epithelial Cell,TP
+GSM317651,Depression,mental depression,TP,prefrontal cortex (BA10),Prefrontal Cortex,TP
+GSM372320,Psoriasis; lesion,Psoriasis vulgaris,TP,Skin,Skin tissue,TP
+GSM29607,Crohn,Crohn's disease,TP,sigmoid colon biopsy,sigmoid colons (mucosal biopsy),TP
+GSM774479,Typically Developing Control,control,TP,Semitendinosus Muscle,gracilis and semitendinosus muscle,TP
+GSM397635,Glioblastoma; IV,glioblastoma multiforme,TP,brain tumor tissue; glioblastoma,Brain tumor tissue samples of human gliomas and normal brain - Grade:IV - Primary tumor,TP
+GSM1167084,patient without recurrent events,acute myocardial infarction,TP,Blood,Peripheral blood,TP
+GSM595434,advanced idiopathic pulmonary fibrosis (IPF),idiopathic pulmonary fibrosis,TP,Lung; lower lobe,Lung - LOWER LOBE - ADVANCED idiopathic pulmonary fibrosis - Male,TP
+GSM11571,Multiple Myeloma; lytic-lesion,Osteolysis,FP,Bone Marrow,Leukocyte - Lymphocyte - B-Lymphocyte - Plasma Cell (MMHCC),TP
+GSM39159,HIV seropositive,Human immunodeficiency virus infectious disease,TP,human PBMC,Peripheral blood mononuclear cell,TP
+GSM1152354,healthy donor,control,TP,Bone Marrow; Normal Plama Cells (NPC),Bone marrow plasma cells,TP
+GSM677178,healthy control,control,TP,PBMCs,PBMC (peripheral blood mononuclear cells),TP
+GSM1187676,Non-obese individual,control,TP,Subcutaneous white adipose tissue,adipose stem cells,TP
+GSM1376737,Urticaria; lesion,urticaria,TP,Lesional skin,Skin,TP
+GSM483481,healthy control,control,TP,Bone Marrow; CD34+ hematopoietic stem cells (HSC),CD34+ hematopoietic stem cells (refractory anemia with excess blasts 2),TP
+GSM800753,normal,control,TP,"normal, homogenized",Colon,TP
+GSM95502,Colorectal Neoplasms,Carcinoma in situ of large intestine,TP,colon biopsy,Colon,TP
+GSM14564,"Granulomatous Disease, Chronic",chronic granulomatous disease,TP,Human polymorphonuclear (PMN) leukocytes,Blood neutrophil,TP
+GSM483303,Myelodysplastic syndromes (MDS); Refractory anemia (RA),myelodysplastic syndrome,TP,Bone Marrow; CD34+ hematopoietic stem cells (HSC),HSC cells,TP
+GSM851993,normal esopahgus,control,TP,normal esopahgus,Esopahgus endoscopic biopsies,TP
+GSM639750,non-lesional,control,TP,Tendons; quadriceps,Tendons,TP
+GSM802192,Psoriasis,psoriasis,TP,Skin,Non-lesional (NL) Skin,TP
+GSM1336962,Systemic lupus erythematosus (SLE),control,TP,CD4 positive T cells,CD4+ T cells - European-American SLE patients,TP
+GSM523161,B-precursor acute lymphoblastic leukemia; Non-Down syndrome,control,TP,Bone Marrow,bone marrow,TP
+GSM1130423,control subject,control,TP,leukocytes from whole blood,peripheral blood leukocytes,TP
+GSM979101,hepatocellular carcinoma (HCC),hepatocellular carcinoma,TP,tumor,HCC tumor and matched non-tumor surrounding tissues,TP
+GSM103395,MDS; RARS; del(5q),anemia,TP,CD34+ cells,CD34+ cells (refractory anemia with ringed sideroblasts),TP
+GSM483414,Myelodysplastic syndromes (MDS); refractory anemia with excess blasts 2 (RAEB2),myelodysplastic syndrome,TP,Bone Marrow; CD34+ hematopoietic stem cells (HSC),CD34+ hematopoietic stem cells (refractory anemia with excess blasts 2),TP
+GSM1267422,Psoriasis,psoriasis,TP,LS skin biopsy,skin,TP
+GSM11474,Multiple Myeloma; lytic-lesion,Osteolysis,FP,Bone Marrow,Leukocyte - Lymphocyte - B-Lymphocyte - Plasma Cell (MMHCC),TP
+GSM533900,NSIP,idiopathic interstitial pneumonia,TP,Lung,Lung Tissue,TP
+GSM413793,Multiple Sclerosis,relapsing-remitting multiple sclerosis,TP,CD4+T cells,CD4+ T cells Lymphocytes (sorted from PBMCs from monozygotic twin pairs discordant for RRMS),TP
+GSM148768,Acne lesion,acne,TP,Skin,Skin,TP
+GSM107541,Not Specified,Alzheimer's disease,FN,Entorhinal Cortex,entorhinal cortex neurons,TP
+GSM153843,Normal mucosa,control,TP,human head and neck normal mucosa,Head and Neck Squamous Cell (Normal vs. Tumor),TP
+GSM12766,Not Specified,control,TP,Gastric biopsies,Gastric Tissue,TP
+GSM414955,Tissue in Pancreatic Cancer,control,TP,Normal Tissue in Pancreatic Cancer Sample,Pancreatic tissue,TP
+GSM340346,RF- polyarticular JIA,arthritis,TP,"Leukocytes, Mononuclear",PBMC (peripheral blood mononuclear cells),TP
+GSM290418,healthy control,control,TP,Blood Platelets,platelets,TP
+GSM244467,"Shock, Septic",Septic Shock,TP,Blood,Whole blood,TP
+GSM435833,normal (control),control,TP,Liver,Liver,TP
+GSM1336942,Systemic lupus erythematosus (SLE),systemic lupus erythematosus,TP,CD4 positive T cells,CD4+ T cells - European-American SLE patients,TP
+GSM82670,healthy,control,TP,Leukocytes,Leukocyte,TP
+GSM286734,Sham infected,control,TP,Nasal Mucosa,Nose,TP
+GSM39135,HIV seropositive,Human immunodeficiency virus infectious disease,TP,human PBMC,Peripheral blood mononuclear cell,TP
+GSM463740,non-tumor pancreatic control tissue,control,TP,non-tumor pancreatic control tissue,pancreas,TP
+GSM1130409,control subject,control,TP,leukocytes from whole blood,peripheral blood leukocytes,TP
+GSM153825,Normal mucosa,control,TP,human head and neck normal mucosa,Head and Neck Squamous Cell (Normal vs. Tumor),TP
+GSM39821,AML,acute myeloid leukemia,TP,mononuclear cells isolated from peripheral blood or bone marrow,Mononuclear Leukocyte,TP
+GSM979091,hepatocellular carcinoma (HCC),hepatocellular carcinoma,TP,tumor,HCC tumor and matched non-tumor surrounding tissues,TP
+GSM815439,ANL,atopic dermatitis,TP,Skin,derma (skin),TP
+GSM39124,HIV seropositive,Human immunodeficiency virus infectious disease,TP,human PBMC,Peripheral blood mononuclear cell,TP
+GSM277779,normal control,control,TP,Fallopian tube epithelium,Fallopian tube,TP
+GSM2790,Not Specified,control,TP,"Leukocytes, Mononuclear",Peripheral blood mononuclear cell,TP
+GSM95490,colon adenoma,colon adenoma,TP,colon biopsy,Colon biopsy,TP
+GSM1336937,Systemic lupus erythematosus (SLE),systemic lupus erythematosus,TP,CD4 positive T cells,CD4+ T cells - European-American SLE patients,TP
+GSM630786,control,control,TP,hiPSC-derived 6-week-old neurons,Induced pluripotent stem cell-derived neurons - Male,TP
+GSM29606,Crohn,Crohn's disease,TP,sigmoid colon biopsy,sigmoid colons (mucosal biopsy),TP
+GSM788333,healthy donor,control,TP,CD8+ T-cells,Circulating CD8+ T-cells (severe asthma),TP
+GSM1267416,Psoriasis,psoriasis,TP,LS skin biopsy,skin,TP
+GSM51784,Stomach Neoplasms,stomach cancer,TP,Gastric,Stomach,TP
+GSM340291,oligoarticular JIA,arthritis,TP,"Leukocytes, Mononuclear",PBMC (peripheral blood mononuclear cells),TP
+GSM892360,control,control,TP,deltoid,deltoid,TP
+GSM181410,unaffected,control,TP,Lymphoblastoid cell lines,lymphoblast,TP
+GSM290420,healthy control,control,TP,Blood Platelets,platelets,TP
+GSM545832,healthy,control,TP,"Leukocytes, Mononuclear",peripheral blood mononuclear cells,TP
+GSM815457,normal,control,TP,Skin,Skin (LESIONAL atopic dermatitis (AL) skin lesions),TP
+GSM1060134,Hypertension; Atheroma plaque,atherosclerosis,TP,Atheroma plaque,Carotid artery,TP
+GSM337342,psoriatic patients,Psoriasis vulgaris,TP,skin_tissue,Skin tissue,TP
+GSM414929,Pancreatic Neoplasms; Neoplasms,pancreatic cancer,TP,Tumor Tissue in Pancreatic Cancer Sample,Pancreatic tissue,TP
+GSM286663,control,control,TP,Nasal Mucosa,Nose,TP
+GSM97874,"oligodendroglioma, grade 2",oligodendroglioma,TP,Brain tissue,CNS - Brain (MMHCC),TP
+GSM358675,Diamond-Blackfan anaemia,Diamond-Blackfan anemia,TP,dermal fibroblasts,fibroblasts,TP
+GSM340279,oligoarticular JIA,arthritis,TP,"Leukocytes, Mononuclear",PBMC (peripheral blood mononuclear cells),TP
+GSM1398650,adjacent non-tumorous,control,TP,Parenchymal Tissue,Tumor tissues and Adjacent non-tumorous tissues of Hepatocellular Carcinoma,TP
+GSM300414,"Spondylitis, Ankylosing",ankylosing spondylitis,TP,Macrophages,macrophage,TP
+GSM181416,unaffected,control,TP,Lymphoblastoid cell lines,lymphoblast,TP
+GSM397660,normal brain tissue,control,TP,Brain,Brain tumor tissue samples of human gliomas and normal brain - Grade:OGIII - Primary tumor,TP
+GSM483311,Myelodysplastic syndromes (MDS); refractory anemia with excess blasts 1 (RAEB1),myelodysplastic syndrome,TP,Bone Marrow; CD34+ hematopoietic stem cells (HSC),HSC cells,TP
+GSM425855,ic; grade: 2; Endometrioid,endometrial cancer,TP,Endometrium,Uterine tumors (endometrioid histologic subtype) - Stage-Grade:IC-G2,TP
+GSM97827,Epilepsy; Non-Tumor,control,TP,Brain tissue,CNS - Brain (MMHCC),TP
+GSM337210,normal skin from controls,control,TP,skin_tissue,Skin tissue,TP
+GSM483326,Myelodysplastic syndromes (MDS); Refractory anemia with ringed sideroblasts (RARS),myelodysplastic syndrome,TP,Bone Marrow; CD34+ hematopoietic stem cells (HSC),CD34+ hematopoietic stem cells (refractory anemia with ringed sideroblasts),TP
+GSM4895,ic,interstitial cystitis,TP,bladder epithelial cells,Bladder Tissue,TP
+GSM266841,OA,arthropathy,TP,repair tissue,Chondrocyte,TP
+GSM153829,Normal mucosa,control,TP,human head and neck normal mucosa,Head and Neck Squamous Cell (Normal vs. Tumor),TP
+GSM181396,unaffected,control,TP,Lymphoblastoid cell lines,lymphoblast,TP
+GSM1152341,Multiple Myeloma,multiple myeloma,TP,Bone Marrow; Multiple Myeloma (MM) plasma cells,Bone marrow plasma cells,TP
+GSM66683,healthy subject,control,TP,human peripheral blood mononuclear cells,Peripheral blood mononuclear cell,TP
+GSM1336998,Systemic lupus erythematosus (SLE),systemic lupus erythematosus,TP,CD8 positive T cells,CD8+ T cells - European-American SLE patients,TP
+GSM97846,Epilepsy; Non-Tumor,control,TP,Brain tissue,CNS - Brain (MMHCC),TP
+GSM213097,nobpd,control,TP,umbilical cord tissue,Premature newborn umbilical cords - Higher gestational age newborns,TP
+GSM340282,oligoarticular JIA,arthritis,TP,"Leukocytes, Mononuclear",PBMC (peripheral blood mononuclear cells),TP
+GSM1411021,Turner Syndrome,Turner syndrome,TP,Amniotic Fluid,amniotic fluid,TP
+GSM92466,Not Specified,Schizophrenia,FN,"brain, cerebellum",CNS - Brain - Cerebellum (MMHCC),TP
+GSM425869,IB; grade: 2; Endometrioid,endometrial cancer,TP,Endometrium,Uterine tumors (endometrioid histologic subtype) - Stage-Grade:IB-G2,TP
+GSM213481,Seminoma; pT1,testis seminoma,TP,seminoma specimen,Testicular seminoma tumors (at pT1) and normal testicular tissue,TP
+GSM300130,healthy donor,control,TP,Bone Marrow,Haematopoietic stem cell,TP
+GSM414924,Pancreatic Neoplasms; Neoplasms,pancreatic cancer,TP,Tumor Tissue in Pancreatic Cancer Sample,Pancreatic tissue,TP
+GSM151977,Autism no regression,autistic disorder,TP,Blood,whole blood cells,TP
+GSM359972,normal,control,TP,Ovarian Surface Epithelia,ovarian epithelial cells,TP
+GSM29066,healthy,control,TP,Human fibroblast,Fibroblast,TP
+GSM1130463,bipolar patient,bipolar disorder,TP,leukocytes from whole blood,peripheral blood leukocytes,TP
+GSM1398702,hepatocellular carcinoma tumor,hepatocellular carcinoma,TP,Parenchymal Tissue,Tumor tissues and Adjacent non-tumorous tissues of Hepatocellular Carcinoma,TP
+GSM286646,Postinfection,Rhinovirus infection,TP,Nasal Mucosa,Nose,TP
+GSM788320,non-severe_asthmatic,asthma,TP,CD8+ T-cells,Circulating CD8+ T-cells (non-severe asthma),TP
+GSM1152293,monoclonal gammopathy of undetermined significance (MGUS),monoclonal gammopathy of uncertain significance,TP,Bone Marrow; Plasma Cells,Bone marrow plasma cells,TP
+GSM337303,uninvolved skin,psoriasis,TP,skin_tissue,Non-lesional (NL) Skin - (Uninvolved samples),TP
+GSM535612,"Carcinoma, Intraductal, Noninfiltrating",ductal carcinoma in situ,TP,breast tumor,Mammary gland,TP
+GSM150225,normal,control,TP,Endometrium,Endometrium,TP
+GSM39835,AML,acute myeloid leukemia,TP,mononuclear cells isolated from peripheral blood or bone marrow,Mononuclear Leukocyte,TP
+GSM886624,mutation (Arg1174Gln) in the tyrosine kinase domain of the insulin receptor gene (INSR),type 2 diabetes mellitus,TP,Vastus lateralis muscle,skeletal muscle,TP
+GSM103408,MDS; RA,anemia,TP,CD34+ cells,CD34+ cells (refractory anemia),TP
+GSM30367,SARS,severe acute respiratory syndrome,TP,Blood,Peripheral blood mononuclear cell,TP
+GSM155992,Early HCC,hepatocellular carcinoma,TP,human liver,Liver,TP
+GSM1152373,Smoldering Multiple Myeloma (SMM),smoldering myeloma,TP,Bone Marrow; Smoldering Multiple Myeloma (SMM) plasma cells,Bone marrow plasma cells,TP
+GSM213104,bpd,bronchopulmonary dysplasia,TP,umbilical cord tissue,Premature newborn umbilical cords - Lower gestational age newborns,TP
+GSM290419,healthy control,control,TP,Blood Platelets,platelets,TP
+GSM11584,Multiple Myeloma; lytic-lesion,Osteolysis,FP,Bone Marrow,Leukocyte - Lymphocyte - B-Lymphocyte - Plasma Cell (MMHCC),TP
+GSM340358,systemic JIA,arthritis,TP,"Leukocytes, Mononuclear",PBMC (peripheral blood mononuclear cells),TP
+GSM27016,neuropathologically normal,control,TP,human frontal cortex,frontal cortex,TP
+GSM1060151,Hypertension,control,TP,carotid tissue,Carotid artery,TP
+GSM140257,heterozygote FH,familial hypercholesterolemia,TP,human CD14 positive monopcytes,Monocytes - Heterozygous FH,TP
+GSM1530153,idiopathic autistic,autism spectrum disorder,TP,Induced Pluripotent Stem Cells,induced pluripotent stem cells,TP
+GSM317694,Schizophrenia,schizophrenia,TP,prefrontal cortex (BA10),Prefrontal Cortex,TP
+GSM27029,neuropathologically normal for age; Non-Demented,control,TP,human frontal cortex,frontal cortex,TP
+GSM630800,schizophrenic,schizophrenia,TP,hiPSC-derived 6-week-old neurons,Induced pluripotent stem cell-derived neurons - Female,TP
+GSM1053996,Down Syndrome,Down syndrome,TP,CCL54,induced pluripotent stem cells,TP
+GSM74880,Benign,control,TP,Prostate,Prostate tissue (primary prostate tumor),TP
+GSM98242,healthy control,control,TP,airway epithelial brushing,Epithelial Cell,TP
+GSM902395,"Carcinoma, Adenoid Cystic; metastasis to lung",salivary gland adenoid cystic carcinoma,TP,Adenoid Cystic Carcinoma; Lung,salivary tissue,TP
+GSM6830,control,control,TP,Spinal Cord,Spinal cord grey matter - sporadic ALS,TP
+GSM435824,non-alcoholic steatohepatitis (NASH),NASH,TP,Liver,Liver,TP
+GSM439784,schizophrenic,schizophrenia,TP,Brain BA10,Anterior prefrontal cortex - postmortem - Male,TP
+GSM7830,Uterine Cervical Neoplasms,cervix carcinoma,TP,cervical cancer tissue,Uterus - Cervix (MMHCC),TP
+GSM979171,"Carcinoma, Hepatocellular",control,TP,non-tumor,HCC tumor and matched non-tumor surrounding tissues,TP
+GSM359978,normal,control,TP,Ovarian Surface Epithelia,ovarian epithelial cells,TP
+GSM887860,Prolactinoma,prolactinoma,TP,prolactinoma,human prolactinomas,TP
+GSM140245,control participant,control,TP,human CD14 positive monopcytes,Monocytes - Heterozygous FH,TP
+GSM979127,"Carcinoma, Hepatocellular",control,TP,non-tumor,HCC tumor and matched non-tumor surrounding tissues,TP
+GSM815447,ANL,atopic dermatitis,TP,Skin,derma (skin),TP
+GSM1327530,Tuberculosis,tuberculosis,TP,"Leukocytes, Mononuclear",Peripheral blood mononuclear cells,TP
+GSM483420,Myelodysplastic syndromes (MDS); Refractory anemia (RA),myelodysplastic syndrome,TP,Bone Marrow; CD34+ hematopoietic stem cells (HSC),CD34+ hematopoietic stem cells (refractory anemia),TP
+GSM1167097,recurrent events,acute myocardial infarction,TP,Blood,Peripheral blood,TP
+GSM1336971,Systemic lupus erythematosus (SLE),systemic lupus erythematosus,TP,CD8 positive T cells,CD8+ T cells - African-American SLE patients,TP
+GSM97947,"oligodendroglioma, grade 3",oligodendroglioma,TP,Brain tissue,CNS - Brain (MMHCC),TP
+GSM37930,Cryptosporidium parvum-infected,parasitic protozoa infectious disease,TP,HCT-8,Intestinal Epithelium,TP
+GSM665428,Severe asthma,asthma,TP,Leukocytes,white blood cells - Female Severe Asthma,TP
+GSM340368,systemic JIA,arthritis,TP,"Leukocytes, Mononuclear",PBMC (peripheral blood mononuclear cells),TP
+GSM979099,hepatocellular carcinoma (HCC),hepatocellular carcinoma,TP,tumor,HCC tumor and matched non-tumor surrounding tissues,TP
+GSM1293366,plaque type psoriasis,psoriasis,TP,Epidermis,Epidermis,TP
+GSM6835,Amyotrophic Lateral Sclerosis,amyotrophic lateral sclerosis,TP,Spinal Cord,CNS - Spinal Cord (MMHCC),TP
+GSM1053977,normal,control,TP,Fibroblasts,fibroblast,TP
+GSM300115,chronic myeloid leukaemia,chronic myeloid leukemia,TP,Bone Marrow,Haematopoietic stem cell,TP
+GSM242071,Acute Appendicitis,appendicitis,TP,Appendix,Appendix,TP
+GSM413846,normal,control,TP,Chondrocytes,Hyaff-11 scaffold culture,TP
+GSM414949,Pancreatic Neoplasms; Neoplasms,pancreatic cancer,TP,Tumor Tissue in Pancreatic Cancer Sample,Pancreatic tissue,TP
+GSM1130425,control subject,control,TP,leukocytes from whole blood,peripheral blood leukocytes,TP
+GSM1130453,bipolar patient,bipolar disorder,TP,leukocytes from whole blood,peripheral blood leukocytes,TP
+GSM847097,healthy control,control,TP,iPSC,Induced pluripotent stem cells -iPSC- (derived from childhood cerebral adrenoleukodystrophy patient dermal fibroblasts) and healthy fibroblasts,TP
+GSM787950,mock infected,control,TP,Macrophages,macrophage,TP
+GSM1398687,hepatocellular carcinoma tumor,hepatocellular carcinoma,TP,Parenchymal Tissue,Tumor tissues and Adjacent non-tumorous tissues of Hepatocellular Carcinoma,TP
+GSM1179370,infected with KY/180 (pdmH1N1),swine influenza,TP,human lung epithelial cells,primary lung bronchial epithelial cells,TP
+GSM337209,normal skin from controls,control,TP,skin_tissue,Skin tissue,TP
+GSM337289,uninvolved skin,psoriasis,TP,skin_tissue,Non-lesional (NL) Skin - (Uninvolved samples),TP
+GSM483471,Myelodysplastic syndromes (MDS); refractory anemia with excess blasts 2 (RAEB2),myelodysplastic syndrome,TP,Bone Marrow; CD34+ hematopoietic stem cells (HSC),CD34+ hematopoietic stem cells (refractory anemia with excess blasts 2),TP
+GSM509817,Esophageal Squamous Cell Carcinoma,esophagus squamous cell carcinoma,TP,esophageal squamous cell carcinoma,Esophageal normal adjacent tissue,TP
+GSM1192694,control,control,TP,Substantia Nigra,Substantia nigra - Braak &Icirc;&plusmn;-synuclein stage 3-4,TP
+GSM1152322,Multiple Myeloma,multiple myeloma,TP,Bone Marrow; Multiple Myeloma (MM) plasma cells,Bone marrow plasma cells,TP
+GSM266989,recent-onset T1D,type 1 diabetes mellitus,TP,CD4+CD25+high regulatory T cells,T lymphocyte,TP
+GSM774503,Cerebral Palsy,cerebral palsy,TP,Semitendinosus Muscle,Skeletal muscle - Semitendinosus muscle biopsies,TP
+GSM39839,AML,acute myeloid leukemia,TP,mononuclear cells isolated from peripheral blood or bone marrow,Mononuclear Leukocyte,TP
+GSM762061,24h post-infection with WNV,West Nile fever,TP,hRPE,Primary retinal pigment epithelial (RPE) cells,TP
+GSM4868,Not Specified,control,TP,bladder epithelial cells,Bladder Tissue,TP
+GSM217649,control subject,control,TP,Skin fibroblasts,Fibroblast,TP
+GSM401295,Convalescence,asthma,TP,"Leukocytes, Mononuclear",PBMC,TP
+GSM140233,homozygote FH,familial hypercholesterolemia,TP,Monocytes,Monocytes - Homozygous FH,TP
+GSM545741,control,control,TP,"superior temporal cortex (Brodmann Area 22, BA22)",Superior temporal cortex - postmortem - Female,TP
+GSM37929,Cryptosporidium parvum-infected,control,TP,HCT-8 cells,Intestinal Epithelium,TP
+GSM1267413,Psoriasis,psoriasis,TP,LS skin biopsy,skin,TP
+GSM1152309,Multiple Myeloma,multiple myeloma,TP,Bone Marrow; Multiple Myeloma (MM) plasma cells,Bone marrow plasma cells,TP
+GSM1053954,normal,control,TP,Fibroblasts,fibroblast,TP
+GSM483436,Myelodysplastic syndromes (MDS); Refractory anemia (RA),myelodysplastic syndrome,TP,Bone Marrow; CD34+ hematopoietic stem cells (HSC),CD34+ hematopoietic stem cells (refractory anemia),TP
+GSM1348953,Benign,control,TP,Benign prostate tissue,Radical prostatectomy tissue samples (TMPRSS2:ERG gene fusion NEGATIVE) and Benign prostate tissue,TP
+GSM4869,Not Specified,control,TP,bladder epithelial cells,Bladder Tissue,TP
+GSM1327237,PTC without a BRAF mutation,papillary thyroid carcinoma,TP,PTC,Papillary thyroid carcinoma tumors (without a BRAF mutation) and Normal thyroid specimens,TP
+GSM746737,Systemic lupus erythematosous (SLE),lupus erythematosus,TP,Sorted B cell,Peripheral blood B cells (inactive lupus),TP
+GSM1398689,hepatocellular carcinoma tumor,hepatocellular carcinoma,TP,Parenchymal Tissue,Tumor tissues and Adjacent non-tumorous tissues of Hepatocellular Carcinoma,TP
+GSM74877,Benign,control,TP,prostate tissue,Prostate tissue (primary prostate tumor),TP
+GSM211453,Aldosterone-Producing Adenoma,adenoma,TP,Aldosterone-Producing Adenoma,Adrenal gland,TP
+GSM337331,psoriatic patients,Psoriasis vulgaris,TP,skin_tissue,Skin tissue,TP
+GSM1361631,low-grade serous ovarian carcinomas,ovarian serous carcinoma,TP,Ovarian tumor,low-grade serous ovarian carcinomas (tumors from patients with matched border control),TP
+GSM800758,normal,control,TP,"normal, homogenized",Colon,TP
+GSM286732,control,control,TP,Nasal Mucosa,Nose,TP
+GSM92468,Not Specified,Schizophrenia,FN,"brain, cerebellum",CNS - Brain - Cerebellum (MMHCC),TP
+GSM425895,IB; grade: 1; Endometrioid,endometrial cancer,TP,Endometrium,Uterine tumors (endometrioid histologic subtype) - Stage-Grade:IB-G1,TP
+GSM463736,Pancreatic ductal adenocarcinoma,control,FP,non-tumor pancreatic control tissue,pancreas,TP
+GSM98234,healthy control,control,TP,airway epithelial brushing,Epithelial Cell,TP
+GSM11445,Multiple Myeloma,control,FP,Bone Marrow,Leukocyte - Lymphocyte - B-Lymphocyte - Plasma Cell (MMHCC),TP
+GSM144445,nickel_allergic,allergic contact dermatitis,TP,Skin,nickel-allergic patients whose SKINS were exposed to nickel - 7 hours,TP
+GSM627166,Autistic Disorder,autism spectrum disorder,TP,Lymphocytes,blood lymphocytes,TP
+GSM11556,Multiple Myeloma; lytic-lesion,Osteolysis,FP,Bone Marrow,Leukocyte - Lymphocyte - B-Lymphocyte - Plasma Cell (MMHCC),TP
+GSM802177,Psoriasis,psoriasis,TP,Skin,Non-lesional (NL) Skin,TP
+GSM162901,Bipolar Disorder; BD1 with psychotic features,bipolar disorder,TP,Trasnsformed Lymphocytes,Lymphocyte,TP
+GSM560963,healthy,control,TP,Colon; Mucous Membrane,Intestinal biopsies,TP
+GSM217781,HD patient,Huntington's disease,TP,lymphocytes (blood),Lymphocytes from patients with moderate stage Huntington's disease - Female,TP
+GSM65730,Pre allergen challenge,control,TP,bronchial epithelium,Bronchial epithelium,TP
+GSM217700,Marfan subject,Marfan syndrome,TP,Skin fibroblasts,Fibroblast,TP
+GSM107537,neurofibrillary tangles,Alzheimer's disease,FP,Entorhinal Cortex,entorhinal cortex neurons,TP
+GSM1232092,Liver Diseases; HCV,liver cirrhosis,TP,Kidney_Biopsy,Cirrhotic Livers and Normal Kidneys from the same patients,TP
+GSM244507,normal,control,TP,Blood,Whole blood,TP
+GSM29078,healthy,control,TP,Human fibroblast,Fibroblast,TP
+GSM1267419,Psoriasis,psoriasis,TP,LS skin biopsy,skin,TP
+GSM1167117,normal control,control,TP,Blood,Peripheral blood,TP
+GSM1130479,bipolar patient,bipolar disorder,TP,leukocytes from whole blood,peripheral blood leukocytes,TP
+GSM7841,Normal Cervix,control,TP,Cervix Uteri,Uterus - Cervix (MMHCC),TP
+GSM98178,asthmatic,asthma,TP,airway epithelial brushing,Epithelial Cell,TP
+GSM98184,asthmatic,asthma,TP,airway epithelial brushing,Epithelial Cell,TP
+GSM1150709,normal aortic tissue,control,TP,aortic wall,Aorta,TP
+GSM948591,UC; pancolitis,ulcerative colitis,TP,Human Colon,Intestinal mucosa,TP
+GSM627192,Autistic Disorder,autism spectrum disorder,TP,Lymphocytes,blood lymphocytes,TP
+GSM6828,Amyotrophic Lateral Sclerosis,amyotrophic lateral sclerosis,TP,Spinal Cord,CNS - Spinal Cord (MMHCC),TP
+GSM1293383,plaque type psoriasis,psoriasis,TP,Epidermis,Epidermis,TP
+GSM907870,non-AD,control,TP,Hippocampus,male hippocampus,TP
+GSM425913,IA; grade: 1; Endometrioid,endometrial cancer,TP,Endometrium,Uterine tumors (endometrioid histologic subtype) - Stage-Grade:IA-G1,TP
+GSM800763,Neoplasms; metastasis: metastatic recurrence; Stage: 3c,colorectal cancer,TP,cancer,Colon,TP
+GSM886625,mutation (Arg1174Gln) in the tyrosine kinase domain of the insulin receptor gene (INSR),type 2 diabetes mellitus,TP,Vastus lateralis muscle,skeletal muscle,TP
+GSM1053959,Down Syndrome,Down syndrome,TP,Fibroblasts,fibroblast,TP
+GSM414948,Pancreatic Neoplasms; Neoplasms,pancreatic cancer,TP,Tumor Tissue in Pancreatic Cancer Sample,Pancreatic tissue,TP
+GSM509791,normal adjacent esophageal tissue,control,TP,normal adjacent esophageal tissue,Esophageal normal adjacent tissue,TP
+GSM93944,healthy control,control,TP,Mucous Membrane,Intestine - Large Intestine - Colon (MMHCC),FP
+GSM479931,Sarcoidosis,sarcoidosis,TP,human peripheral blood mononuclear cells,Peripheral blood mononuclear cells,TP
+GSM1150702,AAA; non-aneurysmal AAA neck tissue,abdominal aortic aneurysm,TP,aortic wall,Aorta,TP
+GSM774499,Cerebral Palsy,cerebral palsy,TP,Semitendinosus Muscle,Skeletal muscle - Semitendinosus muscle biopsies,TP
+GSM107528,normal,control,TP,Entorhinal Cortex,entorhinal cortex neurons,TP
+GSM892372,control,control,TP,deltoid,deltoid,TP
+GSM483480,healthy control,control,TP,Bone Marrow; CD34+ hematopoietic stem cells (HSC),CD34+ hematopoietic stem cells (refractory anemia with excess blasts 2),TP
+GSM265022,Sepsis,control,TP,Plasma,Whole blood,TP
+GSM37433,normal donor,control,TP,Synovial tissues,Synovial Membrane,TP
+GSM388083,normal,control,TP,Pancreas,Pancreatic tissue,TP
+GSM29076,healthy,control,TP,Human fibroblast,Fibroblast,TP
+GSM244495,normal,control,TP,Blood,Whole blood,TP
+GSM187586,normal control,control,TP,peripheral blood mononuclear cells (PBMCs),Peripheral blood mononuclear cell,TP
+GSM627079,control,control,TP,Lymphocytes,blood lymphocytes,TP
+GSM388076,normal,control,TP,Pancreas,Pancreatic tissue,TP
+GSM627072,control,control,TP,Lymphocytes,peripheral blood lymphocytes,TP
+GSM907828,Alzheimer Disease,Alzheimer's disease,TP,Temporal Lobe,male temporal cortex,TP
+GSM902391,"Carcinoma, Adenoid Cystic; Neoplasms",salivary gland adenoid cystic carcinoma,TP,Adenoid Cystic Carcinoma,salivary tissue,TP
+GSM213101,nobpd,control,TP,umbilical cord tissue,Premature newborn umbilical cords - Higher gestational age newborns,TP
+GSM419173,sickle-cell,sickle cell anemia,TP,"Leukocytes, Mononuclear; Blood",peripheral blood,TP
+GSM899015,"Arthritis, Rheumatoid",control,TP,synovial biopsies,synovial biopsies from affected knees,TP
+GSM340321,RF- polyarticular JIA,arthritis,TP,"Leukocytes, Mononuclear",PBMC (peripheral blood mononuclear cells),TP
+GSM1398680,adjacent non-tumorous,control,TP,Parenchymal Tissue,Tumor tissues and Adjacent non-tumorous tissues of Hepatocellular Carcinoma,TP
+GSM11451,Multiple Myeloma,control,FP,Bone Marrow,Leukocyte - Lymphocyte - B-Lymphocyte - Plasma Cell (MMHCC),TP
+GSM746729,Systemic lupus erythematosous (SLE),lupus erythematosus,TP,Blood; Sorted B cell,Peripheral blood B cells (inactive lupus),TP
+GSM39874,normal bone marrow,control,TP,Bone Marrow,Mononuclear Leukocyte,TP
+GSM1060161,Hypertension,control,TP,carotid tissue,Carotid artery,TP
+GSM907799,Alzheimer Disease,Alzheimer's disease,TP,Frontal Lobe,female frontal cortex,TP
+GSM187622,new onset sJIA,JRA - Juvenile rheumatoid arthritis,TP,"Leukocytes, Mononuclear",Peripheral blood mononuclear cell,TP
+GSM388125,Neoplasms,pancreatic ductal adenocarcinoma,TP,Pancreas,Pancreatic tissue,TP
+GSM800773,Neoplasms; Stage: 2A,colorectal cancer,TP,cancer,Colon,TP
+GSM312900,normal healthy nasopharyngeal tissue,control,TP,Nasopharynx,Microdissected nasopharyngeal carcinoma (NPC) tissues samples - stage T1N0,TP
+GSM217743,Marfan subject,Marfan syndrome,TP,Skin fibroblasts,Fibroblast,TP
+GSM418744,control,control,TP,Skin fibroblasts,Fibroblast cell lines - 3 years,TP
+GSM14538,healthy,control,TP,Human polymorphonuclear (PMN) leukocytes,Blood neutrophil,TP
+GSM98204,asthmatic,asthma,TP,airway epithelial brushing,Epithelial Cell,TP
+GSM639759,non-lesional,control,TP,Tendons; Rotator Cuff,Tendons,TP
+GSM102700,Melanoma,melanoma,TP,Lymph Nodes,Epidermis,TP
+GSM11488,Multiple Myeloma; lytic-lesion,Osteolysis,FP,Bone Marrow,Leukocyte - Lymphocyte - B-Lymphocyte - Plasma Cell (MMHCC),TP
+GSM1174427,PCOS,polycystic ovary syndrome,TP,Endometrium,Epithelial cells,TP
+GSM160308,normal,control,TP,Prefrontal Cortex,frontal cortex,TP
+GSM7827,Uterine Cervical Neoplasms,cervix carcinoma,TP,cervical cancer tissue,Uterus - Cervix (MMHCC),TP
+GSM1130421,control subject,control,TP,leukocytes from whole blood,peripheral blood leukocytes,TP
+GSM337348,psoriatic patients,Psoriasis vulgaris,TP,skin_tissue,Skin tissue,TP
+GSM97864,"oligodendroglioma, grade 2",oligodendroglioma,TP,Brain tissue,CNS - Brain (MMHCC),TP
+GSM413797,Multiple Sclerosis,relapsing-remitting multiple sclerosis,TP,CD4+T cells,CD4+ T cells Lymphocytes (sorted from PBMCs from monozygotic twin pairs discordant for RRMS),TP
+GSM29596,normal control,control,TP,sigmoid colon biopsy,sigmoid colons (mucosal biopsy),TP
+GSM483382,Myelodysplastic syndromes (MDS); Refractory anemia with ringed sideroblasts (RARS),myelodysplastic syndrome,TP,Bone Marrow; CD34+ hematopoietic stem cells (HSC),CD34+ hematopoietic stem cells (refractory anemia with ringed sideroblasts),TP
+GSM907827,Alzheimer Disease,Alzheimer's disease,TP,Temporal Lobe,female temporal cortex,TP
+GSM66627,healthy subject,bacterial infectious disease,TP,human peripheral blood mononuclear cells,Peripheral blood mononuclear cell,TP
+GSM509794,normal adjacent esophageal tissue,control,TP,normal adjacent esophageal tissue,Esophageal normal adjacent tissue,TP
+GSM66929,Hypoxia,Hypoxia,TP,Astrocytes,Astrocyte,TP
+GSM7834,Uterine Cervical Neoplasms,cervix carcinoma,TP,cervical cancer tissue,Uterus - Cervix (MMHCC),TP
+GSM11517,Multiple Myeloma; lytic-lesion,Osteolysis,FP,Bone Marrow,Leukocyte - Lymphocyte - B-Lymphocyte - Plasma Cell (MMHCC),TP
+GSM12597,Pulmonary Arterial Hypertension,pulmonary hypertension,TP,"Leukocytes, Mononuclear",Peripheral blood mononuclear cell,TP
+GSM349742,Not Specified,control,TP,T-Lymphocytes,CD3+ T cells,TP
+GSM479980,Sarcoidosis,sarcoidosis,TP,human peripheral blood mononuclear cells,Peripheral blood mononuclear cells,TP
+GSM13154,Not Specified,control,TP,PMBCs,Peripheral blood mononuclear cell,TP
+GSM340261,enthesitis-related arthritis,arthritis,TP,"Leukocytes, Mononuclear",PBMC (peripheral blood mononuclear cells),TP
+GSM103385,MDS; RARS,anemia,TP,CD34+ cells,CD34+ cells (refractory anemia with ringed sideroblasts),TP
+GSM23188,Not Specified,control,TP,"Leukocytes, Mononuclear",Peripheral blood mononuclear cell,TP
+GSM490155,intraductal papillary-mucinous carcinoma (IPMC),pancreatic non-invasive intraductal papillary-mucinous carcinoma,TP,Epithelial Cells,Epithelial cells (pancreatic duct)),TP
+GSM317334,control,control,TP,"Muscle Fibers, Skeletal",Muscle tissue,TP
+GSM39104,HIV seronegative,control,FP,human PBMC,Peripheral blood mononuclear cell,TP
+GSM6836,Amyotrophic Lateral Sclerosis,amyotrophic lateral sclerosis,TP,Spinal Cord,CNS - Spinal Cord (MMHCC),TP
+GSM94841,inflammatory Cardiomyopathy,Viral cardiomyopathy,TP,Heart,Myocardial tissue,TP
+GSM700430,allergic asthmatic,epidermolysis bullosa simplex,TP,Keratinocytes,Epidermal punch biopsies,TP
+GSM213117,nobpd,control,TP,umbilical cord tissue,Premature newborn umbilical cords - Lower gestational age newborns,TP
+GSM277451,PCOS,polycystic ovary syndrome,TP,luteinized human cumulus cells,Cumulus cells cultured (Lean patients),TP
+GSM144374,control subject,control,TP,Skin,nickel-allergic patients whose SKINS were exposed to nickel - 96 hours,TP
+GSM892365,FSHD,facioscapulohumeral muscular dystrophy,TP,biceps,bicep,TP
+GSM533907,NSIP,idiopathic interstitial pneumonia,TP,Lung,Lung Tissue,TP
+GSM439788,control,control,TP,Brain BA10,Anterior prefrontal cortex - postmortem - Male,TP
+GSM523123,B-precursor acute lymphoblastic leukemia; Down Syndrome,Down syndrome,TP,Bone Marrow,bone marrow,TP
+GSM8906,Not Specified,control,TP,Gastric biopsies,Gastric Tissue,TP
+GSM899029,Microcrystalline arthritis,control,TP,synovial biopsies,synovial biopsies from affected knees,TP
+GSM300399,control,control,TP,Macrophages,macrophage,TP
+GSM27018,neuropathologically normal for age; Non-Demented,control,TP,human frontal cortex,frontal cortex,TP
+GSM1200300,hepatocellular carcinoma (HCC),hepatocellular carcinoma,TP,Peripheral Blood Mononuclear Cell (PBMC),Peripheral blood mononuclear cells,TP
+GSM630808,schizophrenic,schizophrenia,TP,Neurons,Induced pluripotent stem cell-derived neurons - Male,TP
+GSM337375,psoriatic patients,Psoriasis vulgaris,TP,skin_tissue,Skin tissue,TP
+GSM774473,Typically Developing Control,control,TP,Semitendinosus Muscle,gracilis and semitendinosus muscle,TP
+GSM677166,remitted schizophrenia patient,schizophrenia,TP,PBMCs,PBMC (peripheral blood mononuclear cells),TP
+GSM439823,schizophrenic,schizophrenia,TP,Brain BA10,Anterior prefrontal cortex - postmortem - Male,TP
+GSM11566,Multiple Myeloma; lytic-lesion,Osteolysis,FP,Bone Marrow,Leukocyte - Lymphocyte - B-Lymphocyte - Plasma Cell (MMHCC),TP
+GSM144433,nickel allergic,allergic contact dermatitis,TP,Skin,nickel-allergic patients whose SKINS were exposed to nickel - 96 hours,TP
+GSM151967,Autism no regression,autistic disorder,TP,Blood,whole blood cells,TP
+GSM414957,Tissue in Pancreatic Cancer,control,TP,Normal Tissue in Pancreatic Cancer Sample,Pancreatic tissue,TP
+GSM11472,Multiple Myeloma,control,FP,Bone Marrow,Leukocyte - Lymphocyte - B-Lymphocyte - Plasma Cell (MMHCC),TP
+GSM1293397,healthy control,control,TP,Epidermis,Epidermis,TP
+GSM1192703,Braak α-synuclein stage 1-2; incidental Lewy body disease,Lewy body dementia,TP,Substantia Nigra,Substantia nigra - Braak &Icirc;&plusmn;-synuclein stage 1-2,TP
+GSM483482,healthy control,control,TP,Bone Marrow; CD34+ hematopoietic stem cells (HSC),CD34+ hematopoietic stem cells (refractory anemia with excess blasts 2),TP
+GSM156176,healthy control,control,TP,Vastus lateralis muscle,Skeletal muscle,TP
+GSM709364,"Hepatitis, Alcoholic",alcoholic hepatitis,TP,liver biopsy sample,liver tissue,TP
+GSM11446,Multiple Myeloma,control,FP,Bone Marrow,Leukocyte - Lymphocyte - B-Lymphocyte - Plasma Cell (MMHCC),TP
+GSM372312,Psoriasis,Psoriasis vulgaris,TP,Skin,Skin tissue,TP
+GSM39154,HIV seropositive,Human immunodeficiency virus infectious disease,TP,human PBMC,Peripheral blood mononuclear cell,TP
+GSM1501844,"Adenocarcinoma of breast, ductal; tumor grade: G2; mininal stage grouping: IIIC; t (extent of primary tumor): T1c; n (lymph node metastasis): N3b; Breast Neoplasms",breast adenocarcinoma,TP,breast tumor tissue,Breast epithelium,TP
+GSM85499,Breast Neoplasms,breast cancer,TP,breast tumor,Mammary Gland Tissue,TP
+GSM554020,control,control,TP,"Leukocytes, Mononuclear",Peripheral blood mononuclear cells (collected from IS patients at least 6 months after the first and only stroke event),TP
+GSM1501831,"Adenocarcinoma of breast, ductal; tumor grade: G2; mininal stage grouping: IIB; t (extent of primary tumor): T2; n (lymph node metastasis): N1a; distant metastasis: 1",breast adenocarcinoma,TP,breast tumor tissue,Breast epithelium,TP
+GSM277788,non-malignant,control,TP,Fallopian tube epithelium,Fallopian tube,TP
+GSM213103,Bronchopulmonary Dysplasia,bronchopulmonary dysplasia,TP,umbilical cord tissue,Premature newborn umbilical cords - Lower gestational age newborns,TP
+GSM11437,Multiple Myeloma,control,FP,Bone Marrow,Leukocyte - Lymphocyte - B-Lymphocyte - Plasma Cell (MMHCC),TP
+GSM894411,Multiple Myeloma; IIIA,multiple myeloma,TP,bone marrow mesenchymal stromal cells,Bone marrow mesenchymal stromal cells,TP
+GSM98254,healthy control,control,TP,airway epithelial brushing,Epithelial Cell,TP
+GSM1501874,"Adenocarcinoma of breast, ductal; G3; IIIc; T2; N3a",breast adenocarcinoma,TP,breast tumor tissue,Breast epithelium,TP
+GSM1530164,control,control,TP,Dental Pulp cells,dental pulp cells,TP
+GSM587543,healthy control,control,TP,"Leukocytes, Mononuclear",Peripheral blood mononuclear cells,TP
+GSM388082,normal,control,TP,Pancreas,Pancreatic tissue,TP
+GSM181381,"Epilepsy, Absence",epilepsy syndrome,TP,Lymphoblastoid cell lines,lymphoblast,TP
+GSM947472,Pompe,"Pompe disease, infantile-onset form",TP,Biceps muscle,Biceps biopsies,TP
+GSM217783,HD patient,Huntington's disease,TP,lymphocytes (blood),Lymphocytes from patients with moderate stage Huntington's disease - Female,TP
+GSM1501861,"Adenocarcinoma of breast, ductal; G3; IIB; T2; N1biii; Breast Neoplasms",breast adenocarcinoma,TP,breast tumor tissue,Breast epithelium,TP
+GSM1501834,"Adenocarcinoma of breast, ductal; tumor grade: G2; mininal stage grouping: IIIA; t (extent of primary tumor): T2; n (lymph node metastasis): N2a; distant metastasis: 1",breast adenocarcinoma,TP,breast tumor tissue,Breast epithelium,TP
+GSM1152300,monoclonal gammopathy of undetermined significance (MGUS),monoclonal gammopathy of uncertain significance,TP,Bone Marrow; Plasma Cells,Bone marrow plasma cells,TP
+GSM1060157,Hypertension,control,TP,carotid tissue,Carotid artery,TP
+GSM39181,HIV seropositive,Human immunodeficiency virus infectious disease,TP,human PBMC,Peripheral blood mononuclear cell,TP
+GSM77379,Thyroid_papillary carcinoma,papillary thyroid carcinoma,TP,tumor,Thyroid Gland (MMHCC),TP
+GSM1509716,healthy,control,TP,Blood,Connective Tissue in Joints,TP
+GSM27026,neuropathologically normal for age; Non-Demented,control,TP,human frontal cortex,frontal cortex,TP
+GSM509797,normal adjacent esophageal tissue,control,TP,normal adjacent esophageal tissue,Esophageal normal adjacent tissue,TP
+GSM627089,control,control,TP,Lymphocytes,peripheral blood lymphocytes,TP
+GSM1152301,monoclonal gammopathy of undetermined significance (MGUS),monoclonal gammopathy of uncertain significance,TP,Bone Marrow; Plasma Cells,Bone marrow plasma cells,TP
+GSM217723,Marfan subject,Marfan syndrome,TP,Skin fibroblasts,Fibroblast,TP
+GSM158466,Normospermic,control,TP,Normal Human Sperm,Sperm cells - from males with consistent and severe teratozoospermia (terastospermia) - (HG-U133 2.0 ),TP
+GSM11458,Multiple Myeloma,control,FP,Bone Marrow,Leukocyte - Lymphocyte - B-Lymphocyte - Plasma Cell (MMHCC),TP
+GSM907819,non-AD,control,TP,Frontal Lobe,male frontal cortex,TP
+GSM1098455,skin squamous cell carcinoma,skin squamous cell carcinoma,TP,skin squamous cell carcinoma,Skin from SCCs and Normal human epidermis,TP
+GSM66934,normoxia,control,TP,Astrocytes,Astrocyte,TP
+GSM1053989,normal,control,TP,Induced Pluripotent Stem Cells,induced pluripotent stem cells,TP
+GSM97848,Epilepsy; Non-Tumor,control,TP,Brain tissue,CNS - Brain (MMHCC),TP
+GSM265006,Sepsis,control,TP,Plasma,Whole blood,TP
+GSM129051,healthy control,control,TP,Bone Marrow,CD34+ hematopoietic stem and progenitor cells from the bone marrow of untreated patients,TP
+GSM11502,Multiple Myeloma; lytic-lesion,Osteolysis,FP,Bone Marrow,Leukocyte - Lymphocyte - B-Lymphocyte - Plasma Cell (MMHCC),TP
+GSM677161,remitted schizophrenia patient,schizophrenia,TP,PBMCs,PBMC (peripheral blood mononuclear cells),TP
+GSM1398672,adjacent non-tumorous,control,TP,Parenchymal Tissue,Tumor tissues and Adjacent non-tumorous tissues of Hepatocellular Carcinoma,TP
+GSM103372,MDS; RARS; del(5q),anemia,TP,CD34+ cells,CD34+ cells (refractory anemia with ringed sideroblasts),TP
+GSM239717,"Colitis, Ulcerative; Inflammation",ulcerative colitis,TP,Colonic mucosal endoscopic pinch biopsy,Colonic mucosa - Inflamed,TP
+GSM1509624,Systemic lupus erythematosus (SLE),systemic lupus erythematosus,TP,Blood,Connective Tissue in Joints,TP
+GSM98241,healthy control,control,TP,airway epithelial brushing,Epithelial Cell,TP
+GSM286688,control,control,TP,Nasal Mucosa,Nose,TP
+GSM39107,HIV seronegative,control,FP,human PBMC,Peripheral blood mononuclear cell,TP
+GSM1053953,normal,control,TP,Fibroblasts,fibroblast,TP
+GSM337343,psoriatic patients,Psoriasis vulgaris,TP,Skin,Skin tissue,TP
+GSM217768,control,control,TP,lymphocytes (blood),Lymphocytes from patients with moderate stage Huntington's disease - Female,TP
+GSM425931,inactive endometrium,control,TP,Endometrium,Uterine tumors (endometrioid histologic subtype) - Stage-Grade:IA-G2,TP
+GSM85478,Breast Neoplasms,breast cancer,TP,breast tumor,Mammary Gland Tissue,TP
+GSM1060142,Hypertension; Atheroma plaque,atherosclerosis,TP,Atheroma plaque,Carotid artery,TP
+GSM286667,Postinfection,Rhinovirus infection,TP,Nasal Mucosa,Nose,TP
+GSM523117,B-precursor acute lymphoblastic leukemia; Non-Down syndrome,control,TP,Bone Marrow,bone marrow,TP
+GSM537585,PolyRF+,arthritis,TP,"Leukocytes, Mononuclear",PBMC (peripheral blood mononuclear cells),TP
+GSM523118,B-precursor acute lymphoblastic leukemia; Down Syndrome,Down syndrome,TP,Bone Marrow,bone marrow,TP
+GSM217675,control subject,control,TP,Skin fibroblasts,Fibroblast,TP
+GSM300105,chronic myeloid leukaemia,chronic myeloid leukemia,TP,Bone Marrow,Haematopoietic stem cell,TP
+GSM1361627,LGSC; borderline,control,TP,Ovarian tumor,low-grade serous ovarian carcinomas (tumors from patients with matched border control),TP
+GSM979092,hepatocellular carcinoma (HCC),hepatocellular carcinoma,TP,tumor,HCC tumor and matched non-tumor surrounding tissues,TP
+GSM907803,Alzheimer Disease,Alzheimer's disease,TP,Frontal Lobe,female frontal cortex,TP
+GSM8911,Not Specified,control,TP,Gastric biopsies,Gastric Tissue,TP
+GSM155595,unaffected colon,ulcerative colitis,TP,Colon,Intestine - Large Intestine - Colon (MMHCC),TP
+GSM479948,healthy,control,TP,human peripheral blood mononuclear cells,Peripheral blood mononuclear cells,TP
+GSM23162,pauciaticular course JRA,juvenile rheumatoid arthritis,FP,"Leukocytes, Mononuclear",Peripheral blood mononuclear cell,TP
+GSM98216,asthmatic,asthma,TP,airway epithelial brushing,Epithelial Cell,TP
+GSM277445,Obesity,control,FP,luteinized human cumulus cells,Cumulus cells cultured (Obese patients),TP
+GSM800760,Neoplasms; Neoplasm Metastasis; stage: 4,colorectal cancer,TP,cancer,Colon,TP
+GSM1053938,"Cardiomyopathy, Dilated",dilated cardiomyopathy,TP,Heart,"heart, left ventricle apex",TP
+GSM14586,"Granulomatous Disease, Chronic",chronic granulomatous disease,TP,Human polymorphonuclear (PMN) leukocytes,Blood neutrophil,TP
+GSM213496,Seminoma; pT2,testis seminoma,TP,seminoma specimen,Testicular seminoma tumors (at pT2) and normal testicular tissue,TP
+GSM97901,"oligodendroglioma, grade 2",oligodendroglioma,TP,Brain tissue,CNS - Brain (MMHCC),TP
+GSM1053931,Ischemic Cardiomyopathy,peripartum cardiomyopathy,TP,Heart,Left Ventricle Apex Tissue,TP
+GSM907792,Alzheimer Disease,Alzheimer's disease,TP,Frontal Lobe,male frontal cortex,TP
+GSM144368,control,control,TP,Skin,nickel-allergic patients whose SKINS were exposed to nickel - 7 hours,TP
+GSM318412,Schizophrenia,alcohol abuse,TP,Neurons,endothelial cells and neurons from dorsolateral prefrontal cortex,TP
+GSM300142,healthy donor,control,TP,Bone Marrow,Haematopoietic stem cell,TP
+GSM1253029,Dengue Infected,dengue disease,TP,Blood,whole blood,TP
+GSM39828,AML,acute myeloid leukemia,TP,mononuclear cells isolated from peripheral blood or bone marrow,Mononuclear Leukocyte,TP
+GSM523143,B-precursor acute lymphoblastic leukemia; Non-Down syndrome,control,TP,Bone Marrow,bone marrow,TP
+GSM1060131,Hypertension,control,TP,carotid tissue,Carotid artery,TP
+GSM1060169,Hypertension,control,TP,carotid tissue,Carotid artery,TP
+GSM479952,Sarcoidosis,sarcoidosis,TP,human peripheral blood mononuclear cells,Peripheral blood mononuclear cells,TP
+GSM572807,"Diabetes Mellitus, Type 2",type 2 diabetes mellitus,TP,Liver,Percutaneous needle LIVER biopsies - (hepatokines) - Female,TP
+GSM627103,control,control,TP,Lymphocytes,blood lymphocytes,TP
+GSM1336980,Systemic lupus erythematosus (SLE),systemic lupus erythematosus,TP,CD8 positive T cells,CD8+ T cells - African-American SLE patients,TP
+GSM388080,normal,control,TP,Pancreas,Pancreatic tissue,TP
+GSM1174408,control,control,TP,Endometrium,endometrial cells,TP
+GSM266986,recent-onset T1D,type 1 diabetes mellitus,TP,CD4+CD25+high regulatory T cells,T lymphocyte,TP
+GSM181389,"Epilepsy, Absence",epilepsy syndrome,TP,Lymphoblastoid cell lines,lymphoblast,TP
+GSM1411026,euploid fetus,control,TP,AF cell free mRNA,amniotic fluid,TP
+GSM627170,Autistic Disorder,autism spectrum disorder,TP,Lymphocytes,blood lymphocytes,TP
+GSM217780,HD patient,Huntington's disease,TP,lymphocytes (blood),Lymphocytes from patients with moderate stage Huntington's disease - Female,TP
+GSM39856,AML,acute myeloid leukemia,TP,mononuclear cells isolated from peripheral blood or bone marrow,Mononuclear Leukocyte,TP
+GSM318431,Bipolar Disorder,alcohol abuse,TP,Neurons,endothelial cells and neurons from dorsolateral prefrontal cortex,TP
+GSM156749,PCOS,polycystic ovary syndrome,TP,Vastus lateralis muscle,Skeletal muscle,TP
+GSM39167,HIV seropositive,Human immunodeficiency virus infectious disease,TP,human PBMC,Peripheral blood mononuclear cell,TP
+GSM244483,"Shock, Septic",Septic Shock,TP,Blood,Whole blood,TP
+GSM1050273,healthy control,control,TP,Extensor digitorum longus,skeletal muscle,TP
+GSM948573,UC,ulcerative colitis,TP,Human Colon,Intestinal mucosa,TP
+GSM337302,uninvolved skin,psoriasis,TP,skin_tissue,Non-lesional (NL) Skin - (Uninvolved samples),TP
+GSM340260,enthesitis-related arthritis,arthritis,TP,"Leukocytes, Mononuclear",PBMC (peripheral blood mononuclear cells),TP
+GSM627084,control,control,TP,Lymphocytes,blood lymphocytes,TP
+GSM523154,B-precursor acute lymphoblastic leukemia; Non-Down syndrome,control,TP,Bone Marrow,bone marrow,TP
+GSM509808,Esophageal Squamous Cell Carcinoma,esophagus squamous cell carcinoma,TP,esophageal squamous cell carcinoma,Esophageal normal adjacent tissue,TP
+GSM1336982,Systemic lupus erythematosus (SLE),systemic lupus erythematosus,TP,CD8 positive T cells,CD8+ T cells - African-American SLE patients,TP
+GSM217742,Marfan subject,Marfan syndrome,TP,Skin fibroblasts,Fibroblast,TP
+GSM312901,normal,control,TP,Nasopharynx,Microdissected nasopharyngeal carcinoma (NPC) tissues samples - stage T1N0,TP
+GSM523156,B-precursor acute lymphoblastic leukemia; Down Syndrome,Down syndrome,TP,Bone Marrow,bone marrow,TP
+GSM1192714,Braak α-synuclein stages 5-6; Parkinson Disease,Lewy body dementia,TP,Substantia Nigra,Substantia nigra - Braak &Icirc;&plusmn;-synuclein stage 5-6,TP
+GSM11462,Multiple Myeloma,control,FP,Bone Marrow,Leukocyte - Lymphocyte - B-Lymphocyte - Plasma Cell (MMHCC),TP
+GSM29100,MacularDegen,macular degeneration,TP,Human fibroblast,Fibroblast,TP
+GSM1167111,normal control,control,TP,Blood,Peripheral blood,TP
+GSM414928,Tissue in Pancreatic Cancer,control,TP,Normal Tissue in Pancreatic Cancer Sample,Pancreatic tissue,TP
+GSM213078,nobpd,control,TP,umbilical cord tissue,Premature newborn umbilical cords - Lower gestational age newborns,TP
+GSM172858,control,control,TP,Mesodermal Precursor Cells,mesodermal precursor cells,TP
+GSM413840,normal,control,TP,Chondrocytes,chondrocytes monolayer culture,TP
+GSM211459,Aldosterone-Producing Adenoma,adenoma,TP,Aldosterone-Producing Adenoma,Adrenal gland,TP
+GSM665436,Severe asthma,asthma,TP,Leukocytes,white blood cells - Male Severe Asthma,TP
+GSM753571,non-metastatic prostate cancer,prostate cancer,TP,Blood; Leukocytes,Peripheral white blood cells,TP
+GSM144132,Tobacco abuse,nicotine dependence,TP,lymphoblast cell line,lymphoblast cell lines,TP
+GSM277800,high grade serous carcinoma,serous cystadenocarcinoma,TP,high grade serous carcinoma,Fallopian tube,TP
+GSM98222,healthy control,control,TP,airway epithelial brushing,Epithelial Cell,TP
+GSM1167108,normal control,control,TP,Blood,Peripheral blood,TP
+GSM72248,normal smoker,chronic obstructive pulmonary disease,FP,"Macrophages, Alveolar",Alveolar Macrophage,TP
+GSM388102,normal,control,TP,Pancreas,Pancreatic tissue,TP
+GSM300421,"Spondylitis, Ankylosing",ankylosing spondylitis,TP,Macrophages,macrophage,TP
+GSM815433,AL; Eczema,atopic dermatitis,TP,Skin,Skin (LESIONAL atopic dermatitis (AL) skin lesions),TP
+GSM95494,colon adenoma,colon adenoma,TP,colon biopsy,Colon biopsy,TP
+GSM151965,Autism no regression,autistic disorder,TP,Blood,whole blood cells,TP
+GSM158482,Teratozoospermia,Teratospermia,TP,Human Sperm,Sperm cells - from males with consistent and severe teratozoospermia (terastospermia) - (HG-U133 2.0 ),TP
+GSM181399,unaffected,control,TP,transformed lymphocytes,lymphoblast,TP
+GSM11540,Multiple Myeloma; lytic-lesion,Osteolysis,FP,Bone Marrow,Leukocyte - Lymphocyte - B-Lymphocyte - Plasma Cell (MMHCC),TP
+GSM337207,normal skin from controls,control,TP,skin_tissue,Skin tissue,TP
+GSM39846,AML,acute myeloid leukemia,TP,mononuclear cells isolated from peripheral blood or bone marrow,Mononuclear Leukocyte,TP
+GSM150210,normal,control,TP,Endometrium,Endometrium,TP
+GSM300401,control,control,TP,Macrophages,macrophage,TP
+GSM535613,healthy,control,TP,Breast,Mammary gland,TP
+GSM483336,Myelodysplastic syndromes (MDS); Refractory anemia (RA),myelodysplastic syndrome,TP,Bone Marrow; CD34+ hematopoietic stem cells (HSC),CD34+ hematopoietic stem cells (refractory anemia),TP
+GSM662763,Prostate tumor,prostate cancer,TP,Prostate,Stromal cells,TP
+GSM1152338,Multiple Myeloma,multiple myeloma,TP,Bone Marrow; Multiple Myeloma (MM) plasma cells,Bone marrow plasma cells,TP
+GSM1293398,healthy control,control,TP,Epidermis,Epidermis,TP
+GSM899018,"Arthritis, Rheumatoid",control,TP,synovial biopsies,synovial biopsies from affected knees,TP
+GSM1253079,control,control,TP,Blood,whole blood,TP
+GSM1053968,normal,control,TP,Induced Pluripotent Stem Cells,induced pluripotent stem cells,TP
+GSM483425,Myelodysplastic syndromes (MDS); Refractory anemia with ringed sideroblasts (RARS),myelodysplastic syndrome,TP,Bone Marrow; CD34+ hematopoietic stem cells (HSC),CD34+ hematopoietic stem cells (refractory anemia with ringed sideroblasts),TP
+GSM175771,Disease 6,endometriosis of ovary,TP,Endometrium/Ovary,Endometrium,TP
+GSM98191,asthmatic,asthma,TP,airway epithelial brushing,Epithelial Cell,TP
+GSM677121,"acutely admitted, severely psychotic schizophrenia",schizophrenia,TP,PBMCs,PBMC (peripheral blood mononuclear cells),TP
+GSM1327260,normal thyroid,control,TP,normal thyroid tissue,Papillary thyroid carcinoma tumors (without a BRAF mutation) and Normal thyroid specimens,TP
+GSM1501852,"Adenocarcinoma of breast, ductal; tumor grade: G3; mininal stage grouping: IIA; t (extent of primary tumor): T2; n (lymph node metastasis): N0; er: 1; pgr: 1; dfs-month: 16; dfs-event: 0; distant metastasis: 0; Breast Neoplasms",breast adenocarcinoma,TP,breast tumor tissue,Breast epithelium,TP
+GSM533892,UIP/IPF,idiopathic interstitial pneumonia,TP,Lung,Lung Tissue,TP
+GSM318415,control,control,TP,Endothelial Cells,Endothelial cells - male,TP
+GSM483384,Myelodysplastic syndromes (MDS); Refractory anemia (RA),myelodysplastic syndrome,TP,Bone Marrow; CD34+ hematopoietic stem cells (HSC),CD34+ hematopoietic stem cells (refractory anemia),TP
+GSM282587,control,control,TP,peripheral ganglion,Ganglioneuroblastoma,TP
+GSM286662,control,control,TP,Nasal Mucosa,Nose,TP
+GSM401289,Convalescence,asthma,TP,"Leukocytes, Mononuclear",PBMC,TP
+GSM1398691,hepatocellular carcinoma tumor,hepatocellular carcinoma,TP,Parenchymal Tissue,Tumor tissues and Adjacent non-tumorous tissues of Hepatocellular Carcinoma,TP
+GSM158479,Teratozoospermic; infertile,Teratospermia,TP,Human Sperm,Sperm cells - from males with consistent and severe teratozoospermia (terastospermia) - (HG-U133 2.0 ),TP
+GSM483380,Myelodysplastic syndromes (MDS); refractory anemia with excess blasts 1 (RAEB1),myelodysplastic syndrome,TP,Bone Marrow; CD34+ hematopoietic stem cells (HSC),CD34+ hematopoietic stem cells (refractory anemia with excess blasts 1),TP
+GSM98188,asthmatic,asthma,TP,airway epithelial brushing,Epithelial Cell,TP
+GSM677147,"acutely admitted, severely psychotic schizophrenia",schizophrenia,TP,PBMCs,PBMC (peripheral blood mononuclear cells),TP
+GSM523145,B-precursor acute lymphoblastic leukemia; Non-Down syndrome,control,TP,Bone Marrow,bone marrow,TP
+GSM265023,Sepsis,control,TP,Plasma,Whole blood,TP
+GSM774488,Typically Developing Control,control,TP,Gracilis Mucle,gracilis and semitendinosus muscle,TP
+GSM665395,healthy control,control,TP,Leukocytes,white blood cells - Male Mild Asthma,TP
+GSM490159,Invasive cancer; intraductal papillary-mucinous neoplasm (IPMN),pancreatic invasive intraductal papillary-mucinous carcinoma,TP,Epithelial Cells,Epithelial cells (pancreatic duct),TP
+GSM337276,uninvolved skin,psoriasis,TP,skin_tissue,Non-lesional (NL) Skin - (Uninvolved samples),TP
+GSM677167,"acutely admitted, severely psychotic schizophrenia",schizophrenia,TP,PBMCs,PBMC (peripheral blood mononuclear cells),TP
+GSM1398721,adjacent non-tumorous,control,TP,Parenchymal Tissue,Tumor tissues and Adjacent non-tumorous tissues of Hepatocellular Carcinoma,TP
+GSM372325,Psoriasis,Psoriasis vulgaris,TP,Skin,Skin tissue,TP
+GSM425856,ic; grade: 2; Endometrioid,endometrial cancer,TP,Endometrium,Uterine tumors (endometrioid histologic subtype) - Stage-Grade:IC-G2,TP
+GSM317681,control,control,TP,prefrontal cortex (BA10),Cerebral cortex,TP
+GSM1509619,Systemic lupus erythematosus (SLE),systemic lupus erythematosus,TP,Blood,Connective Tissue in Joints,TP
+GSM665420,mild asthma,asthma,TP,Leukocytes,white blood cells - Female Mild Asthma,TP
+GSM483301,Myelodysplastic syndromes (MDS); Refractory anemia (RA),myelodysplastic syndrome,TP,Bone Marrow; CD34+ hematopoietic stem cells (HSC),HSC cells,TP
+GSM1174426,PCOS,polycystic ovary syndrome,TP,Endometrium; Stromal Cells,Stromal cells,TP
+GSM264994,Acute Lung Injury,Acute Lung Injury,TP,Plasma,Whole blood,TP
+GSM187595,normal control,control,TP,peripheral blood mononuclear cells (PBMCs),Peripheral blood mononuclear cell,TP
+GSM419155,control,control,TP,Blood,peripheral blood,TP
+GSM1337007,healthy control,control,TP,CD8 positive T cells,CD8+ T cells - African-American SLE patients,TP
+GSM286705,Sham infected,control,TP,Nasal Mucosa,Nose,TP
+GSM277794,non-malignant,control,TP,Fallopian tube epithelium,Fallopian tube,TP
+GSM425862,ic; grade: 2; Endometrioid,endometrial cancer,TP,Endometrium,Uterine tumors (endometrioid histologic subtype) - Stage-Grade:IC-G2,TP
+GSM479939,healthy,control,TP,human peripheral blood mononuclear cells,Peripheral blood mononuclear cells,TP
+GSM348181,Arthritis,arthritis,TP,"Leukocytes, Mononuclear",PBMC (peripheral blood mononuclear cells),TP
+GSM11469,Multiple Myeloma,control,FP,Bone Marrow,Leukocyte - Lymphocyte - B-Lymphocyte - Plasma Cell (MMHCC),TP
+GSM286718,Postinfection,Rhinovirus infection,TP,Nasal Mucosa,Nose,TP
+GSM523140,B-precursor acute lymphoblastic leukemia; Non-Down syndrome,control,TP,Bone Marrow,bone marrow,TP
+GSM665402,healthy control,control,TP,Leukocytes,white blood cells - Male Mild Asthma,TP
+GSM948584,UC; non-involved mucosa,ulcerative colitis,TP,Human Colon,Intestinal mucosa,TP
+GSM150217,Endometriosis,endometriosis,TP,Endometrium,Endometrial specimens from women with endometriosis - Mid Secretory,TP
+GSM1348945,Prostatic Neoplasms,prostate cancer,TP,Malignant prostate tissue,Radical prostatectomy tissue samples (TMPRSS2:ERG gene fusion POSITIVE) and Benign prostate tissue,TP
+GSM388144,Neoplasms,pancreatic ductal adenocarcinoma,TP,Pancreas,Pancreatic tissue,TP
+GSM26487,Not Specified,Lung Injury,FN,A549 Cells,Lung Tissue,TP
+GSM1411024,Turner Syndrome,Turner syndrome,TP,Amniotic Fluid,amniotic fluid,TP
+GSM211458,Aldosterone-Producing Adenoma,adenoma,TP,Aldosterone-Producing Adenoma,Adrenal gland,TP
+GSM523803,JFH-1 Infected,hepatitis C,TP,Huh7,Huh7 hepatoma cells (infected with JFH-1 HCV) - 12 Hours post-infection,TP
+GSM1089622,Rapid progressing fibrosis,idiopathic pulmonary fibrosis,TP,cultured human fibroblasts,Lung fibroblasts (Rapid progressing fibrosis),TP
+GSM98158,asthmatic,asthma,TP,airway epithelial brushing,Epithelial Cell,TP
+GSM102689,melanoma in situ,melanoma in situ,TP,Skin,Biopsy,TP
+GSM217674,control subject,control,TP,Skin fibroblasts,Fibroblast,TP
+GSM39178,HIV seropositive,Human immunodeficiency virus infectious disease,TP,human PBMC,Peripheral blood mononuclear cell,TP
+GSM29063,healthy,control,TP,Human fibroblast,Fibroblast,TP
+GSM11456,Multiple Myeloma,control,FP,Bone Marrow,Leukocyte - Lymphocyte - B-Lymphocyte - Plasma Cell (MMHCC),TP
+GSM5159,Not Specified,Epithelial proliferation,FN,mammary epithelial cells,Epithelial Cell,TP
+GSM677120,"acutely admitted, severely psychotic schizophrenia",schizophrenia,TP,PBMCs,PBMC (peripheral blood mononuclear cells),TP
+GSM201863,PCOS,polycystic ovary syndrome,TP,Vastus lateralis muscle,Skeletal muscle (from obese women with polycystic ovary syndrome),TP
+GSM658016,B-CLL,Chronic Lymphocytic Leukemia (Chronic B-lymphocytic leukemia),TP,Blood,Peripheral blood,TP
+GSM358673,healthy control,control,TP,dermal fibroblasts,fibroblasts,TP
+GSM488113,control,control,TP,Brain (Dorsal Motor Nucleus of the Vagus),PD medullas,TP
+GSM439802,control,control,TP,Brain BA10,Anterior prefrontal cortex - postmortem - Female,TP
+GSM483349,Myelodysplastic syndromes (MDS); refractory anemia with excess blasts 2 (RAEB2),myelodysplastic syndrome,TP,Bone Marrow; CD34+ hematopoietic stem cells (HSC),CD34+ hematopoietic stem cells (refractory anemia with excess blasts 2),TP
+GSM39826,AML,acute myeloid leukemia,TP,mononuclear cells isolated from peripheral blood or bone marrow,Mononuclear Leukocyte,TP
+GSM39823,AML,acute myeloid leukemia,TP,mononuclear cells isolated from peripheral blood or bone marrow,Mononuclear Leukocyte,TP
+GSM377467,control,control,TP,Muscle: Biceps,skeletal muscle (biceps &amp; deltoid),TP
+GSM439796,schizophrenic,schizophrenia,TP,Brain BA10,Anterior prefrontal cortex - postmortem - Male,TP
+GSM627123,control,control,TP,Lymphocytes,peripheral blood lymphocytes,TP
+GSM239726,"Colitis, Ulcerative",ulcerative colitis,TP,colonic mucosa,Colonic mucosa - Non-Inflamed,TP
+GSM979119,hepatocellular carcinoma (HCC),hepatocellular carcinoma,TP,tumor,HCC tumor and matched non-tumor surrounding tissues,TP
+GSM98172,asthmatic,asthma,TP,airway epithelial brushing,Epithelial Cell,TP
+GSM1152294,monoclonal gammopathy of undetermined significance (MGUS),monoclonal gammopathy of uncertain significance,TP,Bone Marrow; Plasma Cells,Bone marrow plasma cells,TP
+GSM107454,Not Specified,bacterial infectious disease,FN,monocyte derived dendritic cells,Dendritic cell,TP
+GSM184362,normal,control,TP,Substantia Nigra,Substantia nigra - Male,TP
+GSM1150698,AAA; non-aneurysmal AAA neck tissue,abdominal aortic aneurysm,TP,aortic wall,Aorta,TP
+GSM49939,control,control,TP,NB4 PROMYELOCYTIC CELLS,Leukemic Cell,TP
+GSM1348951,normal,control,TP,Benign prostate tissue,Radical prostatectomy tissue samples (TMPRSS2:ERG gene fusion NEGATIVE) and Benign prostate tissue,TP
+GSM244469,"Shock, Septic",Septic Shock,TP,Blood,Whole blood,TP
+GSM1187673,morbidly obese,morbid obesity,TP,Subcutaneous white adipose tissue,adipose stem cells,TP
+GSM340363,systemic JIA,arthritis,TP,"Leukocytes, Mononuclear",PBMC (peripheral blood mononuclear cells),TP
+GSM627129,control,control,TP,Lymphocytes,peripheral blood lymphocytes,TP
+GSM30372,SARS,severe acute respiratory syndrome,TP,Blood,Peripheral blood mononuclear cell,TP
+GSM102702,Not Specified,control,TP,epidermal keratinocytes,Epidermis,TP
+GSM150227,normal,control,TP,Endometrium,Endometrium,TP
+GSM1509709,healthy,control,TP,Blood,Connective Tissue in Joints,TP
+GSM300144,healthy donor,control,TP,Bone Marrow,Haematopoietic stem cell,TP
+GSM1253048,Dengue Infected,dengue hemorrhagic fever,TP,Blood,whole blood,TP
+GSM627105,control,control,TP,Lymphocytes,peripheral blood lymphocytes,TP
+GSM217726,Marfan subject,Marfan syndrome,TP,Skin fibroblasts,Fibroblast,TP
+GSM630796,control,control,TP,hiPSC-derived 6-week-old neurons,Induced pluripotent stem cell-derived neurons - Female,TP
+GSM217698,Marfan subject,Marfan syndrome,TP,Skin fibroblasts,Fibroblast,TP
+GSM217669,control subject,control,TP,Skin fibroblasts,Fibroblast,TP
+GSM151997,typically developing,control,FP,Blood,whole blood cells,TP
+GSM39179,HIV seropositive,Human immunodeficiency virus infectious disease,TP,human PBMC,Peripheral blood mononuclear cell,TP
+GSM479972,Sarcoidosis,sarcoidosis,TP,human peripheral blood mononuclear cells,Peripheral blood mononuclear cells,TP
+GSM286725,Preinfection,Rhinovirus infection,TP,Nasal Mucosa,Nose,TP
+GSM98186,asthmatic,asthma,TP,airway epithelial brushing,Epithelial Cell,TP
+GSM969461,Prostatic Neoplasms,prostate cancer,TP,LNCaP-abl (abl),LNCaP,TP
+GSM52867,Rotavirus acute phase infection,Rotavirus infection of children,TP,Peripheral Blood Mononuclear Cell (PBMC),Peripheral blood mononuclear cell,TP
+GSM488116,control,control,TP,Brain (Inferior Olivary Nucleus),PD medullas,TP
+GSM98207,healthy control,control,TP,airway epithelial brushing,Epithelial Cell,TP
+GSM1336948,Systemic lupus erythematosus (SLE),systemic lupus erythematosus,TP,CD4 positive T cells,CD4+ T cells - European-American SLE patients,TP
+GSM317669,Schizophrenia,schizophrenia,TP,prefrontal cortex (BA10),Prefrontal Cortex,TP
+GSM969458,Prostatic Neoplasms,control,FP,LNCaP-abl (abl),LNCaP,TP
+GSM665423,Severe asthma,asthma,TP,Leukocytes,white blood cells - Female Severe Asthma,TP
+GSM979062,hepatocellular carcinoma (HCC),hepatocellular carcinoma,TP,tumor,HCC tumor and matched non-tumor surrounding tissues,TP
+GSM1045517,Non-syndromic cleft lip/palate (NSCL/P),cleft lip,TP,deciduous teeth dental pulp,dental pulp stem cell culture,TP
+GSM172880,DM1-affected,myotonic dystrophy type 1,TP,human embryonic stem (hES) cells line VUB03_DM1,embryonic stem cells,TP
+GSM66640,healthy subject,bacterial infectious disease,TP,human peripheral blood mononuclear cells,Peripheral blood mononuclear cell,TP
+GSM1152351,healthy donor,control,TP,Bone Marrow; Normal Plama Cells (NPC),Bone marrow plasma cells,TP
+GSM11564,Multiple Myeloma; lytic-lesion,Osteolysis,FP,Bone Marrow,Leukocyte - Lymphocyte - B-Lymphocyte - Plasma Cell (MMHCC),TP
+GSM979131,"Carcinoma, Hepatocellular",control,TP,non-tumor,HCC tumor and matched non-tumor surrounding tissues,TP
+GSM1253034,Dengue Infected,dengue hemorrhagic fever,TP,Blood,whole blood,TP
+GSM774492,Cerebral Palsy,cerebral palsy,TP,Gracilis Mucle,Skeletal muscle - Gracilis muscle biopsies,TP
+GSM377461,control,control,TP,Human skeletal muscle; Muscle: Deltoid,skeletal muscle (biceps &amp; deltoid),TP
+GSM217660,control subject,control,TP,Skin fibroblasts,Fibroblast,TP
+GSM572806,Normal glucose tolerance,control,TP,Liver,Percutaneous needle LIVER biopsies - (hepatokines) - Female,TP
+GSM1167082,patient without recurrent events,acute myocardial infarction,TP,Blood,Peripheral blood,TP
+GSM907797,Alzheimer Disease,Alzheimer's disease,TP,Frontal Lobe,female frontal cortex,TP
+GSM300093,chronic myeloid leukaemia,chronic myeloid leukemia,TP,Bone Marrow,Haematopoietic stem cell,TP
+GSM337293,uninvolved skin,psoriasis,TP,skin_tissue,Non-lesional (NL) Skin - (Uninvolved samples),TP
+GSM213116,bpd,bronchopulmonary dysplasia,TP,umbilical cord tissue,Premature newborn umbilical cords - Lower gestational age newborns,TP
+GSM95515,IBD,inflammatory bowel disease,TP,colon biopsy,Colon biopsy,TP
+GSM1098451,skin squamous cell carcinoma,skin squamous cell carcinoma,TP,skin squamous cell carcinoma,Skin from SCCs and Normal human epidermis,TP
+GSM155927,Normal liver tissue,control,TP,Parenchymal Tissue,Liver,TP
+GSM788330,severe asthmatic,asthma,TP,CD8+ T-cells,Circulating CD8+ T-cells (severe asthma),TP
+GSM1403313,"Carcinoma, Hepatocellular",hepatocellular carcinoma,TP,"Leukocytes, Mononuclear",Peripheral blood mononuclear cell,TP
+GSM160311,Rett Syndrome,Rett syndrome,TP,Prefrontal Cortex,frontal cortex,TP
+GSM213470,Seminoma; pT1,testis seminoma,TP,seminoma specimen,Testicular seminoma tumors (at pT1) and normal testicular tissue,TP
+GSM569480,early SS,Sjogren's syndrome,TP,"Salivary Glands, Minor",Minor salivary glands - Early Sjogren's syndrome,TP
+GSM77365,Thyroid_papillary carcinoma,papillary thyroid carcinoma,TP,tumor,Thyroid Gland (MMHCC),TP
+GSM479943,Sarcoidosis,sarcoidosis,TP,human peripheral blood mononuclear cells,Peripheral blood mononuclear cells,TP
+GSM1174431,PCOS,polycystic ovary syndrome,TP,Endometrium; Stromal Cells,Stromal cells,TP
+GSM187623,new onset sJIA,JRA - Juvenile rheumatoid arthritis,TP,peripheral blood mononuclear cells (PBMCs),Peripheral blood mononuclear cell,TP
+GSM1152366,Smoldering Multiple Myeloma (SMM),smoldering myeloma,TP,Bone Marrow,Bone marrow plasma cells,TP
+GSM887865,Normal pituitary,control,TP,Normal Pituitary,human prolactinomas,TP
+GSM11438,Multiple Myeloma,control,FP,Bone Marrow,Leukocyte - Lymphocyte - B-Lymphocyte - Plasma Cell (MMHCC),TP
+GSM572816,"Diabetes Mellitus, Type 2",type 2 diabetes mellitus,TP,Liver,Percutaneous needle LIVER biopsies - (hepatokines) - Male,TP
+GSM1130456,bipolar patient,bipolar disorder,TP,leukocytes from whole blood,peripheral blood leukocytes,TP
+GSM129242,vulvar intraepithelial neoplasia (VIN),Vulvar intraepithelial tumor,TP,Vulva,vulvar intraepithelial neoplasia (VIN) lesions,TP
+GSM29097,MacularDegen,macular degeneration,TP,Human fibroblast,Fibroblast,TP
+GSM931817,multiple sclerosis after inflammation has subsided-late stage,multiple sclerosis,TP,multiple sclerosis brain lesion,brain lesion (MS after inflammation - late stage),TP
+GSM483394,Myelodysplastic syndromes (MDS); Refractory anemia with ringed sideroblasts (RARS),myelodysplastic syndrome,TP,Bone Marrow; CD34+ hematopoietic stem cells (HSC),CD34+ hematopoietic stem cells (refractory anemia with ringed sideroblasts),TP
+GSM29610,Crohn,Crohn's disease,TP,sigmoid colon biopsy,sigmoid colons (mucosal biopsy),TP
+GSM1060136,Atheroma plaque; Hypertension,atherosclerosis,TP,Atheroma plaque,Carotid artery,TP
+GSM627126,control,control,TP,Lymphocytes,peripheral blood lymphocytes,TP
+GSM181385,"Epilepsy, Absence",epilepsy syndrome,TP,Lymphoblastoid cell lines,lymphoblast,TP
+GSM1045520,Non-syndromic cleft lip/palate (NSCL/P),cleft lip,TP,deciduous teeth dental pulp,dental pulp stem cell culture,TP
+GSM340378,systemic JIA,arthritis,TP,"Leukocytes, Mononuclear",PBMC (peripheral blood mononuclear cells),TP
+GSM300100,chronic myeloid leukaemia,chronic myeloid leukemia,TP,Bone Marrow,Haematopoietic stem cell,TP
+GSM346570,control subject,control,TP,Intima media,Mammary arterial tissue,TP
+GSM627085,control,control,TP,Lymphocytes,peripheral blood lymphocytes,TP
+GSM414965,Pancreatic Neoplasms; Neoplasms,pancreatic cancer,TP,Tumor Tissue in Pancreatic Cancer Sample,Pancreatic tissue,TP
+GSM746739,Systemic lupus erythematosous (SLE),lupus erythematosus,TP,Blood; Sorted B cell,Peripheral blood B cells (inactive lupus),TP
+GSM1192710,Braak α-synuclein 3-4; Parkinson Disease,Lewy body dementia,TP,Substantia Nigra,Substantia nigra - Braak &Icirc;&plusmn;-synuclein stage 3-4,TP
+GSM1167123,normal control,control,TP,Blood,Peripheral blood,TP
+GSM144347,control subject,control,TP,Skin,nickel-allergic patients whose SKINS were exposed to nickel - 96 hours,TP
+GSM337232,normal skin from controls,control,TP,skin_tissue,Skin tissue,TP
+GSM5164,Not Specified,control,TP,mammary epithelial cells,Epithelial Cell,TP
+GSM554044,IS; Hypertension; diabetes; Hypercholesterolemia,Ischemic stroke,TP,"Leukocytes, Mononuclear",Peripheral blood mononuclear cells (collected from IS patients at least 6 months after the first and only stroke event),TP
+GSM1152370,Smoldering Multiple Myeloma (SMM),smoldering myeloma,TP,Bone Marrow,Bone marrow plasma cells,TP
+GSM377459,affected,facioscapulohumeral muscular dystrophy,TP,Human skeletal muscle; Muscle: Deltoid,skeletal muscle (biceps &amp; deltoid),TP
+GSM415389,normal,control,TP,Lung,Lungs,TP
+GSM948589,UC; pancolitis,ulcerative colitis,TP,Human Colon,Intestinal mucosa,TP
+GSM665388,healthy control,control,TP,Leukocytes,white blood cells - Female Severe Asthma,TP
+GSM1174435,PCOS,polycystic ovary syndrome,TP,Endometrium,Epithelial cells,TP
+GSM479926,Sarcoidosis,sarcoidosis,TP,human peripheral blood mononuclear cells,Peripheral blood mononuclear cells,TP
+GSM545760,schizophrenic,schizophrenia,TP,"superior temporal cortex (Brodmann Area 22, BA22)",Superior temporal cortex - postmortem - Male,TP
+GSM1530149,control,control,TP,Induced Pluripotent Stem Cells,induced pluripotent stem cells,TP
+GSM774498,Cerebral Palsy,cerebral palsy,TP,Gracilis Mucle,Skeletal muscle - Gracilis muscle biopsies,TP
+GSM107523,Not Specified,Alzheimer's disease,FN,Entorhinal Cortex,entorhinal cortex neurons,TP
+GSM141566,heterozygote FH,familial hypercholesterolemia,TP,human CD3 positive T cells,T lymphocytes - Heterozygous FH,TP
+GSM372344,Psoriasis,Psoriasis vulgaris,TP,Skin,Skin tissue,TP
+GSM340207,healthy control,control,TP,"Leukocytes, Mononuclear",PBMC (peripheral blood mononuclear cells),TP
+GSM337319,psoriatic patients,Psoriasis vulgaris,TP,skin_tissue,Skin tissue,TP
+GSM4867,Not Specified,control,TP,bladder epithelial cells,Bladder Tissue,TP
+GSM523807,JFH-1 Infected,hepatitis C,TP,Huh7,Huh7 hepatoma cells (infected with JFH-1 HCV) - 18 Hours post-infection,TP
+GSM79059,HIV encephalitis,HIV encephalitis,TP,brain (frontal cortex),frontal cortex,TP
+GSM1398676,adjacent non-tumorous,control,TP,Parenchymal Tissue,Tumor tissues and Adjacent non-tumorous tissues of Hepatocellular Carcinoma,TP
+GSM26488,Not Specified,Lung Injury,FN,alveolar epithelial cell line,Lung Tissue,TP
+GSM244478,"Shock, Septic",Septic Shock,TP,Blood,Whole blood,TP
+GSM1179374,Un-infected control,control,TP,human lung epithelial cells,primary lung bronchial epithelial cells,TP
+GSM94870,healthy control,control,TP,healthy control,Myocardial tissue,TP
+GSM11554,Multiple Myeloma; lytic-lesion,Osteolysis,FP,Bone Marrow,Leukocyte - Lymphocyte - B-Lymphocyte - Plasma Cell (MMHCC),TP
+GSM98152,asthmatic,asthma,TP,airway epithelial brushing,Epithelial Cell,TP
+GSM337266,uninvolved skin,psoriasis,TP,skin_tissue,Non-lesional (NL) Skin - (Uninvolved samples),TP
+GSM2804,SIV MAC251,Simian Acquired Immune Deficiency Syndrome,FP,"Leukocytes, Mononuclear",Peripheral blood mononuclear cell,TP
+GSM266980,T1D,type 1 diabetes mellitus,TP,CD4+CD25+high regulatory T cells,T lymphocyte,TP
+GSM413850,Osteoarthritis,Osteoarthritis,TP,Chondrocytes,Chondrocyte,TP
+GSM1398652,adjacent non-tumorous,control,TP,Parenchymal Tissue,Tumor tissues and Adjacent non-tumorous tissues of Hepatocellular Carcinoma,TP
+GSM95519,IBD,inflammatory bowel disease,TP,colon biopsy,Colon biopsy,TP
+GSM979126,"Carcinoma, Hepatocellular",control,TP,non-tumor,HCC tumor and matched non-tumor surrounding tissues,TP
+GSM1501854,"Adenocarcinoma of breast, ductal; G3; I; T1C; N0",breast adenocarcinoma,TP,breast tumor tissue,Breast epithelium,TP
+GSM1098450,skin squamous cell carcinoma,skin squamous cell carcinoma,TP,skin squamous cell carcinoma,Skin from SCCs and Normal human epidermis,TP
+GSM172860,DM1-affected,myotonic dystrophy type 1,TP,Mesodermal Precursor Cells,mesodermal precursor cells,TP
+GSM92465,Not Specified,Schizophrenia,FN,"brain, cerebellum",CNS - Brain - Cerebellum (MMHCC),TP
+GSM340264,enthesitis-related arthritis,arthritis,TP,"Leukocytes, Mononuclear",PBMC (peripheral blood mononuclear cells),TP
+GSM947476,Pompe,"Pompe disease, infantile-onset form",TP,Biceps muscle,Biceps biopsies,TP
+GSM144133,Tobacco abuse,nicotine dependence,TP,lymphoblast cell line,lymphoblast cell lines,TP
+GSM907811,non-AD,control,TP,Frontal Lobe,female frontal cortex,TP
+GSM141563,control participant,control,TP,human CD3 positive T cells,T lymphocytes - Homozygous FH,TP
+GSM569479,early SS,Sjogren's syndrome,TP,"Salivary Glands, Minor",Minor salivary glands - Early Sjogren's syndrome,TP
+GSM13136,Not Specified,control,TP,PMBCs,Peripheral blood mononuclear cell,TP
+GSM66932,normoxia,control,TP,Astrocytes,Astrocyte,TP
+GSM95479,healthy control,control,TP,Colon,Colon biopsy,TP
+GSM425880,IA; grade: 2; Endometrioid,endometrial cancer,TP,Endometrium,Uterine tumors (endometrioid histologic subtype) - Stage-Grade:IA-G2,TP
+GSM388085,normal,control,TP,Pancreas,Pancreatic tissue,TP
+GSM66628,healthy subject,bacterial infectious disease,TP,human peripheral blood mononuclear cells,Peripheral blood mononuclear cell,TP
+GSM639766,non-lesional,control,TP,Tendons; Rotator Cuff,Tendons,TP
+GSM134693,invasive lobular carcinoma,control,TP,normal ductal cells,"Invasive ductal carcinoma (IDC) cells,  and their normal counterpart",TP
+GSM899020,"Arthritis, Rheumatoid",control,TP,synovial biopsies,synovial biopsies from affected knees,TP
+GSM107533,Not Specified,Alzheimer's disease,FN,Entorhinal Cortex,entorhinal cortex neurons,TP
+GSM627134,control,control,TP,Lymphocytes,blood lymphocytes,TP
+GSM545764,schizophrenic,schizophrenia,TP,"superior temporal cortex (Brodmann Area 22, BA22)",Superior temporal cortex - postmortem - Male,TP
+GSM1560965,normal esophageal tissue,control,TP,Fibroblasts,KYSE human esophageal squamous cell carcinoma cell line and Normal esophageal tissue,FP
+GSM11485,Multiple Myeloma; lytic-lesion,Osteolysis,FP,Bone Marrow,Leukocyte - Lymphocyte - B-Lymphocyte - Plasma Cell (MMHCC),TP
+GSM479946,Sarcoidosis,sarcoidosis,TP,human peripheral blood mononuclear cells,Peripheral blood mononuclear cells,TP
+GSM969463,Prostatic Neoplasms,prostate cancer,TP,LNCaP-abl (abl),LNCaP,TP
+GSM13129,"Stress Disorders, Post-Traumatic",post-traumatic stress disorder,TP,PMBCs,Peripheral blood mononuclear cell,TP
+GSM337255,normal skin from controls,control,TP,skin_tissue,Skin tissue,TP
+GSM1050272,healthy control,control,TP,Tibialis anterior,skeletal muscle,TP
+GSM29915,control,control,TP,lung fibroblasts,Fibroblast,TP
+GSM98160,asthmatic,asthma,TP,airway epithelial brushing,Epithelial Cell,TP
+GSM523150,B-precursor acute lymphoblastic leukemia; Non-Down syndrome,control,TP,Bone Marrow,bone marrow,TP
+GSM95513,IBD,inflammatory bowel disease,TP,colon biopsy,Colon biopsy,TP
+GSM1130464,Bipolar,bipolar disorder,TP,leukocytes from whole blood,peripheral blood leukocytes,TP
+GSM103343,normal,control,TP,CD34+ cells,Bone marrow stem cell,TP
+GSM1053984,Down Syndrome,Down syndrome,TP,CCL54,fibroblast,TP
+GSM1200292,Stomach Neoplasms,stomach cancer,TP,Peripheral Blood Mononuclear Cell (PBMC),Peripheral blood mononuclear cells,TP
+GSM1348936,Prostatic Neoplasms,prostate cancer,TP,Malignant prostate tissue,Radical prostatectomy tissue samples (TMPRSS2:ERG gene fusion NEGATIVE) and Benign prostate tissue,TP
+GSM1293387,plaque type psoriasis,psoriasis,TP,Epidermis,Epidermis,TP
+GSM1509720,healthy,control,TP,Blood,Connective Tissue in Joints,TP
+GSM1327252,PTC; BRAF mutation,papillary thyroid carcinoma,TP,PTC with a BRAF mutation,Papillary thyroid carcinoma tumors (with a BRAF mutation) and Normal thyroid specimens,TP
+GSM213089,nobpd,control,TP,umbilical cord tissue,Premature newborn umbilical cords - Higher gestational age newborns,TP
+GSM509787,normal adjacent esophageal tissue,control,TP,normal adjacent esophageal tissue,Esophageal normal adjacent tissue,TP
+GSM1509723,healthy,control,TP,Blood,Connective Tissue in Joints,TP
+GSM1179373,Un-infected control,control,TP,human lung epithelial cells,primary lung bronchial epithelial cells,TP
+GSM483300,Myelodysplastic syndromes (MDS); refractory anemia with excess blasts 1 (RAEB1),myelodysplastic syndrome,TP,Bone Marrow; CD34+ hematopoietic stem cells (HSC),HSC cells,TP
+GSM815432,ANL,atopic dermatitis,TP,Skin,derma (skin),TP
+GSM483325,Myelodysplastic syndromes (MDS); refractory anemia with excess blasts 2 (RAEB2),myelodysplastic syndrome,TP,Bone Marrow; CD34+ hematopoietic stem cells (HSC),CD34+ hematopoietic stem cells (refractory anemia with excess blasts 2),TP
+GSM746735,Systemic lupus erythematosous (SLE),lupus erythematosus,TP,Blood; Sorted B cell,Peripheral blood B cells (inactive lupus),TP
+GSM156179,healthy control,control,TP,Vastus lateralis muscle,Skeletal muscle,TP
+GSM1152328,Multiple Myeloma,multiple myeloma,TP,Bone Marrow; Multiple Myeloma (MM) plasma cells,Bone marrow plasma cells,TP
+GSM23195,pauciarticular; polyarticular; JSpA,control,FP,"Leukocytes, Mononuclear",Peripheral blood mononuclear cell,TP
+GSM80009,HIV encephalitis,HIV encephalitis,TP,brain (frontal cortex),frontal cortex,TP
+GSM1337013,healthy control,control,TP,CD8 positive T cells,CD8+ T cells - European-American SLE patients,TP
+GSM788332,healthy donor,control,TP,CD8+ T-cells,Circulating CD8+ T-cells (severe asthma),TP
+GSM217712,Marfan subject,Marfan syndrome,TP,Skin fibroblasts,Fibroblast,TP
+GSM560967,healthy,control,TP,Colon; Mucous Membrane,Intestinal biopsies,TP
+GSM545752,schizophrenic,schizophrenia,TP,"superior temporal cortex (Brodmann Area 22, BA22)",Superior temporal cortex - postmortem - Male,TP
+GSM572814,"Diabetes Mellitus, Type 2",type 2 diabetes mellitus,TP,Liver,Percutaneous needle LIVER biopsies - (hepatokines) - Female,TP
+GSM1336974,Systemic lupus erythematosus (SLE),systemic lupus erythematosus,TP,CD8 positive T cells,CD8+ T cells - African-American SLE patients,TP
+GSM545819,healthy,control,TP,"Leukocytes, Mononuclear",peripheral blood mononuclear cells,TP
+GSM217677,control subject,control,TP,Skin fibroblasts,Fibroblast,TP
+GSM144448,nickel allergic,allergic contact dermatitis,TP,Skin,nickel-allergic patients whose SKINS were exposed to nickel - 48 hours,TP
+GSM348187,RF+ polyarthritis,arthritis,TP,"Leukocytes, Mononuclear",PBMC (peripheral blood mononuclear cells),TP
+GSM800744,Normal; Neoplasm Metastasis; stage: 4,control,TP,"normal, homogenized",Colon,TP
+GSM1398696,hepatocellular carcinoma tumor,hepatocellular carcinoma,TP,Parenchymal Tissue,Tumor tissues and Adjacent non-tumorous tissues of Hepatocellular Carcinoma,TP
+GSM1152333,Multiple Myeloma,multiple myeloma,TP,Bone Marrow; Multiple Myeloma (MM) plasma cells,Bone marrow plasma cells,TP
+GSM337339,psoriatic patients,Psoriasis vulgaris,TP,skin_tissue,Skin tissue,TP
+GSM372317,Psoriasis; non-lesional,psoriasis,TP,Skin,Non-lesional skin,TP
+GSM1174167,Dermatomyositis,dermatomyositis,TP,"Muscle, Skeletal",Pathological skeletal muscle fibers,TP
+GSM150192,Endometriosis,endometriosis,TP,uterus - Proliferative endometrium,Endometrial specimens from women with endometriosis - Proliferative,TP
+GSM175772,Disease 7,endometriosis of ovary,TP,Endometrium/Ovary,Endometrium,TP
+GSM74875,Benign,control,TP,prostate tissue,Prostate tissue (primary prostate tumor),TP
+GSM30362,normal sample RNA,control,TP,"Leukocytes, Mononuclear",Peripheral blood mononuclear cell,TP
+GSM1053921,Ischemic Cardiomyopathy,peripartum cardiomyopathy,TP,Heart,Left Ventricle Apex Tissue,TP
+GSM39840,AML,acute myeloid leukemia,TP,mononuclear cells isolated from peripheral blood or bone marrow,Mononuclear Leukocyte,TP
+GSM85221,normal,control,TP,Thyroid Gland,Thyroid Gland (MMHCC),TP
+GSM201872,PCOS,polycystic ovary syndrome,TP,Vastus lateralis muscle,Skeletal muscle (from obese women with polycystic ovary syndrome),TP
+GSM414952,Pancreatic Neoplasms,pancreatic cancer,TP,Tumor Tissue in Pancreatic Cancer Sample,Pancreatic tissue,TP
+GSM150202,Endometriosis,endometriosis,TP,Endometrium,Endometrial specimens from women with endometriosis - Early Secretory,TP
+GSM425867,Stage: IB; grade: 2; histology: endometrioid,endometrial cancer,TP,Endometrium,Uterine tumors (endometrioid histologic subtype) - Stage-Grade:IB-G2,TP
+GSM627186,Autistic Disorder,autism spectrum disorder,TP,Lymphocytes,blood lymphocytes,TP
+GSM217721,Marfan subject,Marfan syndrome,TP,Skin fibroblasts,Fibroblast,TP
+GSM483375,Myelodysplastic syndromes (MDS); refractory anemia with excess blasts 2 (RAEB2),myelodysplastic syndrome,TP,Bone Marrow; CD34+ hematopoietic stem cells (HSC),CD34+ hematopoietic stem cells (refractory anemia with excess blasts 2),TP
+GSM425847,IB; grade: 3; Endometrioid,endometrial cancer,TP,Endometrium,Uterine tumors (endometrioid histologic subtype) - Stage-Grade:IB-G3,TP
+GSM677133,healthy control,control,TP,PBMCs,PBMC (peripheral blood mononuclear cells),TP
+GSM97828,Epilepsy; Non-Tumor,control,TP,Brain tissue,CNS - Brain (MMHCC),TP
+GSM340324,RF- polyarthritis,arthritis,TP,"Leukocytes, Mononuclear",PBMC (peripheral blood mononuclear cells),TP
+GSM277802,high grade serous carcinoma,serous cystadenocarcinoma,TP,high grade serous carcinoma,Fallopian tube,TP
+GSM802183,healthy,control,TP,Skin,Non-lesional (NL) Skin,TP
+GSM1376748,non-lesional skin,control,TP,non-lesional skin,Skin,TP
+GSM736489,global developmental delay and autistic features,autism spectrum disorder,TP,Blood,lymphoblastoid cells,TP
+GSM217670,control subject,control,TP,Skin fibroblasts,Fibroblast,TP
+GSM1348944,Prostatic Neoplasms,prostate cancer,TP,Malignant prostate tissue,Radical prostatectomy tissue samples (TMPRSS2:ERG gene fusion POSITIVE) and Benign prostate tissue,TP
+GSM276853,UIP; IPF,idiopathic interstitial pneumonia,TP,Fibroblasts,Fibroblast,TP
+GSM419167,control,control,TP,"Blood; Leukocytes, Mononuclear",peripheral blood,TP
+GSM95489,colon adenoma,colon adenoma,TP,colon biopsy,Colon biopsy,TP
+GSM979096,hepatocellular carcinoma (HCC),hepatocellular carcinoma,TP,tumor,HCC tumor and matched non-tumor surrounding tissues,TP
+GSM535605,"Carcinoma, Intraductal, Noninfiltrating",ductal carcinoma in situ,TP,breast tumor,Mammary gland,TP
+GSM1293401,healthy control,control,TP,Epidermis,Epidermis,TP
+GSM736486,Healthy; Normal Control,control,TP,Blood,lymphoblastoid cells,TP
+GSM1327245,PTC; BRAF mutation,papillary thyroid carcinoma,TP,PTC with a BRAF mutation,Papillary thyroid carcinoma tumors (with a BRAF mutation) and Normal thyroid specimens,TP
+GSM857537,metastatic breast cancer cells,control,TP,metastatic breast cancer cells,MDA-MB231 cells,TP
+GSM340376,systemic JIA,arthritis,TP,"Leukocytes, Mononuclear",PBMC (peripheral blood mononuclear cells),TP
+GSM483431,Myelodysplastic syndromes (MDS); Refractory anemia (RA),myelodysplastic syndrome,TP,Bone Marrow; CD34+ hematopoietic stem cells (HSC),CD34+ hematopoietic stem cells (refractory anemia),TP
+GSM337206,normal skin from controls,control,TP,skin_tissue,Skin tissue,TP
+GSM483307,Myelodysplastic syndromes (MDS); Refractory anemia (RA),myelodysplastic syndrome,TP,Bone Marrow; CD34+ hematopoietic stem cells (HSC),HSC cells,TP
+GSM425881,IA; grade: 2; Endometrioid,endometrial cancer,TP,Endometrium,Uterine tumors (endometrioid histologic subtype) - Stage-Grade:IA-G2,TP
+GSM254427,Multiple Sclerosis,multiple sclerosis,TP,B-Lymphocytes,B Cell Lymphocyte,TP
+GSM156753,PCOS,polycystic ovary syndrome,TP,Vastus lateralis muscle,Skeletal muscle,TP
+GSM639755,non-lesional,control,TP,Tendons; Rotator Cuff,Tendons,TP
+GSM277803,high grade serous carcinoma,serous cystadenocarcinoma,TP,high grade serous carcinoma,Fallopian tube,TP
+GSM107538,normal,control,TP,Entorhinal Cortex,entorhinal cortex neurons,TP
+GSM627199,Autistic Disorder,autism spectrum disorder,TP,Lymphocytes,blood lymphocytes,TP
+GSM483309,Myelodysplastic syndromes (MDS); Refractory anemia with ringed sideroblasts (RARS),myelodysplastic syndrome,TP,Bone Marrow; CD34+ hematopoietic stem cells (HSC),HSC cells,TP
+GSM152010,mental retardation or developmental delay,intellectual disability,TP,Blood,whole blood cells,TP
+GSM312930,Nasopharyngeal Carcinoma; WHO histology: IIA; Tumor Stage: T2N1,nasopharynx carcinoma,TP,Nasopharynx,Microdissected nasopharyngeal carcinoma (NPC) tissues samples - stage T2N1,TP
+GSM414960,Pancreatic Neoplasms; Neoplasms,pancreatic cancer,TP,Tumor Tissue in Pancreatic Cancer Sample,Pancreatic tissue,TP
+GSM397639,Astrocytoma; Grade AII,astrocytoma,TP,Astrocytoma,Brain tumor tissue samples of human gliomas and normal brain - Grade:AII - Primary tumor,TP
+GSM736488,healthy,control,TP,Blood,lymphoblastoid cells,TP
+GSM662778,normal,control,TP,breast stroma,Stromal cells,TP
+GSM107460,Not Specified,bacterial infectious disease,FN,monocyte derived dendritic cells,Dendritic cell,TP
+GSM1361624,low-grade serous ovarian carcinomas,ovarian serous carcinoma,TP,Ovarian tumor,low-grade serous ovarian carcinomas (tumors from patients with matched border control),TP
+GSM11450,Multiple Myeloma,control,FP,Bone Marrow,Leukocyte - Lymphocyte - B-Lymphocyte - Plasma Cell (MMHCC),TP
+GSM14574,"Granulomatous Disease, Chronic",chronic granulomatous disease,TP,Human polymorphonuclear (PMN) leukocytes,Blood neutrophil,TP
+GSM37944,Cryptosporidium parvum-infected,parasitic protozoa infectious disease,TP,HCT-8 cells,Intestinal Epithelium,TP
+GSM29070,healthy,control,TP,Human fibroblast,Fibroblast,TP
+GSM359979,normal,control,TP,Ovarian Surface Epithelia,ovarian epithelial cells,TP
+GSM1060132,Atheroma plaque; Hypertension,atherosclerosis,TP,Atheroma plaque,Carotid artery,TP
+GSM1060167,Hypertension,control,TP,carotid tissue,Carotid artery,TP
+GSM148769,normal skin,control,TP,Skin,Skin,TP
+GSM665434,Severe asthma,asthma,TP,Leukocytes,white blood cells - Male Severe Asthma,TP
+GSM254423,affected sister,multiple sclerosis,TP,B-Lymphocytes,B Cell Lymphocyte,TP
+GSM8925,Not Specified,Helicobacter pylori gastrointestinal tract infection,FN,Gastric biopsies,Gastric Tissue,TP
+GSM148766,Acne lesion,acne,TP,Skin,Skin,TP
+GSM152004,typically developing,control,FP,Blood,whole blood cells,TP
+GSM134584,invasive lobular carcinoma,control,TP,normal ductal cells,"Invasive ductal carcinoma (IDC) cells,  and their normal counterpart",TP
+GSM217695,Marfan subject,Marfan syndrome,TP,Skin fibroblasts,Fibroblast,TP
+GSM815455,normal,control,TP,Skin,Skin (LESIONAL atopic dermatitis (AL) skin lesions),TP
+GSM483448,Myelodysplastic syndromes (MDS); Refractory anemia (RA),myelodysplastic syndrome,TP,Bone Marrow; CD34+ hematopoietic stem cells (HSC),CD34+ hematopoietic stem cells (refractory anemia),TP
+GSM627151,Autistic Disorder,autism spectrum disorder,TP,Lymphocytes,blood lymphocytes,TP
+GSM66634,healthy subject,bacterial infectious disease,TP,human peripheral blood mononuclear cells,Peripheral blood mononuclear cell,TP
+GSM479969,Sarcoidosis,sarcoidosis,TP,human peripheral blood mononuclear cells,Peripheral blood mononuclear cells,TP
+GSM658022,B-CLL,Chronic Lymphocytic Leukemia (Chronic B-lymphocytic leukemia),TP,Blood,Peripheral blood,TP
+GSM419153,sickle-cell,sickle cell anemia,TP,Blood,peripheral blood,TP
+GSM979180,"Carcinoma, Hepatocellular",control,TP,non-tumor,HCC tumor and matched non-tumor surrounding tissues,TP
+GSM425843,IB; grade: 3; Endometrioid,endometrial cancer,TP,Endometrium,Uterine tumors (endometrioid histologic subtype) - Stage-Grade:IB-G3,TP
+GSM1150695,AAA; non-aneurysmal AAA neck tissue,abdominal aortic aneurysm,TP,aortic wall,Aorta,TP
+GSM277791,non-malignant,control,TP,Fallopian tube epithelium,Fallopian tube,TP
+GSM1403317,"Carcinoma, Hepatocellular",hepatocellular carcinoma,TP,"Leukocytes, Mononuclear",Peripheral blood mononuclear cell,TP
+GSM1152317,Multiple Myeloma,multiple myeloma,TP,Bone Marrow; Multiple Myeloma (MM) plasma cells,Bone marrow plasma cells,TP
+GSM2801,SIV MAC251,Simian Acquired Immune Deficiency Syndrome,FP,"Leukocytes, Mononuclear",Peripheral blood mononuclear cell,TP
+GSM286669,Postinfection,Rhinovirus infection,TP,Nasal Mucosa,Nose,TP
+GSM300104,chronic myeloid leukaemia,chronic myeloid leukemia,TP,Bone Marrow,Haematopoietic stem cell,TP
+GSM554019,control,control,TP,"Leukocytes, Mononuclear",Peripheral blood mononuclear cells (collected from IS patients at least 6 months after the first and only stroke event),TP
+GSM155959,Early HCC,hepatocellular carcinoma,TP,human liver,Liver,TP
+GSM847100,healthy control,control,TP,iPSC,Induced pluripotent stem cells -iPSC- (derived from childhood cerebral adrenoleukodystrophy patient dermal fibroblasts) and healthy fibroblasts,TP
+GSM286689,control,control,TP,Nasal Mucosa,Nose,TP
+GSM187611,normal control,control,TP,peripheral blood mononuclear cells (PBMCs),Peripheral blood mononuclear cell,TP
+GSM677165,remitted schizophrenia patient,schizophrenia,TP,PBMCs,PBMC (peripheral blood mononuclear cells),TP
+GSM144123,Not Specified,control,TP,lymphoblast cell line,lymphoblast cell lines,TP
+GSM340359,systemic JIA,arthritis,TP,"Leukocytes, Mononuclear",PBMC (peripheral blood mononuclear cells),TP
+GSM8909,Not Specified,Helicobacter pylori gastrointestinal tract infection,FN,Gastric biopsies,Gastric Tissue,TP
+GSM266839,OA,arthropathy,TP,chondrogenic progenitor cells,Chondrocyte,TP
+GSM155583,unaffected colon,Crohn's disease,TP,Colon,Colon,TP
+GSM414972,Tissue in Pancreatic Cancer,control,TP,Normal Tissue in Pancreatic Cancer Sample,Pancreatic tissue,TP
+GSM337347,psoriatic patients,Psoriasis vulgaris,TP,skin_tissue,Skin tissue,TP
+GSM545842,Multiple Sclerosis,multiple sclerosis,TP,"Leukocytes, Mononuclear",peripheral blood mononuclear cells,TP
+GSM1501860,"Adenocarcinoma of breast, ductal; tumor grade: G3; mininal stage grouping: IIA; t (extent of primary tumor): T2; n (lymph node metastasis): N0; er: 1; pgr: 1; dfs-month: 12; dfs-event: 0; distant metastasis: 0; Breast Neoplasms",breast adenocarcinoma,TP,breast tumor tissue,Breast epithelium,TP
+GSM213122,nobpd,control,TP,umbilical cord tissue,Premature newborn umbilical cords - Lower gestational age newborns,TP
+GSM639789,Lesional,tendinitis,TP,Tendons; Suspraspinatus,Tendons,TP
+GSM899021,"Lupus Erythematosus, Systemic",systemic lupus erythematosus,TP,synovial biopsies,synovial biopsies from affected knees,TP
+GSM213073,bpd,bronchopulmonary dysplasia,TP,umbilical cord tissue,Premature newborn umbilical cords - Higher gestational age newborns,TP
+GSM483475,Myelodysplastic syndromes (MDS); Refractory anemia with ringed sideroblasts (RARS),myelodysplastic syndrome,TP,Bone Marrow; CD34+ hematopoietic stem cells (HSC),CD34+ hematopoietic stem cells (refractory anemia with ringed sideroblasts),TP
+GSM947467,control,control,TP,Biceps muscle,Biceps biopsies,TP
+GSM523121,B-precursor acute lymphoblastic leukemia; Down Syndrome,Down syndrome,TP,Bone Marrow,bone marrow,TP
+GSM677189,remitted schizophrenia,schizophrenia,TP,PBMCs,PBMC (peripheral blood mononuclear cells),TP
+GSM39173,HIV seropositive,Human immunodeficiency virus infectious disease,TP,human PBMC,Peripheral blood mononuclear cell,TP
+GSM1179372,infected with KY/180 (pdmH1N1),swine influenza,TP,cultured primary human lung epithelial cells,primary lung bronchial epithelial cells,TP
+GSM155983,very early HCC,hepatocellular carcinoma,TP,human liver,Liver,TP
+GSM97823,"oligodendroglioma, grade 2",oligodendroglioma,TP,Brain tissue,CNS - Brain (MMHCC),TP
+GSM1336967,Systemic lupus erythematosus (SLE),systemic lupus erythematosus,TP,CD8 positive T cells,CD8+ T cells - African-American SLE patients,TP
+GSM337345,psoriatic patients,Psoriasis vulgaris,TP,skin_tissue,Skin tissue,TP
+GSM266981,recent-onset T1D,type 1 diabetes mellitus,TP,CD4+CD25+high regulatory T cells,T lymphocyte,TP
+GSM1293377,plaque type psoriasis,psoriasis,TP,Epidermis,Epidermis,TP
+GSM51776,Stomach Neoplasms,stomach cancer,TP,gastric tissue,Stomach,TP
+GSM1232081,normal,control,TP,Kidney,Cirrhotic Livers and Normal Kidneys from the same patients,TP
+GSM1293392,plaque type psoriasis,psoriasis,TP,Epidermis,Epidermis,TP
+GSM39858,AML,acute myeloid leukemia,TP,mononuclear cells isolated from peripheral blood or bone marrow,Mononuclear Leukocyte,TP
+GSM587544,healthy control,control,TP,"Leukocytes, Mononuclear",Peripheral blood mononuclear cells,TP
+GSM979069,hepatocellular carcinoma (HCC),hepatocellular carcinoma,TP,tumor,HCC tumor and matched non-tumor surrounding tissues,TP
+GSM1152386,Smoldering Multiple Myeloma (SMM),smoldering myeloma,TP,Bone Marrow,Bone marrow plasma cells,TP
+GSM211450,normal,control,TP,Adrenal Glands,Adrenal gland,TP
+GSM523142,B-precursor acute lymphoblastic leukemia; Down Syndrome,Down syndrome,TP,Bone Marrow,bone marrow,TP
+GSM1152290,monoclonal gammopathy of undetermined significance (MGUS),monoclonal gammopathy of uncertain significance,TP,Bone Marrow; Plasma Cells,Bone marrow plasma cells,TP
+GSM340191,healthy control,control,TP,"Leukocytes, Mononuclear",PBMC (peripheral blood mononuclear cells),TP
+GSM439826,control,control,TP,Brain BA10,Anterior prefrontal cortex - postmortem - Female,TP
+GSM286649,Sham infected,control,TP,Nasal Mucosa,Nose,TP
+GSM103755,normoxia; Hypoxia,control,TP,human monocyte-derived macrophages,macrophage,TP
+GSM144437,nickel allergic,allergic contact dermatitis,TP,Skin,nickel-allergic patients whose SKINS were not exposed to nickel,TP
+GSM1530118,control,control,TP,Dental Pulp cells,dental pulp cells,TP
+GSM102696,Melanoma,melanoma,TP,melanoma,Epidermis,TP
+GSM483439,Myelodysplastic syndromes (MDS); refractory anemia with excess blasts 2 (RAEB2),myelodysplastic syndrome,TP,Bone Marrow; CD34+ hematopoietic stem cells (HSC),CD34+ hematopoietic stem cells (refractory anemia with excess blasts 2),TP
+GSM414959,Pancreatic Neoplasms; Neoplasms,pancreatic cancer,TP,Tumor Tissue in Pancreatic Cancer Sample,Pancreatic tissue,TP
+GSM286672,Sham infected,control,TP,Nasal Mucosa,Nose,TP
+GSM1152344,Multiple Myeloma,multiple myeloma,TP,Bone Marrow; Multiple Myeloma (MM) plasma cells,Bone marrow plasma cells,TP
+GSM397629,Glioblastoma; IV,glioblastoma multiforme,TP,brain tumor tissue; glioblastoma,Brain tumor tissue samples of human gliomas and normal brain - Grade:IV - Primary tumor,TP
+GSM1348942,Prostatic Neoplasms,prostate cancer,TP,Malignant prostate tissue,Radical prostatectomy tissue samples (TMPRSS2:ERG gene fusion POSITIVE) and Benign prostate tissue,TP
+GSM1060128,Atheroma plaque; Hypertension,atherosclerosis,TP,Atheroma plaque,Carotid artery,TP
+GSM264988,Acute Lung Injury,Acute Lung Injury,TP,Plasma,Whole blood,TP
+GSM627095,control,control,TP,Lymphocytes,blood lymphocytes,TP
+GSM340319,RF- polyarticular JIA,arthritis,TP,"Leukocytes, Mononuclear",PBMC (peripheral blood mononuclear cells),TP
+GSM419172,sickle-cell,sickle cell anemia,TP,"Leukocytes, Mononuclear",peripheral blood,FP
+GSM6179,Not Specified,atherosclerosis,FN,aortic biopsy,Aorta Smooth Muscle Tissue,TP
+GSM144373,control,control,TP,Skin,nickel-allergic patients whose SKINS were exposed to nickel - 48 hours,TP
+GSM948561,non-inflammatory control,control,TP,Human Colon,Intestinal mucosa,TP
+GSM97929,"oligodendroglioma, grade 2",oligodendroglioma,TP,Brain tissue,CNS - Brain (MMHCC),TP
+GSM337263,uninvolved skin,psoriasis,TP,skin_tissue,Non-lesional (NL) Skin - (Uninvolved samples),TP
+GSM340263,enthesitis-related arthritis,arthritis,TP,"Leukocytes, Mononuclear",PBMC (peripheral blood mononuclear cells),TP
+GSM414966,Tissue in Pancreatic Cancer,control,TP,Normal Tissue in Pancreatic Cancer Sample,Pancreatic tissue,TP
+GSM95522,IBD,inflammatory bowel disease,TP,colon biopsy,Colon biopsy,TP
+GSM52864,Not Specified,control,TP,Peripheral Blood Mononuclear Cell (PBMC),Peripheral blood mononuclear cell,TP
+GSM98171,asthmatic,asthma,TP,airway epithelial brushing,Epithelial Cell,TP
+GSM1327243,PTC; BRAF mutation,papillary thyroid carcinoma,TP,PTC with a BRAF mutation,Papillary thyroid carcinoma tumors (with a BRAF mutation) and Normal thyroid specimens,TP
+GSM535620,IDC,invasive ductal carcinoma,TP,Breast,Mammary gland,TP
+GSM1267448,Psoriasis,psoriasis,TP,LS skin biopsy,skin,TP
+GSM1267417,Psoriasis,psoriasis,TP,LS skin biopsy,skin,TP
+GSM337280,uninvolved skin,psoriasis,TP,skin_tissue,Non-lesional (NL) Skin - (Uninvolved samples),TP
+GSM317668,Schizophrenia,schizophrenia,TP,prefrontal cortex (BA10),Prefrontal Cortex,TP
+GSM240026,control subject,control,TP,colonic mucosa,Colonic mucosa - Non-Inflamed,TP
+GSM102683,normal skin,control,TP,Skin,Epidermis,TP
+GSM11508,Multiple Myeloma; lytic-lesion,Osteolysis,FP,Bone Marrow,Leukocyte - Lymphocyte - B-Lymphocyte - Plasma Cell (MMHCC),TP
+GSM1174162,healthy control,control,TP,"Muscle, Skeletal",Pathological skeletal muscle fibers,TP
+GSM479963,Sarcoidosis,sarcoidosis,TP,human peripheral blood mononuclear cells,Peripheral blood mononuclear cells,TP
+GSM670462,Not Specified,swine influenza,FN,Blood,peripheral blood,TP
+GSM372348,Psoriasis,Psoriasis vulgaris,TP,Skin,Skin tissue,TP
+GSM372310,Psoriasis,Psoriasis vulgaris,TP,Skin,Skin tissue,TP
+GSM77373,"Carcinoma, Papillary; T3N1bMx",papillary thyroid carcinoma,TP,Thyroid Gland,Thyroid Gland (MMHCC),TP
+GSM1053991,Down Syndrome,Down syndrome,TP,CCL54,induced pluripotent stem cells,TP
+GSM255828,Not Specified,control,TP,Human skin fibroblasts,Skin fibroblast,TP
+GSM39870,AML,acute myeloid leukemia,TP,mononuclear cells isolated from peripheral blood or bone marrow,Mononuclear Leukocyte,TP
+GSM523823,mock infected,control,TP,Huh7,Huh7 hepatoma cells (infected with JFH-1 HCV) - 24 Hours post-infection,TP
+GSM98175,asthmatic,asthma,TP,airway epithelial brushing,Epithelial Cell,TP
+GSM388084,normal,control,TP,Pancreas,Pancreatic tissue,TP
+GSM217673,control subject,control,TP,Skin fibroblasts,Fibroblast,TP
+GSM1167086,patient without recurrent events,acute myocardial infarction,TP,Blood,Peripheral blood,TP
+GSM1200308,healthy,control,TP,Peripheral Blood Mononuclear Cell (PBMC),Peripheral blood mononuclear cells,TP
+GSM300129,healthy donor,control,TP,Bone Marrow,Haematopoietic stem cell,TP
+GSM746734,Systemic lupus erythematosous (SLE),lupus erythematosus,TP,Blood; Sorted B cell,Peripheral blood B cells (inactive lupus),TP
+GSM34401,"Arthritis, Rheumatoid",rheumatoid arthritis,TP,rheumatoid arthritis,Synovial Membrane,TP
+GSM1192691,control,control,TP,Substantia Nigra,Substantia nigra - Braak &Icirc;&plusmn;-synuclein stage 3-4,TP
+GSM39848,AML,acute myeloid leukemia,TP,mononuclear cells isolated from peripheral blood or bone marrow,Mononuclear Leukocyte,TP
+GSM1060149,Hypertension,control,TP,carotid tissue,Carotid artery,TP
+GSM479928,healthy,control,TP,human peripheral blood mononuclear cells,Peripheral blood mononuclear cells,TP
+GSM670460,Not Specified,swine influenza,FN,Blood,peripheral blood,TP
+GSM266964,healthy control,control,TP,CD4+CD25+high regulatory T cells,T lymphocyte,TP
+GSM141564,control participant,control,TP,human CD3 positive T cells,T lymphocytes - Homozygous FH,TP
+GSM1509610,Systemic lupus erythematosus (SLE),systemic lupus erythematosus,TP,Blood,Connective Tissue in Joints,TP
+GSM1403322,"Hepatitis B, Chronic",hepatitis C virus related hepatocellular carcinoma,TP,"Leukocytes, Mononuclear",Peripheral blood mononuclear cells,TP
+GSM11453,Multiple Myeloma,control,FP,Bone Marrow,Leukocyte - Lymphocyte - B-Lymphocyte - Plasma Cell (MMHCC),TP
+GSM1053946,normal,control,TP,Induced Pluripotent Stem Cells,induced pluripotent stem cells,TP
+GSM851983,Barrett's,Barrett's esophagus,TP,Barrett's,Esopahgus endoscopic biopsies,TP
+GSM30366,SARS,severe acute respiratory syndrome,TP,Blood,Peripheral blood mononuclear cell,TP
+GSM85476,Breast Neoplasms,breast cancer,TP,breast tumor,Mammary Gland Tissue,TP
+GSM1130488,control subject,control,TP,leukocytes from whole blood,peripheral blood leukocytes,TP
+GSM337327,psoriatic patients,Psoriasis vulgaris,TP,skin_tissue,Skin tissue,TP
+GSM677181,healthy control,control,TP,PBMCs,PBMC (peripheral blood mononuclear cells),TP
+GSM610718,normal (control),control,TP,Liver,Liver,TP
+GSM1327238,PTC without a BRAF mutation,papillary thyroid carcinoma,TP,PTC without a BRAF mutation,Papillary thyroid carcinoma tumors (without a BRAF mutation) and Normal thyroid specimens,TP
+GSM4893,normal control,control,TP,bladder epithelial cells,Bladder Tissue,TP
+GSM533884,sample from lung cancer,control,TP,Lung,Lung Tissue,TP
+GSM709363,"Hepatitis, Alcoholic",alcoholic hepatitis,TP,liver biopsy sample,liver tissue,TP
+GSM639777,Lesional,tendinitis,TP,Tendons; Suspraspinatus,Tendons,TP
+GSM85215,normal,control,TP,Thyroid Gland,Thyroid Gland (MMHCC),TP
+GSM134698,Invasive ductal carcinoma (IDC),invasive ductal carcinoma,TP,ductal tumor cells,"Invasive ductal carcinoma (IDC) cells,  and their normal counterpart",TP
+GSM1179366,infected with BN/59 (seasonal H1N1),swine influenza,TP,human lung epithelial cells,primary lung bronchial epithelial cells,TP
+GSM184374,Parkinson Disease,Parkinson's disease,TP,Substantia Nigra,Substantia nigra - Female,TP
+GSM97949,"oligodendroglioma, grade 2",oligodendroglioma,TP,Brain tissue,CNS - Brain (MMHCC),TP
+GSM39144,HIV seropositive,Human immunodeficiency virus infectious disease,TP,human PBMC,Peripheral blood mononuclear cell,TP
+GSM1150703,normal aortic tissue,control,TP,aortic wall,Aorta,TP
+GSM788311,severe asthmatic,asthma,TP,CD4+ T-Cells,Circulating CD4+ T-cells (severe asthma),TP
+GSM14569,"Granulomatous Disease, Chronic",chronic granulomatous disease,TP,Human polymorphonuclear (PMN) leukocytes,Blood neutrophil,TP
+GSM483453,Myelodysplastic syndromes (MDS); Refractory anemia with ringed sideroblasts (RARS),myelodysplastic syndrome,TP,Bone Marrow; CD34+ hematopoietic stem cells (HSC),CD34+ hematopoietic stem cells (refractory anemia with ringed sideroblasts),TP
+GSM187620,new onset sJIA,JRA - Juvenile rheumatoid arthritis,TP,peripheral blood mononuclear cells (PBMCs),Peripheral blood mononuclear cell,TP
+GSM627207,Autistic Disorder,autism spectrum disorder,TP,Lymphocytes,blood lymphocytes,TP
+GSM488114,control,control,TP,Brain (Inferior Olivary Nucleus),PD medullas,TP
+GSM852000,normal esopahgus,control,TP,normal esopahgus,Esopahgus endoscopic biopsies,TP
+GSM1398663,hepatocellular carcinoma tumor,hepatocellular carcinoma,TP,Parenchymal Tissue,Tumor tissues and Adjacent non-tumorous tissues of Hepatocellular Carcinoma,TP
+GSM8908,Not Specified,control,TP,Gastric biopsies,Gastric Tissue,TP
+GSM337360,psoriatic patients,Psoriasis vulgaris,TP,skin_tissue,Skin tissue,TP
+GSM277810,high grade serous carcinoma,serous cystadenocarcinoma,TP,high grade serous carcinoma,Fallopian tube,TP
+GSM98193,asthmatic,asthma,TP,airway epithelial brushing,Epithelial Cell,TP
+GSM359974,normal,control,TP,Ovarian Surface Epithelia,ovarian epithelial cells,TP
+GSM1327258,normal thyroid,control,TP,normal thyroid tissue,Papillary thyroid carcinoma tumors (without a BRAF mutation) and Normal thyroid specimens,TP
+GSM263918,normal,acne,TP,sebocyte cell line,Sebocyte,TP
+GSM979120,hepatocellular carcinoma (HCC),hepatocellular carcinoma,TP,tumor,HCC tumor and matched non-tumor surrounding tissues,TP
+GSM979068,hepatocellular carcinoma (HCC),hepatocellular carcinoma,TP,tumor,HCC tumor and matched non-tumor surrounding tissues,TP
+GSM627188,Autistic Disorder,autism spectrum disorder,TP,Lymphocytes,blood lymphocytes,TP
+GSM479962,Sarcoidosis,sarcoidosis,TP,human peripheral blood mononuclear cells,Peripheral blood mononuclear cells,TP
+GSM709352,control,control,TP,liver biopsy sample,liver tissue,TP
+GSM95508,Colorectal Neoplasms,Carcinoma in situ of large intestine,TP,Colon,Colon,TP
+GSM11596,Multiple Myeloma; lytic-lesion,Osteolysis,FP,Bone Marrow,Leukocyte - Lymphocyte - B-Lymphocyte - Plasma Cell (MMHCC),TP
+GSM401297,Convalescence,asthma,TP,"Leukocytes, Mononuclear",PBMC,TP
+GSM483358,Myelodysplastic syndromes (MDS); Refractory anemia (RA),myelodysplastic syndrome,TP,Bone Marrow; CD34+ hematopoietic stem cells (HSC),CD34+ hematopoietic stem cells (refractory anemia),TP
+GSM103345,normal control,control,TP,CD34+ cells,Bone marrow stem cell,TP
+GSM217688,Marfan,Marfan syndrome,TP,Skin fibroblasts,Fibroblast,TP
+GSM425866,IB; grade: 2; Endometrioid,endometrial cancer,TP,Endometrium,Uterine tumors (endometrioid histologic subtype) - Stage-Grade:IB-G2,TP
+GSM483452,Myelodysplastic syndromes (MDS); Refractory anemia with ringed sideroblasts (RARS),myelodysplastic syndrome,TP,Bone Marrow; CD34+ hematopoietic stem cells (HSC),CD34+ hematopoietic stem cells (refractory anemia with ringed sideroblasts),TP
+GSM627168,Autistic Disorder,autism spectrum disorder,TP,Lymphocytes,blood lymphocytes,TP
+GSM155592,unaffected colon,ulcerative colitis,TP,Colon,Intestine - Large Intestine - Colon (MMHCC),TP
+GSM677134,remitted schizophrenia patient,schizophrenia,TP,PBMCs,PBMC (peripheral blood mononuclear cells),TP
+GSM397631,Glioblastoma; IV,glioblastoma multiforme,TP,brain tumor tissue; glioblastoma,Brain tumor tissue samples of human gliomas and normal brain - Grade:IV - Primary tumor,TP
+GSM337215,normal skin from controls,control,TP,skin_tissue,Skin tissue,TP
+GSM979085,hepatocellular carcinoma (HCC),hepatocellular carcinoma,TP,tumor,HCC tumor and matched non-tumor surrounding tissues,TP
+GSM80012,HIV encephalitis,HIV encephalitis,TP,brain (frontal cortex),frontal cortex,TP
+GSM74890,metastatic prostate cancer,prostate cancer,TP,Prostate,Prostate tissue (metastatic prostate tumor),TP
+GSM11507,Multiple Myeloma; lytic-lesion,Osteolysis,FP,Bone Marrow,Leukocyte - Lymphocyte - B-Lymphocyte - Plasma Cell (MMHCC),TP
+GSM14554,"Granulomatous Disease, Chronic",chronic granulomatous disease,TP,Human polymorphonuclear (PMN) leukocytes,Blood neutrophil,TP
+GSM1327251,PTC; BRAF mutation,papillary thyroid carcinoma,TP,PTC with a BRAF mutation,Papillary thyroid carcinoma tumors (with a BRAF mutation) and Normal thyroid specimens,TP
+GSM483472,Myelodysplastic syndromes (MDS); Refractory anemia with ringed sideroblasts (RARS),myelodysplastic syndrome,TP,Bone Marrow; CD34+ hematopoietic stem cells (HSC),CD34+ hematopoietic stem cells (refractory anemia with ringed sideroblasts),TP
+GSM1327527,Tuberculosis,tuberculosis,TP,"Leukocytes, Mononuclear",Peripheral blood mononuclear cells,TP
+GSM545761,schizophrenic,schizophrenia,TP,"superior temporal cortex (Brodmann Area 22, BA22)",Superior temporal cortex - postmortem - Male,TP
+GSM359982,normal,control,TP,Ovarian Surface Epithelia,ovarian epithelial cells,TP
+GSM290404,sickle cell,sickle cell anemia,TP,Blood Platelets,platelets,TP
+GSM317693,control,control,TP,prefrontal cortex (BA10),Cerebral cortex,TP
+GSM95484,colon adenoma,colon adenoma,TP,colon biopsy,Colon biopsy,TP
+GSM1060163,Hypertension,control,TP,carotid tissue,Carotid artery,TP
+GSM413841,normal,control,TP,Chondrocytes,chondrocytes monolayer culture,TP
+GSM155946,Early HCC,hepatocellular carcinoma,TP,human liver,Liver,TP
+GSM213105,nobpd,control,TP,umbilical cord tissue,Premature newborn umbilical cords - Higher gestational age newborns,TP
+GSM595425,advanced idiopathic pulmonary fibrosis (IPF),idiopathic pulmonary fibrosis,TP,Lung,Lung - LOWER LOBE - ADVANCED idiopathic pulmonary fibrosis - Male,TP
+GSM39190,HIV seropositve,Human immunodeficiency virus infectious disease,TP,human PBMC,Peripheral blood mononuclear cell,TP
+GSM175783,normal,control,TP,Endometrium,Endometrium,TP
+GSM155960,Early HCC,hepatocellular carcinoma,TP,human liver,Liver,TP
+GSM1152385,Smoldering Multiple Myeloma (SMM),smoldering myeloma,TP,Bone Marrow,Bone marrow plasma cells,TP
+GSM537596,PolyRF+,arthritis,TP,"Leukocytes, Mononuclear",PBMC (peripheral blood mononuclear cells),TP
+GSM1337093,Systemic lupus erythematosus (SLE),systemic lupus erythematosus,TP,CD20 positive B cells,CD20+ B cells - European-American SLE patients,TP
+GSM312929,Nasopharyngeal Carcinoma; WHO histology: IIB; Tumor Stage: T1N0,nasopharynx carcinoma,TP,Nasopharynx,Microdissected nasopharyngeal carcinoma (NPC) tissues samples - stage T1N0,TP
+GSM39833,AML,acute myeloid leukemia,TP,mononuclear cells isolated from peripheral blood or bone marrow,Mononuclear Leukocyte,TP
+GSM346568,control subject,control,TP,Intima media,Mammary arterial tissue,TP
+GSM23190,Not Specified,control,TP,"Leukocytes, Mononuclear",Peripheral blood mononuclear cell,TP
+GSM787940,mock infected,control,TP,Macrophages,macrophage,TP
+GSM639779,Lesional,tendinitis,TP,Tendons; Flexor-Pronator,Tendons,TP
+GSM317333,control,control,TP,"Muscle Fibers, Skeletal",Muscle tissue,TP
+GSM242070,control,control,TP,Appendix,Appendix,TP
+GSM488123,Parkinson Disease,Parkinson's disease,TP,Brain (Dorsal Motor Nucleus of the Vagus),Dorsal motor nucleus of Vagus nerve,TP
+GSM151998,typically developing,control,FP,Blood,whole blood cells,TP
+GSM1253031,Dengue Infected,dengue disease,TP,Blood,whole blood,TP
+GSM52875,Rotavirus acute phase infection,Rotavirus infection of children,TP,Peripheral Blood Mononuclear Cell (PBMC),Peripheral blood mononuclear cell,TP
+GSM300117,chronic myeloid leukaemia,chronic myeloid leukemia,TP,Bone Marrow,Haematopoietic stem cell,TP
+GSM401292,Acute,control,TP,"Leukocytes, Mononuclear",PBMC,TP
+GSM979108,hepatocellular carcinoma (HCC),hepatocellular carcinoma,TP,tumor,HCC tumor and matched non-tumor surrounding tissues,TP
+GSM523159,B-precursor acute lymphoblastic leukemia; Down Syndrome,Down syndrome,TP,Bone Marrow,bone marrow,TP
+GSM14576,"Granulomatous Disease, Chronic",chronic granulomatous disease,TP,Human polymorphonuclear (PMN) leukocytes,Blood neutrophil,TP
+GSM1267434,normal,control,TP,Normal skin biopsy,skin,TP
+GSM340341,RF- polyarticular JIA,arthritis,TP,"Leukocytes, Mononuclear",PBMC (peripheral blood mononuclear cells),TP
+GSM107529,Not Specified,Alzheimer's disease,FN,Entorhinal Cortex,entorhinal cortex neurons,TP

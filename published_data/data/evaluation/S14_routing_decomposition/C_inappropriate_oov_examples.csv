@@ -1,0 +1,111 @@
+field,raw_value,minted_id,instances,grade,db_target_that_exists
+Tissue,HT29,ART-T-00084,6026,oov_should_be_cellosaurus,CVCL_0320;CVCL_A8EZ
+Tissue,Lung,ART-T-00173,3627,oov_should_be_mesh,D008168 Lung
+Tissue,U87,ART-T-00158,186,oov_should_be_cellosaurus,CVCL_0022;CVCL_GP63
+Tissue,BV2,ART-T-00107,143,oov_should_be_cellosaurus,CVCL_0182
+Tissue,H9,ART-T-00030,111,oov_should_be_cellosaurus,CVCL_1240;CVCL_E9X7
+Tissue,U87MG,ART-T-00164,84,oov_should_be_cellosaurus,CVCL_0022;CVCL_GP63
+Tissue,Eye,ART-T-00379,61,oov_should_be_mesh,D005123 Eye
+Tissue,MB,ART-T-00178,49,oov_should_be_cellosaurus,CVCL_5M21
+Tissue,LnCaP/AR,OOV-T-3093FC69AA,42,oov_should_be_cellosaurus,CVCL_C7XA
+Tissue,LREX,ART-T-00183,32,oov_should_be_cellosaurus,CVCL_UD76
+Tissue,CEM C7-14,OOV-T-63680DE2AB,30,oov_should_be_cellosaurus,CVCL_B7AA
+Tissue,tissue,OOV-T-08D5FBACAB,29,oov_should_be_mesh,D014024 Tissues
+Tissue,CEM C1-15,OOV-T-2C6244CDA4,29,oov_should_be_cellosaurus,CVCL_B7A9
+Tissue,WSU_DLCL2,OOV-T-0D6FF27766,26,oov_should_be_cellosaurus,CVCL_1902
+Tissue,post-central gyrus,OOV-T-39954CB74E,25,oov_should_be_mesh,D013003 Somatosensory Cortex
+Tissue,A2,ART-T-00140,24,oov_should_be_cellosaurus,CVCL_1939;CVCL_ZU42
+Tissue,SK-N_BE(2)c,OOV-T-06C78BA64A,23,oov_should_be_cellosaurus,CVCL_0529
+Tissue,BJ-hTERT,OOV-T-76F24F3992,18,oov_should_be_cellosaurus,CVCL_6573
+Tissue,ARCaP-E,OOV-T-F78F21FF78,18,oov_should_be_cellosaurus,CVCL_E7VJ
+Tissue,ARCaP-M,OOV-T-FFCCAA5080,18,oov_should_be_cellosaurus,CVCL_E7VK
+Tissue,IMS_M2,OOV-T-7A1851C793,18,oov_should_be_cellosaurus,CVCL_RL93
+Tissue,OCI_AML3,OOV-T-9ADDCA484F,18,oov_should_be_cellosaurus,CVCL_1844
+Tissue,Vero E6,OOV-T-08F1774255,18,oov_should_be_cellosaurus,CVCL_0574
+Tissue,MA-104,OOV-T-0A11655C9A,15,oov_should_be_cellosaurus,CVCL_3845
+Tissue,ESP,ART-T-00162,14,oov_should_be_cellosaurus,CVCL_A2ZZ
+Tissue,P9,ART-T-00085,14,oov_should_be_cellosaurus,CVCL_B6EF
+Tissue,pituitary_gland,OOV-T-9075EC98E2,14,oov_should_be_mesh,D010902 Pituitary Gland
+Tissue,TALL-1,OOV-T-5331B75E9A,12,oov_should_be_cellosaurus,CVCL_1736
+Tissue,92-1,OOV-T-5A241D299F,12,oov_should_be_cellosaurus,CVCL_8607
+Tissue,KG1,ART-T-00058,10,oov_should_be_cellosaurus,CVCL_0374;CVCL_UD72
+Tissue,Cardiomyocytes,OOV-T-5CCF6C2A7D,10,oov_should_be_mesh,"D032383 Myocytes, Cardiac"
+Tissue,MEC-1,OOV-T-434DC63D8B,10,oov_should_be_cellosaurus,CVCL_1870;CVCL_F939
+Tissue,megakaryocyte/erythroid progenitors,OOV-T-BD20608AFE,10,oov_should_be_mesh,D055015 Megakaryocyte-Erythroid Progenitor Cells
+Tissue,Flp-In™ T-REx™ 293,OOV-T-778744CC0D,9,oov_should_be_cellosaurus,CVCL_U427
+Tissue,CCRF-CEM-C7-14,OOV-T-FC1B098850,8,oov_should_be_cellosaurus,CVCL_B7AA
+Tissue,M12,ART-T-00126,8,oov_should_be_cellosaurus,CVCL_IU99;CVCL_XX82
+Tissue,KARPAS_422,OOV-T-1A6354C572,7,oov_should_be_cellosaurus,CVCL_1325
+Tissue,STO,ART-T-00040,6,oov_should_be_cellosaurus,CVCL_3420
+Tissue,HFK 1,OOV-T-809081B1A2,6,oov_should_be_cellosaurus,CVCL_9U04
+Tissue,SK-N-Be(2)C,OOV-T-06C78BA64A,6,oov_should_be_cellosaurus,CVCL_0529
+Tissue,SCC VII,OOV-T-A9A8918803,6,oov_should_be_cellosaurus,CVCL_V412
+Tissue,adipose_tissue,OOV-T-A06D580DFB,6,oov_should_be_mesh,D000273 Adipose Tissue
+Tissue,LM2,ART-T-00064,6,oov_should_be_cellosaurus,CVCL_5V02;CVCL_DG80
+Tissue,MES1,ART-T-00157,6,oov_should_be_cellosaurus,CVCL_Z508
+Tissue,RPMI.8402,OOV-T-87CB689EEC,6,oov_should_be_cellosaurus,CVCL_1667
+Tissue,HeLa TO,OOV-T-9EEFD04852,6,oov_should_be_cellosaurus,CVCL_V352
+Tissue,Panc-2.03,OOV-T-A72C713C06,6,oov_should_be_cellosaurus,CVCL_1633
+Tissue,Panc-2.13,OOV-T-9C9BFD4FEA,6,oov_should_be_cellosaurus,CVCL_1634
+Tissue,Panc-3.27,OOV-T-707DFEC5D4,6,oov_should_be_cellosaurus,CVCL_1635
+Tissue,Panc-5.04,OOV-T-78B0C852D6,6,oov_should_be_cellosaurus,CVCL_1637
+Tissue,Panc-6.03,OOV-T-CC9E6F6427,6,oov_should_be_cellosaurus,CVCL_7665
+Tissue,Panc-8.13,OOV-T-25D8A5344E,6,oov_should_be_cellosaurus,CVCL_1638
+Tissue,HPAF_II,OOV-T-99D9429278,6,oov_should_be_cellosaurus,CVCL_0313
+Tissue,CH1,ART-T-00037,5,oov_should_be_cellosaurus,CVCL_C6TY;CVCL_N170
+Tissue,E10,ART-T-00180,5,oov_should_be_cellosaurus,CVCL_0251
+Tissue,CC,ART-T-03831,5,oov_should_be_cellosaurus,CVCL_E520
+Tissue,Seraphina,OOV-T-925499B22C,4,oov_should_be_cellosaurus,CVCL_M646
+Tissue,CA1,ART-T-00168,4,oov_should_be_cellosaurus,CVCL_B844;CVCL_C5KL
+Tissue,OP9-GFP,OOV-T-7BD82222B9,4,oov_should_be_cellosaurus,CVCL_B217
+Tissue,16HBE14o,OOV-T-3C55551B61,4,oov_should_be_cellosaurus,CVCL_0112
+Condition,prostate_cancer,OOV-C-2F16BB4B10,160,oov_should_be_mesh,D011471 Prostatic Neoplasms
+Condition,Keloid,OOV-C-D621210228,50,oov_should_be_mesh,D007627 Keloid
+Condition,CGVHD,ART-C-00197,26,oov_should_be_mesh,D000092122 Bronchiolitis Obliterans Syndrome
+Condition,Thyroid_carcinoma,OOV-C-A522635A3D,24,oov_should_be_mesh,D013964 Thyroid Neoplasms
+Condition,carcinoma squamous cell,OOV-C-D1597E17E5,22,oov_should_be_mesh,"D002294 Carcinoma, Squamous Cell"
+Condition,keloid,OOV-C-D621210228,21,oov_should_be_mesh,D007627 Keloid
+Condition,scar,OOV-C-4A693268BD,13,oov_should_be_mesh,D002921 Cicatrix
+Condition,Hypertrophic scar,OOV-C-6933CDF2BD,12,oov_should_be_mesh,"D017439 Cicatrix, Hypertrophic"
+Condition,Pre-B ALL,OOV-C-BF4E058F7B,12,oov_should_be_mesh,D015452 Precursor B-Cell Lymphoblastic Leukemia-Lymphoma
+Condition,alcoholic; cirrhosis,OOV-C-3EE45FFE23,12,oov_should_be_mesh,"D008104 Liver Cirrhosis, Alcoholic"
+Condition,SEASONAL_ALLERGIC_RHINITIS,OOV-C-2A64265CBE,10,oov_should_be_mesh,"D006255 Rhinitis, Allergic, Seasonal"
+Condition,TTTS,ART-C-00081,9,oov_should_be_mesh,D005330 Fetofetal Transfusion
+Condition,Waldenstrom’s macroglobulinemia,OOV-C-89BFB29BDD,8,oov_should_be_mesh,D008258 Waldenstrom Macroglobulinemia
+Condition,preB-ALL,OOV-C-BF4E058F7B,8,oov_should_be_mesh,D015452 Precursor B-Cell Lymphoblastic Leukemia-Lymphoma
+Condition,T_ALL,OOV-C-4FA8F51CC4,6,oov_should_be_mesh,D054218 Precursor T-Cell Lymphoblastic Leukemia-Lymphoma
+Condition,small-cell lung carcinoma,OOV-C-D7A0B7CC6B,5,oov_should_be_mesh,D055752 Small Cell Lung Carcinoma
+Condition,Crohn’s Disease,OOV-C-6449964270,4,oov_should_be_mesh,D003424 Crohn Disease
+Condition,Papillary adenocarcinoma,OOV-C-BFFDB4D7AE,4,oov_should_be_mesh,"D000231 Adenocarcinoma, Papillary"
+Condition,Keloids,OOV-C-D621210228,4,oov_should_be_mesh,D007627 Keloid
+Condition,circulating tumor cells,OOV-C-3AA4A44B79,3,oov_should_be_mesh,"D009360 Neoplastic Cells, Circulating"
+Condition,non-hodgkin’s lymphoma,OOV-C-22F19A9CC0,2,oov_should_be_mesh,"D008228 Lymphoma, Non-Hodgkin"
+Condition,breast / carcinoma,OOV-C-3334CAEF7E,2,oov_should_be_mesh,D001943 Breast Neoplasms
+Condition,Leukemia chronic myelogenous,OOV-C-6A0F874EDC,2,oov_should_be_mesh,"D015464 Leukemia, Myelogenous, Chronic, BCR-ABL Positive"
+Condition,Intellectual_Disability,OOV-C-9E4CCBAED3,1,oov_should_be_mesh,D008607 Intellectual Disability
+Condition,Brain tumor,OOV-C-802EC4A4CF,1,oov_should_be_mesh,D001932 Brain Neoplasms
+Condition,medullary_carcinoma,OOV-C-56C1CAF1F1,1,oov_should_be_mesh,"D018276 Carcinoma, Medullary"
+Condition,Myotonia Congenita Autosomal Dominant,OOV-C-22E6A08929,1,oov_should_be_mesh,D009224 Myotonia Congenita
+Condition,alcoholic; Cirrhosis,OOV-C-3EE45FFE23,1,oov_should_be_mesh,"D008104 Liver Cirrhosis, Alcoholic"
+Condition,carcinoma-undifferentiated,OOV-C-34B6494B8F,1,oov_should_be_mesh,D002277 Carcinoma
+Treatment,IL-1β,OOV-X-534AB03698,28,oov_should_be_mesh,D007375 Interleukin-1
+Treatment,all-trans retinoic acid,OOV-X-352A4FD3CB,25,oov_should_be_mesh,D014212 Tretinoin
+Treatment,α-MSH,OOV-X-AEBD8FC425,20,oov_should_be_mesh,D009074 Melanocyte-Stimulating Hormones
+Treatment,TUBOCURARINE.CHLORIDE,OOV-X-D07851F6B3,9,oov_should_be_mesh,D014403 Tubocurarine
+Treatment,MICONAZOLE.NITRATE,OOV-X-EB69FF002E,9,oov_should_be_mesh,D008825 Miconazole
+Treatment,TRIFLUOPERAZINE.HYDROCHLORIDE,OOV-X-1D21B85367,9,oov_should_be_mesh,D014268 Trifluoperazine
+Treatment,TAMOXIFEN.CITRATE,OOV-X-FCEB14B509,9,oov_should_be_mesh,D013629 Tamoxifen
+Treatment,CNTF,ART-X-00168,9,oov_should_be_mesh,D020934 Ciliary Neurotrophic Factor
+Treatment,9-cis retinoic acid,OOV-X-FDEFDC5CEC,8,oov_should_be_mesh,D000077556 Alitretinoin
+Treatment,5'-Aza-2'-deoxycytidine,OOV-X-9B2ECF49C7,6,oov_should_be_mesh,D000077209 Decitabine
+Treatment,IL1β,OOV-X-534AB03698,4,oov_should_be_mesh,D007375 Interleukin-1
+Treatment,AID-/-,OOV-X-83261C482D,4,oov_should_be_mesh,"D007316 Insemination, Artificial, Heterologous"
+Treatment,13-cis retinoic acid,OOV-X-FB52DD4FB0,3,oov_should_be_mesh,D015474 Isotretinoin
+Treatment,IL6+,OOV-X-A29B9FA840,3,oov_should_be_mesh,D015850 Interleukin-6
+Treatment,APF#1,OOV-X-041EA40427,2,oov_should_be_mesh,D025801 Ubiquitin
+Treatment,BAY-43-9006,OOV-X-31DCEC2A70,2,oov_should_be_mesh,D000077157 Sorafenib
+Treatment,tgf beta,OOV-X-89447183F6,2,oov_should_be_mesh,D016212 Transforming Growth Factor beta
+Treatment,Piperacillin/Tazobactam,OOV-X-705FB04189,1,oov_should_be_mesh,"D000077725 Piperacillin, Tazobactam Drug Combination"
+Treatment,Thyroid Hormone (T3),OOV-X-F4ACD38182,1,oov_should_be_mesh,D014284 Triiodothyronine
+Treatment,fluoride,OOV-X-D4A7910CA1,1,oov_should_be_mesh,D005459 Fluorides
+Treatment,TGF beta,OOV-X-89447183F6,1,oov_should_be_mesh,D016212 Transforming Growth Factor beta

@@ -1,0 +1,17 @@
+field,canonical_concept,raw_value,samples,dominant_id,samples_with_dominant_id,share_of_samples
+Tissue,Blood Cells (MeSH D001773),whole blood,28425,D001773,28354,99.75%
+Tissue,Blood Cells (MeSH D001773),Whole blood,15717,D001773,15500,98.62%
+Tissue,Blood Cells (MeSH D001773),Whole Blood,9512,D001773,9512,100.00%
+Tissue,A-549 (Cellosaurus CVCL_0023),A549,14395,CVCL_0023,14395,100.00%
+Tissue,A-549 (Cellosaurus CVCL_0023),A549 cells,327,CVCL_0023,327,100.00%
+Tissue,A-549 (Cellosaurus CVCL_0023),human cell line A549,39,CVCL_0023,39,100.00%
+Condition,Adenocarcinoma (MeSH D000230),adenocarcinoma,33808,D000230,33808,100.00%
+Condition,Adenocarcinoma (MeSH D000230),Adenocarcinoma,624,D000230,624,100.00%
+Condition,Adenocarcinoma (MeSH D000230),gastric adenocarcinoma,70,D000230,70,100.00%
+Condition,"Pulmonary Disease, Chronic Obstructive (MeSH D029424)",COPD,2831,D029424,2831,100.00%
+Treatment,Dimethyl Sulfoxide (MeSH D004121),DMSO,5749,D004121,5746,99.95%
+Treatment,Dimethyl Sulfoxide (MeSH D004121),dmso,26,D004121,26,100.00%
+Treatment,Dimethyl Sulfoxide (MeSH D004121),0.1% DMSO,181,D004121,181,100.00%
+Treatment,vehicle (OOV concept; case-folded),vehicle,8258,OOV-X-B880FC6CDD,8253,99.94%
+Treatment,vehicle (OOV concept; case-folded),Vehicle,601,OOV-X-B880FC6CDD,559,93.01%
+Treatment,vehicle (OOV concept; case-folded),VEHICLE,14,OOV-X-B880FC6CDD,14,100.00%

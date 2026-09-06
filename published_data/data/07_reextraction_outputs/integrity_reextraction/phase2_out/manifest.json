@@ -1,0 +1,31 @@
+{
+  "corpus": "Directory to p1_errors.json",
+  "corpus_files": 1,
+  "stage": "phase1b",
+  "samples": 5804,
+  "distinct_values": 1688,
+  "studies_with_context": 16839,
+  "index": "Directory to vocab_index.npz",
+  "index_digest": "0a3f9ff8d1b81d11",
+  "embed_model": "FremyCompany/BioLORD-2023",
+  "embed_device": "cuda",
+  "endpoints": 1,
+  "workers": 32,
+  "merge_threshold": 0.95,
+  "top_n": 8,
+  "use_polarity": true,
+  "use_picker": true,
+  "use_verifier": true,
+  "use_pubtator": true,
+  "sources": {
+    "cellosaurus": 106,
+    "mesh": 849,
+    "oov": 672,
+    "uncovered": 61
+  },
+  "rows": 5804,
+  "platforms": 65,
+  "python": "3.10.12",
+  "numpy": "2.2.6",
+  "seconds": 6904.9
+}

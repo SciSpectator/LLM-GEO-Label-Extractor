@@ -1,0 +1,13 @@
+label,class,samples,pct_of_corpus,why_it_is_correct
+Sex,not_specified_justified,478050,59.43,the record states nothing so Not Specified is the right answer - inventing a value would be the error
+Age,not_specified,421254,52.37,"the record states nothing so Not Specified is the right answer - inventing a value would be the error; S19 cannot split this precisely for Age - no exact age pattern exists, so its missed share is an upper bound not a measurement and is not counted as an error"
+Tissue,not_specified,4253,0.53,the record states nothing so Not Specified is the right answer - inventing a value would be the error
+Condition,not_specified,183361,22.79,the record states nothing so Not Specified is the right answer - inventing a value would be the error
+Treatment,not_specified,457805,56.91,the record states nothing so Not Specified is the right answer - inventing a value would be the error
+Age,life_stage_descriptor,12912,1.61,the record gives a stage word rather than a number - reading it as written is correct
+disease in Tissue,removed_by_field_scope,20420,2.54,"the value belongs to another field and that field already carried it in 100% of cases, so the removal is a deduplication and the routing is correct"
+cell line in Condition,removed_by_field_scope,1014,0.13,"the value belongs to another field and that field already carried it in 100% of cases, so the removal is a deduplication and the routing is correct"
+cell line in Treatment,removed_by_field_scope,2048,0.25,"the value belongs to another field and that field already carried it in 100% of cases, so the removal is a deduplication and the routing is correct"
+Tissue,concept_outside_field_branch,0,0.00,the concept fits the label but sits in an adjacent MeSH branch - Gene Knockdown Techniques in E05 and Stress Psychological in F01
+Condition,concept_outside_field_branch,2273,0.28,the concept fits the label but sits in an adjacent MeSH branch - Gene Knockdown Techniques in E05 and Stress Psychological in F01
+Treatment,concept_outside_field_branch,1984,0.25,the concept fits the label but sits in an adjacent MeSH branch - Gene Knockdown Techniques in E05 and Stress Psychological in F01

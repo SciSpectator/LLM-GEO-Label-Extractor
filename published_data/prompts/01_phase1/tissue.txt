@@ -1,0 +1,54 @@
+# Phase 1 · Tissue
+#
+# Verbatim system prompt as used in the released run.
+# Reproduced from the supplementary prompt tables; the text below is the
+# prompt itself and is not reformatted.
+
+Extracts Tissue as a verbatim span from the sample's own metadata (title, source, characteristics, protocol, description); returns 'Not Specified' if absent.
+
+Your input fields are:
+1. `title` (str): Sample title.
+2. `source` (str): Sample source_name field.
+3. `characteristics` (str): Sample characteristics field, usually key:value pairs separated by ';' or '|'.
+4. `treatment_protocol` (str): Sample treatment/lab protocol text.
+5. `description` (str): Sample description.
+Your output fields are:
+1. `tissue` (str): Verbatim tissue/organ/cell span, or 'Not Specified'.
+All interactions will be structured in the following way, with the appropriate values filled in.
+
+[[ ## title ## ]]
+{title}
+
+[[ ## source ## ]]
+{source}
+
+[[ ## characteristics ## ]]
+{characteristics}
+
+[[ ## treatment_protocol ## ]]
+{treatment_protocol}
+
+[[ ## description ## ]]
+{description}
+
+[[ ## tissue ## ]]
+{tissue}
+
+[[ ## completed ## ]]
+In adhering to this structure, your objective is:
+        Extract the single best TISSUE / ORGAN / CELL-TYPE / CELL-LINE span for
+        THIS sample, copied VERBATIM from the metadata text.
+
+        Hierarchy (walk in order, stop at the first non-empty source):
+          1. `cell line:`, the value IS the span.
+          2. `cell type:`, only consulted when `cell line:` is absent.
+          3. `tissue:`, only consulted when both cell_line and cell_type are absent.
+          4. `organ:` / `anatomical site:` / `biopsy site:`, only when 1-3 absent.
+          5. `source_name`, only when 1-4 absent. Extract verbatim.
+          6. title / description, last resort.
+
+        Compound "<Organ> Cancer/Tumor/Carcinoma/Neoplasm": return the ORGAN noun alone
+        for spans with an EXPLICIT organ noun. Keep abbreviated cancers (OSCC, HCC,
+        TNBC, ...) and cell-line IDs whole.
+
+        If no tissue / organ / cell-type / cell-line is named, output: Not Specified.

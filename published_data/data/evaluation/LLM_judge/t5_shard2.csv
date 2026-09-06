@@ -1,0 +1,501 @@
+item,field,raw_value,assigned_id,instances
+1,Treatment,BafA,ART-X-26741,3
+2,Treatment,TG,ART-X-29262,8
+3,Treatment,FECH siRNA + 5-ALA,OOV-X-966D7A09E6,3
+4,Treatment,1ng/ml LPS,OOV-X-985793487D,3
+5,Treatment,cp-3856,OOV-X-2E46757CCA,1
+6,Condition,infected with KY/136 (pdmH1N1),OOV-C-99E64C9B0B,3
+7,Condition,activated metaphase-2 oocyte,OOV-C-BD0E094E01,4
+8,Treatment,MLN0128,OOV-X-4302872BE4,2
+9,Treatment,empty vector transfection; DMSO,OOV-X-9631D33913,8
+10,Treatment,MAP8 backbone; peptide: GR,OOV-X-C46C7195AE,1
+11,Condition,psoriatic patient; lesional scalp sample,OOV-C-6296E4F0DE,3
+12,Treatment,T2D donors,OOV-X-CE8BFCDF85,2
+13,Treatment,DCC-2036 10µM,OOV-X-F644D53058,31
+14,Treatment,scratched,OOV-X-803D48E9D8,20
+15,Condition,Dust Mite Atopic Patch Skin,OOV-C-1538160F65,10
+16,Treatment,Vata-Pitta prakriti,OOV-X-FF1E9033FD,10
+17,Tissue,primary human brain microvascular endothelial cells,OOV-T-71F360D6A6,6
+18,Treatment,PRO023POST plasma,OOV-X-2AA6D81ECA,1
+19,Tissue,Ewing's sarcoma cell line; SK-N-MC,OOV-T-CF3FBD08F6,1
+20,Treatment,cp-50198,OOV-X-825D398698,1
+21,Condition,colon cancer metastasis (liver),OOV-C-E413104254,27
+22,Treatment,endo_4h; endotoxemia,OOV-X-1559766E54,5
+23,Treatment,5.36633um,OOV-X-267F738855,1
+24,Tissue,MoDC,OOV-T-347A06E124,2
+25,Treatment,preterm labor,OOV-X-AEC4BE016F,5
+26,Condition,"Adenocarcinoma of breast, ductal; tumor grade: G3; mininal stage grouping: IIA; t (extent of primary tumor): T2; n (lymph node metastasis): N0; er: 1; pgr: 1; dfs-month: 12; dfs-event: 0; distant metastasis: 0; breast tumor",OOV-C-A49CACD407,1
+27,Tissue,B-cell chronic lymphocytic leukemia (B-CLL) cells,OOV-T-56975C82AD,269
+28,Condition,Renal clear cell; Brain (metastatic site),OOV-C-88E1762053,1
+29,Treatment,cp-74190,OOV-X-9894AA1173,1
+30,Treatment,irradiated with 48 Gy,OOV-X-77E9C72C8A,1
+31,Condition,Megakaryopoietic M_3,OOV-C-A780369AE8,1
+32,Condition,preeclamptic pregnancies,OOV-C-1DF8EE703D,3
+33,Condition,healthy donors; Exposed to Brugia malayi,OOV-C-9F3BFE40FD,1
+34,Treatment,GTF2F2 siRNA knocked down,OOV-X-C69BAD0509,1
+35,Treatment,GNA12,OOV-X-93BF771C6E,1
+36,Condition,ccRCC; G3; T2N0M0,OOV-C-A5D889E668,2
+37,Condition,Family history positive - 1 parent,OOV-C-37466D620F,13
+38,Treatment,siRNA Smc3; Estrogen,OOV-X-6501DCE3BA,3
+39,Treatment,Neu1; GMCSF,OOV-X-F240050C39,1
+40,Condition,HIV-1 infected; Latent,OOV-C-9AE034E857,25
+41,Treatment,cp-80698,OOV-X-4B2CA17F7F,1
+42,Condition,AML subtypes: M5,OOV-C-FDE091898F,2
+43,Condition,ALCL,ART-C-00270,55
+44,Condition,Normal liver,OOV-C-A74669F132,52
+45,Treatment,10 μM symplostatin 5; 100 nM elastase,OOV-X-B49D6AA169,2
+46,Tissue,B-ALL-94,OOV-T-79EFFC6AC9,2
+47,Treatment,PEO1R_SI; MI-3,OOV-X-29B8C89FB1,1
+48,Treatment,Before 12 weeks of exercise,OOV-X-E2CC8B7668,1
+49,Condition,Lower IQ,OOV-C-FBE589D825,17
+50,Condition,fulvestrant resistant; ER+ breast cancer,OOV-C-28EA05BDD7,9
+51,Treatment,smoker; 30-day mean pm2.5 exposure level: 12.3405,OOV-X-0F7D3F0468,2
+52,Treatment,100 µM 4sU,OOV-X-D1AA41A97E,9
+53,Treatment,30ng HGF,OOV-X-438EDAF0FE,4
+54,Condition,peripheral blood tumor,OOV-C-BABD49CEC5,41
+55,Condition,normal brain (occipital lobe),OOV-C-5C26AB123E,1
+56,Treatment,cp-33181,OOV-X-4F27D25659,1
+57,Treatment,Roundup (1 ppm G),OOV-X-15AF44BCDE,3
+58,Tissue,ossified ligament,OOV-T-235F5547B3,4
+59,Treatment,cp-80915,OOV-X-FB0030444B,1
+60,Tissue,CD19+ B cell,OOV-T-52720BC74F,10
+61,Treatment,cp-60418,OOV-X-DBCE45AF24,1
+62,Treatment,2ng/ml TGFb; scrambled siRNA,OOV-X-AB08073E11,1
+63,Tissue,primary (achromic) cutaneous tumor,OOV-T-62C8D0855F,1
+64,Treatment,0.3 ug/ml equi-nicotine of WS-CM for 3 hours,OOV-X-B4A748C5F1,4
+65,Treatment,GSK-J2 0.12µM,OOV-X-C29600EBDB,38
+66,Treatment,95.4319um,OOV-X-97E5916180,2
+67,Condition,systemically healthy,OOV-C-B37D4EB692,43
+68,Condition,cT4bN0M0; pT2N0,OOV-C-8E42E77C6E,1
+69,Treatment,5.14625um,OOV-X-46973E8D7B,1
+70,Tissue,brain glioblastoma tumor,OOV-T-9364BADF5C,16
+71,Treatment,cp-39927,OOV-X-42240D9744,1
+72,Treatment,cp-50082,OOV-X-3EC0BBD698,1
+73,Condition,lesional,OOV-C-03181D8656,290
+74,Tissue,CLL-B cells (CLL43),OOV-T-0484FDBA41,1
+75,Treatment,AIDA_PL04_M1 serum,OOV-X-13D73E813E,1
+76,Tissue,chronic lymphocytic leukemia cell,OOV-T-181709FE3E,2
+77,Condition,Normal_DNA_16764,OOV-C-B73C8C8E05,1
+78,Treatment,cp-53363,OOV-X-2832B84466,1
+79,Tissue,cervical carcinoma,OOV-T-1D337B9E82,6
+80,Condition,non-hodgkin’s lymphoma,OOV-C-22F19A9CC0,2
+81,Condition,moderate BPD; ROP not requiring treatment,OOV-C-BF6B377410,5
+82,Condition,SIVmac239,OOV-C-CEE26A870C,5
+83,Tissue,cDC1 (BDCA3+ DC),OOV-T-50ACEEB4D2,19
+84,Treatment,HDAC8 inhibitor PCI-34051 (4µM),OOV-X-ACBD4845A1,3
+85,Treatment,cp-50431,OOV-X-AA5CFB9F8C,1
+86,Tissue,Burkitt lymphoma,OOV-T-370495C2EA,16
+87,Treatment,CP466722 3.33µM,OOV-X-02695609F2,55
+88,Treatment,cp-69832,OOV-X-D2ED61FCAD,1
+89,Condition,generalized diffuse histiocytic lymphoma,OOV-C-786A5DEC8D,1
+90,Tissue,carcinoma-associated fibroblast liver metastasis,OOV-T-3D364761B4,11
+91,Tissue,Neurosphere (NS),OOV-T-A16EE1B34A,4
+92,Treatment,PURPL KO,OOV-X-1228457B73,3
+93,Condition,AML; FAB M1; cytogenetic poor risk,OOV-C-5D071F136D,1
+94,Treatment,pH 7.5; 21% oxygen,OOV-X-AE483CFE30,1
+95,Tissue,Large cell carcinoma,OOV-T-C84F18C0B7,6
+96,Treatment,ETOH,ART-X-00932,11
+97,Treatment,hCMV-stimulated,OOV-X-926CA5ABA0,13
+98,Condition,CLL,ART-C-00279,1836
+99,Treatment,0.1 mg,OOV-X-3CEE8D6F66,2
+100,Treatment,32.8001um,OOV-X-4453CD53B9,4
+101,Condition,CRC; Local recurrence,OOV-C-707FB85CE1,4
+102,Treatment,10µM A443654,OOV-X-18B703BD0C,5
+103,Treatment,shTRIB1-1,OOV-X-CDC8D41AC2,1
+104,Tissue,human embryonic kidney cell line,OOV-T-71AD6B647C,2
+105,Treatment,IFNγ-stimulated,OOV-X-98B86224FC,3
+106,Treatment,oral cs; cs mg/d: 15; cs mg/kg: 0.15,OOV-X-8887321796,1
+107,Treatment,siCITED1#3,OOV-X-06E40B79CB,4
+108,Treatment,siRNA knockdown of ZNF665,OOV-X-DEE624EE12,1
+109,Tissue,EBV-transformed lymphoblastoid cells,OOV-T-647918EC36,172
+110,Treatment,CD28,ART-X-29363,2
+111,Treatment,cp-79211,OOV-X-D19426D81D,1
+112,Treatment,HIV-1 infected,OOV-X-5F26E13062,25
+113,Treatment,miR-155 overexpression,OOV-X-72EE8A1AB2,3
+114,Treatment,cp-79140,OOV-X-C6BA233C98,1
+115,Treatment,Nutlin3a 10µM,OOV-X-BEF6BDDE8E,3
+116,Tissue,cystoadenocarcinoma,OOV-T-A323C91B38,1
+117,Treatment,culture medium only,OOV-X-8B943CF6E3,4
+118,Treatment,cp-33810,OOV-X-4AC3F3A549,1
+119,Tissue,ependymal tissue,OOV-T-5BFD009D17,7
+120,Treatment,antagomir-122,OOV-X-78510F3E5C,2
+121,Treatment,KIN001-055 0.04µM,OOV-X-56DD2189C3,42
+122,Treatment,cp-50626,OOV-X-A116847CEB,1
+123,Treatment,cp-3188,OOV-X-F9FB2AA111,1
+124,Treatment,cp-80571,OOV-X-E31A0F2865,1
+125,Treatment,None MALT1 Tx,OOV-X-A919E6775D,21
+126,Treatment,rAAVpp65N-rep2,OOV-X-2DEF050BF6,1
+127,Treatment,cp-69261,OOV-X-97BCF888B2,1
+128,Treatment,CVD lifestyle intervention,OOV-X-63002AAA54,34
+129,Tissue,Choriocarcinoma,OOV-T-35CA3C5A5D,1
+130,Treatment,Immunosupresor,OOV-X-13842A7E2A,12
+131,Treatment,HE alcoholic,OOV-X-DDF3413844,1
+132,Treatment,cp-50814,OOV-X-E81668CE6C,1
+133,Condition,DLBCL-A,OOV-C-A45D18ADBE,1
+134,Treatment,smoky-coal,OOV-X-054EE87945,1
+135,Treatment,100uM AA,OOV-X-A5596934BC,2
+136,Treatment,cp-22481,OOV-X-041CF6B687,1
+137,Treatment,post-pidilizumab,OOV-X-076F31CC25,8
+138,Treatment,syk-transfected; Ethanol; PonA,OOV-X-32EF1662EF,1
+139,Tissue,CD4+CD45RA-CCR7- FACS sorted primary T cells from MNC,OOV-T-A61D700C59,1
+140,Treatment,Benzyl 2-azido-2-deoxy-alpha-D-galactopyranoside (alphaOBnGalN3),OOV-X-86B892DE72,2
+141,Condition,light melanocytes,OOV-C-AC635D80A3,2
+142,Treatment,Asoprisnil_25_29,OOV-X-EF14F5AE0B,1
+143,Treatment,shBCAT1,OOV-X-48DAAB6116,1
+144,Treatment,SLAIN2 transduction,OOV-X-FE16A4EEAB,3
+145,Treatment,expressing full-length SV40 LT,OOV-X-A1B5871321,3
+146,Treatment,low Myc expression,OOV-X-D953F577DB,3
+147,Treatment,"siRNA, p21-2, 0.5nM, 24hr",OOV-X-A4E5B1166F,1
+148,Treatment,siEGFP,OOV-X-275ABFDAF1,14
+149,Condition,Embryocarcinoma,OOV-C-7F70225A5B,2
+150,Treatment,dominant-negative form of TRF2,OOV-X-34A59A5DBA,3
+151,Condition,primary lung cancer; Mixed large neuro- endocrine carcinoma and adenocarcinoma; Stage: I,OOV-C-E878BF0D47,2
+152,Treatment,"100 nM 1,25(OH)2D",OOV-X-551E65BFF7,10
+153,Condition,Parental HCET (control); shRNA-PNN HCET knock down; shRNA-ESRP1 HCET knock down,OOV-C-756D2257E0,1
+154,Treatment,shMCM8,OOV-X-1184F4A788,3
+155,Treatment,Ortho,ART-X-07299,5
+156,Treatment,T216C-A273G expression,OOV-X-BC920E4751,1
+157,Treatment,shCTL; DOX,OOV-X-197983B32E,3
+158,Treatment,palbociclib 0.04µM,OOV-X-EFB9F22E5A,74
+159,Treatment,P15/10mg/kg/W8,OOV-X-04DE08ABA9,1
+160,Treatment,PRO018PRE plasma,OOV-X-27CB5D5565,1
+161,Treatment,cp-50869,OOV-X-4B3EA9BFB7,1
+162,Treatment,AD5,ART-X-04537,1
+163,Condition,prostate carcinoma; T2+N0M0; Gleason 9,OOV-C-DC8FD3CAD2,2
+164,Treatment,SFRP3 sh3; 4mM glutamine,OOV-X-EC9EBD3368,3
+165,Treatment,cp-80142,OOV-X-4C54AF3845,1
+166,Treatment,cp-69964,OOV-X-BA83031C82,1
+167,Condition,chronic radiation,OOV-C-9EF7F2AF64,6
+168,Condition,cognitively intact,OOV-C-BB52CF5F06,173
+169,Treatment,11.2406um,OOV-X-11B37B9770,2
+170,Treatment,cp-6258,OOV-X-AD71B59585,1
+171,Condition,Liver tissue healthy,OOV-C-3D26CB20EF,6
+172,Treatment,cp-81237,OOV-X-695F64D263,1
+173,Tissue,PASMC-2,OOV-T-2757B5D3E5,3
+174,Treatment,stably transfected (using vector 101) to express Cas9 protein for use in CRISPR experiments,OOV-X-7DE1EF9259,35
+175,Treatment,"episomal nucleofection with 4F + NANOG, LIN28, SVLT",OOV-X-33AB1CC85B,1
+176,Treatment,RSL1,ART-X-25831,2
+177,Treatment,"10 MBq at t=0, 5 MBq at t=1d; Lutetium-177-octreotate",OOV-X-F9604D3275,2
+178,Condition,active smoker,OOV-C-12341662D7,22
+179,Treatment,CIT less than 20 hours; Basiliximab,OOV-X-A5AFD8EBB3,3
+180,Treatment,IRX1-targeting shRNA,OOV-X-06C2344733,3
+181,Treatment,cp-79737,OOV-X-FDC8871774,1
+182,Condition,PTC with dominant pattern of solid areas,OOV-C-234609FC2B,1
+183,Treatment,5-Azacytidine_5000nM_24h,OOV-X-C262B3E37F,3
+184,Condition,late stage OSCC; tumor; stage III,OOV-C-8FE45E2B63,5
+185,Condition,primary lung tumor; pathological stage: II,OOV-C-230357159E,2
+186,Condition,ADH,ART-C-08289,1
+187,Treatment,Dimethyl maleate; infection with VSVd51,OOV-X-D53CF020F6,1
+188,Treatment,EBNA2,ART-X-28380,6
+189,Treatment,cs mg/d: 5; cs mg/kg: 0.08,OOV-X-5BC8ADFE3C,1
+190,Treatment,TRI SQ,ART-X-05311,2
+191,Treatment,shRNA against PARG,OOV-X-2F258FE671,2
+192,Treatment,21.5373um,OOV-X-CC509569B0,1
+193,Condition,Non–Muscle-Invasive Bladder Cancer; Bladder Cancer; T1; High; Recurrence,OOV-C-E866648D7B,3
+194,Tissue,NPC biopsy,OOV-T-378D0374BF,15
+195,Condition,uterine epithelial adenocarcinoma,OOV-C-A51AF90F14,49
+196,Treatment,10 uM compound 3299_36501,OOV-X-1961F79FE5,1
+197,Treatment,cp-73408,OOV-X-E4E4A260FF,1
+198,Treatment,EBV(+) immune status,OOV-X-70D3EE6B1F,2
+199,Treatment,cp-50743,OOV-X-652D3ABCED,1
+200,Treatment,IL17A blockade,OOV-X-4C459B76A3,28
+201,Condition,PBD-ZSD patient,OOV-C-72C9E68444,26
+202,Treatment,1 uM OCA (INT-747),OOV-X-83F50F4CD4,3
+203,Treatment,cp-50195,OOV-X-0F726F315E,1
+204,Condition,control cell-line expressing yellow fluorescent protein (YFP),OOV-C-AB4785E127,1
+205,Treatment,Scrambled sgRNA,OOV-X-E3B7A09B3E,4
+206,Condition,PDTC,ART-C-03884,5
+207,Treatment,cp-79152,OOV-X-E51114F590,1
+208,Condition,Trimester 3,OOV-C-B277D14BCF,11
+209,Treatment,GSK-429286A 10µM,OOV-X-E199ABC6DA,41
+210,Treatment,DGM-10131_am,OOV-X-50803B8665,1
+211,Treatment,RD,ART-X-06562,99
+212,Treatment,cp-3367,OOV-X-66F0DA70C8,1
+213,Treatment,BX-912 3.33µM,OOV-X-AEA1B7EE8A,57
+214,Tissue,CLL26,ART-T-01827,1
+215,Condition,chronic heart failure,OOV-C-ED6767305A,22
+216,Tissue,TCR-alpha/beta CD4+ CD8- human T cells,OOV-T-A88C3D2253,1
+217,Treatment,500nM OR21,OOV-X-641DAB2DE7,1
+218,Tissue,Non-tumour control,OOV-T-319AD77C74,1
+219,Tissue,SW-82,OOV-T-9E9FA8E849,1
+220,Condition,normal fetuses,OOV-C-EAA4655D8E,22
+221,Treatment,cp-79953,OOV-X-2E670E50C2,1
+222,Treatment,CD04 Plasma,OOV-X-A304224D97,1
+223,Treatment,cp-43336,OOV-X-A4E1C40EDF,1
+224,Treatment,L18MDP; aIL10R,OOV-X-8C73946B1D,30
+225,Treatment,90 minutes 50 uM S3I-201,OOV-X-5FA209850E,3
+226,Tissue,TF1a,ART-T-00958,8
+227,Treatment,Baz2B-KO,OOV-X-925D5E72F2,2
+228,Tissue,melanoma-associated fibroblast (MAF2-mCherry),OOV-T-E9D7542D23,4
+229,Treatment,high hexavalent exposure,OOV-X-2D82D0342D,4
+230,Treatment,RPS6; 2µL,OOV-X-6FF07AA407,54
+231,Treatment,8hrs UVC,OOV-X-AC6CF8DD62,1
+232,Treatment,UVC-irradiated (12hour),OOV-X-86690F0324,6
+233,Condition,CLL progressive disease,OOV-C-C16DCED5F3,10
+234,Treatment,AdLACZ,OOV-X-26D8E9EFC0,7
+235,Tissue,Adult dermal fibroblasts,OOV-T-044357A721,2
+236,Treatment,2.64995um,OOV-X-5A1A7193A1,1
+237,Tissue,HTT,ART-T-00152,1
+238,Tissue,WHIM12,OOV-T-C88D358474,9
+239,Condition,AD; braak stage: I,OOV-C-1C02F6220D,2
+240,Tissue,iCCA xenograft mice model,OOV-T-90E508E0CA,10
+241,Treatment,cp-59470,OOV-X-367AAEE661,1
+242,Condition,Papillary serous adenocarcinoma,OOV-C-6A5FD0F277,2
+243,Treatment,co-culture with B-cell precursor acute lymphoblastic leukemia cells,OOV-X-F39A5E5A75,6
+244,Treatment,vector; Nutlin 1A,OOV-X-125AA96E52,1
+245,Tissue,hSAEpCs,OOV-T-954AA6BEB6,4
+246,Treatment,Fluzone 09-10,OOV-X-B28A249AA6,10
+247,Treatment,AP1510,OOV-X-C798BFBBF7,3
+248,Treatment,obatoclax,OOV-X-87F381B751,2
+249,Treatment,cp-79431,OOV-X-1B62866F51,1
+250,Treatment,cp-44618,OOV-X-9BE8C61E8D,1
+251,Treatment,cp-50877,OOV-X-CA4BB2FB80,1
+252,Treatment,MYB siRNA 1,OOV-X-75C686782D,3
+253,Treatment,cp-3793,OOV-X-CEA4073E13,1
+254,Treatment,10-5M ATRA,OOV-X-DB087B28D5,2
+255,Treatment,Twist2; transfected with twist expression vector,OOV-X-58CE4BAAA2,2
+256,Condition,Stasis,OOV-C-55C5205D5A,10
+257,Treatment,MAML1 stable overexpression,OOV-X-C87FF32CC7,5
+258,Treatment,Rhosin,OOV-X-F27DF8B7A5,3
+259,Treatment,cp-33764,OOV-X-F7903DDB99,1
+260,Treatment,HA L2_24h,OOV-X-D4E7FC8DF9,4
+261,Treatment,SLE serum,OOV-X-0F05D477FD,3
+262,Treatment,cp-5274,OOV-X-F04DA89FFD,1
+263,Treatment,CCDP; DUSP1 knockdown (siRNA-mediated),OOV-X-64F44441CE,2
+264,Treatment,YM-201636 0.04µM,OOV-X-9ADC7A5A46,53
+265,Treatment,40.2um,OOV-X-BECE4B8B10,33
+266,Tissue,HCC tumor tissue without metastasis,OOV-T-8C52D175CC,10
+267,Treatment,50 µg DEP/mL,OOV-X-520C3005E0,6
+268,Condition,cT4aN0M0; pT0N0,OOV-C-21C36A2E42,1
+269,Treatment,Non-silencing construct,OOV-X-4266A161CD,4
+270,Tissue,Malignant glioma clone; U3117MG-C492,OOV-T-967AADF7A0,1
+271,Treatment,vector-110816,OOV-X-D784DB7D74,1
+272,Condition,LGLL,ART-C-07220,2
+273,Tissue,mDC,ART-T-01645,25
+274,Treatment,cp-867,OOV-X-763574609E,1
+275,Condition,Leishmania major,OOV-C-8F76CDE695,2
+276,Treatment,ZBTB40,OOV-X-3F23BDFE65,3
+277,Treatment,cp-33144,OOV-X-8196CAF8BD,1
+278,Condition,non-lesional knee cartilage OA,OOV-C-74F1BF9D8C,3
+279,Treatment,cp-82119,OOV-X-AD66046317,1
+280,Condition,EBNA-3A mutant B infected,OOV-C-7AF7DDD32F,4
+281,Treatment,CCR5-using HIV-1 non replicating,OOV-X-635869C6D6,3
+282,Treatment,t(8; 21) genotype,OOV-X-D594A49E49,3
+283,Treatment,10.6981um,OOV-X-8726696C47,2
+284,Treatment,shAS1,ART-X-08293,1
+285,Treatment,yes allergy,OOV-X-64FEBF8316,192
+286,Treatment,AT-7519 0.04µM,OOV-X-30ACAC19AE,74
+287,Treatment,canertinib 3.33µM,OOV-X-1EB203D8D3,71
+288,Treatment,trametinib 3.33µM,OOV-X-2C4B4953B2,55
+289,Condition,IPF/UIP,OOV-C-B6F564010B,119
+290,Tissue,Blasts and mononuclear cells,OOV-T-1E49BF3C35,65
+291,Treatment,golimumab,OOV-X-DA6A115F40,109
+292,Treatment,GSK-690693 3.33µM,OOV-X-3E20B5A9E0,53
+293,Condition,CHD7 variant,OOV-C-F639D5AB20,53
+294,Treatment,Mid dose,OOV-X-D934B587DA,144
+295,Tissue,Stool,OOV-T-E9D0AF0B55,338
+296,Treatment,AS-601245 1.11µM,OOV-X-CAE150557D,54
+297,Condition,non-responder,OOV-C-67F4E34D13,74
+298,Tissue,cervico-vaginal material,OOV-T-54CCCD6C82,68
+299,Condition,non-tumor,OOV-C-8F4BC153BC,567
+300,Treatment,PD-173074 1.11µM,OOV-X-3721EC286B,70
+301,Treatment,PHA-665752 0.37µM,OOV-X-01BD19CA14,55
+302,Condition,Vata,ART-C-00847,56
+303,Treatment,torin-1 10µM,OOV-X-777E52B647,68
+304,Condition,non-metastatic prostate cancer,OOV-C-C4C3FE2162,70
+305,Condition,born small for gestational age (SGA),OOV-C-AA250E76F8,63
+306,Condition,primary tumor,OOV-C-A7DE4717B5,67
+307,Tissue,Peripheral blood cd19+ tumor cells,OOV-T-EF5AF10473,55
+308,Treatment,Respiratory Syncitial Virus co-infections (RSVco),OOV-X-D90EC3A0CE,81
+309,Treatment,media alone,OOV-X-8904EBF879,148
+310,Treatment,JNK-9L 3.33µM,OOV-X-E0B6F6A8B9,68
+311,Condition,AML with normal karyotype; de novo AML,OOV-C-2BBC746E01,235
+312,Condition,vehicle control,OOV-C-2DA3A811D7,233
+313,Tissue,blasts and mononuclear cells,OOV-T-1E49BF3C35,461
+314,Condition,non-infected control,OOV-C-3D7BA6595F,96
+315,Condition,IPD,ART-C-05019,157
+316,Tissue,Uveal melanoma,OOV-T-5D66AFF31F,57
+317,Tissue,high grade serous ovarian cancer,OOV-T-82270AE043,113
+318,Treatment,DEP,ART-X-04801,56
+319,Condition,ASD,ART-C-00683,241
+320,Tissue,LM CRC PDX sample,OOV-T-D239E53FFB,523
+321,Condition,living donor,OOV-C-19DE4EFC69,71
+322,Treatment,GSK-1059615 1.11µM,OOV-X-1EF3CA1F93,240
+323,Treatment,5-Azacytidine_1000nM,OOV-X-A685B7B459,70
+324,Condition,T1D,ART-C-00514,267
+325,Treatment,WZ-4-145 1.11µM,OOV-X-18F8F03050,72
+326,Treatment,AZD-7762 10µM,OOV-X-04BA2CBB21,68
+327,Treatment,non-diabetic donors,OOV-X-D120AD27E9,55
+328,Treatment,IL-1b,OOV-X-A9E9029F8F,59
+329,Treatment,KIN001-043 0.37µM,OOV-X-ABA73F2B9F,73
+330,Tissue,Lymphoblastoid Cell Lines (LCL),OOV-T-98E57BFE8F,244
+331,Condition,Normal Pregnancy,OOV-C-D12C3BAAEE,126
+332,Condition,PSP,ART-C-01964,51
+333,Tissue,Isolated peripheral blood mononuclear cells (PBMCs),OOV-T-9067226445,54
+334,Tissue,peripheral-blood mononuclear cell (PBMC),OOV-T-4B681227CE,100
+335,Tissue,Proliferative Endometrial tissue,OOV-T-42594D0246,64
+336,Condition,HIV-1 infected,OOV-C-5F341F0467,71
+337,Tissue,Bb,ART-T-01311,86
+338,Treatment,radicicol 0.37µM,OOV-X-172634A351,136
+339,Treatment,WYE-125132 1.11µM,OOV-X-59B4958FFF,72
+340,Treatment,CYT387 0.37µM,OOV-X-F4E922AF68,57
+341,Treatment,robotic radical prostatetctomy,OOV-X-9E07F0DB85,63
+342,Treatment,CP-724714 1.11µM,OOV-X-E686F06FB6,54
+343,Treatment,typically developing (control) diagnosis,OOV-X-FD06C54C17,70
+344,Treatment,2HRZE/4HR,OOV-X-5BB9F91D73,191
+345,Tissue,colorectal cancer biopsy,OOV-T-15CB6BF737,821
+346,Tissue,colorectal carcinoma,OOV-T-AAF5C9E1CA,176
+347,Treatment,hepatitis C virus,OOV-X-A15A145306,58
+348,Condition,early secretory,OOV-C-1D26F92D08,51
+349,Treatment,PLX-4720 0.37µM,OOV-X-01E1812352,57
+350,Condition,Normal tissue,OOV-C-9DB2C8582D,424
+351,Treatment,Chemo+BEVA,OOV-X-618BD7232E,196
+352,Treatment,AS-605240 1.11µM,OOV-X-9CBC30F460,72
+353,Treatment,durvalumab/olaparib arm,OOV-X-7816F9ACF4,62
+354,Treatment,selumetinib 0.04µM,OOV-X-810E68122B,76
+355,Condition,No ABMRh,OOV-C-FC6AA20B3D,168
+356,Treatment,CHIR-99021 0.37µM,OOV-X-0FC08ABCA6,73
+357,Treatment,GSK-690693 10µM,OOV-X-5325D720A7,54
+358,Treatment,EGFR,ART-X-14203,74
+359,Treatment,PF-562271 3.33µM,OOV-X-75E9B9663F,66
+360,Condition,Unremarkable breast ducts (Normal),OOV-C-DAB298A968,90
+361,Treatment,BFP,ART-X-22089,123
+362,Condition,cancer stage: 1,OOV-C-B946B82FC0,52
+363,Treatment,trametinib 1.11µM,OOV-X-FD0B9175F8,53
+364,Tissue,CLL cells,OOV-T-1B6A5C8BDB,82
+365,Tissue,Lymphoma,OOV-T-F33F655544,91
+366,Treatment,ERG,ART-X-14336,51
+367,Treatment,CGP-60474 3.33µM,OOV-X-FCE5462370,184
+368,Treatment,EVLP,ART-X-23630,51
+369,Tissue,PTCL,ART-T-02666,139
+370,Condition,normal human bronchial epithelial cells,OOV-C-99DAD5492F,62
+371,Treatment,PF-477736 0.12µM,OOV-X-10153AA138,58
+372,Treatment,YF-17D Vaccinee,OOV-X-CF34943294,76
+373,Treatment,tozasertib 10µM,OOV-X-482550854F,56
+374,Treatment,HG-6-64-01 0.12µM,OOV-X-6EE59F3FED,69
+375,Treatment,mut igvh mutational status,OOV-X-013E5C8C68,133
+376,Treatment,trametinib 0.37µM,OOV-X-3B1E79F425,50
+377,Treatment,H5N1+AS03,OOV-X-06E0199D2C,259
+378,Condition,tumor stage: III-IV,OOV-C-298A49230E,161
+379,Condition,Healthy control,OOV-C-EA9A2B240D,902
+380,Treatment,Empty vector,OOV-X-402D4F08BE,61
+381,Treatment,withaferin-a 0.12µM,OOV-X-46CC909D72,135
+382,Tissue,ES cells,OOV-T-FD929508E5,57
+383,Condition,Young (baseline),OOV-C-DC91EDFA8D,53
+384,Treatment,vino,OOV-X-A948151F9A,51
+385,Treatment,TGX-221 1.11µM,OOV-X-3AD864E3F2,57
+386,Condition,ionizing radiation (IR),OOV-C-D459AC88F4,314
+387,Treatment,scrambled siRNA,OOV-X-C308F0FBF4,97
+388,Treatment,ADA,ART-X-02855,80
+389,Treatment,PHA-793887 3.33µM,OOV-X-A5FE032187,69
+390,Treatment,vector,OOV-X-03F0F90AFC,170
+391,Treatment,pre-vaccination,OOV-X-EED375C180,167
+392,Treatment,SB590885 10µM,OOV-X-7AA509B90C,56
+393,Tissue,human islet beta cells,OOV-T-A08B97063A,90
+394,Tissue,cancerCells,OOV-T-AFEC996E4D,132
+395,Condition,early stage CRC; tumor; metastasis negative,OOV-C-3D6B60C7DD,77
+396,Tissue,IL4 DC,OOV-T-88EF95C660,88
+397,Treatment,BYL719 3.33µM,OOV-X-D84E1BF5F6,58
+398,Tissue,primary keratinocyte culture,OOV-T-EB21F56565,60
+399,Condition,Healthy,OOV-C-E20B68DA99,2744
+400,Condition,healthy subject,OOV-C-3A89EEC4E4,173
+401,Condition,indeterminate; benign,OOV-C-2D570D50A8,73
+402,Condition,obese; no systemic insulin resistance,OOV-C-B032E966C0,117
+403,Condition,typical development,OOV-C-B8661EB2E2,64
+404,Treatment,Symptomatic,OOV-X-4D5B1B6967,68
+405,Condition,preterm,OOV-C-0662B098FB,77
+406,Treatment,R10 media alone (U),OOV-X-EA712FD41E,89
+407,Treatment,PD-184352 0.12µM,OOV-X-1B2B864286,57
+408,Condition,pABMR,ART-C-02143,64
+409,Treatment,GSK-2126458 0.37µM,OOV-X-C53A4DBFE0,75
+410,Tissue,rectal tumor,OOV-T-3B20020819,69
+411,Treatment,Ust_Ust,OOV-X-F1B2F65C0C,433
+412,Treatment,NVP-BEZ235 0.12µM,OOV-X-A6BF2781D2,56
+413,Condition,normal buccal cells,OOV-C-5EB8D2AE24,53
+414,Treatment,PHA-665752 0.12µM,OOV-X-462CABFC5E,54
+415,Treatment,NVP-BEZ235 0.04µM,OOV-X-8B6484DC3C,57
+416,Condition,differentiated state,OOV-C-BCD8A08AE0,351
+417,Treatment,standard ICU care for septic shock,OOV-X-FF0FEEE882,181
+418,Tissue,tumour,OOV-T-BD3240A33A,58
+419,Treatment,Sleep Restriction,OOV-X-E7CCD21154,240
+420,Treatment,POST-CHEM-RAD,OOV-X-BED4495585,90
+421,Treatment,Crisaborole,OOV-X-A0BF07B576,102
+422,Tissue,Tumor tissue,OOV-T-744B89AF51,103
+423,Treatment,PI-103 0.04µM,OOV-X-FA6DF5B2C0,72
+424,Treatment,XMD16-144 1.11µM,OOV-X-B7C17696C3,56
+425,Tissue,sorted CLL PBMCs,OOV-T-BF74FC1346,118
+426,Condition,MCI,ART-C-00369,120
+427,Tissue,colorectal cancer metastasis,OOV-T-5321489A04,257
+428,Tissue,CD4+ Tcells,OOV-T-DD6B564FF3,339
+429,Treatment,NU-7441 0.04µM,OOV-X-70501C2F21,54
+430,Treatment,pelitinib 0.12µM,OOV-X-00A3CB2DC9,57
+431,Condition,malignant,OOV-C-E138B10FCA,142
+432,Tissue,LCL,ART-T-00126,204
+433,Condition,FSGS,ART-C-03145,73
+434,Treatment,AS-605240 3.33µM,OOV-X-C181F7A828,72
+435,Treatment,PPROM group,OOV-X-F5EC296B50,59
+436,Treatment,Smoker,OOV-X-6D9285066E,130
+437,Tissue,human monocyte cell line,OOV-T-22279317B5,178
+438,Condition,prostate adenocarcinoma,OOV-C-990479A14D,177
+439,Treatment,IVF,ART-X-22335,167
+440,Condition,non-tumor tissue,OOV-C-D31D74DD36,55
+441,Treatment,healthy bone marrow,OOV-X-61ED550CF8,51
+442,Condition,healthy donors,OOV-C-2ED1735684,509
+443,Condition,high BLL,OOV-C-DD14A97124,65
+444,Condition,Colorecal Cancer,OOV-C-2D027C3562,400
+445,Tissue,Colorectal Cancer,OOV-T-4AEBAD3347,434
+446,Treatment,torin-2 0.37µM,OOV-X-0B9CDC47ED,51
+447,Treatment,HG-6-64-01 10µM,OOV-X-986996A10E,58
+448,Treatment,healthy buccal,OOV-X-E30C2B3722,89
+449,Treatment,never smoker,OOV-X-5E6AAF6D82,95
+450,Treatment,CTLA4 treated patient plasma,OOV-X-3FC072F285,165
+451,Condition,Stage II; COPD,OOV-C-AD65A932DB,68
+452,Treatment,TG-101348 0.37µM,OOV-X-93E100F3CE,58
+453,Tissue,neuroblastoma,OOV-T-A5FAD67B7A,363
+454,Treatment,geldanamycin 100nM,OOV-X-7070DBCB99,93
+455,Condition,colon adenocarcinoma stage II,OOV-C-01794C886B,90
+456,Treatment,nilotinib 1.11µM,OOV-X-76ADB51DCA,57
+457,Treatment,GSK-1059615 10µM,OOV-X-911273EFBF,220
+458,Treatment,GSK-2126458 0.12µM,OOV-X-DCFF53D1D2,72
+459,Condition,Possible AD,OOV-C-B428B19DC8,246
+460,Treatment,doce; herceptin,OOV-X-06805C89F8,50
+461,Treatment,KIN001-043 0.12µM,OOV-X-1556848C5D,73
+462,Treatment,NF1; 2µL,OOV-X-FD9827B1F3,53
+463,Treatment,CP-724714 0.37µM,OOV-X-0D55C0ECA2,51
+464,Condition,Diseased,OOV-C-093E7BCEBD,425
+465,Tissue,WBC,ART-T-00423,72
+466,Tissue,triple negative breast cancer (TNBC),OOV-T-D15585BD9F,98
+467,Treatment,CP466722 0.37µM,OOV-X-F7235D3198,55
+468,Treatment,VPA,ART-X-02738,67
+469,Treatment,GSK-2126458 1.11µM,OOV-X-95A3DC9124,71
+470,Tissue,invasive ductal carcinomas (IDC),OOV-T-C69B9C31AC,97
+471,Treatment,NVP-TAE684 1.11µM,OOV-X-2EF38A7F97,74
+472,Treatment,bmi: 25-29.99,OOV-X-18352F23DB,77
+473,Tissue,peripheral PBMC,OOV-T-BAAE6DF038,885
+474,Treatment,torin-2 0.12µM,OOV-X-39600A4F27,53
+475,Treatment,wP-FEC,OOV-X-8BB2E371E2,232
+476,Condition,smoker,OOV-C-24C738EAD4,898
+477,Treatment,JNK-9L 0.04µM,OOV-X-5587C6C4AA,69
+478,Treatment,CAMK1 2µL,OOV-X-BA93E24A54,62
+479,Condition,bpd; Severe,OOV-C-4E67A88C49,97
+480,Treatment,foretinib 0.37µM,OOV-X-355942A659,55
+481,Condition,SIRS; sepsis; septic shock,OOV-C-A7E8B10B1C,65
+482,Condition,recent-onset (RO) T1D,OOV-C-1661CC84C1,195
+483,Treatment,belinostat 10µM,OOV-X-384091DC24,57
+484,Tissue,acute lymphoblastic leukemia,OOV-T-51F12B7DD9,88
+485,Treatment,IgG-coated latex beads,OOV-X-6DAC7C9FB9,53
+486,Treatment,AZD-8055 0.04µM,OOV-X-E37652A97C,71
+487,Treatment,LPS; aCD3-aCD28; aIL10R,OOV-X-CB8807375F,71
+488,Condition,Stage IV; Stage III,OOV-C-B1C8493E3C,77
+489,Treatment,non-rejecting diagnosis,OOV-X-A2C84BFE3D,222
+490,Treatment,NU-7441 10µM,OOV-X-E7E5CE93C2,57
+491,Treatment,"fractional dose of 10mg RTS,S/AS01 at Week 8; ChAd63 ME-TRAP at Week 0; MVA ME-TRAP at Week 4 and 8",OOV-X-E037902A8D,69
+492,Tissue,CD34+ cells,OOV-T-43D7C5B608,344
+493,Tissue,Myocard,OOV-T-0E504DA222,68
+494,Tissue,Wilms tumor tissue,OOV-T-67BAC66848,53
+495,Treatment,AZD-7762 3.33µM,OOV-X-DD28954F23,74
+496,Condition,Carrier,OOV-C-E29EAC81E8,250
+497,Tissue,PB_MNC,OOV-T-D65B9FBE25,96
+498,Treatment,chronically high in PSI,OOV-X-BCEC6065A4,57
+499,Condition,primary CNS lymphoma; metastatic dlbcl in cns,OOV-C-1FB270AFEE,50
+500,Condition,RRMS,ART-C-01401,566

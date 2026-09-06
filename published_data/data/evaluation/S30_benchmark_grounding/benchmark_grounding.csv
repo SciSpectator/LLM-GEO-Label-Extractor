@@ -1,0 +1,7 @@
+field,tier,n,share,accuracy,verbatim_pct
+Tissue,keyed,662,44.13,0.9924,66.92
+Tissue,source_name,838,55.87,1.0,83.77
+Condition,keyed,462,30.8,1.0,74.68
+Condition,source_name,1038,69.2,0.9277,70.52
+Treatment,keyed,249,16.6,0.9518,72.29
+Treatment,source_name,1251,83.4,0.8489,34.21

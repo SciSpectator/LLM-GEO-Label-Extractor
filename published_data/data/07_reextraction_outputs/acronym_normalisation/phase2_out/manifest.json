@@ -1,0 +1,30 @@
+{
+  "corpus": "Directory to p1_acronyms.json.gz",
+  "corpus_files": 1,
+  "stage": "phase1b",
+  "samples": 55858,
+  "distinct_values": 621,
+  "studies_with_context": 16839,
+  "index": "Directory to vocab_index.npz",
+  "index_digest": "0a3f9ff8d1b81d11",
+  "embed_model": "FremyCompany/BioLORD-2023",
+  "embed_device": "cuda",
+  "endpoints": 1,
+  "workers": 32,
+  "merge_threshold": 0.95,
+  "top_n": 8,
+  "use_polarity": true,
+  "use_picker": true,
+  "use_verifier": true,
+  "use_pubtator": true,
+  "sources": {
+    "uncovered": 35,
+    "oov": 291,
+    "mesh": 295
+  },
+  "rows": 55858,
+  "platforms": 150,
+  "python": "3.10.12",
+  "numpy": "2.2.6",
+  "seconds": 7256.0
+}

@@ -1,0 +1,38 @@
+acronym,samples,outcome,resolved_samples,target,top_error
+AD,647,partly,582,Alzheimer Disease,3xTg-AD
+AF,8,resolved,8,Atrial Fibrillation,
+ALL,41,partly,25,Precursor Cell Lymphoblastic Leukemia-Lymphoma,ALL
+ALS,344,partly,336,Amyotrophic Lateral Sclerosis,"Dermatitis, Atopic"
+AML,3494,partly,3471,"Leukemia, Myeloid, Acute",AML with monosomy 7
+ASD,241,partly,221,Autism Spectrum Disorder,"Heart Septal Defects, Atrial"
+CAD,31,resolved,31,Coronary Artery Disease,
+CD,751,partly,27,Crohn Disease,CD
+CF,63,partly,51,Cystic Fibrosis,cycstic fibrosis
+CKD,89,partly,6,"Renal Insufficiency, Chronic",CKD
+CLL,1836,partly,1818,"Leukemia, Lymphocytic, Chronic, B-Cell",CLL
+CML,143,resolved,143,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",
+CRC,198,partly,181,Colorectal Neoplasms,Colonic Neoplasms
+GBM,1038,resolved,1038,Glioblastoma,
+HCC,322,partly,310,"Carcinoma, Hepatocellular",HCC
+HD,244,partly,202,Huntington Disease,HD
+HF,34,resolved,34,Heart Failure,
+IBD,55,resolved,55,Inflammatory Bowel Diseases,
+IPF,478,resolved,478,Idiopathic Pulmonary Fibrosis,
+MDD,376,partly,362,Major Depressive Disorder,"n=103 subjects, 50.5%MDD"
+MDS,885,partly,879,Myelodysplastic Syndromes,MDS
+MI,206,resolved,206,Myocardial Infarction,
+NASH,339,resolved,339,Non-alcoholic Fatty Liver Disease,
+NSCLC,16375,partly,16310,"Carcinoma, Non-Small-Cell Lung",NSCLC
+OA,268,partly,95,Osteoarthritis,OA
+PAH,7,resolved,7,Pulmonary Arterial Hypertension,
+PCOS,135,resolved,135,Polycystic Ovary Syndrome,
+PD,14,resolved,14,Parkinson Disease,
+PDAC,93,partly,86,"Carcinoma, Pancreatic Ductal",PDAC
+RA,320,partly,319,"Arthritis, Rheumatoid",RA
+RCC,33,resolved,33,"Carcinoma, Renal Cell",
+SLE,4683,resolved,4683,"Lupus Erythematosus, Systemic",
+T1D,267,resolved,267,"Diabetes Mellitus, Type 1",
+T2D,39,resolved,39,"Diabetes Mellitus, Type 2",
+TB,130,resolved,130,Tuberculosis,
+TNBC,173,resolved,173,Triple Negative Breast Neoplasms,
+UC,556,resolved,556,"Colitis, Ulcerative",

@@ -1,0 +1,7 @@
+run,field,weight,mesh_exact,mesh_retrieval,cellosaurus_exact,cellosaurus_contained,cellosaurus_fuzzy,oov_appropriate,oov_should_be_mesh,oov_should_be_cellosaurus,uncovered,total
+final,Tissue,values,6940,1128,5903,435,2,6556,13,113,164,21254
+final,Tissue,instances,484945,12798,158803,2048,5,129780,3791,7256,5001,804427
+final,Condition,values,5199,6133,0,0,0,9119,29,0,1328,21808
+final,Condition,instances,324866,51892,0,0,0,242825,425,0,184419,804427
+final,Treatment,values,5432,1556,0,0,0,39180,21,0,2027,48216
+final,Treatment,instances,87213,8968,0,0,0,249939,156,0,458151,804427

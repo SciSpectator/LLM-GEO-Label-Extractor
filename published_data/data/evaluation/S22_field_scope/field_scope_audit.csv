@@ -1,0 +1,6 @@
+case,action,samples,target_field_already_labelled,pct_target_labelled,target_field_carries_cellosaurus
+disease in Tissue,removed,20420,20420,100.00,
+cell line in Condition,removed,1014,1014,100.00,398
+cell line in Treatment,removed,2048,2048,100.00,645
+moved to Condition,moved,156,,,
+moved to Tissue,moved,20,,,

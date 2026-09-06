@@ -1,0 +1,151 @@
+item,field,raw_value,assigned_id,judge_verdict,matched_id,confusion
+1,Tissue,PBMC,ART-T-00001,inappropriate,D007963,FN
+2,Tissue,Lymphoblastoid cell lines,OOV-T-E3103FC62D,appropriate,,TN
+3,Tissue,Breast,OOV-T-4B6CE79624,inappropriate,D001940,FN
+4,Tissue,medulloblastoma,OOV-T-6B55FBF677,appropriate,,TN
+5,Tissue,CD14+ cell,OOV-T-9B2E20067A,indeterminate,,EXCL
+6,Tissue,neuronal progenitor cells,OOV-T-3EF6864093,indeterminate,,EXCL
+7,Tissue,PBMCs,ART-T-00036,inappropriate,D007963,FN
+8,Tissue,colorectal cancer,OOV-T-4AEBAD3347,appropriate,,TN
+9,Tissue,HUC1,ART-T-00101,indeterminate,,EXCL
+10,Tissue,GBM 104,OOV-T-3EFC8929F5,appropriate,,TN
+11,Tissue,human-derived melanoma cells,OOV-T-FEB3936798,appropriate,,TN
+12,Tissue,Acute Lymphoblastic Leukemia cells,OOV-T-0DB4BAF1A4,appropriate,,TN
+13,Tissue,MDA-HNS-073,OOV-T-4D46A4B83D,indeterminate,,EXCL
+14,Tissue,TestiGermCell,OOV-T-616B4E471B,appropriate,,TN
+15,Tissue,primary human brain microvascular endothelial cells,OOV-T-71F360D6A6,appropriate,,TN
+16,Tissue,Gastrocnemius,OOV-T-963C09C763,inappropriate,D018482,FN
+17,Tissue,Ewing's sarcoma cell line; SK-N-MC,OOV-T-CF3FBD08F6,inappropriate,CVCL_0530,FN
+18,Tissue,Rectal cancer tissue,OOV-T-5CEE69680B,appropriate,,TN
+19,Tissue,whole blood,D001773,incorrect,D001769,FP
+20,Tissue,blood,D001769,correct,,TP
+21,Tissue,Whole blood,D001773,incorrect,D001769,FP
+22,Tissue,kidney,D007668,correct,,TP
+23,Tissue,Blood,D001769,correct,,TP
+24,Tissue,adipose_tissue_subcutaneous,D000273,correct,,TP
+25,Tissue,cervix; tumour,D002584,correct,,TP
+26,Tissue,human placenta,D010920,correct,,TP
+27,Tissue,Cervix,D002584,correct,,TP
+28,Tissue,Mammary gland/breast; Epithelial,D001940,correct,,TP
+29,Tissue,A549,CVCL_0023,correct,,TP
+30,Tissue,MCF7,CVCL_0031,correct,,TP
+31,Tissue,HEPG2,CVCL_0027,correct,,TP
+32,Tissue,A375,CVCL_0132,correct,,TP
+33,Tissue,HT29,CVCL_0320,correct,,TP
+34,Tissue,U266 human myeloma cell line,CVCL_0566,correct,,TP
+35,Tissue,MCF10A Cells,CVCL_0598,correct,,TP
+36,Tissue,Fibroblast CCD1112Sk,CVCL_2769,correct,,TP
+37,Tissue,SKBR3 cells,CVCL_0033,correct,,TP
+38,Tissue,MLS 2645-94,CVCL_S813,indeterminate,,EXCL
+39,Tissue,Not Specified,,correct,,TP
+40,Tissue,Tumor,,correct,,TP
+41,Tissue,CL-1,,indeterminate,,EXCL
+42,Tissue,non-tumor,,correct,,TP
+43,Condition,adenocarcinoma,D000230,correct,,TP
+44,Condition,breast cancer,D001943,correct,,TP
+45,Condition,ductal carcinoma,D044584,correct,,TP
+46,Condition,hepatocellular carcinoma,D006528,correct,,TP
+47,Condition,colorectal adenocarcinoma,D015179,correct,,TP
+48,Condition,Tumor; gleason; Stage pT3b,D009369,correct,,TP
+49,Condition,clear cell renal carcinoma; Stage 4,D002292,correct,,TP
+50,Condition,gastric cancer; Stage II; grade G3,D013274,correct,,TP
+51,Condition,positive acute lymphoblastic leukemia,D054198,correct,,TP
+52,Condition,Yolk Sac Tumour,D018240,correct,,TP
+53,Condition,Not Specified,,correct,,TP
+54,Condition,neurologically and neuropathologically normal,,correct,,TP
+55,Condition,retinal detachment: no,,correct,,TP
+56,Condition,Normal corpus,,correct,,TP
+57,Condition,normal,OOV-C-4151FED50D,appropriate,,TN
+58,Condition,NSCLC,ART-C-00622,inappropriate,D002289,FN
+59,Condition,control,OOV-C-D2446A4E3F,appropriate,,TN
+60,Condition,healthy,OOV-C-E20B68DA99,appropriate,,TN
+61,Condition,Normal,OOV-C-4151FED50D,appropriate,,TN
+62,Condition,Control,OOV-C-D2446A4E3F,appropriate,,TN
+63,Condition,SLE,ART-C-00214,inappropriate,D008180,FN
+64,Condition,AML,ART-C-00163,inappropriate,D015470,FN
+65,Condition,Endometrioid,OOV-C-2AA1B93977,inappropriate,D018269,FN
+66,Condition,AdenoCa,OOV-C-2AA52AC531,inappropriate,D000230,FN
+67,Condition,ITGA3 mutation,OOV-C-BFF70CCF1C,appropriate,,TN
+68,Condition,infected with KY/136 (pdmH1N1),OOV-C-99E64C9B0B,appropriate,,TN
+69,Condition,BRCA2 one-hit mutant,OOV-C-0AAA00359B,appropriate,,TN
+70,Condition,activated metaphase-2 oocyte,OOV-C-BD0E094E01,appropriate,,TN
+71,Condition,MCT8 mutation,OOV-C-3DCF37D5FB,appropriate,,TN
+72,Condition,AML with t(8;16) therapy-related,OOV-C-2A59AA74DF,appropriate,,TN
+73,Condition,MIXED; Grade 3,OOV-C-318EEEE4A7,appropriate,,TN
+74,Condition,primary prostate cancer; Gleason 9; T2N0,OOV-C-2EF664BEA1,inappropriate,D011471,FN
+75,Treatment,Not Specified,,correct,,TP
+76,Treatment,No Statin,,correct,,TP
+77,Treatment,no del 13q14 ... CLL,,correct,,TP
+78,Treatment,nonsmoker; pm2.5 exposure,,correct,,TP
+79,Treatment,vehicle,OOV-X-B880FC6CDD,appropriate,,TN
+80,Treatment,Placebo,OOV-X-36F9CDA7AB,inappropriate,D010919,FN
+81,Treatment,placebo,OOV-X-36F9CDA7AB,inappropriate,D010919,FN
+82,Treatment,LPS,ART-X-00026,inappropriate,D008070,FN
+83,Treatment,Mock,ART-X-00005,appropriate,,TN
+84,Treatment,Vehicle,OOV-X-B880FC6CDD,appropriate,,TN
+85,Treatment,TT2,ART-X-29948,indeterminate,,EXCL
+86,Treatment,mixed,OOV-X-701346C8B1,appropriate,,TN
+87,Treatment,cp-81518,OOV-X-09B6284ABD,appropriate,,TN
+88,Treatment,BafA,ART-X-26741,indeterminate,,EXCL
+89,Treatment,siLincSTXBP5,OOV-X-AF45DBF418,appropriate,,TN
+90,Treatment,KIN001-055 1.11uM,OOV-X-72BFCA9F2C,incorrect,,FP
+91,Treatment,pyrazolanthrone 0.12uM,OOV-X-115A0DA3DE,appropriate,,TN
+92,Treatment,TG,ART-X-29262,indeterminate,,EXCL
+93,Treatment,pacritinib,OOV-X-08D9A4D577,indeterminate,,EXCL
+94,Treatment,FECH siRNA + 5-ALA,OOV-X-966D7A09E6,appropriate,,TN
+95,Treatment,SJE2A066,OOV-X-39D3A8A877,incorrect,,FP
+96,Treatment,1ng/ml LPS,OOV-X-985793487D,inappropriate,D008070,FN
+97,Treatment,DMSO,D004121,correct,,TP
+98,Treatment,Cas9 transfection v311,D064130,correct,,TP
+99,Treatment,Cas9 transfection v101,D064130,correct,,TP
+100,Treatment,Ustekinumab,D000069549,correct,,TP
+101,Treatment,ionizing radiation (IR),D014916,incorrect,D011839,FP
+102,Treatment,Mannitol 2mM,D008353,correct,,TP
+103,Treatment,CWC27 knockdown,D055785,correct,,TP
+104,Treatment,2000 uM Lithium Carbonate,D016651,correct,,TP
+105,Treatment,TNFa; control siRNA,D014409,correct,,TP
+106,Treatment,Steroids PO,D013256,correct,,TP
+107,Tissue,Induced cardiomyocyte,OOV-T-B0DAB0DF85,appropriate,,TN
+108,Tissue,human transplanted kidney,D007668,correct,,TP
+109,Condition,Glioma; Glioblastoma; WHO IV,D005910,correct,,TP
+110,Condition,HER2 positive metastatic breast cancer,OOV-C-5D29D31894,inappropriate,D001943,FN
+111,Treatment,cp-61482,OOV-X-0E3F04BD7B,appropriate,,TN
+112,Treatment,ORF_NOD2,D053473,correct,,TP
+113,Tissue,MoDC,OOV-T-347A06E124,indeterminate,,EXCL
+114,Tissue,neonatal primary fibroblasts,D005347,correct,,TP
+115,Condition,"Adenocarcinoma, Papillary, NOS",D000230,correct,,TP
+116,Condition,psoriatic patient; lesional scalp,OOV-C-6296E4F0DE,inappropriate,D011565,FN
+117,Treatment,rKGF (10 ng/ml 24h),OOV-X-E3DC639CD8,indeterminate,,EXCL
+118,Treatment,osteogenic medium Dexamethasone,D003907,correct,,TP
+119,Tissue,B-CLL cells,OOV-T-56975C82AD,appropriate,,TN
+120,Tissue,Oropharynx,D009960,correct,,TP
+121,Condition,breast tumour; grade 2,D001943,correct,,TP
+122,Condition,follicular_carcinoma,OOV-C-C3DF455D0F,inappropriate,D018263,FN
+123,Treatment,MDA-MB-231 exosomes Dicer antibody,OOV-X-394FFA8660,appropriate,,TN
+124,Treatment,240 MIN EGF STIMULATED,D004815,correct,,TP
+125,Tissue,Breast Cancer Adenomcarcinoma cell line,OOV-T-A71594F18A,appropriate,,TN
+126,Tissue,Kidney; CAKI-1; Cancer cell line,D007668,correct,,TP
+127,Condition,Bladder Cancer; pT3; TCC,D001749,correct,,TP
+128,Condition,Dust Mite Atopic Patch Skin,OOV-C-1538160F65,appropriate,,TN
+129,Treatment,RAF1 transfected,OOV-X-60EB8AFD71,appropriate,,TN
+130,Treatment,PMA_Ionomycin_24h,D015759,correct,,TP
+131,Tissue,nasopharyngeal carcinoma,OOV-T-886E83556C,appropriate,,TN
+132,Tissue,induced human pluripotent stem cells,D057026,correct,,TP
+133,Condition,B cell lymphoma,D016393,correct,,TP
+134,Condition,Ctrl Normoxia,OOV-C-64B341F379,appropriate,,TN
+135,Treatment,cp-52706,OOV-X-F828326FD5,appropriate,,TN
+136,Treatment,splenectomy allo BMTx,D013156,correct,,TP
+137,Tissue,B-ALL-94,OOV-T-79EFFC6AC9,indeterminate,,EXCL
+138,Tissue,Splanchnic mesoderm,D008648,correct,,TP
+139,Condition,Acute gangrenous appendicitis,D001064,correct,,TP
+140,Condition,CD40 activated,OOV-C-6BC9C6ECB9,appropriate,,TN
+141,Treatment,miR-196b overexpressing,OOV-X-7DC6A3E05B,appropriate,,TN
+142,Treatment,GATA3,D050990,correct,,TP
+143,Tissue,Occular Adnexa MALT lymphoma,OOV-T-043877F4B3,appropriate,,TN
+144,Tissue,hematopoietic stem cell (HSC),D006412,correct,,TP
+145,Condition,Clear cells,D018262,incorrect,,FP
+146,Condition,HIV-1 subtype C infected,OOV-C-4DDA0EF74F,inappropriate,D015658,FN
+147,Treatment,empty vector transfection; DMSO,OOV-X-9631D33913,appropriate,,TN
+148,Treatment,recombinant human Tpo,D013926,correct,,TP
+149,Tissue,ossified ligament,OOV-T-235F5547B3,appropriate,,TN
+150,Tissue,Prostate biopsy,D011467,correct,,TP

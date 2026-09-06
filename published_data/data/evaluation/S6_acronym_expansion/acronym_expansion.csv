@@ -1,0 +1,40 @@
+acronym,samples,resolved,wrong,missed,outcome,target
+NSCLC,16375,16310,0,65,partly resolved,non-small-cell lung carcinoma
+SLE,4683,4683,0,0,resolved,lupus erythematosus - systemic
+AML,3493,3470,2,21,partly resolved,leukemia - myeloid - acute
+COPD,2831,2831,0,0,resolved,pulmonary disease - chronic obstructive
+CLL,1836,1818,1,17,partly resolved,leukemia - lymphocytic - chronic - b-cell
+GBM,1037,1037,0,0,resolved,glioblastoma
+MDS,885,879,0,6,partly resolved,myelodysplastic syndromes
+CD,751,27,56,668,partly resolved,crohn disease
+AD,647,582,5,60,partly resolved,alzheimer disease
+UC,556,556,0,0,resolved,colitis - ulcerative
+IPF,478,478,0,0,resolved,idiopathic pulmonary fibrosis
+MDD,376,362,0,14,partly resolved,depressive disorder - major
+ALS,344,336,8,0,partly resolved,amyotrophic lateral sclerosis
+HCC,322,310,0,12,partly resolved,carcinoma - hepatocellular
+NASH,321,321,0,0,resolved,non-alcoholic fatty liver disease
+RA,320,319,0,1,partly resolved,arthritis - rheumatoid
+OA,268,95,0,173,partly resolved,osteoarthritis
+T1D,267,267,0,0,resolved,diabetes mellitus - type 1
+HD,244,202,0,42,partly resolved,huntington disease
+ASD,234,214,20,0,partly resolved,autism spectrum disorder
+MI,206,206,0,0,resolved,myocardial infarction
+CRC,198,181,17,0,partly resolved,colorectal neoplasms
+TNBC,173,173,0,0,resolved,triple negative breast neoplasms
+CML,143,143,0,0,resolved,leukemia - myelogenous - chronic - bcr-abl positive
+PCOS,135,135,0,0,resolved,polycystic ovary syndrome
+TB,132,132,0,0,resolved,tuberculosis
+PDAC,93,86,0,7,partly resolved,carcinoma - pancreatic ductal
+MS,93,93,0,0,resolved,multiple sclerosis
+CKD,79,6,0,73,partly resolved,renal insufficiency - chronic
+CF,63,51,0,12,partly resolved,cystic fibrosis
+IBD,55,55,0,0,resolved,inflammatory bowel diseases
+ALL,41,25,0,16,partly resolved,precursor cell lymphoblastic leukemia-lymphoma
+T2D,39,39,0,0,resolved,diabetes mellitus - type 2
+HF,34,34,0,0,resolved,heart failure
+RCC,33,33,0,0,resolved,carcinoma - renal cell
+CAD,31,31,0,0,resolved,coronary artery disease
+PD,14,14,0,0,resolved,parkinson disease
+AF,8,8,0,0,resolved,atrial fibrillation
+PAH,7,7,0,0,resolved,pulmonary arterial hypertension

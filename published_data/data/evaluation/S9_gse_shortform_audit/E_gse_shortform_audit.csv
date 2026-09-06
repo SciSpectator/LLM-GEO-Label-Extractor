@@ -1,0 +1,1454 @@
+field,acronym,gse,expansion,id,verified,acronym_attested,how
+Tissue,hESCs,GSE45030,Human Embryonic Stem Cells,D000066449,True,False,expansion_in_gse
+Tissue,hESCs,GSE69200,Human Embryonic Stem Cells,D000066449,True,False,expansion_in_gse
+Tissue,hESCs,GSE141253,Human Embryonic Stem Cells,D000066449,True,False,expansion_in_gse
+Tissue,hESCs,GSE52158,Human Embryonic Stem Cells,D000066449,True,False,expansion_in_gse
+Tissue,hESCs,GSE75582,Human Embryonic Stem Cells,D000066449,True,False,expansion_in_gse
+Tissue,hESCs,GSE30915,Human Embryonic Stem Cells,D000066449,True,False,expansion_in_gse
+Tissue,hESCs,GSE45036,Human Embryonic Stem Cells,D000066449,True,False,expansion_in_gse
+Tissue,hESCs,GSE36754,Human Embryonic Stem Cells,D000066449,True,False,expansion_in_gse
+Tissue,hESCs,GSE69634,Human Embryonic Stem Cells,D000066449,True,False,expansion_in_gse
+Tissue,hESCs,GSE63318,Human Embryonic Stem Cells,D000066449,True,False,expansion_in_gse
+Tissue,hESCs,GSE147270,Human Embryonic Stem Cells,D000066449,True,False,expansion_in_gse
+Tissue,hESCs,GSE62062,H1 hESCs,OOV-T-40C918E1FB,True,False,expansion_tokens_in_gse
+Tissue,hESCs,GSE24135,Human Embryonic Stem Cells,D000066449,True,False,expansion_in_gse
+Tissue,hESCs,GSE101473,Human Embryonic Stem Cells,D000066449,True,False,expansion_in_gse
+Tissue,hESCs,GSE24487,Human Embryonic Stem Cells,D000066449,False,False,unsupported
+Tissue,hESCs,GSE43080,Human Embryonic Stem Cells,D000066449,True,False,expansion_in_gse
+Tissue,hESCs,GSE53283,Human Embryonic Stem Cells,D000066449,True,False,expansion_in_gse
+Tissue,hESCs,GSE39210,Human Embryonic Stem Cells,D000066449,True,False,expansion_in_gse
+Tissue,hESCs,GSE21715,Human Embryonic Stem Cells,D000066449,True,False,expansion_in_gse
+Tissue,hESCs,GSE34982,Human Embryonic Stem Cells,D000066449,True,False,expansion_in_gse
+Tissue,hESCs,GSE15553,Human Embryonic Stem Cells,D000066449,True,False,expansion_in_gse
+Tissue,PBMC,GSE145034,"Leukocytes, Mononuclear",D007963,True,False,expansion_in_gse
+Tissue,Hep3B,GSE134563,Hep 3B2.1-7,CVCL_0326,False,False,unsupported
+Tissue,Hep3B,GSE121362,Hep 3B2.1-7,CVCL_0326,True,False,cellline_acronym_in_gse
+Tissue,Hep3B,GSE162860,Hep 3B2.1-7,CVCL_0326,True,False,cellline_acronym_in_gse
+Tissue,Hep3B,GSE100017,Hep 3B2.1-7,CVCL_0326,True,False,cellline_acronym_in_gse
+Tissue,Hep3B,GSE55692,Hep 3B2.1-7,CVCL_0326,True,False,cellline_acronym_in_gse
+Tissue,Hep3B,GSE97169,Hep 3B2.1-7,CVCL_0326,True,False,cellline_acronym_in_gse
+Tissue,Hep3B,GSE10289,Hep 3B2.1-7,CVCL_0326,True,False,cellline_acronym_in_gse
+Tissue,Hep3B,GSE128846,Hep 3B2.1-7,CVCL_0326,True,False,cellline_acronym_in_gse
+Tissue,Hep3B,GSE42416,Hep 3B2.1-7,CVCL_0326,False,False,unsupported
+Tissue,Hep3B,GSE178243,Hep 3B2.1-7,CVCL_0326,True,False,cellline_acronym_in_gse
+Tissue,Hep3B,GSE99213,Hep 3B2.1-7,CVCL_0326,False,False,unsupported
+Tissue,Hep3B,GSE2046,Hep 3B2.1-7,CVCL_0326,True,False,cellline_acronym_in_gse
+Tissue,Hep3B,GSE75994,Hep 3B2.1-7,CVCL_0326,True,False,cellline_acronym_in_gse
+Tissue,Hep3B,GSE140280,Hep 3B2.1-7,CVCL_0326,True,False,cellline_acronym_in_gse
+Tissue,Hep3B,GSE105445,Hep 3B2.1-7,CVCL_0326,True,False,cellline_acronym_in_gse
+Tissue,Hep3B,GSE57613,Hep 3B2.1-7,CVCL_0326,True,False,cellline_acronym_in_gse
+Tissue,Hep3B,GSE12410,Hep 3B2.1-7,CVCL_0326,True,False,cellline_acronym_in_gse
+Tissue,Hep3B,GSE35004,Hep 3B2.1-7,CVCL_0326,True,False,cellline_acronym_in_gse
+Tissue,Hep3B,GSE141909,Hep 3B2.1-7,CVCL_0326,True,False,cellline_acronym_in_gse
+Tissue,Hep3B,GSE73219,Hep 3B2.1-7,CVCL_0326,True,False,cellline_acronym_in_gse
+Tissue,Hep3B,GSE128845,Hep 3B2.1-7,CVCL_0326,True,False,cellline_acronym_in_gse
+Tissue,Hep3B,GSE88744,Hep 3B2.1-7,CVCL_0326,False,False,unsupported
+Tissue,Hep3B,GSE58892,Hep 3B2.1-7,CVCL_0326,True,False,cellline_acronym_in_gse
+Tissue,Hep3B,GSE200861,Hep 3B2.1-7,CVCL_0326,True,False,cellline_acronym_in_gse
+Tissue,Hep3B,GSE96792,Hep 3B2.1-7,CVCL_0326,True,False,cellline_acronym_in_gse
+Tissue,Hep3B,GSE112788,Hep 3B2.1-7,CVCL_0326,True,False,cellline_acronym_in_gse
+Tissue,hESC,GSE48257,Human Embryonic Stem Cells,D000066449,True,False,expansion_in_gse
+Tissue,hESC,GSE45030,Human Embryonic Stem Cells,D000066449,True,False,expansion_in_gse
+Tissue,hESC,GSE65106,Human Embryonic Stem Cells,D000066449,False,False,unsupported
+Tissue,hESC,GSE58508,Human Embryonic Stem Cells,D000066449,True,False,expansion_in_gse
+Tissue,hESC,GSE139085,Human Embryonic Stem Cells,D000066449,True,False,expansion_tokens_in_gse
+Tissue,hESC,GSE72923,Human Embryonic Stem Cells,D000066449,True,False,expansion_in_gse
+Tissue,hESC,GSE68035,Human Embryonic Stem Cells,D000066449,True,False,expansion_in_gse
+Tissue,hESC,GSE46872,Human Embryonic Stem Cells,D000066449,True,False,expansion_tokens_in_gse
+Tissue,hESC,GSE24768,Human Embryonic Stem Cells,D000066449,True,False,expansion_in_gse
+Tissue,hESC,GSE81891,Human Embryonic Stem Cells,D000066449,False,False,unsupported
+Tissue,hESC,GSE21655,Human Embryonic Stem Cells,D000066449,True,False,expansion_in_gse
+Tissue,hESC,GSE64876,Human Embryonic Stem Cells,D000066449,True,False,expansion_in_gse
+Tissue,hESC,GSE45727,Human Embryonic Stem Cells,D000066449,True,False,expansion_in_gse
+Tissue,hESC,GSE58809,Human Embryonic Stem Cells,D000066449,True,False,expansion_in_gse
+Tissue,hESC,GSE48761,Human Embryonic Stem Cells,D000066449,False,False,unsupported
+Tissue,hESC,GSE43080,Human Embryonic Stem Cells,D000066449,True,False,expansion_in_gse
+Tissue,hESC,GSE29770,Human Embryonic Stem Cells,D000066449,True,False,expansion_in_gse
+Tissue,hESC,GSE39762,Human Embryonic Stem Cells,D000066449,True,False,expansion_in_gse
+Tissue,hESC,GSE61842,Human Embryonic Stem Cells,D000066449,True,False,expansion_in_gse
+Tissue,hESC,GSE34865,Human Embryonic Stem Cells,D000066449,True,False,expansion_in_gse
+Tissue,hESC,GSE71949,Human Embryonic Stem Cells,D000066449,True,False,expansion_in_gse
+Tissue,hESC,GSE104818,Human Embryonic Stem Cells,D000066449,True,False,expansion_in_gse
+Tissue,hESC,GSE63192,Human Embryonic Stem Cells,D000066449,True,False,expansion_in_gse
+Tissue,hESC,GSE54725,Human Embryonic Stem Cells,D000066449,False,False,unsupported
+Tissue,MZ7,GSE51221,MZ-MEL-7,CVCL_1436,False,False,unsupported
+Tissue,MZ7,GSE71798,MZ-MEL-7,CVCL_1436,True,False,cellline_acronym_in_gse
+Tissue,LCC2,GSE70949,MCF7/LCC2,CVCL_DP51,False,False,unsupported
+Tissue,LCC2,GSE54891,MCF7/LCC2,CVCL_DP51,True,False,cellline_acronym_in_gse
+Tissue,LCC9,GSE70949,MCF7/LCC9,CVCL_DP52,False,False,unsupported
+Tissue,LCC9,GSE54891,MCF7/LCC9,CVCL_DP52,True,False,cellline_acronym_in_gse
+Tissue,U6A,GSE87090,2fTGH-U6A,CVCL_D316,True,False,cellline_acronym_in_gse
+Tissue,U6A,GSE126565,2fTGH-U6A,CVCL_D316,True,False,cellline_acronym_in_gse
+Tissue,HNC,GSE117973,biopsy HNC,ART-T-00129,False,True,unsupported
+Tissue,NSC,GSE55107,HUES 6,CVCL_B194,True,False,cellline_acronym_in_gse
+Tissue,hiPSC,GSE54822,Induced Pluripotent Stem Cells,D057026,True,False,expansion_in_gse
+Tissue,hiPSC,GSE45030,Induced Pluripotent Stem Cells,D057026,True,False,expansion_in_gse
+Tissue,hiPSC,GSE22392,Induced Pluripotent Stem Cells,D057026,True,False,expansion_in_gse
+Tissue,hiPSC,GSE60372,Induced Pluripotent Stem Cells,D057026,True,False,expansion_in_gse
+Tissue,hiPSC,GSE57378,Induced Pluripotent Stem Cells,D057026,True,False,expansion_in_gse
+Tissue,hiPSC,GSE76900,Induced Pluripotent Stem Cells,D057026,False,False,unsupported
+Tissue,hiPSC,GSE111766,Induced Pluripotent Stem Cells,D057026,True,False,expansion_in_gse
+Tissue,hiPSC,GSE119284,Induced Pluripotent Stem Cells,D057026,True,False,expansion_in_gse
+Tissue,hiPSC,GSE119277,Induced Pluripotent Stem Cells,D057026,True,False,expansion_in_gse
+Tissue,hiPSC,GSE119275,Induced Pluripotent Stem Cells,D057026,True,False,expansion_in_gse
+Tissue,PC3,GSE116895,HNC PC3,CVCL_C8XA,False,False,unsupported
+Tissue,PC3,GSE62053,HNC PC3,CVCL_C8XA,True,False,cellline_acronym_in_gse
+Tissue,PC3,GSE56172,HNC PC3,CVCL_C8XA,True,False,cellline_acronym_in_gse
+Tissue,PC3,GSE211813,HNC PC3,CVCL_C8XA,True,False,cellline_acronym_in_gse
+Tissue,PC3,GSE83913,HNC PC3,CVCL_C8XA,True,False,cellline_acronym_in_gse
+Tissue,PC3,GSE54758,HNC PC3,CVCL_C8XA,False,False,unsupported
+Tissue,PC3,GSE245308,HNC PC3,CVCL_C8XA,True,False,cellline_acronym_in_gse
+Tissue,PC3,GSE118123,HNC PC3,CVCL_C8XA,True,False,cellline_acronym_in_gse
+Tissue,PC3,GSE70570,HNC PC3,CVCL_C8XA,False,False,unsupported
+Tissue,PC3,GSE125087,HNC PC3,CVCL_C8XA,True,False,cellline_acronym_in_gse
+Tissue,PC3,GSE39735,HNC PC3,CVCL_C8XA,False,False,unsupported
+Tissue,PC3,GSE196746,HNC PC3,CVCL_C8XA,True,False,cellline_acronym_in_gse
+Tissue,PC3,GSE108309,HNC PC3,CVCL_C8XA,True,False,cellline_acronym_in_gse
+Tissue,PC3,GSE56352,HNC PC3,CVCL_C8XA,False,False,unsupported
+Tissue,PC3,GSE34211,HNC PC3,CVCL_C8XA,False,False,unsupported
+Tissue,PC3,GSE51053,HNC PC3,CVCL_C8XA,True,False,cellline_acronym_in_gse
+Tissue,PC3,GSE149784,HNC PC3,CVCL_C8XA,True,False,cellline_acronym_in_gse
+Tissue,PC3,GSE104418,HNC PC3,CVCL_C8XA,True,False,cellline_acronym_in_gse
+Tissue,PC3,GSE67256,HNC PC3,CVCL_C8XA,True,False,cellline_acronym_in_gse
+Tissue,PC3,GSE17317,HNC PC3,CVCL_C8XA,True,False,cellline_acronym_in_gse
+Tissue,PC3,GSE151719,HNC PC3,CVCL_C8XA,True,False,cellline_acronym_in_gse
+Tissue,PC3,GSE70571,HNC PC3,CVCL_C8XA,False,False,unsupported
+Tissue,PC3,GSE73044,HNC PC3,CVCL_C8XA,True,False,cellline_acronym_in_gse
+Tissue,PC3,GSE149427,HNC PC3,CVCL_C8XA,True,False,cellline_acronym_in_gse
+Tissue,PC3,GSE56582,HNC PC3,CVCL_C8XA,True,False,cellline_acronym_in_gse
+Tissue,PC3,GSE36085,HNC PC3,CVCL_C8XA,True,False,cellline_acronym_in_gse
+Tissue,PC3,GSE36531,HNC PC3,CVCL_C8XA,True,False,cellline_acronym_in_gse
+Tissue,PC3,GSE80750,HNC PC3,CVCL_C8XA,True,False,cellline_acronym_in_gse
+Tissue,PC3,GSE42913,HNC PC3,CVCL_C8XA,False,False,unsupported
+Tissue,PC3,GSE48672,HNC PC3,CVCL_C8XA,False,False,unsupported
+Tissue,PC3,GSE73284,HNC PC3,CVCL_C8XA,True,False,cellline_acronym_in_gse
+Tissue,PC3,GSE108641,HNC PC3,CVCL_C8XA,True,False,cellline_acronym_in_gse
+Tissue,PC3,GSE189883,HNC PC3,CVCL_C8XA,True,False,cellline_acronym_in_gse
+Tissue,PC3,GSE75531,HNC PC3,CVCL_C8XA,True,False,cellline_acronym_in_gse
+Tissue,PC3,GSE41322,HNC PC3,CVCL_C8XA,True,False,cellline_acronym_in_gse
+Tissue,PC3,GSE135573,HNC PC3,CVCL_C8XA,True,False,cellline_acronym_in_gse
+Tissue,PC3,GSE70923,HNC PC3,CVCL_C8XA,True,False,cellline_acronym_in_gse
+Tissue,PC3,GSE14464,HNC PC3,CVCL_C8XA,True,False,cellline_acronym_in_gse
+Tissue,PC3,GSE33182,HNC PC3,CVCL_C8XA,True,False,cellline_acronym_in_gse
+Tissue,PC3,GSE182619,HNC PC3,CVCL_C8XA,True,False,cellline_acronym_in_gse
+Tissue,PC3,GSE74631,HNC PC3,CVCL_C8XA,True,False,cellline_acronym_in_gse
+Tissue,PC3,GSE181088,HNC PC3,CVCL_C8XA,True,False,cellline_acronym_in_gse
+Tissue,PC3,GSE133120,HNC PC3,CVCL_C8XA,True,False,cellline_acronym_in_gse
+Tissue,PC3,GSE107106,HNC PC3,CVCL_C8XA,True,False,cellline_acronym_in_gse
+Tissue,PC3,GSE33455,HNC PC3,CVCL_C8XA,False,False,unsupported
+Tissue,LK63,GSE89489,LK63 [Melbourne],CVCL_7986,True,False,cellline_acronym_in_gse
+Tissue,U87MG,GSE140272,U-87MG ATCC,CVCL_0022,False,False,unsupported
+Tissue,U87MG,GSE54967,U-87MG ATCC,CVCL_0022,True,False,cellline_acronym_in_gse
+Tissue,U87MG,GSE88771,U-87MG ATCC,CVCL_0022,True,False,cellline_acronym_in_gse
+Tissue,U87MG,GSE36901,U-87MG ATCC,CVCL_0022,True,False,cellline_acronym_in_gse
+Tissue,U87MG,GSE75789,U-87MG ATCC,CVCL_0022,True,False,cellline_acronym_in_gse
+Tissue,U87MG,GSE18892,U-87MG ATCC,CVCL_0022,True,False,cellline_acronym_in_gse
+Tissue,U87MG,GSE54369,U-87MG ATCC,CVCL_0022,True,False,cellline_acronym_in_gse
+Tissue,U87MG,GSE195506,U-87MG ATCC,CVCL_0022,True,False,cellline_acronym_in_gse
+Tissue,U87MG,GSE61388,U-87MG ATCC,CVCL_0022,True,False,cellline_acronym_in_gse
+Tissue,U87MG,GSE118983,U-87MG ATCC,CVCL_0022,True,False,cellline_acronym_in_gse
+Tissue,U87MG,GSE124727,U-87MG ATCC,CVCL_0022,True,False,cellline_acronym_in_gse
+Tissue,U87MG,GSE116395,U-87MG ATCC,CVCL_0022,True,False,cellline_acronym_in_gse
+Tissue,U87MG,GSE248352,U-87MG ATCC,CVCL_0022,True,False,cellline_acronym_in_gse
+Tissue,U87MG,GSE96911,U-87MG ATCC,CVCL_0022,True,False,cellline_acronym_in_gse
+Tissue,U87MG,GSE14889,U-87MG ATCC,CVCL_0022,True,False,cellline_acronym_in_gse
+Tissue,U87MG,GSE73662,U-87MG ATCC,CVCL_0022,True,False,cellline_acronym_in_gse
+Tissue,HK2,GSE54284,HK-2 [Human kidney],CVCL_0302,True,False,cellline_acronym_in_gse
+Tissue,HK2,GSE71602,HK-2 [Human kidney],CVCL_0302,True,False,cellline_acronym_in_gse
+Tissue,HK2,GSE99324,HK-2 [Human kidney],CVCL_0302,True,False,cellline_acronym_in_gse
+Tissue,SLM2,GSE68453,MEL-SLM2,CVCL_ZL70,False,False,unsupported
+Tissue,HBL1,GSE45630,HBL-1 [Human AIDS-related non-Hodgkin lymphoma],CVCL_M572,False,False,unsupported
+Tissue,HBL1,GSE92619,HBL-1 [Human AIDS-related non-Hodgkin lymphoma],CVCL_M572,False,False,unsupported
+Tissue,HBL1,GSE43510,HBL-1 [Human AIDS-related non-Hodgkin lymphoma],CVCL_M572,True,False,cellline_acronym_in_gse
+Tissue,hIPSC,GSE34879,Induced Pluripotent Stem Cells,D057026,True,False,expansion_in_gse
+Tissue,KHOS,GSE89370,KHOS/NP,CVCL_2546,True,False,cellline_acronym_in_gse
+Tissue,KHOS,GSE73422,KHOS/NP,CVCL_2546,True,False,cellline_acronym_in_gse
+Tissue,KHOS,GSE89074,KHOS/NP,CVCL_2546,True,False,cellline_acronym_in_gse
+Tissue,KHOS,GSE44713,KHOS/NP,CVCL_2546,False,False,unsupported
+Tissue,KHOS,GSE86109,KHOS/NP,CVCL_2546,True,False,cellline_acronym_in_gse
+Tissue,MB468,GSE103018,MDA-MB-468,CVCL_0419,False,False,unsupported
+Tissue,MB231,GSE103018,MDA-MB-231,CVCL_0062,False,False,unsupported
+Tissue,TH2,GSE107397,Th2 Cells,D018418,False,False,unsupported
+Tissue,BONE,GSE66495,Bone and Bones,D001842,True,False,expansion_in_gse
+Tissue,DBTRG,GSE43452,DBTRG-05MG,CVCL_1169,True,False,cellline_acronym_in_gse
+Tissue,CEM,GSE20667,CCRF-CEM,CVCL_0207,True,False,cellline_acronym_in_gse
+Tissue,CEM,GSE46599,CCRF-CEM,CVCL_0207,True,False,cellline_acronym_in_gse
+Tissue,CEM,GSE40635,CCRF-CEM,CVCL_0207,True,False,cellline_acronym_in_gse
+Tissue,CEM,GSE32523,CCRF-CEM,CVCL_0207,True,False,cellline_acronym_in_gse
+Tissue,KG1,GSE54484,B16-F10.9.KG1,CVCL_E3VV,True,False,cellline_acronym_in_gse
+Tissue,KG1,GSE24147,B16-F10.9.KG1,CVCL_E3VV,False,False,unsupported
+Tissue,KG1,GSE189492,B16-F10.9.KG1,CVCL_E3VV,False,False,unsupported
+Tissue,LCC1,GSE70949,MCF7/LCC1,CVCL_DP50,False,False,unsupported
+Tissue,hNSC,GSE77475,"hNSC transduced with MYC, dominant-negative TP53",ART-T-00322,True,False,expansion_tokens_in_gse
+Tissue,DCIS,GSE18370,MCF10DCIS.com,CVCL_5552,True,False,cellline_acronym_in_gse
+Tissue,DCIS,GSE66746,MCF10DCIS.com,CVCL_5552,True,False,cellline_acronym_in_gse
+Tissue,DCIS,GSE66313,MCF10DCIS.com,CVCL_5552,True,False,cellline_acronym_in_gse
+Tissue,C3A,GSE68379,Hep-G2/C3A,CVCL_1098,False,False,unsupported
+Tissue,CS1,GSE68379,CS-1 [Human chondrosarcoma],CVCL_T023,False,False,unsupported
+Tissue,NB10,GSE68379,SJNB-10,CVCL_1441,False,False,unsupported
+Tissue,NB13,GSE68379,SJNB-13,CVCL_1443,False,False,unsupported
+Tissue,NB12,GSE68379,SJNB-12,CVCL_1442,False,False,unsupported
+Tissue,NB14,GSE68379,SJNB-14,CVCL_1444,False,False,unsupported
+Tissue,NB17,GSE68379,SJNB-17,CVCL_1445,False,False,unsupported
+Tissue,NB5,GSE68379,SJNB-5,CVCL_8822,False,False,unsupported
+Tissue,NB6,GSE68379,SJNB-6,CVCL_8823,False,False,unsupported
+Tissue,NB7,GSE68379,SJNB-7,CVCL_8824,False,False,unsupported
+Tissue,PL18,GSE68379,Panc 05.04,CVCL_1637,False,False,unsupported
+Tissue,SAT,GSE68379,SAT [Human HNSCC],CVCL_3160,False,False,unsupported
+Tissue,SKN,GSE68379,SK-OV-3 SKN,CVCL_E8BR,False,False,unsupported
+Tissue,TK,GSE68379,TK [Human B-cell lymphoma],CVCL_3216,False,False,unsupported
+Tissue,DNA,GSE66708,"Tumor Cells, Cultured",D014407,False,False,unsupported
+Tissue,BE,GSE72872,R1192,CVCL_AT71,False,False,unsupported
+Tissue,DLPFC,GSE74193,Dorsolateral Prefrontal Cortex,D000087643,True,False,expansion_in_gse
+Tissue,MNG,GSE73801,MNG-Mel,CVCL_VQ10,False,False,unsupported
+Tissue,BAT,GSE68544,preadipocyte_BAT,ART-T-00357,True,False,expansion_tokens_in_gse
+Tissue,HCET,GSE41996,Not Specified,,False,True,unsupported
+Tissue,LN,GSE178421,GM02063,CVCL_F127,False,False,unsupported
+Tissue,LN,GSE17189,GM02063,CVCL_F127,False,False,unsupported
+Tissue,LN,GSE19722,GM02063,CVCL_F127,False,False,unsupported
+Tissue,LN,GSE159785,GM02063,CVCL_F127,False,False,unsupported
+Tissue,LN,GSE189343,GM02063,CVCL_F127,False,False,unsupported
+Tissue,DHL4,GSE43510,SU-DHL-4,CVCL_0539,True,False,cellline_acronym_in_gse
+Tissue,DHL4,GSE34176,SU-DHL-4,CVCL_0539,True,False,cellline_acronym_in_gse
+Tissue,LY7,GSE43510,OCI-Ly7,CVCL_1881,True,False,cellline_acronym_in_gse
+Tissue,BE2C,GSE51512,SK-N-BE(2)-C,CVCL_0529,False,False,unsupported
+Tissue,BE2C,GSE65966,SK-N-BE(2)-C,CVCL_0529,False,False,unsupported
+Tissue,BE2C,GSE208593,SK-N-BE(2)-C,CVCL_0529,True,False,cellline_acronym_in_gse
+Tissue,DHL6,GSE43510,SU-DHL-6,CVCL_2206,True,False,cellline_acronym_in_gse
+Tissue,DHL6,GSE34176,SU-DHL-6,CVCL_2206,True,False,cellline_acronym_in_gse
+Tissue,DHL6,GSE45630,SU-DHL-6,CVCL_2206,True,False,cellline_acronym_in_gse
+Tissue,HBEC4,GSE100527,HBEC4-KT,CVCL_X492,False,False,unsupported
+Tissue,HBEC4,GSE108135,HBEC4-KT,CVCL_X492,False,False,unsupported
+Tissue,TGBC1,GSE208660,TGBC1TKB,CVCL_1769,True,False,cellline_acronym_in_gse
+Tissue,SCC2,GSE66949,KMS-34-SCC2,CVCL_A5SB,True,False,cellline_acronym_in_gse
+Tissue,HME1,GSE76518,hTERT-HME1,CVCL_3383,False,False,unsupported
+Tissue,HME1,GSE70567,hTERT-HME1,CVCL_3383,False,False,unsupported
+Tissue,MB157,GSE74702,MDA-MB-157,CVCL_0618,False,False,unsupported
+Tissue,H295R,GSE8588,NCI-H295R,CVCL_0458,True,False,cellline_acronym_in_gse
+Tissue,H295R,GSE88795,NCI-H295R,CVCL_0458,True,False,cellline_acronym_in_gse
+Tissue,H295R,GSE36509,NCI-H295R,CVCL_0458,True,False,cellline_acronym_in_gse
+Tissue,H295R,GSE64826,NCI-H295R,CVCL_0458,True,False,cellline_acronym_in_gse
+Tissue,H295R,GSE133197,NCI-H295R,CVCL_0458,True,False,cellline_acronym_in_gse
+Tissue,H295R,GSE15918,NCI-H295R,CVCL_0458,True,False,cellline_acronym_in_gse
+Tissue,H295R,GSE8442,NCI-H295R,CVCL_0458,True,False,cellline_acronym_in_gse
+Tissue,HESCs,GSE146777,Human Embryonic Stem Cells,D000066449,False,False,unsupported
+Tissue,HESCs,GSE21348,Human Embryonic Stem Cells,D000066449,False,False,unsupported
+Tissue,MOH,GSE180889,MOH (TOU II-3),CVCL_2782,True,False,cellline_acronym_in_gse
+Tissue,CH1,GSE25428,BIHi288-A,CVCL_C6TY,False,False,unsupported
+Tissue,CH1,GSE47856,BIHi288-A,CVCL_C6TY,False,False,unsupported
+Tissue,LOX,GSE133120,LOX-IMVI,CVCL_1381,False,False,unsupported
+Tissue,LOX,GSE116436,LOX-IMVI,CVCL_1381,False,False,unsupported
+Tissue,HBL2,GSE22038,HBL-2 [Human AIDS-related non-Hodgkin lymphoma],CVCL_M574,False,False,unsupported
+Tissue,HEP3B,GSE88812,Hep 3B2.1-7,CVCL_0326,True,False,cellline_acronym_in_gse
+Tissue,SY5Y,GSE42762,SH-SY5Y,CVCL_0019,True,False,cellline_acronym_in_gse
+Tissue,SY5Y,GSE13273,SH-SY5Y,CVCL_0019,True,False,cellline_acronym_in_gse
+Tissue,SY5Y,GSE18409,SH-SY5Y,CVCL_0019,True,False,cellline_acronym_in_gse
+Tissue,SY5Y,GSE56527,SH-SY5Y,CVCL_0019,True,False,cellline_acronym_in_gse
+Tissue,RS4,GSE34880,RS4;11 BCL2-F104L,CVCL_XZ61,False,False,unsupported
+Tissue,MV4,GSE34880,MV4-11,CVCL_0064,False,False,unsupported
+Tissue,SCC1,GSE21483,KMS-34-SCC1,CVCL_A5SA,True,False,cellline_acronym_in_gse
+Tissue,SCC1,GSE80667,KMS-34-SCC1,CVCL_A5SA,False,False,unsupported
+Tissue,SCC1,GSE62027,KMS-34-SCC1,CVCL_A5SA,False,False,unsupported
+Tissue,LCC,GSE19188,TR-LCC-1,CVCL_IU63,False,False,unsupported
+Tissue,TK6,GSE41296,TK-6 [Human leukemia],CVCL_X907,True,False,cellline_acronym_in_gse
+Tissue,HMVEC,GSE17119,Endothelial Cells,D042783,True,False,expansion_in_gse
+Tissue,FG,GSE9350,COLO 357/FG,CVCL_8196,True,False,cellline_acronym_in_gse
+Tissue,HESC,GSE10809,Human Embryonic Stem Cells,D000066449,True,False,expansion_in_gse
+Tissue,HESC,GSE46326,Human Embryonic Stem Cells,D000066449,True,False,expansion_in_gse
+Tissue,TamR1,GSE67916,MCF-7/TAMR-1,CVCL_M436,True,False,cellline_acronym_in_gse
+Tissue,TamR1,GSE148878,MCF-7/TAMR-1,CVCL_M436,False,False,unsupported
+Tissue,TamR7,GSE67916,MCF-7/TAMR-7,CVCL_1D43,True,False,cellline_acronym_in_gse
+Tissue,TamR7,GSE148878,MCF-7/TAMR-7,CVCL_1D43,False,False,unsupported
+Tissue,TamR8,GSE67916,MCF-7/TAMR-8,CVCL_1D44,True,False,cellline_acronym_in_gse
+Tissue,TamR4,GSE148878,MCF-7/TAMR-4,CVCL_1D42,False,False,unsupported
+Tissue,TamR4,GSE67916,MCF-7/TAMR-4,CVCL_1D42,True,False,cellline_acronym_in_gse
+Tissue,SKNEP,GSE34211,SK-NEP-1,CVCL_0631,False,False,unsupported
+Tissue,ST1,GSE38021,ST-1 [Human leukemia],CVCL_0G05,True,False,cellline_acronym_in_gse
+Tissue,EB,GSE213687,EB0405,CVCL_WY97,True,False,cellline_acronym_in_gse
+Tissue,NB15,GSE53046,SJNB-15,CVCL_8814,True,False,cellline_acronym_in_gse
+Tissue,NP69,GSE194333,NP69SV40T,CVCL_F755,True,False,cellline_acronym_in_gse
+Tissue,CP70,GSE28646,A2780/CP70,CVCL_0135,True,False,cellline_acronym_in_gse
+Tissue,JHH4,GSE144021,"Cell Line, Tumor",D045744,True,False,expansion_tokens_in_gse
+Tissue,H69AR,GSE152529,NCI-H69AR,CVCL_3513,False,False,unsupported
+Tissue,NK,GSE93776,Novikoff-Hepatoma,CVCL_1D01,False,False,unsupported
+Tissue,TALL1,GSE115690,TALL-1 [Human adult T-ALL],CVCL_1736,False,False,unsupported
+Tissue,hFOB,GSE75230,hFOB 1.19,CVCL_3708,False,False,unsupported
+Tissue,HMESO,GSE21750,H-MESO-1,CVCL_5759,True,False,cellline_acronym_in_gse
+Tissue,MM134,GSE50693,MDA-MB-134-VI,CVCL_0617,True,False,cellline_acronym_in_gse
+Tissue,CC,GSE43684,CC of MII-morulae oocyte,ART-T-03831,False,True,unsupported
+Tissue,FiPS,GSE48275,"FiPS generated with OCT4, SOX3, KLF4 and cMYC",ART-T-03821,True,False,expansion_tokens_in_gse
+Tissue,TW03,GSE118807,NPC-TW03,CVCL_6010,False,False,unsupported
+Condition,HIV,GSE42925,HIV Infections,D015658,True,False,expansion_in_gse
+Condition,HIV,GSE56804,HIV Infections,D015658,False,True,unsupported
+Condition,HIV,GSE69589,HIV Infections,D015658,False,True,unsupported
+Condition,HIV,GSE56971,HIV Infections,D015658,False,True,unsupported
+Condition,HIV,GSE30536,HIV Infections,D015658,False,True,unsupported
+Condition,HIV,GSE108897,HIV Infections,D015658,False,True,unsupported
+Condition,HIV,GSE59457,HIV Infections,D015658,True,False,expansion_in_gse
+Condition,HIV,GSE29429,HIV Infections,D015658,True,False,expansion_in_gse
+Condition,HIV,GSE18468,HIV Infections,D015658,True,False,expansion_in_gse
+Condition,HIV,GSE67705,HIV Infections,D015658,True,False,expansion_in_gse
+Condition,HIV,GSE53527,HIV Infections,D015658,False,True,unsupported
+Condition,HIV,GSE175728,HIV Infections,D015658,True,False,expansion_in_gse
+Condition,HIV,GSE56775,HIV Infections,D015658,False,True,unsupported
+Condition,HIV,GSE104640,HIV Infections,D015658,False,True,unsupported
+Condition,HIV,GSE30310,HIV Infections,D015658,True,False,expansion_in_gse
+Condition,FTD,GSE79557,Ctrl-Neurons on FTD Astro,OOV-C-29106C10CC,True,False,expansion_in_gse
+Condition,HC,GSE93683,Not Specified,,False,False,unsupported
+Condition,HC,GSE73355,Not Specified,,False,False,unsupported
+Condition,HC,GSE84655,Not Specified,,False,False,unsupported
+Condition,HC,GSE14655,Not Specified,,False,True,unsupported
+Condition,HC,GSE72375,Not Specified,,False,False,unsupported
+Condition,HC,GSE83456,Not Specified,,False,False,unsupported
+Condition,HC,GSE34885,Not Specified,,False,True,unsupported
+Condition,HC,GSE94510,Not Specified,,False,False,unsupported
+Condition,HC,GSE107344,Not Specified,,False,False,unsupported
+Condition,HC,GSE141804,Not Specified,,False,True,unsupported
+Condition,HC,GSE60753,Not Specified,,False,False,unsupported
+Condition,HC,GSE87640,Not Specified,,False,True,unsupported
+Condition,HC,GSE108497,Not Specified,,False,False,unsupported
+Condition,HC,GSE86434,Not Specified,,False,False,unsupported
+Condition,HC,GSE97075,Not Specified,,False,True,unsupported
+Condition,HC,GSE111368,Not Specified,,False,False,unsupported
+Condition,HC,GSE72374,Not Specified,,False,False,unsupported
+Condition,HC,GSE72377,Not Specified,,False,False,unsupported
+Condition,HC,GSE72376,Not Specified,,False,False,unsupported
+Condition,COPD,GSE77344,"Pulmonary Disease, Chronic Obstructive",D029424,True,False,expansion_in_gse
+Condition,COPD,GSE92511,"Pulmonary Disease, Chronic Obstructive",D029424,True,False,expansion_in_gse
+Condition,COPD,GSE55962,"Pulmonary Disease, Chronic Obstructive",D029424,True,False,expansion_in_gse
+Condition,COPD,GSE123129,"Pulmonary Disease, Chronic Obstructive",D029424,True,False,expansion_in_gse
+Condition,COPD,GSE111790,"Pulmonary Disease, Chronic Obstructive",D029424,True,False,expansion_in_gse
+Condition,COPD,GSE108134,"Pulmonary Disease, Chronic Obstructive",D029424,False,False,unsupported
+Condition,COPD,GSE148877,"Pulmonary Disease, Chronic Obstructive",D029424,True,False,expansion_in_gse
+Condition,COPD,GSE5058,"Pulmonary Disease, Chronic Obstructive",D029424,True,False,expansion_in_gse
+Condition,COPD,GSE56766,"Pulmonary Disease, Chronic Obstructive",D029424,True,False,expansion_in_gse
+Condition,COPD,GSE133513,"Pulmonary Disease, Chronic Obstructive",D029424,True,False,expansion_in_gse
+Condition,COPD,GSE64614,"Pulmonary Disease, Chronic Obstructive",D029424,True,False,expansion_in_gse
+Condition,COPD,GSE103174,"Pulmonary Disease, Chronic Obstructive",D029424,True,False,expansion_in_gse
+Condition,COPD,GSE137557,"Pulmonary Disease, Chronic Obstructive",D029424,True,False,expansion_in_gse
+Condition,COPD,GSE42057,"Pulmonary Disease, Chronic Obstructive",D029424,True,False,expansion_in_gse
+Condition,COPD,GSE56341,"Pulmonary Disease, Chronic Obstructive",D029424,True,False,expansion_in_gse
+Condition,COPD,GSE8581,"Pulmonary Disease, Chronic Obstructive",D029424,True,False,expansion_in_gse
+Condition,COPD,GSE70867,"Pulmonary Disease, Chronic Obstructive",D029424,False,False,unsupported
+Condition,COPD,GSE112260,"Pulmonary Disease, Chronic Obstructive",D029424,True,False,expansion_in_gse
+Condition,COPD,GSE122957,"Pulmonary Disease, Chronic Obstructive",D029424,True,False,expansion_in_gse
+Condition,COPD,GSE56767,"Pulmonary Disease, Chronic Obstructive",D029424,True,False,expansion_in_gse
+Condition,COPD,GSE13896,"Pulmonary Disease, Chronic Obstructive",D029424,True,False,expansion_in_gse
+Condition,COPD,GSE148871,"Pulmonary Disease, Chronic Obstructive",D029424,True,False,expansion_in_gse
+Condition,COPD,GSE29133,"Pulmonary Disease, Chronic Obstructive",D029424,True,False,expansion_in_gse
+Condition,COPD,GSE36221,"Pulmonary Disease, Chronic Obstructive",D029424,True,False,expansion_in_gse
+Condition,COPD,GSE71220,"Pulmonary Disease, Chronic Obstructive",D029424,True,False,expansion_in_gse
+Condition,COPD,GSE11784,"Pulmonary Disease, Chronic Obstructive",D029424,True,False,expansion_in_gse
+Condition,COPD,GSE61397,"Pulmonary Disease, Chronic Obstructive",D029424,True,False,expansion_in_gse
+Condition,COPD,GSE151052,"Pulmonary Disease, Chronic Obstructive",D029424,True,False,expansion_in_gse
+Condition,COPD,GSE22047,"Pulmonary Disease, Chronic Obstructive",D029424,True,False,expansion_in_gse
+Condition,COPD,GSE100281,"Pulmonary Disease, Chronic Obstructive",D029424,True,False,expansion_in_gse
+Condition,COPD,GSE112811,"Pulmonary Disease, Chronic Obstructive",D029424,True,False,expansion_in_gse
+Condition,COPD,GSE8608,"Pulmonary Disease, Chronic Obstructive",D029424,True,False,expansion_in_gse
+Condition,COPD,GSE128708,"Pulmonary Disease, Chronic Obstructive",D029424,True,False,expansion_in_gse
+Condition,COPD,GSE27597,"Pulmonary Disease, Chronic Obstructive",D029424,True,False,expansion_in_gse
+Condition,COPD,GSE69818,"Pulmonary Disease, Chronic Obstructive",D029424,True,False,expansion_in_gse
+Condition,WT,GSE108170,Wild Type,,False,False,unsupported
+Condition,CTL,GSE200539,Control,,False,True,unsupported
+Condition,CTL,GSE63061,Control,,True,False,expansion_in_gse
+Condition,CTL,GSE59630,Control,,True,False,expansion_in_gse
+Condition,MPNST,GSE8717,Neurofibrosarcoma,D018319,True,False,expansion_in_gse
+Condition,MPNST,GSE241224,Neurofibrosarcoma,D018319,True,False,expansion_in_gse
+Condition,MPNST,GSE60082,Neurofibrosarcoma,D018319,True,False,expansion_in_gse
+Condition,MPNST,GSE35852,Neurofibrosarcoma,D018319,False,False,unsupported
+Condition,MPNST,GSE52777,Neurofibrosarcoma,D018319,False,False,unsupported
+Condition,MPNST,GSE120684,Neurofibrosarcoma,D018319,True,False,expansion_in_gse
+Condition,MPNST,GSE84205,Neurofibrosarcoma,D018319,True,False,expansion_in_gse
+Condition,nonTD,GSE100665,Not Specified,,False,False,unsupported
+Condition,CTRL,GSE113866,Control,,True,False,expansion_in_gse
+Condition,CTRL,GSE125791,Control,,True,False,expansion_in_gse
+Condition,CTRL,GSE113834,Control,,True,False,expansion_in_gse
+Condition,MS,GSE83670,Multiple Sclerosis,D009103,True,False,expansion_in_gse
+Condition,MS,GSE37750,Multiple Sclerosis,D009103,True,False,expansion_in_gse
+Condition,MS,GSE75027,Multiple Sclerosis,D009103,False,True,unsupported
+Condition,MS,GSE138064,Multiple Sclerosis,D009103,True,False,expansion_in_gse
+Condition,MS,GSE2658,Multiple Sclerosis,D009103,False,False,unsupported
+Condition,DMPM,GSE112154,DMPM frozen tumor specimen,OOV-C-196042C733,True,False,expansion_tokens_in_gse
+Condition,PTSD,GSE845,"Stress Disorders, Post-Traumatic",D013313,True,False,expansion_in_gse
+Condition,PTSD,GSE63878,"Stress Disorders, Post-Traumatic",D013313,True,False,expansion_in_gse
+Condition,PTSD,GSE81761,"Stress Disorders, Post-Traumatic",D013313,True,False,expansion_in_gse
+Condition,PTSD,GSE127208,"Stress Disorders, Post-Traumatic",D013313,False,False,unsupported
+Condition,PTSD,GSE114852,"Stress Disorders, Post-Traumatic",D013313,True,False,expansion_in_gse
+Condition,PTSD,GSE127711,"Stress Disorders, Post-Traumatic",D013313,True,False,expansion_in_gse
+Condition,PTSD,GSE125216,"Stress Disorders, Post-Traumatic",D013313,False,False,unsupported
+Condition,VIRUS,GSE60244,Virus Diseases,D014777,False,False,unsupported
+Condition,VL,GSE77528,VL patient before treatment with pentavalent antimonial,OOV-C-9CC7B562CF,False,True,unsupported
+Condition,NAFLD,GSE205645,Non-alcoholic Fatty Liver Disease,D065626,False,False,unsupported
+Condition,NAFLD,GSE61256,Non-alcoholic Fatty Liver Disease,D065626,False,False,unsupported
+Condition,NAFLD,GSE48325,Non-alcoholic Fatty Liver Disease,D065626,True,False,expansion_in_gse
+Condition,DCIS,GSE72205,"Carcinoma, Intraductal, Noninfiltrating",D002285,True,False,expansion_in_gse
+Condition,DCIS,GSE31892,"Carcinoma, Intraductal, Noninfiltrating",D002285,True,False,expansion_in_gse
+Condition,DCIS,GSE21422,"Carcinoma, Intraductal, Noninfiltrating",D002285,True,False,expansion_in_gse
+Condition,DCIS,GSE66746,"Carcinoma, Intraductal, Noninfiltrating",D002285,True,False,expansion_in_gse
+Condition,HNSCC,GSE27501,Squamous Cell Carcinoma of Head and Neck,D000077195,True,False,expansion_in_gse
+Condition,HNSCC,GSE212550,Squamous Cell Carcinoma of Head and Neck,D000077195,True,False,expansion_in_gse
+Condition,HNSCC,GSE107591,Squamous Cell Carcinoma of Head and Neck,D000077195,True,False,expansion_in_gse
+Condition,HNSCC,GSE109756,Squamous Cell Carcinoma of Head and Neck,D000077195,True,False,expansion_in_gse
+Condition,HNSCC,GSE62027,Squamous Cell Carcinoma of Head and Neck,D000077195,True,False,expansion_in_gse
+Condition,HNSCC,GSE88833,Squamous Cell Carcinoma of Head and Neck,D000077195,True,False,expansion_in_gse
+Condition,HNSCC,GSE88831,Squamous Cell Carcinoma of Head and Neck,D000077195,True,False,expansion_in_gse
+Condition,HNSCC,GSE38270,Squamous Cell Carcinoma of Head and Neck,D000077195,True,False,expansion_in_gse
+Condition,HNSCC,GSE53355,Squamous Cell Carcinoma of Head and Neck,D000077195,True,False,expansion_in_gse
+Condition,HNSCC,GSE70186,Squamous Cell Carcinoma of Head and Neck,D000077195,True,False,expansion_in_gse
+Condition,HNSCC,GSE178154,Squamous Cell Carcinoma of Head and Neck,D000077195,True,False,expansion_in_gse
+Condition,HNSCC,GSE2837,Squamous Cell Carcinoma of Head and Neck,D000077195,True,False,expansion_in_gse
+Condition,HNSCC,GSE178153,Squamous Cell Carcinoma of Head and Neck,D000077195,True,False,expansion_in_gse
+Condition,HNSCC,GSE182734,Squamous Cell Carcinoma of Head and Neck,D000077195,True,False,expansion_in_gse
+Condition,HNSCC,GSE3292,Squamous Cell Carcinoma of Head and Neck,D000077195,True,False,expansion_in_gse
+Condition,HNSCC,GSE40005,Squamous Cell Carcinoma of Head and Neck,D000077195,True,False,expansion_in_gse
+Condition,HNSCC,GSE9600,Squamous Cell Carcinoma of Head and Neck,D000077195,True,False,expansion_in_gse
+Condition,HNSCC,GSE33205,Squamous Cell Carcinoma of Head and Neck,D000077195,True,False,expansion_in_gse
+Condition,HNSCC,GSE84713,Squamous Cell Carcinoma of Head and Neck,D000077195,True,False,expansion_tokens_in_gse
+Condition,HNSCC,GSE212549,Squamous Cell Carcinoma of Head and Neck,D000077195,True,False,expansion_in_gse
+Condition,HNSCC,GSE160919,Squamous Cell Carcinoma of Head and Neck,D000077195,True,False,expansion_in_gse
+Condition,TUMOR,GSE77475,Neoplasms,D009369,True,False,expansion_in_gse
+Condition,FASD,GSE80261,Fetal Alcohol Spectrum Disorders,D063647,True,False,expansion_in_gse
+Condition,LGD,GSE89181,Not Specified,,False,True,unsupported
+Condition,AOA,GSE61160,Not Specified,,False,False,unsupported
+Condition,AOA,GSE48461,Not Specified,,False,True,unsupported
+Condition,GERD,GSE72872,Gastroesophageal Reflux,D005764,False,False,unsupported
+Condition,ARDS,GSE67530,Respiratory Distress Syndrome,D012128,True,False,expansion_in_gse
+Condition,ARDS,GSE76293,Respiratory Distress Syndrome,D012128,True,False,expansion_in_gse
+Condition,CCC,GSE228782,Not Specified,,False,False,unsupported
+Condition,MELAS,GSE42986,MELAS Syndrome,D017241,False,False,unsupported
+Condition,nonPD,GSE54282,Not Specified,,False,True,unsupported
+Condition,NGT,GSE19420,Not Specified,,False,True,unsupported
+Condition,NGT,GSE182120,Not Specified,,False,True,unsupported
+Condition,NGT,GSE27949,Not Specified,,False,False,unsupported
+Condition,STEMI,GSE109048,ST Elevation Myocardial Infarction,D000072657,True,False,expansion_in_gse
+Condition,STEMI,GSE62646,ST Elevation Myocardial Infarction,D000072657,True,False,expansion_in_gse
+Condition,NTC,GSE129978,Not Specified,,False,False,unsupported
+Condition,NoVAP,GSE30385,Not Specified,,False,False,unsupported
+Condition,SR1,GSE143240,I3P + SR1,OOV-C-F50B699C7A,False,True,unsupported
+Condition,ADHD,GSE52889,Attention Deficit Disorder with Hyperactivity,D001289,True,False,expansion_in_gse
+Condition,ADHD,GSE18123,Attention Deficit Disorder with Hyperactivity,D001289,False,False,unsupported
+Condition,ADHD,GSE205129,Attention Deficit Disorder with Hyperactivity,D001289,True,False,expansion_in_gse
+Condition,NEC,GSE247523,Not Specified,,False,False,unsupported
+Condition,NEC,GSE80796,Not Specified,,False,False,unsupported
+Condition,NonTD,GSE148450,Not Specified,,False,False,unsupported
+Condition,UVB,GSE193090,UVB stimulated,ART-C-03893,True,False,expansion_in_gse
+Condition,PPROM,GSE149437,Premature Rupture of Fetal Membranes,D005322,False,False,unsupported
+Condition,NEG,GSE227080,Not Specified,,False,False,unsupported
+Condition,ICL,GSE56998,ICL patients,ART-C-04568,True,False,expansion_in_gse
+Condition,ATLL,GSE52244,"Leukemia-Lymphoma, Adult T-Cell",D015459,True,False,expansion_in_gse
+Condition,ATLL,GSE87434,"Leukemia-Lymphoma, Adult T-Cell",D015459,True,False,expansion_in_gse
+Condition,IDDM,GSE3447,"Diabetes Mellitus, Type 1",D003922,False,False,unsupported
+Condition,CCL,GSE76546,Not Specified,,False,False,unsupported
+Condition,PNET,GSE33903,"Neuroectodermal Tumors, Primitive",D018242,True,False,expansion_in_gse
+Condition,PNET,GSE35218,"Neuroectodermal Tumors, Primitive",D018242,True,False,expansion_in_gse
+Condition,AIDS,GSE4755,Acquired Immunodeficiency Syndrome,D000163,True,False,expansion_in_gse
+Condition,AIDS,GSE16363,Acquired Immunodeficiency Syndrome,D000163,True,False,expansion_in_gse
+Condition,COPDs,GSE130928,"Pulmonary Disease, Chronic Obstructive",D029424,True,False,expansion_in_gse
+Condition,CDc,GSE16879,Not Specified,,False,True,unsupported
+Condition,OCCC,GSE29175,Not Specified,,False,True,unsupported
+Condition,NDA,GSE58867,Not Specified,,False,False,unsupported
+Condition,pPROM,GSE73685,Premature Rupture of Fetal Membranes,D005322,False,False,unsupported
+Condition,NOMID,GSE27864,Cryopyrin-Associated Periodic Syndromes,D056587,True,False,expansion_in_gse
+Condition,CGL,GSE39825,Not Specified,,False,True,unsupported
+Treatment,DMSO,GSE187285,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE60952,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE28642,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE188406,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE103018,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE78704,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE106470,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE97331,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE59341,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE66625,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE37373,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE26884,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE8928,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE40233,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE49414,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE69849,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE149784,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE59297,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE78868,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE59077,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE150475,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE86880,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE28185,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE98523,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE84051,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE104374,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE52563,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE41315,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE109511,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE27209,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE227986,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE76675,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE73923,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE41889,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE87879,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE57721,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE109010,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE67986,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE60742,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE50928,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE16179,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE27071,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE92909,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE179924,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE153883,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE207381,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE103504,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE41364,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE93677,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE41062,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE161536,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE187001,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE155779,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE78703,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE25866,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE36911,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE74297,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE72959,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE87154,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE104610,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE233924,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE83642,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE77209,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE119279,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE63480,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE58038,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE45199,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE134716,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE44867,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE26313,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE78943,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE140175,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE196128,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE75197,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE32079,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE13987,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE144235,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE44597,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE98065,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE33643,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE208593,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE39962,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE32369,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE50010,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE74609,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE64001,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE697,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE69850,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE234103,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE75960,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE65562,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE119284,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE118908,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE86445,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE52882,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE104783,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE46346,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE59502,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE127760,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE50791,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE115468,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE148186,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE64123,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE39995,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE40635,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE79641,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE66294,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE97707,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE92736,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE56630,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE115406,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE60488,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE53455,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE158394,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE81217,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE110134,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE62062,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE75078,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE83491,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE76293,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE96793,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE134742,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE84440,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE60124,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE66423,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE56954,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE45981,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE79057,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE5258,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE81235,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE21891,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE80987,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE168780,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE133120,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE103993,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE63229,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE96792,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE137247,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE63664,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE31019,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE217046,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE70263,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE57203,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE105411,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE84205,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE216508,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE48990,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE46909,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE129279,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE50378,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE72167,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE35242,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE106855,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE57156,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE76515,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE115564,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE72688,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE121023,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE54709,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE86871,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE116291,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE114515,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE45630,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE21946,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE103963,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE39079,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE160551,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE168514,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE76148,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE100317,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE89759,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE104301,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE84147,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE92619,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE188894,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE104260,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE10086,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE56400,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE85979,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE163545,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE133197,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE116459,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE119277,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE5816,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE116218,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE107254,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE40404,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE190377,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE135068,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE232148,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE80243,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE74725,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE138560,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE140882,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE115793,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE55624,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE80213,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE94521,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE147533,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE155484,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE1302,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE110817,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE12868,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE13818,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE52154,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE119288,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE44946,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE121557,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE120991,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE122660,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE125562,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE160430,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE67002,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE92764,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE51352,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE141602,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE101464,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE96794,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE70576,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE39292,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE68954,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE114022,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE69844,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE180623,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE100014,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE69189,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE163574,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE120347,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE119281,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE33577,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE7848,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE94670,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE75307,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE36531,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE108957,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE98364,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE48046,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE119282,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE124053,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE109509,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE85694,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE31447,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE61481,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE42762,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE83983,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE62533,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE33892,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE103733,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE250566,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE154425,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE71363,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE43510,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE14500,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE45046,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE92598,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE32182,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE71542,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE80489,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE153441,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE75208,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE16001,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE76757,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE174634,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE119276,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE70613,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE93579,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE134603,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE59342,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE19567,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE142407,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE118521,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE60673,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE215949,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE67102,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE67338,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE73481,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE69106,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE112079,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE129974,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE51212,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE64033,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE65183,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE53049,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE46493,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE64704,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE235632,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE85801,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE44596,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE120311,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE44950,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE109576,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE17089,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE83957,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE29459,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE62139,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE74280,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE97124,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE48782,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE53994,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE140258,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE49416,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE58721,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE82270,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE116387,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE164813,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE87477,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE52365,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE46302,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE29959,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE96743,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE6800,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE124022,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE89531,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE119280,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE72865,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE109508,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE60621,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE24584,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE125560,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE66292,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE74797,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE58869,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE56352,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE44541,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE109513,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE26599,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE45635,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE153127,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE20567,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE60977,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE64820,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE55604,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE29868,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE119286,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE150045,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE62356,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE134747,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE171483,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE36619,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE109021,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE86234,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE76990,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE43010,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE54464,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE70690,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE94835,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE3627,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE49591,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE26114,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE18571,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE25547,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE89933,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE66837,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE24743,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE70614,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE122625,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE35230,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE46819,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE115690,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE61154,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE5682,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE69845,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE33562,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE163130,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE143240,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE50227,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE99766,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE41485,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE19846,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE43392,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE98314,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE76814,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE60600,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE24862,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE36928,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE69650,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE67417,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE63790,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE54711,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE104757,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE53399,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE143297,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE156521,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE125563,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE34112,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE85871,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE36678,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE40191,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE116529,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE109916,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE17785,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE128400,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE61312,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE76094,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE104373,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE70791,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE72961,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE65015,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE71622,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE199405,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE144826,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE36243,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE24027,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE5505,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE140394,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE53965,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE77996,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE195651,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE62477,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE59780,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE114059,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE112384,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE93409,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE35503,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE52777,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE100671,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE71212,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE87873,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE78188,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE70616,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE150432,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE30315,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE64821,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE76188,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE20433,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE148088,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE46874,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE73396,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE155747,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE81277,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE65495,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE158120,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE17007,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE55209,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE137724,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE73024,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE76802,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE114060,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE110156,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE63160,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE13487,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE59503,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE127848,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE145538,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE159100,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE166951,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE53464,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE77270,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE150437,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE43596,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE54143,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE75888,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE126315,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE67051,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE50618,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE142406,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE172175,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE89923,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE31365,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE45414,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE136172,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE178102,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE62460,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE59340,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE54979,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE75937,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE71547,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE97420,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE65069,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE32161,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE78187,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE137202,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE75420,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE32502,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE86098,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE86309,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE79081,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE106891,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE14103,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE67920,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE40766,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE128329,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE5840,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE18198,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE196689,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE81438,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE66455,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE69833,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE32158,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE11285,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE53672,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE113265,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE39691,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE153244,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE65467,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE14011,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE7765,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE36509,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE57130,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE32283,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE75308,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE71269,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE50994,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE44621,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE58844,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE40564,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE77200,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE41697,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE54936,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE23206,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE46972,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE26921,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE30988,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE30531,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE110369,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE232209,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE38467,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE76195,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE84908,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE189905,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE147484,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE81267,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE34176,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE193858,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE75979,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE95704,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE37352,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE71231,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE65014,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE127239,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE126265,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE69299,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE129254,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE53316,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE78827,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE56823,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE77669,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE93363,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE166419,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE40971,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE15918,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE90940,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE78829,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE45851,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE42808,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE119278,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE144608,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE146362,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE84909,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE106321,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE132747,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE17251,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE135573,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE60618,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE164744,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE106175,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE42531,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE243133,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE119289,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE143384,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE74362,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE57753,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE217758,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE68986,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE46590,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE14581,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE122404,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE80640,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE26492,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE8742,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE60408,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE74970,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE68761,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE36973,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE136613,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE139331,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE93328,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE139210,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE64178,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE59671,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE93032,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE128251,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE205957,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE179861,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE5506,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE103256,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE107779,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE63059,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE49284,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE65854,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE51948,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE19519,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE140145,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE70615,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE49124,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE81552,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE37302,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE25725,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE114626,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE13124,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE104197,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE151635,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE77982,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE82298,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE234403,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE43653,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE119283,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE98241,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE78052,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE33622,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE65012,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE26454,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE70611,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE150891,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE66854,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE61869,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE97279,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE87886,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE30188,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE28662,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE65019,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE69249,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE116509,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE34817,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE95038,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE63888,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE72673,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE141789,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE85238,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE75133,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE73388,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE39464,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE130666,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE32547,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE126103,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE72152,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE110768,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE26525,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE198111,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE119275,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE74212,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE62111,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE31122,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE57728,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE74240,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE20854,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE51909,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE116436,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE34635,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE29799,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE87874,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE55242,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE93099,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE198326,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE158103,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE46575,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE19891,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE61795,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE102994,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE119287,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE129976,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE41223,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE50841,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE29544,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE117991,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE81740,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE86574,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE15174,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE119285,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE125087,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE33358,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE45750,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE51143,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE72297,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE61870,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE104849,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE115864,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE51305,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE223329,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE66596,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE191126,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE29077,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE59179,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE108958,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE62144,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE62947,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE68091,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE103671,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE59183,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE143887,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE140818,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE30985,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE149417,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE181088,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,DMSO,GSE58526,Dimethyl Sulfoxide,D004121,False,False,unsupported
+Treatment,DMSO,GSE89932,Dimethyl Sulfoxide,D004121,True,False,expansion_in_gse
+Treatment,NoTx,GSE62627,Not Specified,,False,False,unsupported
+Treatment,IKBKB,GSE37058,I-kappa B Kinase,D051550,True,False,expansion_in_gse
+Treatment,SIRT1,GSE37058,Sirtuin 1,D056564,True,False,expansion_in_gse
+Treatment,IFNb,GSE60234,Not Specified,,False,True,unsupported
+Treatment,IFNb,GSE73608,Not Specified,,False,False,unsupported
+Treatment,IFNb,GSE48400,Not Specified,,False,False,unsupported
+Treatment,TPA,GSE198006,CHIR99201+TPA,OOV-X-8E351CE457,False,True,unsupported
+Treatment,IL4,GSE83957,Interleukin-4,D015847,True,False,expansion_in_gse
+Treatment,IL4,GSE86298,Interleukin-4,D015847,False,True,unsupported
+Treatment,IL4,GSE114181,Interleukin-4,D015847,False,True,unsupported
+Treatment,IL4,GSE174596,Interleukin-4,D015847,False,True,unsupported
+Treatment,IL4,GSE99445,Interleukin-4,D015847,True,False,expansion_in_gse
+Treatment,IL4,GSE19182,Interleukin-4,D015847,False,True,unsupported
+Treatment,IL4,GSE81413,Interleukin-4,D015847,False,True,unsupported
+Treatment,NC,GSE79438,Not Specified,,False,True,unsupported
+Treatment,NC,GSE69916,Not Specified,,False,False,unsupported
+Treatment,NC,GSE198537,Not Specified,,False,True,unsupported
+Treatment,NC,GSE199554,Not Specified,,False,False,unsupported
+Treatment,NC,GSE55277,Not Specified,,False,False,unsupported
+Treatment,NC,GSE103981,Not Specified,,False,True,unsupported
+Treatment,NC,GSE55276,Not Specified,,False,False,unsupported
+Treatment,NC,GSE175865,Not Specified,,False,True,unsupported
+Treatment,NC,GSE122124,Not Specified,,False,True,unsupported
+Treatment,LTED,GSE69893,LTED+AZD5363,OOV-X-4B25112E3E,True,False,expansion_tokens_in_gse
+Treatment,EGF,GSE72919,Epidermal Growth Factor,D004815,True,False,expansion_tokens_in_gse
+Treatment,EGF,GSE60880,Epidermal Growth Factor,D004815,True,False,expansion_tokens_in_gse
+Treatment,EGF,GSE18938,Epidermal Growth Factor,D004815,True,False,expansion_in_gse
+Treatment,EGF,GSE46045,Epidermal Growth Factor,D004815,True,False,expansion_in_gse
+Treatment,EGF,GSE13009,Epidermal Growth Factor,D004815,True,False,expansion_in_gse
+Treatment,EGF,GSE24391,Epidermal Growth Factor,D004815,False,True,unsupported
+Treatment,EGF,GSE115456,Epidermal Growth Factor,D004815,False,True,unsupported
+Treatment,EGF,GSE42979,Epidermal Growth Factor,D004815,False,True,unsupported
+Treatment,EGF,GSE32217,Epidermal Growth Factor,D004815,True,False,expansion_tokens_in_gse
+Treatment,EGF,GSE107629,Epidermal Growth Factor,D004815,False,True,unsupported
+Treatment,EGF,GSE58254,Epidermal Growth Factor,D004815,False,True,unsupported
+Treatment,EGF,GSE53405,Epidermal Growth Factor,D004815,False,True,unsupported
+Treatment,EGF,GSE84095,Epidermal Growth Factor,D004815,False,True,unsupported
+Treatment,EGF,GSE142623,Epidermal Growth Factor,D004815,False,True,unsupported
+Treatment,EGF,GSE27629,Epidermal Growth Factor,D004815,True,False,expansion_tokens_in_gse
+Treatment,EGF,GSE11729,Epidermal Growth Factor,D004815,True,False,expansion_in_gse
+Treatment,EGF,GSE153114,Epidermal Growth Factor,D004815,False,True,unsupported
+Treatment,EGF,GSE57547,Epidermal Growth Factor,D004815,True,False,expansion_in_gse
+Treatment,EGF,GSE32975,Epidermal Growth Factor,D004815,True,False,expansion_in_gse
+Treatment,EGF,GSE41528,Epidermal Growth Factor,D004815,False,True,unsupported
+Treatment,CTR,GSE103107,Not Specified,,False,True,unsupported
+Treatment,CTR,GSE103992,Not Specified,,False,True,unsupported
+Treatment,CTR,GSE104013,Not Specified,,False,True,unsupported
+Treatment,VD,GSE36323,VD+TsA,OOV-X-D084E07043,False,False,unsupported
+Treatment,IgG,GSE223458,Immunoglobulin G,D007074,False,True,unsupported
+Treatment,IgG,GSE36179,Immunoglobulin G,D007074,False,False,unsupported
+Treatment,IgG,GSE17820,Immunoglobulin G,D007074,False,True,unsupported
+Treatment,IgG,GSE89153,Immunoglobulin G,D007074,True,False,expansion_in_gse
+Treatment,IgG,GSE107819,Immunoglobulin G,D007074,False,True,unsupported
+Treatment,IgG,GSE89342,Immunoglobulin G,D007074,False,True,unsupported
+Treatment,IgG,GSE185918,Immunoglobulin G,D007074,False,False,unsupported
+Treatment,IgG,GSE171920,Immunoglobulin G,D007074,False,True,unsupported
+Treatment,IgG,GSE117340,Immunoglobulin G,D007074,False,False,unsupported
+Treatment,ErbB2,GSE43907,Cas/ErbB2,ART-X-00984,True,False,expansion_in_gse
+Treatment,NI,GSE65401,Not Specified,,False,True,unsupported
+Treatment,NI,GSE117668,Not Specified,,False,True,unsupported
+Treatment,RPMI,GSE42606,RPMI medium,OOV-X-DE4E861951,False,True,unsupported
+Treatment,IgE,GSE99948,Immunoglobulin E,D007073,False,True,unsupported
+Treatment,IgG1,GSE75605,Immunoglobulin G,D007074,False,False,unsupported
+Treatment,IgG1,GSE71459,Immunoglobulin G,D007074,True,False,expansion_in_gse
+Treatment,IgG2,GSE75605,Immunoglobulin G,D007074,False,False,unsupported
+Treatment,BCG,GSE98550,BCG Vaccine,D001500,False,True,unsupported
+Treatment,BCG,GSE108363,BCG Vaccine,D001500,False,True,unsupported
+Treatment,BCG,GSE148322,BCG Vaccine,D001500,False,True,unsupported
+Treatment,BCG,GSE185264,BCG Vaccine,D001500,False,True,unsupported
+Treatment,USP12,GSE186110,USP12 transduction,OOV-X-23006ABD18,False,False,unsupported
+Treatment,FOXO1,GSE186110,FOXO1 transduction,OOV-X-8B5CF256F8,False,False,unsupported
+Treatment,GNA12,GSE186110,GNA12 transduction,OOV-X-93BF771C6E,False,False,unsupported
+Treatment,IFIH1,GSE186110,"Interferon-Induced Helicase, IFIH1",D000072640,False,True,unsupported
+Treatment,IFIH1,GSE186001,"Interferon-Induced Helicase, IFIH1",D000072640,False,True,unsupported
+Treatment,LRRK2,GSE186110,LRRK2 transduction,OOV-X-DA10A6CFB6,False,False,unsupported
+Treatment,FIBP,GSE186110,FIBP transduction,OOV-X-56D2A8EBD1,False,False,unsupported
+Treatment,PPP5C,GSE186110,PPP5C transduction,OOV-X-3605420C36,False,False,unsupported
+Treatment,TYK2,GSE186001,TYK2 Kinase,D053634,False,False,unsupported
+Treatment,NOD2,GSE186110,Nod2 Signaling Adaptor Protein,D053473,False,True,unsupported
+Treatment,STAT3,GSE186001,STAT3 Transcription Factor,D050796,False,False,unsupported
+Treatment,HAART,GSE87620,"Antiretroviral Therapy, Highly Active",D023241,True,False,expansion_in_gse
+Treatment,HAART,GSE23879,"Antiretroviral Therapy, Highly Active",D023241,True,False,expansion_in_gse
+Treatment,HAART,GSE53527,"Antiretroviral Therapy, Highly Active",D023241,True,False,expansion_in_gse
+Treatment,E2F1,GSE50051,E2F1 Transcription Factor,D050687,False,True,unsupported
+Treatment,RAS,GSE50051,ras Proteins,D018631,False,True,unsupported
+Treatment,OCT4,GSE95608,"OCT4, SOX2, KLF4, MYC",ART-X-01861,True,False,expansion_in_gse
+Treatment,siRNA,GSE86435,"RNA, Small Interfering",D034741,False,False,unsupported
+Treatment,siRNA,GSE50588,"RNA, Small Interfering",D034741,True,False,expansion_in_gse
+Treatment,siRNA,GSE8565,"RNA, Small Interfering",D034741,True,False,expansion_in_gse
+Treatment,siRNA,GSE66475,"RNA, Small Interfering",D034741,True,False,expansion_in_gse
+Treatment,siRNA,GSE33616,"RNA, Small Interfering",D034741,True,False,expansion_in_gse
+Treatment,siRNA,GSE56715,"RNA, Small Interfering",D034741,True,False,expansion_in_gse
+Treatment,siRNA,GSE61277,"RNA, Small Interfering",D034741,True,False,expansion_in_gse
+Treatment,siRNA,GSE61272,"RNA, Small Interfering",D034741,True,False,expansion_in_gse
+Treatment,siRNA,GSE37243,"RNA, Small Interfering",D034741,True,False,expansion_in_gse
+Treatment,siRNA,GSE86433,"RNA, Small Interfering",D034741,True,False,expansion_in_gse
+Treatment,AP,GSE214455,minus AP,OOV-X-18024AEAAE,False,False,unsupported
+Treatment,ART,GSE30310,"Antiretroviral Therapy, Highly Active",D023241,False,True,unsupported
+Treatment,ART,GSE77939,"Antiretroviral Therapy, Highly Active",D023241,False,True,unsupported
+Treatment,ART,GSE137438,"Antiretroviral Therapy, Highly Active",D023241,True,False,expansion_tokens_in_gse
+Treatment,ART,GSE128296,"Antiretroviral Therapy, Highly Active",D023241,False,True,unsupported
+Treatment,HC,GSE97075,Not Specified,,False,True,unsupported
+Treatment,HC,GSE14655,Not Specified,,False,True,unsupported
+Treatment,HC,GSE224705,Not Specified,,False,True,unsupported
+Treatment,IL18,GSE25742,Interleukin-18,D020382,True,False,expansion_in_gse
+Treatment,IL33,GSE25742,Interleukin-33,D000067596,True,False,expansion_in_gse
+Treatment,IL33,GSE153486,Interleukin-33,D000067596,True,False,expansion_in_gse
+Treatment,RC,GSE80067,Not Specified,,False,True,unsupported
+Treatment,Wnt3A,GSE14107,Wnt3A Protein,D060509,False,True,unsupported
+Treatment,Wnt3A,GSE67571,Wnt3A Protein,D060509,False,True,unsupported
+Treatment,TFV,GSE138723,Tenofovir,D000068698,True,False,expansion_in_gse
+Treatment,NTC,GSE148242,Not Specified,,False,True,unsupported
+Treatment,NTC,GSE72258,Not Specified,,False,False,unsupported
+Treatment,HMGB1,GSE47616,HMGB1 Protein,D024243,False,False,unsupported
+Treatment,WN,GSE112384,withanone (WN) 1µM,ART-X-03953,True,False,expansion_tokens_in_gse
+Treatment,shRNA,GSE99796,"RNA, Small Interfering",D034741,True,False,expansion_in_gse
+Treatment,shRNA,GSE61497,"RNA, Small Interfering",D034741,True,False,expansion_in_gse
+Treatment,shRNA,GSE41459,"RNA, Small Interfering",D034741,True,False,expansion_in_gse
+Treatment,shRNA,GSE86594,"RNA, Small Interfering",D034741,True,False,expansion_in_gse
+Treatment,shRNA,GSE15102,"RNA, Small Interfering",D034741,True,False,expansion_in_gse
+Treatment,TCDD,GSE101464,Polychlorinated Dibenzodioxins,D000072317,True,False,expansion_in_gse
+Treatment,TCDD,GSE75133,Polychlorinated Dibenzodioxins,D000072317,True,False,expansion_in_gse
+Treatment,TCDD,GSE109576,Polychlorinated Dibenzodioxins,D000072317,True,False,expansion_in_gse
+Treatment,IL6,GSE68164,Interleukin-6,D015850,True,False,expansion_in_gse
+Treatment,IL6,GSE68165,Interleukin-6,D015850,True,False,expansion_in_gse
+Treatment,CHOP,GSE74266,Transcription Factor CHOP,D051742,False,False,unsupported
+Treatment,CHOP,GSE64085,Transcription Factor CHOP,D051742,False,False,unsupported
+Treatment,CHOP,GSE46888,Transcription Factor CHOP,D051742,False,False,unsupported
+Treatment,CHOP,GSE64083,Transcription Factor CHOP,D051742,False,False,unsupported
+Treatment,CHOP,GSE110548,Transcription Factor CHOP,D051742,False,False,unsupported
+Treatment,GLI1,GSE1434,Zinc Finger Protein GLI1,D000071676,False,True,unsupported
+Treatment,GLI2,GSE1434,Zinc Finger Protein Gli2,D000075746,False,True,unsupported
+Treatment,TNF,GSE106080,Tumor Necrosis Factor-alpha,D014409,False,True,unsupported
+Treatment,TNF,GSE65707,Tumor Necrosis Factor-alpha,D014409,False,True,unsupported
+Treatment,TNF,GSE10108,Tumor Necrosis Factor-alpha,D014409,True,False,expansion_in_gse
+Treatment,TNF,GSE28995,Tumor Necrosis Factor-alpha,D014409,True,False,expansion_in_gse
+Treatment,TNF,GSE69050,Tumor Necrosis Factor-alpha,D014409,False,True,unsupported
+Treatment,TNF,GSE15205,Tumor Necrosis Factor-alpha,D014409,True,False,expansion_in_gse
+Treatment,TNF,GSE129484,Tumor Necrosis Factor-alpha,D014409,False,True,unsupported
+Treatment,TNF,GSE56681,Tumor Necrosis Factor-alpha,D014409,False,True,unsupported
+Treatment,TNF,GSE207390,Tumor Necrosis Factor-alpha,D014409,False,True,unsupported
+Treatment,TNF,GSE179478,Tumor Necrosis Factor-alpha,D014409,False,True,unsupported
+Treatment,TNF,GSE18893,Tumor Necrosis Factor-alpha,D014409,True,False,expansion_in_gse
+Treatment,TNF,GSE216614,Tumor Necrosis Factor-alpha,D014409,False,True,unsupported
+Treatment,TNF,GSE134209,Tumor Necrosis Factor-alpha,D014409,False,True,unsupported
+Treatment,TNF,GSE93720,Tumor Necrosis Factor-alpha,D014409,False,True,unsupported
+Treatment,TNF,GSE136439,Tumor Necrosis Factor-alpha,D014409,False,True,unsupported
+Treatment,TNF,GSE10106,Tumor Necrosis Factor-alpha,D014409,True,False,expansion_in_gse
+Treatment,TNF,GSE32975,Tumor Necrosis Factor-alpha,D014409,False,True,unsupported
+Treatment,TNF,GSE156116,Tumor Necrosis Factor-alpha,D014409,True,False,expansion_in_gse
+Treatment,TNF,GSE22807,Tumor Necrosis Factor-alpha,D014409,True,False,expansion_in_gse
+Treatment,TNF,GSE13837,Tumor Necrosis Factor-alpha,D014409,False,True,unsupported
+Treatment,CTL,GSE216614,Not Specified,,False,True,unsupported
+Treatment,CTL,GSE74725,Not Specified,,False,False,unsupported
+Treatment,CTL,GSE59630,Not Specified,,False,False,unsupported
+Treatment,IGF1,GSE65398,Insulin-Like Growth Factor I,D007334,True,False,expansion_tokens_in_gse
+Treatment,COMB,GSE66087,shBRG1_COMB,ART-X-04854,False,False,unsupported
+Treatment,FCS,GSE87797,10% FCS,OOV-X-951BEA1F16,False,True,unsupported
+Treatment,CON,GSE34639,Not Specified,,False,False,unsupported
+Treatment,SQ,GSE211839,TRI SQ,ART-X-05311,True,False,expansion_in_gse
+Treatment,PGE2,GSE74056,Dinoprostone,D015232,True,False,expansion_in_gse
+Treatment,PGE2,GSE63659,Dinoprostone,D015232,True,False,expansion_in_gse
+Treatment,PGE2,GSE14465,Dinoprostone,D015232,True,False,expansion_in_gse
+Treatment,FSH,GSE86427,Follicle Stimulating Hormone,D005640,True,False,expansion_in_gse
+Treatment,VEGF,GSE3891,Vascular Endothelial Growth Factor A,D042461,False,False,unsupported
+Treatment,VEGF,GSE18913,Vascular Endothelial Growth Factor A,D042461,True,False,expansion_in_gse
+Treatment,VEGF,GSE10778,Vascular Endothelial Growth Factor A,D042461,True,False,expansion_in_gse
+Treatment,VEGF,GSE71967,Vascular Endothelial Growth Factor A,D042461,True,False,expansion_in_gse
+Treatment,VEGF,GSE22695,Vascular Endothelial Growth Factor A,D042461,True,False,expansion_in_gse
+Treatment,VEGF,GSE17777,Vascular Endothelial Growth Factor A,D042461,True,False,expansion_in_gse
+Treatment,VEGF,GSE49426,Vascular Endothelial Growth Factor A,D042461,True,False,expansion_in_gse
+Treatment,VEGF,GSE15464,Vascular Endothelial Growth Factor A,D042461,True,False,expansion_in_gse
+Treatment,VEGF,GSE48841,Vascular Endothelial Growth Factor A,D042461,True,False,expansion_in_gse
+Treatment,VEGF,GSE19098,Vascular Endothelial Growth Factor A,D042461,True,False,expansion_in_gse
+Treatment,ZFPC,GSE127821,ZFPC for 24 hours,OOV-X-5F9E700726,False,False,unsupported
+Treatment,NGF,GSE142823,Nerve Growth Factor,D020932,False,True,unsupported
+Treatment,NGF,GSE121261,Nerve Growth Factor,D020932,True,False,expansion_in_gse
+Treatment,RCD,GSE216574,Not Specified,,False,False,unsupported
+Treatment,HIIT,GSE109657,Exercise Therapy,D005081,False,True,unsupported
+Treatment,HIV,GSE69589,"Receptors, HIV",D015728,False,True,unsupported
+Treatment,AraC,GSE181792,Cytarabine,D003561,False,True,unsupported
+Treatment,OOS,GSE75174,Not Specified,,False,True,unsupported
+Treatment,ARAC,GSE181792,Cytarabine,D003561,False,True,unsupported
+Treatment,CTRL,GSE46268,Not Specified,,False,True,unsupported
+Treatment,CTRL,GSE100784,Not Specified,,False,False,unsupported
+Treatment,CTRL,GSE149490,Not Specified,,False,False,unsupported
+Treatment,IL10,GSE124105,Interleukin-10,D016753,True,False,expansion_in_gse
+Treatment,BDNF,GSE142823,Brain-Derived Neurotrophic Factor,D019208,True,False,expansion_in_gse
+Treatment,BDNF,GSE9169,Brain-Derived Neurotrophic Factor,D019208,True,False,expansion_in_gse
+Treatment,OTX,GSE70263,Otx Transcription Factors,D051857,False,False,unsupported
+Treatment,ACTH,GSE150775,Adrenocorticotropic Hormone,D000324,True,False,expansion_in_gse
+Treatment,uRBC,GSE144826,uRBC stimulation,ART-X-08266,False,True,unsupported
+Treatment,WNT5A,GSE109859,WNT5A/PEG-SOD,ART-X-08370,True,False,expansion_in_gse
+Treatment,GATA3,GSE71752,GATA3 Transcription Factor,D050990,True,False,expansion_tokens_in_gse
+Treatment,GATA3,GSE24249,GATA3 Transcription Factor,D050990,True,False,expansion_in_gse
+Treatment,NoVAP,GSE30385,Not Specified,,False,False,unsupported
+Treatment,LHRH,GSE5377,Gonadotropin-Releasing Hormone,D007987,False,False,unsupported
+Treatment,CXCR4,GSE76519,"Receptors, CXCR4",D019718,False,False,unsupported
+Treatment,CXCR4,GSE76520,"Receptors, CXCR4",D019718,False,False,unsupported
+Treatment,CXCR4,GSE76518,"Receptors, CXCR4",D019718,False,False,unsupported
+Treatment,CXCR4,GSE76516,"Receptors, CXCR4",D019718,False,False,unsupported
+Treatment,AXL,GSE76519,Axl Receptor Tyrosine Kinase,D000094963,False,False,unsupported
+Treatment,AXL,GSE76518,Axl Receptor Tyrosine Kinase,D000094963,False,False,unsupported
+Treatment,AXL,GSE76520,Axl Receptor Tyrosine Kinase,D000094963,False,False,unsupported
+Treatment,AXL,GSE76516,Axl Receptor Tyrosine Kinase,D000094963,False,False,unsupported
+Treatment,SMAD4,GSE76519,Smad4 Protein,D051901,False,False,unsupported
+Treatment,SMAD4,GSE76518,Smad4 Protein,D051901,False,False,unsupported
+Treatment,SMAD4,GSE76516,Smad4 Protein,D051901,False,False,unsupported
+Treatment,SMAD4,GSE76520,Smad4 Protein,D051901,False,False,unsupported
+Treatment,CDH1,GSE76518,Cdh1 Proteins,D064200,False,False,unsupported
+Treatment,CDH1,GSE76519,Cdh1 Proteins,D064200,False,False,unsupported
+Treatment,CDH1,GSE76520,Cdh1 Proteins,D064200,False,False,unsupported
+Treatment,CDH1,GSE76516,Cadherin Related Proteins,D000070585,False,False,unsupported
+Treatment,ERG,GSE14595,Transcriptional Regulator ERG,D000071230,False,True,unsupported
+Treatment,ERG,GSE76516,Transcriptional Regulator ERG,D000071230,False,False,unsupported
+Treatment,SMAD2,GSE76518,Smad2 Protein,D051899,False,False,unsupported
+Treatment,SMAD2,GSE76516,Smad2 Protein,D051899,False,False,unsupported
+Treatment,MTOR,GSE76518,Mechanistic Target of Rapamycin Complex 1,D000076222,False,False,unsupported
+Treatment,MTOR,GSE76516,Mechanistic Target of Rapamycin Complex 1,D000076222,False,False,unsupported
+Treatment,SMAD3,GSE186001,Smad3 Protein,D051900,False,True,unsupported
+Treatment,SMAD3,GSE76518,Smad3 Protein,D051900,False,False,unsupported
+Treatment,PTEN,GSE83744,PTEN Phosphohydrolase,D051059,False,False,unsupported
+Treatment,DCAF8,GSE83744,DCAF8_p.R559P,ART-X-22076,False,False,unsupported
+Treatment,GRB7,GSE83744,GRB7 Adaptor Protein,D051382,False,False,unsupported
+Treatment,CD40,GSE49628,CD40 Ligand,D023201,False,True,unsupported
+Treatment,CD40,GSE83744,CD40 Ligand,D023201,False,False,unsupported
+Treatment,noDOX,GSE165929,Not Specified,,False,False,unsupported
+Treatment,GATA4,GSE100712,GATA4 Transcription Factor,D050991,True,False,expansion_tokens_in_gse
+Treatment,GATA4,GSE100711,GATA4 Transcription Factor,D050991,True,False,expansion_tokens_in_gse
+Treatment,APAP,GSE136059,Acetaminophen,D000082,False,False,unsupported
+Treatment,APAP,GSE74000,Acetaminophen,D000082,True,False,expansion_in_gse
+Treatment,noHRT,GSE7008,Not Specified,,False,False,unsupported
+Treatment,LTB4,GSE11199,Leukotriene B4,D007975,False,False,unsupported
+Treatment,LTB4,GSE24869,Leukotriene B4,D007975,True,False,expansion_in_gse
+Treatment,LTB4,GSE9332,Leukotriene B4,D007975,True,False,expansion_in_gse
+Treatment,FK413,GSE196772,Tacrolimus,D016559,True,False,expansion_in_gse
+Treatment,FK416,GSE196772,Tacrolimus,D016559,True,False,expansion_in_gse
+Treatment,FK423,GSE196772,Tacrolimus,D016559,True,False,expansion_in_gse
+Treatment,FK443,GSE196772,Tacrolimus,D016559,True,False,expansion_in_gse
+Treatment,FK457,GSE196772,Tacrolimus,D016559,True,False,expansion_in_gse
+Treatment,FK506,GSE196772,Tacrolimus,D016559,True,False,expansion_in_gse
+Treatment,FK461,GSE196772,Tacrolimus,D016559,True,False,expansion_in_gse
+Treatment,FK467,GSE196772,Tacrolimus,D016559,True,False,expansion_in_gse
+Treatment,FK473,GSE196772,Tacrolimus,D016559,True,False,expansion_in_gse
+Treatment,FK543,GSE196772,Tacrolimus,D016559,True,False,expansion_in_gse
+Treatment,FK549,GSE196772,Tacrolimus,D016559,True,False,expansion_in_gse
+Treatment,FK586,GSE196772,Tacrolimus,D016559,True,False,expansion_in_gse
+Treatment,FK628,GSE196772,Tacrolimus,D016559,True,False,expansion_in_gse
+Treatment,FK653,GSE196772,Tacrolimus,D016559,True,False,expansion_in_gse
+Treatment,FK669,GSE196772,Tacrolimus,D016559,True,False,expansion_in_gse
+Treatment,FK699,GSE196772,Tacrolimus,D016559,True,False,expansion_in_gse
+Treatment,FK697,GSE196772,Tacrolimus,D016559,True,False,expansion_in_gse
+Treatment,FK776,GSE196772,Tacrolimus,D016559,True,False,expansion_in_gse
+Treatment,FK907,GSE196772,Tacrolimus,D016559,True,False,expansion_in_gse
+Treatment,FK938,GSE196772,Tacrolimus,D016559,True,False,expansion_in_gse
+Treatment,ADM,GSE94354,Adrenomedullin,D053607,False,True,unsupported
+Treatment,TWEAK,GSE41828,Cytokine TWEAK,D000074049,True,False,expansion_tokens_in_gse
+Treatment,MEK,GSE112282,Mitogen-Activated Protein Kinase Kinases,D020929,False,True,unsupported
+Treatment,SHAM,GSE77907,Not Specified,,False,False,unsupported
+Treatment,SHAM,GSE77908,Not Specified,,False,False,unsupported
+Treatment,SHAM,GSE77906,Not Specified,,False,False,unsupported
+Treatment,ROT1D,GSE232310,ROT1D - recent onsite of T1D,OOV-X-5F86A322C0,True,False,expansion_tokens_in_gse
+Treatment,IKKB,GSE18047,I-kappa B Kinase,D051550,False,True,unsupported
+Treatment,hCG,GSE18557,Chorionic Gonadotropin,D006063,True,False,expansion_in_gse
+Treatment,IVIG,GSE16797,"Immunoglobulins, Intravenous",D016756,True,False,expansion_in_gse
+Treatment,IVIG,GSE48498,"Immunoglobulins, Intravenous",D016756,True,False,expansion_in_gse
+Treatment,MSX1,GSE9339,MSX1 Transcription Factor,D051957,True,False,expansion_tokens_in_gse
+Treatment,pH1N1,GSE31518,pH1N1 infection,ART-X-28495,True,False,expansion_in_gse
+Treatment,CD40L,GSE10316,CD40 Ligand,D023201,True,False,expansion_in_gse
+Treatment,siGA,GSE108407,"Immunoglobulin A, Secretory",D007071,True,False,expansion_in_gse
+Treatment,CTLA4,GSE102234,"UPN727, CTLA4 treated Pt9092010 plasma",ART-X-28903,True,False,expansion_tokens_in_gse
+Treatment,IL1RA,GSE52724,RO1037+IL1RA plasma,ART-X-29028,True,False,expansion_tokens_in_gse
+Treatment,mRNA,GSE7247,"RNA, Messenger",D012333,True,False,expansion_in_gse
+Treatment,NON,GSE18206,Not Specified,,False,True,unsupported
+Treatment,ATP,GSE30903,Adenosine Triphosphate,D000255,False,True,unsupported
+Treatment,nCR,GSE68871,Not Specified,,False,True,unsupported
+Treatment,LDL,GSE183790,"Lipoproteins, LDL",D008077,False,True,unsupported
+Treatment,HSP70,GSE71080,HSP70 Heat-Shock Proteins,D018840,True,False,expansion_tokens_in_gse
+Treatment,HgCl2,GSE71127,Mercuric Chloride,D008627,True,False,expansion_tokens_in_gse
+Treatment,REBIF,GSE26104,Interferon beta-1a,D000068556,False,False,unsupported
+Treatment,TGFb3,GSE10315,Transforming Growth Factor beta3,D053782,False,False,unsupported
+Treatment,PTH,GSE24068,Parathyroid Hormone,D010281,True,False,expansion_in_gse
+Treatment,DEHP,GSE43653,Diethylhexyl Phthalate,D004051,True,False,expansion_in_gse
+Treatment,VC,GSE62243,Not Specified,,False,False,unsupported
+Treatment,cAMP,GSE39157,"Receptors, Cyclic AMP",D011953,False,True,unsupported
+Treatment,cAMP,GSE403,"Receptors, Cyclic AMP",D011953,False,True,unsupported
+Treatment,shCTR,GSE33613,Not Specified,,False,False,unsupported
+Treatment,IL13,GSE23591,Interleukin-13,D018793,True,False,expansion_in_gse
+Treatment,IL13,GSE106812,Interleukin-13,D018793,True,False,expansion_in_gse
+Treatment,IL13,GSE19182,Interleukin-13,D018793,True,False,expansion_in_gse
+Treatment,EphA2,GSE52246,"Receptor, EphA2",D036104,False,True,unsupported
+Treatment,CNTF,GSE64194,Ciliary Neurotrophic Factor,D020934,True,False,expansion_in_gse
+Treatment,OGTT,GSE56607,Glucose Tolerance Test,D005951,False,False,unsupported
+Treatment,EDTA,GSE34160,Edetic Acid,D004492,True,False,expansion_in_gse
+Treatment,LTD4,GSE43855,Leukotriene D4,D017998,True,False,expansion_in_gse
+Treatment,IGF2,GSE20963,Insulin-Like Growth Factor II,D007335,False,True,unsupported
+Treatment,TGFB3,GSE90638,Transforming Growth Factor beta3,D053782,False,False,unsupported
+Treatment,LIF,GSE2663,LIF withdrawn,OOV-X-9A5CDBB042,True,False,expansion_tokens_in_gse
+Treatment,DHEA,GSE3627,Dehydroepiandrosterone,D003687,True,False,expansion_in_gse
+Treatment,TrkA,GSE18409,"Receptor, trkA",D020917,True,False,expansion_tokens_in_gse
+Treatment,TrkB,GSE18409,"Receptor, trkB",D020813,True,False,expansion_tokens_in_gse
+Treatment,NSAID,GSE12021,"Anti-Inflammatory Agents, Non-Steroidal",D000894,False,False,unsupported
+Treatment,IL12,GSE12839,Interleukin-12,D018664,True,False,expansion_in_gse
+Treatment,PS341,GSE9782,Bortezomib,D000069286,True,False,expansion_in_gse
+Treatment,IL2,GSE22886,Interleukin-2,D007376,False,False,unsupported
+Treatment,IL15,GSE22886,Interleukin-15,D019409,False,False,unsupported

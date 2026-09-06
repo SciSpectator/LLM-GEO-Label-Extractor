@@ -1,0 +1,41 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.venv/
+dist/
+build/
+*.egg-info/
+results/
+work/
+data/reference/
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+*.npz
+*.log
+*.ckpt
+*.done
+
+# Run artefacts and caches. Every user starts from an empty cache: nothing a run
+# produces belongs in the repository, and an inherited cache would carry another
+# corpus's decisions into a fresh run.
+extracted.json
+extracted_*.json
+input_samples.json
+gse_meta.json
+*.json.gz
+selected_gsms.txt
+selected_gpls.txt
+out/
+output/
+normalized/
+final_labels/
+
+# The published data package is deliberately versioned. The rules above exclude
+# run artefacts a user's own run would produce; these are the frozen results the
+# paper reports, so they are kept.
+!published_data/**

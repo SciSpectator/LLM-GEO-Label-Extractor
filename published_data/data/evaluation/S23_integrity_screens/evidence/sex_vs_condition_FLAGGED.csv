@@ -1,0 +1,240 @@
+gsm,gse,raw_Condition,final_Condition,final_Condition_id,final_Sex
+GSM2327319,GSE87295,gestational diabetes (GDM),"Diabetes, Gestational",D016640,Male
+GSM4003252,GSE135304,squamous cell carcinoma; stage: 4,"Carcinoma, Squamous Cell; Hydatidiform Mole, Invasive",D002294; D002820,Male
+GSM4003391,GSE135304,small cell carcinoma; stage: 4,"Carcinoma, Small Cell; Hydatidiform Mole, Invasive",D018288; D002820,Male
+GSM1480128,GSE60438,pre-eclamptic,Pre-Eclampsia,D011225,Male
+GSM1480129,GSE60438,pre-eclamptic,Pre-Eclampsia,D011225,Male
+GSM1480131,GSE60438,pre-eclamptic,Pre-Eclampsia,D011225,Male
+GSM1480133,GSE60438,pre-eclamptic,Pre-Eclampsia,D011225,Male
+GSM1480134,GSE60438,pre-eclamptic,Pre-Eclampsia,D011225,Male
+GSM1480135,GSE60438,pre-eclamptic,Pre-Eclampsia,D011225,Male
+GSM1480137,GSE60438,pre-eclamptic,Pre-Eclampsia,D011225,Male
+GSM1480138,GSE60438,pre-eclamptic,Pre-Eclampsia,D011225,Male
+GSM1480140,GSE60438,pre-eclamptic,Pre-Eclampsia,D011225,Male
+GSM1480141,GSE60438,pre-eclamptic,Pre-Eclampsia,D011225,Male
+GSM1480142,GSE60438,pre-eclamptic,Pre-Eclampsia,D011225,Male
+GSM1480144,GSE60438,pre-eclamptic,Pre-Eclampsia,D011225,Male
+GSM1480145,GSE60438,pre-eclamptic,Pre-Eclampsia,D011225,Male
+GSM1480146,GSE60438,pre-eclamptic,Pre-Eclampsia,D011225,Male
+GSM1480147,GSE60438,pre-eclamptic,Pre-Eclampsia,D011225,Male
+GSM1480148,GSE60438,pre-eclamptic,Pre-Eclampsia,D011225,Male
+GSM1480151,GSE60438,pre-eclamptic,Pre-Eclampsia,D011225,Male
+GSM1480154,GSE60438,pre-eclamptic,Pre-Eclampsia,D011225,Male
+GSM1480155,GSE60438,pre-eclamptic,Pre-Eclampsia,D011225,Male
+GSM1480163,GSE60438,pre-eclamptic,Pre-Eclampsia,D011225,Male
+GSM1480166,GSE60438,pre-eclamptic,Pre-Eclampsia,D011225,Male
+GSM2355327,GSE88929,gestational diabetes mellitus,"Diabetes, Gestational",D016640,Male
+GSM2355415,GSE88929,gestational diabetes mellitus,"Diabetes, Gestational",D016640,Male
+GSM2355416,GSE88929,gestational diabetes mellitus,"Diabetes, Gestational",D016640,Male
+GSM2355422,GSE88929,gestational diabetes mellitus,"Diabetes, Gestational",D016640,Male
+GSM1566954,GSE64244,Complete Hydatidiform Mole,Hydatidiform Mole,D006828,Male
+GSM1566955,GSE64244,Complete Hydatidiform Mole,Hydatidiform Mole,D006828,Male
+GSM1566956,GSE64244,Complete Hydatidiform Mole,Hydatidiform Mole,D006828,Male
+GSM1566957,GSE64244,Complete Hydatidiform Mole,Hydatidiform Mole,D006828,Male
+GSM1197663,GSE49343,confined placental mosaicism,Placenta Diseases,D010922,Male
+GSM1197666,GSE49343,confined placental mosaicism,Placenta Diseases,D010922,Male
+GSM1197667,GSE49343,confined placental mosaicism,Placenta Diseases,D010922,Male
+GSM1197668,GSE49343,confined placental mosaicism,Placenta Diseases,D010922,Male
+GSM1197669,GSE49343,confined placental mosaicism,Placenta Diseases,D010922,Male
+GSM1632882,GSE66836,lung adenocarcinoma; Tumor; Stage: 4,"Adenocarcinoma of Lung; Neoplasms; Hydatidiform Mole, Invasive",D000077192; D009369; D002820,Male
+GSM1632900,GSE66836,lung adenocarcinoma; Tumor; Stage: 4,"Adenocarcinoma of Lung; Neoplasms; Hydatidiform Mole, Invasive",D000077192; D009369; D002820,Male
+GSM1632925,GSE66836,lung adenocarcinoma; Tumor; Stage: 4,"Adenocarcinoma of Lung; Neoplasms; Hydatidiform Mole, Invasive",D000077192; D009369; D002820,Male
+GSM1632929,GSE66836,lung adenocarcinoma; Tumor; Stage: 4,"Adenocarcinoma of Lung; Neoplasms; Hydatidiform Mole, Invasive",D000077192; D009369; D002820,Male
+GSM1632933,GSE66836,lung adenocarcinoma; Tumor; Stage: 4,"Adenocarcinoma of Lung; Neoplasms; Hydatidiform Mole, Invasive",D000077192; D009369; D002820,Male
+GSM1632956,GSE66836,lung adenocarcinoma; Tumor; Stage: 4,"Adenocarcinoma of Lung; Neoplasms; Hydatidiform Mole, Invasive",D000077192; D009369; D002820,Male
+GSM1633018,GSE66836,lung adenocarcinoma; Tumor; Stage: 4,"Adenocarcinoma of Lung; Neoplasms; Hydatidiform Mole, Invasive",D000077192; D009369; D002820,Male
+GSM1633031,GSE66836,lung adenocarcinoma; Tumor; Stage: 4,"Adenocarcinoma of Lung; Neoplasms; Hydatidiform Mole, Invasive",D000077192; D009369; D002820,Male
+GSM1944936,GSE75196,preeclampsia,Pre-Eclampsia,D011225,Male
+GSM1944939,GSE75196,preeclampsia,Pre-Eclampsia,D011225,Male
+GSM1944944,GSE75196,preeclampsia,Pre-Eclampsia,D011225,Male
+GSM1944950,GSE75196,preeclampsia,Pre-Eclampsia,D011225,Male
+GSM1818303,GSE70783,Germinoma; Immature teratoma; Choriocarcinoma; Embryonal carcinoma; Tumor,"Germinoma; Teratoma; Choriocarcinoma; Carcinoma, Embryonal; Neoplasms",D018237; D013724; D002822; D018236; D009369,Male
+GSM1818349,GSE70783,Choriocarcinoma; Germinoma; Immature teratoma; Tumor,Choriocarcinoma; Germinoma; Teratoma; Neoplasms,D002822; D018237; D013724; D009369,Male
+GSM868002,GSE30654,Complete Hydatidiform Mole,Hydatidiform Mole,D006828,Male
+GSM868003,GSE30654,Hydatidiform.Complete.Mole,Hydatidiform Mole,D006828,Male
+GSM868004,GSE30654,Hydatidiform.Complete.Mole,Hydatidiform Mole,D006828,Male
+GSM868005,GSE30654,Complete Hydatidiform Mole,Hydatidiform Mole,D006828,Male
+GSM868006,GSE30654,Complete Hydatidiform Mole,Hydatidiform Mole,D006828,Male
+GSM1854966,GSE72094,lung adenocarcinoma; Stage: 4,"Adenocarcinoma of Lung; Hydatidiform Mole, Invasive",D000077192; D002820,Male
+GSM1855189,GSE72094,lung adenocarcinoma; Stage: 4,"Adenocarcinoma of Lung; Hydatidiform Mole, Invasive",D000077192; D002820,Male
+GSM1854860,GSE72094,lung adenocarcinoma; Stage: 4,"Adenocarcinoma of Lung; Hydatidiform Mole, Invasive",D000077192; D002820,Male
+GSM1855187,GSE72094,lung adenocarcinoma; Stage: 4,"Adenocarcinoma of Lung; Hydatidiform Mole, Invasive",D000077192; D002820,Male
+GSM1854899,GSE72094,lung adenocarcinoma; Stage: 4,"Adenocarcinoma of Lung; Hydatidiform Mole, Invasive",D000077192; D002820,Male
+GSM1854954,GSE72094,lung adenocarcinoma; Stage: 4,"Adenocarcinoma of Lung; Hydatidiform Mole, Invasive",D000077192; D002820,Male
+GSM1108401,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108402,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108403,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108408,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108409,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108410,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108413,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108426,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108427,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108428,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108429,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108438,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108440,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108445,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108446,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108450,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108455,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108456,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108462,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108471,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108473,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108474,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108475,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108480,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108502,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108503,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108509,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108511,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108515,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108529,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108531,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108532,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108534,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108538,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108539,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108542,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108544,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108565,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108575,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108584,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108585,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108598,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108605,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108626,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108628,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108637,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108645,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108651,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108657,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108658,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108664,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108671,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108674,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108679,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108681,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108687,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108689,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108707,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108717,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108720,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108722,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108723,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108731,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108736,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108740,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108741,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108746,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108763,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108768,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108772,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108778,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108788,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108794,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108815,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108816,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108845,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108852,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108853,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108870,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108875,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108876,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108879,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108896,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108897,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108898,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108899,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108901,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108902,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108903,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108906,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108911,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108914,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108915,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108918,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108921,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108936,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108937,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108944,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108945,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108947,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108948,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108949,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108952,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108953,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108954,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108955,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108959,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108960,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108961,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108970,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108971,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108977,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1108980,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1109000,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1109004,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1109009,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1109014,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1109030,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1109032,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1109035,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1109047,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM1109048,GSE45480,Neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM5651662,GSE186441,Diffuse large B-cell lymphoma (DLBCL); Stage: 4,"Lymphoma, Large B-Cell, Diffuse; Hydatidiform Mole, Invasive",D016403; D002820,Male
+GSM5651684,GSE186441,Diffuse large B-cell lymphoma (DLBCL); Stage: 4,"Lymphoma, Large B-Cell, Diffuse; Hydatidiform Mole, Invasive",D016403; D002820,Male
+GSM5651732,GSE186441,Diffuse large B-cell lymphoma (DLBCL); Stage: 4,"Lymphoma, Large B-Cell, Diffuse; Hydatidiform Mole, Invasive",D016403; D002820,Male
+GSM5651741,GSE186441,Diffuse large B-cell lymphoma (DLBCL); Stage: 4,"Lymphoma, Large B-Cell, Diffuse; Hydatidiform Mole, Invasive",D016403; D002820,Male
+GSM5651791,GSE186441,Diffuse large B-cell lymphoma (DLBCL); Stage: 4,"Lymphoma, Large B-Cell, Diffuse; Hydatidiform Mole, Invasive",D016403; D002820,Male
+GSM5651821,GSE186441,Diffuse large B-cell lymphoma (DLBCL); Stage: 4,"Lymphoma, Large B-Cell, Diffuse; Hydatidiform Mole, Invasive",D016403; D002820,Male
+GSM5651823,GSE186441,Diffuse large B-cell lymphoma (DLBCL); Stage: 4,"Lymphoma, Large B-Cell, Diffuse; Hydatidiform Mole, Invasive",D016403; D002820,Male
+GSM2598211,GSE98523,choriocarcinoma,Choriocarcinoma,D002822,Male
+GSM2598212,GSE98523,choriocarcinoma,Choriocarcinoma,D002822,Male
+GSM2598213,GSE98523,choriocarcinoma,Choriocarcinoma,D002822,Male
+GSM2598214,GSE98523,choriocarcinoma,Choriocarcinoma,D002822,Male
+GSM2598215,GSE98523,choriocarcinoma,Choriocarcinoma,D002822,Male
+GSM2598216,GSE98523,choriocarcinoma,Choriocarcinoma,D002822,Male
+GSM493258,GSE19750,Adrenocortical Carcinoma; Stage: 4; tumor grade: 4; Cushings,"Adrenocortical Carcinoma; Hydatidiform Mole, Invasive; tumor grade: 4; Cushings",D018268; D002820; ART-C-05139; ART-C-05140,Male
+GSM493259,GSE19750,Adrenocortical Carcinoma; Stage: 4; tumor grade: 4; Cushings,"Adrenocortical Carcinoma; Hydatidiform Mole, Invasive; tumor grade: 4; Cushings",D018268; D002820; ART-C-05139; ART-C-05140,Male
+GSM1094059,GSE19750,Adrenocortical Carcinoma; Stage: 4,"Adrenocortical Carcinoma; Hydatidiform Mole, Invasive",D018268; D002820,Male
+GSM1094078,GSE19750,Adrenocortical Carcinoma; Stage: 4; tumor grade: 4,"Adrenocortical Carcinoma; Hydatidiform Mole, Invasive; tumor grade: 4",D018268; D002820; ART-C-05139,Male
+GSM231916,GSE2109,clear cell renal carcinoma; Stage: 4; Grade: 2,"Carcinoma, Renal Cell; Hydatidiform Mole, Invasive; grade: 2",D002292; D002820; ART-C-00144,Male
+GSM1931020,GSE73731,renal cell carcinoma; Stage: 4; grade: 3,"Carcinoma, Renal Cell; Hydatidiform Mole, Invasive; grade: 3",D002292; D002820; ART-C-00137,Male
+GSM1931123,GSE73731,renal cell carcinoma; Stage: 4; grade: 4,"Carcinoma, Renal Cell; Hydatidiform Mole, Invasive; grade: 4",D002292; D002820; ART-C-00141,Male
+GSM1931135,GSE73731,renal cell carcinoma; Stage: 4; grade: 3,"Carcinoma, Renal Cell; Hydatidiform Mole, Invasive; grade: 3",D002292; D002820; ART-C-00137,Male
+GSM1931141,GSE73731,renal cell carcinoma; Stage: 4; grade: 4,"Carcinoma, Renal Cell; Hydatidiform Mole, Invasive; grade: 4",D002292; D002820; ART-C-00141,Male
+GSM1931160,GSE73731,renal cell carcinoma; Stage: 4; grade: 4,"Carcinoma, Renal Cell; Hydatidiform Mole, Invasive; grade: 4",D002292; D002820; ART-C-00141,Male
+GSM1931166,GSE73731,renal cell carcinoma; Stage: 4; grade: 3,"Carcinoma, Renal Cell; Hydatidiform Mole, Invasive; grade: 3",D002292; D002820; ART-C-00137,Male
+GSM1931168,GSE73731,renal cell carcinoma; Stage: 4; grade: 4,"Carcinoma, Renal Cell; Hydatidiform Mole, Invasive; grade: 4",D002292; D002820; ART-C-00141,Male
+GSM1931196,GSE73731,renal cell carcinoma; Stage: 4; grade: 3,"Carcinoma, Renal Cell; Hydatidiform Mole, Invasive; grade: 3",D002292; D002820; ART-C-00137,Male
+GSM1931197,GSE73731,renal cell carcinoma; Stage: 4; grade: 2,"Carcinoma, Renal Cell; Hydatidiform Mole, Invasive; grade: 2",D002292; D002820; ART-C-00144,Male
+GSM1931199,GSE73731,renal cell carcinoma; Stage: 4; grade: 2,"Carcinoma, Renal Cell; Hydatidiform Mole, Invasive; grade: 2",D002292; D002820; ART-C-00144,Male
+GSM1931217,GSE73731,renal cell carcinoma; Stage: 4; grade: 2,"Carcinoma, Renal Cell; Hydatidiform Mole, Invasive; grade: 2",D002292; D002820; ART-C-00144,Male
+GSM1931218,GSE73731,renal cell carcinoma; Stage: 4; grade: 3,"Carcinoma, Renal Cell; Hydatidiform Mole, Invasive; grade: 3",D002292; D002820; ART-C-00137,Male
+GSM1931219,GSE73731,renal cell carcinoma; Stage: 4; grade: 1,"Carcinoma, Renal Cell; Hydatidiform Mole, Invasive; grade: 1",D002292; D002820; ART-C-00764,Male
+GSM1931233,GSE73731,renal cell carcinoma; Stage: 4; grade: 3,"Carcinoma, Renal Cell; Hydatidiform Mole, Invasive; grade: 3",D002292; D002820; ART-C-00137,Male
+GSM1931238,GSE73731,renal cell carcinoma; Stage: 4; grade: 3,"Carcinoma, Renal Cell; Hydatidiform Mole, Invasive; grade: 3",D002292; D002820; ART-C-00137,Male
+GSM1931239,GSE73731,renal cell carcinoma; Stage: 4; grade: 3,"Carcinoma, Renal Cell; Hydatidiform Mole, Invasive; grade: 3",D002292; D002820; ART-C-00137,Male
+GSM1931240,GSE73731,renal cell carcinoma; Stage: 4; grade: 3,"Carcinoma, Renal Cell; Hydatidiform Mole, Invasive; grade: 3",D002292; D002820; ART-C-00137,Male
+GSM1931243,GSE73731,renal cell carcinoma; Stage: 4; grade: 3,"Carcinoma, Renal Cell; Hydatidiform Mole, Invasive; grade: 3",D002292; D002820; ART-C-00137,Male
+GSM1931247,GSE73731,renal cell carcinoma; Stage: 4; grade: 2,"Carcinoma, Renal Cell; Hydatidiform Mole, Invasive; grade: 2",D002292; D002820; ART-C-00144,Male
+GSM1931249,GSE73731,renal cell carcinoma; Stage: 4; grade: 3,"Carcinoma, Renal Cell; Hydatidiform Mole, Invasive; grade: 3",D002292; D002820; ART-C-00137,Male
+GSM1931250,GSE73731,renal cell carcinoma; Stage: 4; grade: 2,"Carcinoma, Renal Cell; Hydatidiform Mole, Invasive; grade: 2",D002292; D002820; ART-C-00144,Male
+GSM1931251,GSE73731,renal cell carcinoma; Stage: 4; grade: 2,"Carcinoma, Renal Cell; Hydatidiform Mole, Invasive; grade: 2",D002292; D002820; ART-C-00144,Male
+GSM1931254,GSE73731,renal cell carcinoma; Stage: 4; grade: 4,"Carcinoma, Renal Cell; Hydatidiform Mole, Invasive; grade: 4",D002292; D002820; ART-C-00141,Male
+GSM1931256,GSE73731,renal cell carcinoma; Stage: 4; grade: 3,"Carcinoma, Renal Cell; Hydatidiform Mole, Invasive; grade: 3",D002292; D002820; ART-C-00137,Male
+GSM1931257,GSE73731,renal cell carcinoma; Stage: 4; grade: 2,"Carcinoma, Renal Cell; Hydatidiform Mole, Invasive; grade: 2",D002292; D002820; ART-C-00144,Male
+GSM328992,GSE13136,neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM329002,GSE13136,neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM329006,GSE13136,neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM329008,GSE13136,neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM329010,GSE13136,neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM329011,GSE13136,neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM329013,GSE13136,neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM329014,GSE13136,neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM329015,GSE13136,neuroblastoma; Stage: 4,"Neuroblastoma; Hydatidiform Mole, Invasive",D009447; D002820,Male
+GSM271818,GSE10783,Choriocarcinoma,Choriocarcinoma,D002822,Male
+GSM271829,GSE10783,"mixed GCT (Choriocarcinoma, Embryonal Carcinoma)",Choriocarcinoma,D002822,Male
+GSM271836,GSE10783,Choriocarcinoma,Choriocarcinoma,D002822,Male

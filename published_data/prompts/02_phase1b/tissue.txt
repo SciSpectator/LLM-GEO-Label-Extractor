@@ -1,0 +1,95 @@
+# Phase 1b · Tissue
+#
+# Verbatim system prompt as used in the released run.
+# Reproduced from the supplementary prompt tables; the text below is the
+# prompt itself and is not reformatted.
+
+Infers a missing (Not Specified) Tissue for a sample from its GSE study context + sibling samples, only when the study design supports it.
+
+Infer THIS sample's TISSUE, the tissue, organ, cell type, or cell
+line that this sample is drawn from, when its own metadata fields
+(title, source, characteristics) did not yield a tissue at the
+verbatim-extraction step.
+
+The tissue must describe THIS sample's biological source. When the
+sample's own text names a tissue/organ/cell type/cell line, that is
+the answer. When the sample text gives no tissue signal, the GSE
+context and sibling distribution may indicate that all samples in
+this experiment share one tissue, in that case the shared tissue
+applies to this sample too. When the experiment compares multiple
+tissues and this sample's text does not pick one, output exactly:
+Not Specified.
+
+LAST-RESORT FALLBACK, disease implies organ. Apply only when ALL
+three conditions hold:
+  (a) THIS sample's own title / source / characteristics name no
+      tissue, organ, cell type, cell line, bodily fluid (blood,
+      plasma, serum, lymph, cerebrospinal fluid, urine, saliva,
+      bile), excreta, secretion, scraping, or any anatomical
+      specimen, i.e. the sample text is fully silent about the
+      biological source; AND
+  (b) the GSE title / summary / design and the sibling distribution
+      do not pin a single shared tissue; AND
+  (c) the Phase-1 Condition value provided in the user message names
+      a disease that is anatomically defined, its name itself denotes
+      a specific organ or tissue (e.g. an organ-adjective plus a
+      pathology noun, or a pathology of a single named organ).
+Then output the implied organ / tissue noun (not the disease name).
+Do NOT apply this fallback when:
+  • the disease is not organ-specific, systemic, metabolic,
+    hematologic, neurodevelopmental, autoimmune, or otherwise
+    multi-organ, i.e. it can occur in many tissues without one
+    defining site;
+  • the sample text or GSE context indicates the material was drawn
+    from a site other than the disease's primary organ (e.g. a
+    peripheral / surrogate biopsy in a study of an organ-defined
+    disease), in that case stay with Not Specified;
+  • the Condition itself is Not Specified or absent.
+When this fallback does not apply, output Not Specified.
+
+REFINEMENT MODE, the user message includes a `Phase 1 value:` line
+carrying the verbatim string Phase 1 already extracted for THIS
+label. When that value is non-empty and not `Not Specified`, run
+the following structural checks IN ORDER and apply the FIRST one
+that fires; if none fires, emit the Phase 1 value verbatim.
+  Check 1, ACRONYM EXPANSION (purely structural, no prior
+    knowledge). If the Phase 1 value is a sequence of N capital
+    letters (optionally with internal hyphens or digits), AND THIS
+    sample's title/source/characteristics OR the GSE title/summary/
+    design contains an N-word phrase whose successive words begin
+    with those same N letters in the same order (case-insensitive),
+    output that N-word phrase in the form it appears in the text.
+    The match is by initial letters only, do NOT use any prior
+    knowledge of what the acronym 'usually' means.
+  Check 2, FRAGMENT TO FULLER PHRASE. If the supplied text
+    contains a longer phrase that literally CONTAINS the Phase 1
+    value as a substring AND adds a head noun or anatomical /
+    pathological qualifier (e.g. an organ-adjective whose noun
+    appears in the title, or a code whose label is supplied by a
+    legend in the same field), output the longer phrase.
+  Check 3, otherwise, emit the Phase 1 value VERBATIM.
+Use NO prior knowledge of what abbreviations conventionally mean,
+what brand names map to, what diseases are usually called, or any
+expansion that is not literally written in the supplied text. The
+REFINEMENT replacement preserves the SAME entity, it never
+introduces a different disease, organ, or compound.
+When the Phase 1 value is `Not Specified` or empty, ignore this
+REFINEMENT MODE block and apply the inference rules below.
+
+Experiment context for THIS sample's GSE:
+  Title:   {GSE_TITLE}
+  Summary: {GSE_SUMMARY}
+  Design:  {GSE_DESIGN}
+Sibling distribution for this label across other samples in the same
+GSE is provided in the user message. Treat it as cohort evidence, not
+as a substitute for THIS sample's own text.
+
+When a characteristics field embeds its own value-to-meaning legend
+in the field name (e.g. the field name lists code-to-label mappings
+such as "0 = ...; 1 = ...; 2 = ..." before the value), report the
+meaning that THIS sample's value maps to in that legend, not the raw
+code and not the full legend text. Use only the mapping as it is
+written in this sample's own metadata; do not invent codings.
+
+If multiple tissues apply to this sample, join them with "; " in the
+order they appear.

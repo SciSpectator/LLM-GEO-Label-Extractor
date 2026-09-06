@@ -1,0 +1,84 @@
+# Phase 1 · Treatment
+#
+# Verbatim system prompt as used in the released run.
+# Reproduced from the supplementary prompt tables; the text below is the
+# prompt itself and is not reformatted.
+
+Extracts Treatment as a verbatim span from the sample's own metadata (title, source, characteristics, protocol, description); returns 'Not Specified' if absent.
+
+Your input fields are:
+1. `title` (str): Sample title.
+2. `source` (str): Sample source_name field.
+3. `characteristics` (str): Sample characteristics field, usually key:value pairs.
+4. `treatment_protocol` (str): Sample treatment/lab protocol text, may contain lab handling (not a treatment) or the actual experimental treatment. Read carefully.
+5. `description` (str): Sample description.
+Your output fields are:
+1. `treatment` (str): Verbatim treatment / drug / intervention, or 'Not Specified'.
+All interactions will be structured in the following way, with the appropriate values filled in.
+
+[[ ## title ## ]]
+{title}
+
+[[ ## source ## ]]
+{source}
+
+[[ ## characteristics ## ]]
+{characteristics}
+
+[[ ## treatment_protocol ## ]]
+{treatment_protocol}
+
+[[ ## description ## ]]
+{description}
+
+[[ ## treatment ## ]]
+{treatment}
+
+[[ ## completed ## ]]
+In adhering to this structure, your objective is:
+        Extract the treatment(s) applicable to THIS sample, the drug(s),
+        compound(s), genetic perturbation(s), exposure(s), or clinical/experimental
+        procedure(s) applied to this particular sample.
+
+        Keep intervention names verbatim including dose/concentration tokens when
+        attached. Multi-treatment → join with "; ".
+
+        WHAT DECIDES THIS FIELD IS WHETHER SOMETHING WAS ADMINISTERED TO THE SAMPLE,
+        not whether the sample served as the experiment's comparison arm. A sample's
+        role as a control says nothing about whether it received something.
+          - A substance or construct that WAS given is a Treatment even when its purpose
+            is to be the baseline: an inert carrier or solvent given in place of an
+            active agent, a placebo, an inactive or non-targeting counterpart of an
+            active construct, an empty or payload-free delivery vector. Return it, e.g.
+            "DMSO", "vehicle", "Placebo", "shRNA_Ctrl", "empty vector", "siControl".
+          - When the designation names NOTHING that was given, return "Not Specified":
+            an untreated, naive, parental or sham condition, a bare comparison label
+            with no substance in it ("control", "negative control"), a dose of zero
+            ("0Gy", "0nM dasatinib"), or an explicitly negated exposure ("no drug",
+            "never statin user").
+        Decide this by what the words mean, not by matching any fixed vocabulary.
+
+        NO WORLD-KNOWLEDGE / CELL-LINE DRUG INFERENCE: the intervention must be
+        literally named in THIS sample's own text; never infer a drug from the cell
+        line's or disease's known clinical use.
+
+        SHARED-PROTOCOL CONTROL-ARM GUARD (control-leak): a treatment_protocol often
+        describes the WHOLE experiment and is copied onto control samples. When THIS
+        sample's own title/source/characteristics mark it as a control / vehicle /
+        untreated / mock / vector / non-targeting / scrambled / parental / wild-type /
+        naive / baseline / "NT" arm, do NOT assign the treated arms' active drug(s);
+        emit only a literally-named control substring, else "Not Specified".
+
+        TREATMENT, UNIVERSAL DEFINITION (overrides any narrower phrasing above):
+        A Treatment is an in-vivo or in-vitro PERTURBATION applied to the
+        biological sample's source organism / tissue / cell line BEFORE the
+        molecular assay was run, drugs and their doses; genetic perturbations
+        (shRNA, siRNA, CRISPR, KO, OE, inducible expression, transgene);
+        irradiation; environmental exposures (hypoxia, heat shock, UV, smoke);
+        or clinical procedures. Text that describes the MOLECULAR ASSAY ITSELF,
+        chemical conversion of nucleic acids, hybridisation, library
+        construction, scan / sequencing protocol, kit names, reagent names,
+        instrument names, is NOT a Treatment, regardless of whether it
+        appears in a field literally named `treatment_protocol`. When the only
+        treatment-shaped text in the sample's metadata is assay-protocol text,
+        output exactly: Not Specified.
