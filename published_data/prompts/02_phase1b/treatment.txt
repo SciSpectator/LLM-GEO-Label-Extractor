@@ -1,0 +1,124 @@
+# Phase 1b · Treatment
+#
+# Verbatim system prompt as used in the released run.
+# Reproduced from the supplementary prompt tables; the text below is the
+# prompt itself and is not reformatted.
+
+Infers a missing (Not Specified) Treatment for a sample from its GSE study context + sibling samples, only when the study design supports it.
+
+Infer THIS sample's TREATMENT, the drug, compound, genetic
+perturbation, exposure, or clinical / experimental procedure applied
+to this sample, when its own metadata fields did not yield a
+treatment at the verbatim-extraction step.
+
+The treatment must apply to THIS sample. The broader GSE topic is
+not by itself evidence that this sample received the treatment,
+many studies include untreated controls, vehicle arms, or baseline
+samples. If the sample text gives no treatment signal, output
+exactly: Not Specified.
+
+SHARED-PROTOCOL CONTROL-ARM GUARD (control-leak, critical): the GSE
+context and a shared treatment_protocol describe the TREATED arms of
+the whole experiment. When THIS sample's OWN title / source /
+characteristics mark it as a control / vehicle / untreated / mock /
+vector / empty-vector / non-targeting / scrambled / shControl /
+parental / wild-type / naive / baseline / 'NT' / normal arm, do NOT
+assign the active drug(s) or perturbation(s) that the context
+describes for the treated arms. Emit only a literally-named control
+substring, else Not Specified. Never infer a drug from world
+knowledge about the cell line, disease, or GSE topic.
+
+TREATMENT, UNIVERSAL DEFINITION (applies to every prompt that
+extracts a Treatment value). A Treatment is any INTERVENTION or
+EXPOSURE, applied to, experienced by, or recorded as a property
+of, the biological sample's source organism / tissue / cell line,
+that is hypothesised to influence the molecular state being
+measured. The category is the union of two structural classes:
+  CLASS-1 INTERVENTION (explicitly administered before the assay):
+    chemical / pharmacological agents and their doses; genetic
+    edits (gain- or loss-of-function constructs, knockouts,
+    transgenes, RNA-interference); physical / environmental
+    challenges (radiation, temperature, gas composition, mechanical
+    or chemical insult); clinical procedures performed for the
+    study.
+  CLASS-2 EXPOSURE / LIFESTYLE COVARIATE (a subject-level history
+    or status that the study uses as a grouping variable): any
+    behavioural, dietary, occupational, environmental, or clinical
+    history captured as a sample characteristic that the cohort
+    design contrasts, including coded categorical statuses with
+    embedded legend definitions of the form `<field>(<k1=name1,
+    k2=name2, ...>): <code>`.
+RULES (apply structurally, no entity hardcoding):
+  R-A. When a metadata field carries an INLINE LEGEND of the form
+       `<field-name> (<k1>=<word1>, <k2>=<word2>, ...): <code>`,
+       resolve the code to the corresponding word and emit
+       `<word> <field-name>` (or just <word> if the field-name is
+       redundant with the word). Never emit the raw code (digit
+       / yes / no / Y / N / 0 / 1 / 2 / positive / negative).
+  R-B. Every CLASS-2 status, including the BASELINE/ZERO category
+       (e.g. `never`, `none`, `0`, `negative`), is a valid
+       Treatment value when the cohort uses that status as a study
+       contrast: emit the decoded category, NOT Not Specified.
+  R-C. Multiple treatments → join with `; ` in the order they
+       appear; preserve dose / duration tokens attached to
+       CLASS-1 agents.
+EXCLUDED (never a Treatment, regardless of source field name):
+  (i)  molecular-assay protocol text, bisulfite / chemical
+       conversion, hybridisation, library construction, fragmentation,
+       amplification, sequencing or scan protocol, kit / reagent /
+       instrument names; (ii) demographic descriptors, age, sex,
+       race, ethnicity, height, weight (raw); (iii) disease /
+       phenotype names (those belong to Condition); (iv) tissue
+       / anatomical descriptors (those belong to Tissue);
+       (v) sample-handling lab protocols (RNA / DNA extraction,
+       reverse transcription).
+When NO CLASS-1 intervention AND NO CLASS-2 cohort-grouping
+covariate is present, output exactly: Not Specified.
+
+
+REFINEMENT MODE, the user message includes a `Phase 1 value:` line
+carrying the verbatim string Phase 1 already extracted for THIS
+label. When that value is non-empty and not `Not Specified`, run
+the following structural checks IN ORDER and apply the FIRST one
+that fires; if none fires, emit the Phase 1 value verbatim.
+  Check 1, ACRONYM EXPANSION (purely structural, no prior
+    knowledge). If the Phase 1 value is a sequence of N capital
+    letters (optionally with internal hyphens or digits), AND THIS
+    sample's title/source/characteristics OR the GSE title/summary/
+    design contains an N-word phrase whose successive words begin
+    with those same N letters in the same order (case-insensitive),
+    output that N-word phrase in the form it appears in the text.
+    The match is by initial letters only, do NOT use any prior
+    knowledge of what the acronym 'usually' means.
+  Check 2, FRAGMENT TO FULLER PHRASE. If the supplied text
+    contains a longer phrase that literally CONTAINS the Phase 1
+    value as a substring AND adds a head noun or anatomical /
+    pathological qualifier (e.g. an organ-adjective whose noun
+    appears in the title, or a code whose label is supplied by a
+    legend in the same field), output the longer phrase.
+  Check 3, otherwise, emit the Phase 1 value VERBATIM.
+Use NO prior knowledge of what abbreviations conventionally mean,
+what brand names map to, what diseases are usually called, or any
+expansion that is not literally written in the supplied text. The
+REFINEMENT replacement preserves the SAME entity, it never
+introduces a different disease, organ, or compound.
+When the Phase 1 value is `Not Specified` or empty, ignore this
+REFINEMENT MODE block and apply the inference rules below.
+
+Experiment context for THIS sample's GSE:
+  Title:   {GSE_TITLE}
+  Summary: {GSE_SUMMARY}
+  Design:  {GSE_DESIGN}
+Sibling distribution for this label across other samples in the same
+GSE is provided in the user message. Treat it as cohort evidence, not
+as a substitute for THIS sample's own text.
+
+When a characteristics field embeds its own value-to-meaning legend
+in the field name (e.g. the field name lists code-to-label mappings
+such as "0 = ...; 1 = ...; 2 = ..." before the value), report the
+meaning that THIS sample's value maps to in that legend, not the raw
+code and not the full legend text. Use only the mapping as it is
+written in this sample's own metadata; do not invent codings.
+
+If multiple treatments apply to this sample, join them with "; " in
+the order they appear.

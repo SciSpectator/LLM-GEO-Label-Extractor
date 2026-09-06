@@ -1,0 +1,1415 @@
+gsm,gse,released_final_Age,parsed_number,source_evidence,characteristics_excerpt
+GSM1185688,GSE48855,4month,4,4month,cell type: immortalized pleural mesothelial cells
+GSM1185689,GSE48855,4month,4,4month,cell type: immortalized pleural mesothelial cells
+GSM1185690,GSE48855,4month,4,4month,cell type: immortalized pleural mesothelial cells
+GSM1185691,GSE48855,4month,4,4month,cell type: immortalized pleural mesothelial cells
+GSM1185692,GSE48855,4month,4,4month,cell type: immortalized pleural mesothelial cells
+GSM1185693,GSE48855,4month,4,4month,cell type: immortalized pleural mesothelial cells
+GSM1185694,GSE48855,4month,4,4month,cell type: immortalized pleural mesothelial cells
+GSM1185695,GSE48855,4month,4,4month,cell type: immortalized pleural mesothelial cells
+GSM1185696,GSE48855,4month,4,4month,cell type: immortalized pleural mesothelial cells
+GSM1153554,GSE45468,2week,2,2week,treatment: Placebo;	group: nonresponder;	time: 2week;	subject: person2;	Sex: Male;	bmi: 47.33;	medication status: 0;	tissue: whole blood
+GSM1153558,GSE45468,2week,2,2week,treatment: Placebo;	group: responder;	time: 2week;	subject: person3;	Sex: Female;	bmi: 25.06;	medication status: 1;	tissue: whole blood
+GSM1153562,GSE45468,2week,2,2week,treatment: Placebo;	group: responder;	time: 2week;	subject: person4;	Sex: Male;	bmi: 25.07;	medication status: 1;	tissue: whole blood
+GSM1153566,GSE45468,2week,2,2week,treatment: Placebo;	group: responder;	time: 2week;	subject: person6;	Sex: Female;	bmi: 47;	medication status: 1;	tissue: whole blood
+GSM1153574,GSE45468,2week,2,2week,treatment: Infliximab;	group: responder;	time: 2week;	subject: person8;	Sex: Female;	bmi: 28.48;	medication status: 1;	tissue: whole blood
+GSM1153578,GSE45468,2week,2,2week,treatment: Placebo;	group: nonresponder;	time: 2week;	subject: person9;	Sex: Female;	bmi: 26.45;	medication status: 1;	tissue: whole blood
+GSM1153586,GSE45468,2week,2,2week,treatment: Placebo;	group: nonresponder;	time: 2week;	subject: person10;	Sex: Female;	bmi: 26.05;	medication status: 0;	tissue: whole blood
+GSM1153590,GSE45468,2week,2,2week,treatment: Infliximab;	group: responder;	time: 2week;	subject: person11;	Sex: Male;	bmi: 21.93;	medication status: 1;	tissue: whole blood
+GSM1153594,GSE45468,2week,2,2week,treatment: Placebo;	group: responder;	time: 2week;	subject: person12;	Sex: Male;	bmi: 30.01;	medication status: 1;	tissue: whole blood
+GSM1153598,GSE45468,2week,2,2week,treatment: Infliximab;	group: responder;	time: 2week;	subject: person13;	Sex: Female;	bmi: 31.21;	medication status: 0;	tissue: whole blood
+GSM1153606,GSE45468,2week,2,2week,treatment: Placebo;	group: nonresponder;	time: 2week;	subject: person15;	Sex: Male;	bmi: 31.85;	medication status: 1;	tissue: whole blood
+GSM1153610,GSE45468,2week,2,2week,treatment: Placebo;	group: nonresponder;	time: 2week;	subject: person16;	Sex: Female;	bmi: 32.97;	medication status: 0;	tissue: whole blood
+GSM1153627,GSE45468,2week,2,2week,treatment: Placebo;	group: nonresponder;	time: 2week;	subject: person21;	Sex: Male;	bmi: 31.76;	medication status: 1;	tissue: whole blood
+GSM1153631,GSE45468,2week,2,2week,treatment: Placebo;	group: nonresponder;	time: 2week;	subject: person22;	Sex: Female;	bmi: 42.01;	medication status: 0;	tissue: whole blood
+GSM1153635,GSE45468,2week,2,2week,treatment: Placebo;	group: responder;	time: 2week;	subject: person23;	Sex: Female;	bmi: 37.28;	medication status: 1;	tissue: whole blood
+GSM1153639,GSE45468,2week,2,2week,treatment: Placebo;	group: nonresponder;	time: 2week;	subject: person24;	Sex: Female;	bmi: 26.21;	medication status: 1;	tissue: whole blood
+GSM1153643,GSE45468,2week,2,2week,treatment: Placebo;	group: nonresponder;	time: 2week;	subject: person25;	Sex: Female;	bmi: 27.33;	medication status: 1;	tissue: whole blood
+GSM1153651,GSE45468,2week,2,2week,treatment: Placebo;	group: nonresponder;	time: 2week;	subject: person27;	Sex: Male;	bmi: 18.88;	medication status: 0;	tissue: whole blood
+GSM1153655,GSE45468,2week,2,2week,treatment: Placebo;	group: nonresponder;	time: 2week;	subject: person28;	Sex: Female;	bmi: 44.52;	medication status: 1;	tissue: whole blood
+GSM1153661,GSE45468,2week,2,2week,treatment: Placebo;	group: nonresponder;	time: 2week;	subject: person31;	Sex: Female;	bmi: 42.77;	medication status: 1;	tissue: whole blood
+GSM1153665,GSE45468,2week,2,2week,treatment: Infliximab;	group: responder;	time: 2week;	subject: person32;	Sex: Female;	bmi: 23.14;	medication status: 1;	tissue: whole blood
+GSM1153669,GSE45468,2week,2,2week,treatment: Infliximab;	group: responder;	time: 2week;	subject: person33;	Sex: Female;	bmi: 30.13;	medication status: 1;	tissue: whole blood
+GSM1153693,GSE45468,2week,2,2week,treatment: Placebo;	group: responder;	time: 2week;	subject: person39;	Sex: Male;	bmi: 37.49;	medication status: 1;	tissue: whole blood
+GSM1153701,GSE45468,2week,2,2week,treatment: Infliximab;	group: responder;	time: 2week;	subject: person41;	Sex: Male;	bmi: 36.15;	medication status: 1;	tissue: whole blood
+GSM1153705,GSE45468,2week,2,2week,treatment: Placebo;	group: responder;	time: 2week;	subject: person42;	Sex: Female;	bmi: 32;	medication status: 1;	tissue: whole blood
+GSM1153709,GSE45468,2week,2,2week,treatment: Placebo;	group: nonresponder;	time: 2week;	subject: person43;	Sex: Female;	bmi: 28.9;	medication status: 1;	tissue: whole blood
+GSM1153713,GSE45468,2week,2,2week,treatment: Placebo;	group: responder;	time: 2week;	subject: person44;	Sex: Female;	bmi: 28.73;	medication status: 1;	tissue: whole blood
+GSM1153717,GSE45468,2week,2,2week,treatment: Placebo;	group: responder;	time: 2week;	subject: person45;	Sex: Female;	bmi: 45.71;	medication status: 1;	tissue: whole blood
+GSM1153721,GSE45468,2week,2,2week,treatment: Placebo;	group: responder;	time: 2week;	subject: person46;	Sex: Male;	bmi: 26.86;	medication status: 0;	tissue: whole blood
+GSM1153729,GSE45468,2week,2,2week,treatment: Infliximab;	group: responder;	time: 2week;	subject: person49;	Sex: Female;	bmi: 28.83;	medication status: 0;	tissue: whole blood
+GSM1153733,GSE45468,2week,2,2week,treatment: Placebo;	group: responder;	time: 2week;	subject: person50;	Sex: Female;	bmi: 46.22;	medication status: 0;	tissue: whole blood
+GSM1153737,GSE45468,2week,2,2week,treatment: Placebo;	group: responder;	time: 2week;	subject: person51;	Sex: Female;	bmi: 23.53;	medication status: 1;	tissue: whole blood
+GSM1153750,GSE45468,2week,2,2week,treatment: Placebo;	group: responder;	time: 2week;	subject: person55;	Sex: Male;	bmi: 36.1;	medication status: 1;	tissue: whole blood
+GSM1153754,GSE45468,2week,2,2week,treatment: Placebo;	group: responder;	time: 2week;	subject: person56;	Sex: Female;	bmi: 28.5;	medication status: 0;	tissue: whole blood
+GSM1153758,GSE45468,2week,2,2week,treatment: Infliximab;	group: responder;	time: 2week;	subject: person57;	Sex: Female;	bmi: 33.78;	medication status: 0;	tissue: whole blood
+GSM1153762,GSE45468,2week,2,2week,treatment: Placebo;	group: responder;	time: 2week;	subject: person58;	Sex: Female;	bmi: 26.29;	medication status: 0;	tissue: whole blood
+GSM1202108,GSE49577,day7,7,day7,disease state: Ovarian cancer;	xenograft from ovarian cancer model: OV1002;	agent: Control;	time: day7
+GSM1202109,GSE49577,day7,7,day7,disease state: Ovarian cancer;	xenograft from ovarian cancer model: OV1002;	agent: CarboTax;	time: day7
+GSM1202110,GSE49577,day1,1,day1,disease state: Ovarian cancer;	xenograft from ovarian cancer model: OV1002;	agent: Carbo;	time: day1
+GSM1202111,GSE49577,day7,7,day7,disease state: Ovarian cancer;	xenograft from ovarian cancer model: OV1002;	agent: Control;	time: day7
+GSM1202112,GSE49577,day7,7,day7,disease state: Ovarian cancer;	xenograft from ovarian cancer model: OV1002;	agent: CarboTax;	time: day7
+GSM1202113,GSE49577,day7,7,day7,disease state: Ovarian cancer;	xenograft from ovarian cancer model: OV1002;	agent: CarboTax;	time: day7
+GSM1202115,GSE49577,day7,7,day7,disease state: Ovarian cancer;	xenograft from ovarian cancer model: OV1002;	agent: Control;	time: day7
+GSM1202116,GSE49577,day1,1,day1,disease state: Ovarian cancer;	xenograft from ovarian cancer model: OV1002;	agent: Carbo;	time: day1
+GSM1202117,GSE49577,day1,1,day1,disease state: Ovarian cancer;	xenograft from ovarian cancer model: OV1002;	agent: Carbo;	time: day1
+GSM1202118,GSE49577,day7,7,day7,disease state: Ovarian cancer;	xenograft from ovarian cancer model: OV1002;	agent: CarboTax;	time: day7
+GSM1202119,GSE49577,day4,4,day4,disease state: Ovarian cancer;	xenograft from ovarian cancer model: OV1002;	agent: Carbo;	time: day4
+GSM1202121,GSE49577,day1,1,day1,disease state: Ovarian cancer;	xenograft from ovarian cancer model: OV1002;	agent: Control;	time: day1
+GSM1202122,GSE49577,day4,4,day4,disease state: Ovarian cancer;	xenograft from ovarian cancer model: OV1002;	agent: Carbo;	time: day4
+GSM1202124,GSE49577,day1,1,day1,disease state: Ovarian cancer;	xenograft from ovarian cancer model: OV1002;	agent: Control;	time: day1
+GSM1202127,GSE49577,day4,4,day4,disease state: Ovarian cancer;	xenograft from ovarian cancer model: OV1002;	agent: Carbo;	time: day4
+GSM1202128,GSE49577,day1,1,day1,disease state: Ovarian cancer;	xenograft from ovarian cancer model: OV1002;	agent: Control;	time: day1
+GSM1202131,GSE49577,day7,7,day7,disease state: Ovarian cancer;	xenograft from ovarian cancer model: OV1002;	agent: Carbo;	time: day7
+GSM1202139,GSE49577,day1,1,day1,disease state: Ovarian cancer;	xenograft from ovarian cancer model: OV1002;	agent: CarboTax;	time: day1
+GSM1202140,GSE49577,day7,7,day7,disease state: Ovarian cancer;	xenograft from ovarian cancer model: OV1002;	agent: Carbo;	time: day7
+GSM1202145,GSE49577,day2,2,day2,disease state: Ovarian cancer;	xenograft from ovarian cancer model: OV1002;	agent: Carbo;	time: day2
+GSM1202153,GSE49577,day2,2,day2,disease state: Ovarian cancer;	xenograft from ovarian cancer model: HOX424;	agent: Carbo;	time: day2
+GSM1202154,GSE49577,day4,4,day4,disease state: Ovarian cancer;	xenograft from ovarian cancer model: HOX424;	agent: CarboTax;	time: day4
+GSM1202155,GSE49577,day4,4,day4,disease state: Ovarian cancer;	xenograft from ovarian cancer model: HOX424;	agent: CarboTax;	time: day4
+GSM1202156,GSE49577,day4,4,day4,disease state: Ovarian cancer;	xenograft from ovarian cancer model: HOX424;	agent: CarboTax;	time: day4
+GSM1202157,GSE49577,day2,2,day2,disease state: Ovarian cancer;	xenograft from ovarian cancer model: HOX424;	agent: Carbo;	time: day2
+GSM1202158,GSE49577,day4,4,day4,disease state: Ovarian cancer;	xenograft from ovarian cancer model: HOX424;	agent: CarboTax;	time: day4
+GSM1202162,GSE49577,day2,2,day2,disease state: Ovarian cancer;	xenograft from ovarian cancer model: HOX424;	agent: Carbo;	time: day2
+GSM1202163,GSE49577,day2,2,day2,disease state: Ovarian cancer;	xenograft from ovarian cancer model: HOX424;	agent: Carbo;	time: day2
+GSM1202165,GSE49577,day7,7,day7,disease state: Ovarian cancer;	xenograft from ovarian cancer model: HOX424;	agent: Control;	time: day7
+GSM1202166,GSE49577,day7,7,day7,disease state: Ovarian cancer;	xenograft from ovarian cancer model: HOX424;	agent: Control;	time: day7
+GSM1202168,GSE49577,day1,1,day1,disease state: Ovarian cancer;	xenograft from ovarian cancer model: HOX424;	agent: Carbo;	time: day1
+GSM1202170,GSE49577,day1,1,day1,disease state: Ovarian cancer;	xenograft from ovarian cancer model: HOX424;	agent: Carbo;	time: day1
+GSM1202172,GSE49577,day7,7,day7,disease state: Ovarian cancer;	xenograft from ovarian cancer model: HOX424;	agent: Control;	time: day7
+GSM1202173,GSE49577,day1,1,day1,disease state: Ovarian cancer;	xenograft from ovarian cancer model: HOX424;	agent: Carbo;	time: day1
+GSM1202177,GSE49577,day7,7,day7,disease state: Ovarian cancer;	xenograft from ovarian cancer model: HOX424;	agent: Carbo;	time: day7
+GSM1202180,GSE49577,day1,1,day1,disease state: Ovarian cancer;	xenograft from ovarian cancer model: HOX424;	agent: Control;	time: day1
+GSM1202182,GSE49577,day1,1,day1,disease state: Ovarian cancer;	xenograft from ovarian cancer model: HOX424;	agent: Control;	time: day1
+GSM1202183,GSE49577,day7,7,day7,disease state: Ovarian cancer;	xenograft from ovarian cancer model: HOX424;	agent: Carbo;	time: day7
+GSM1202185,GSE49577,day1,1,day1,disease state: Ovarian cancer;	xenograft from ovarian cancer model: HOX424;	agent: Control;	time: day1
+GSM1202188,GSE49577,day4,4,day4,disease state: Ovarian cancer;	xenograft from ovarian cancer model: HOX424;	agent: Carbo;	time: day4
+GSM1202189,GSE49577,day4,4,day4,disease state: Ovarian cancer;	xenograft from ovarian cancer model: HOX424;	agent: Carbo;	time: day4
+GSM1202190,GSE49577,day7,7,day7,disease state: Ovarian cancer;	xenograft from ovarian cancer model: HOX424;	agent: CarboTax;	time: day7
+GSM1202192,GSE49577,day7,7,day7,disease state: Ovarian cancer;	xenograft from ovarian cancer model: HOX424;	agent: CarboTax;	time: day7
+GSM1202193,GSE49577,day7,7,day7,disease state: Ovarian cancer;	xenograft from ovarian cancer model: HOX424;	agent: CarboTax;	time: day7
+GSM1202195,GSE49577,day7,7,day7,disease state: Ovarian cancer;	xenograft from ovarian cancer model: HOX424;	agent: CarboTax;	time: day7
+GSM1202197,GSE49577,day4,4,day4,disease state: Ovarian cancer;	xenograft from ovarian cancer model: HOX424;	agent: Carbo;	time: day4
+GSM931116,GSE37967,Day2 post transfection,2,Day2,cell type: N/TERT keratinocytes;	transfection: transfected with 20nM of Exiqon negative control;	time: Day2 post transfection
+GSM931117,GSE37967,Day2 post transfection,2,Day2,cell type: N/TERT keratinocytes;	transfection: transfected with 20nM of Exiqon negative control;	time: Day2 post transfection
+GSM931118,GSE37967,Day2 post transfection,2,Day2,cell type: N/TERT keratinocytes;	transfection: transfected with 20nM of Exiqon negative control;	time: Day2 post transfection
+GSM931119,GSE37967,Day2 post transfection,2,Day2,cell type: N/TERT keratinocytes;	transfection: transfected with 20nM of miR-198;	time: Day2 post transfection
+GSM931120,GSE37967,Day2 post transfection,2,Day2,cell type: N/TERT keratinocytes;	transfection: transfected with 20nM of miR-198;	time: Day2 post transfection
+GSM931121,GSE37967,Day2 post transfection,2,Day2,cell type: N/TERT keratinocytes;	transfection: transfected with 20nM of miR-198;	time: Day2 post transfection
+GSM1667426,GSE68310,Day2,2,Day2,subject id: JR0158;	time point: Day2;	gender: male;	infection: influenza A virus;	baseline anti-a/h1n1 ab titers: 1.5;	spring anti-a/h1n1 ab titers: 7
+GSM1667460,GSE68310,Day2,2,Day2,subject id: JR0251;	time point: Day2;	gender: female;	infection: influenza A virus;	baseline anti-a/h1n1 ab titers: 1.5;	spring anti-a/h1n1 ab titers: 5
+GSM1667467,GSE68310,Day2,2,Day2,subject id: JR0271;	time point: Day2;	gender: female;	infection: influenza A virus;	baseline anti-a/h1n1 ab titers: 1.5;	spring anti-a/h1n1 ab titers: 4
+GSM1667562,GSE68310,Day2,2,Day2,subject id: JR1182;	time point: Day2;	gender: male;	infection: influenza A virus;	baseline anti-a/h1n1 ab titers: 4.5;	spring anti-a/h1n1 ab titers: 8.5
+GSM1667569,GSE68310,Day2,2,Day2,subject id: JR1189;	time point: Day2;	gender: female;	infection: influenza A virus;	baseline anti-a/h1n1 ab titers: 2.5;	spring anti-a/h1n1 ab titers: 7.5
+GSM1667576,GSE68310,Day2,2,Day2,subject id: JR1200;	time point: Day2;	gender: female;	infection: influenza A virus;	baseline anti-a/h1n1 ab titers: 3.5;	spring anti-a/h1n1 ab titers: 6.5
+GSM1667581,GSE68310,Day2,2,Day2,subject id: JR1273;	time point: Day2;	gender: female;	infection: influenza A virus;	baseline anti-a/h1n1 ab titers: 1.5;	spring anti-a/h1n1 ab titers: 6.5
+GSM1667587,GSE68310,Day2,2,Day2,subject id: JR1407;	time point: Day2;	gender: male;	infection: influenza A virus;	baseline anti-a/h1n1 ab titers: 2.5;	spring anti-a/h1n1 ab titers: 7.5
+GSM1667607,GSE68310,Day2,2,Day2,subject id: JR1527;	time point: Day2;	gender: male;	infection: influenza A virus;	baseline anti-a/h1n1 ab titers: 1.5;	spring anti-a/h1n1 ab titers: 6.5
+GSM1667618,GSE68310,Day2,2,Day2,subject id: JR1727;	time point: Day2;	gender: female;	infection: influenza A virus;	baseline anti-a/h1n1 ab titers: 6;	spring anti-a/h1n1 ab titers: 7.5
+GSM1667731,GSE68310,Day2,2,Day2,subject id: JR1152;	time point: Day2;	gender: female;	infection: influenza A virus and human rhinovirus;	baseline anti-a/h1n1 ab titers: 2;	spring anti-a/h1n1 ab titers: 7.5
+GSM1667738,GSE68310,Day2,2,Day2,subject id: JR1178;	time point: Day2;	gender: female;	infection: influenza A virus and human rhinovirus;	baseline anti-a/h1n1 ab titers: 1.5;	spring anti-a/h1n1 ab titers: 6.5
+GSM1667765,GSE68310,Day2,2,Day2,subject id: JR1730;	time point: Day2;	gender: female;	infection: influenza A virus and human rhinovirus;	baseline anti-a/h1n1 ab titers: 7;	spring anti-a/h1n1 ab titers: 7.5
+GSM1667771,GSE68310,Day2,2,Day2,subject id: JR1774;	time point: Day2;	gender: male;	infection: influenza A virus and human rhinovirus;	baseline anti-a/h1n1 ab titers: 1.5;	spring anti-a/h1n1 ab titers: 3.5
+GSM1667785,GSE68310,Day2,2,Day2,subject id: JR1893;	time point: Day2;	gender: female;	infection: influenza A virus and human rhinovirus;	baseline anti-a/h1n1 ab titers: 2;	spring anti-a/h1n1 ab titers: 1.5
+GSM1667805,GSE68310,Day2,2,Day2,subject id: JR1337;	time point: Day2;	gender: female;	infection: influenza A virus and respiratory syncytial virus B;	baseline anti-a/h1n1 ab titers: 2.5;	spring anti-a/h1n1 ab titers: 7.5
+GSM1667812,GSE68310,Day2,2,Day2,subject id: JR1412;	time point: Day2;	gender: male;	infection: influenza B virus;	baseline anti-a/h1n1 ab titers: 1.5;	spring anti-a/h1n1 ab titers: 1.5
+GSM1667819,GSE68310,Day2,2,Day2,subject id: JR1491;	time point: Day2;	gender: male;	infection: influenza B virus;	baseline anti-a/h1n1 ab titers: 6.5;	spring anti-a/h1n1 ab titers: 4.5
+GSM1667846,GSE68310,Day2,2,Day2,subject id: JR1120;	time point: Day2;	gender: male;	infection: influenza B virus and human rhinovirus;	baseline anti-a/h1n1 ab titers: 5;	spring anti-a/h1n1 ab titers: 5
+GSM1667853,GSE68310,Day2,2,Day2,subject id: JR1275;	time point: Day2;	gender: male;	infection: influenza B virus and human rhinovirus;	baseline anti-a/h1n1 ab titers: 3.5;	spring anti-a/h1n1 ab titers: 3.5
+GSM1667958,GSE68310,Day2,2,Day2,subject id: JR0374;	time point: Day2;	gender: female;	infection: human rhinovirus;	baseline anti-a/h1n1 ab titers: 1.5;	spring anti-a/h1n1 ab titers: 1.5
+GSM1668016,GSE68310,Day2,2,Day2,subject id: JR1192;	time point: Day2;	gender: male;	infection: human rhinovirus;	baseline anti-a/h1n1 ab titers: 2.5;	spring anti-a/h1n1 ab titers: 2.5
+GSM1668023,GSE68310,Day2,2,Day2,subject id: JR1242;	time point: Day2;	gender: male;	infection: human rhinovirus;	baseline anti-a/h1n1 ab titers: 5;	spring anti-a/h1n1 ab titers: 4
+GSM1668030,GSE68310,Day2,2,Day2,subject id: JR1292;	time point: Day2;	gender: male;	infection: human rhinovirus;	baseline anti-a/h1n1 ab titers: 4.5;	spring anti-a/h1n1 ab titers: 5.5
+GSM1668135,GSE68310,Day2,2,Day2,subject id: JR0106;	time point: Day2;	gender: female;	infection: our tests did not detect one of the viruses sought;	baseline anti-a/h1n1 ab titers: 1.5;	spring anti-a/h1n1 ab titers: 2.5
+GSM1668142,GSE68310,Day2,2,Day2,subject id: JR0151;	time point: Day2;	gender: female;	infection: our tests did not detect one of the viruses sought;	baseline anti-a/h1n1 ab titers: 2.5;	spring anti-a/h1n1 ab titers: 2
+GSM1668149,GSE68310,Day2,2,Day2,subject id: JR0178;	time point: Day2;	gender: male;	infection: our tests did not detect one of the viruses sought;	baseline anti-a/h1n1 ab titers: 2.5;	spring anti-a/h1n1 ab titers: 2.5
+GSM1668155,GSE68310,Day2,2,Day2,subject id: JR0224;	time point: Day2;	gender: female;	infection: our tests did not detect one of the viruses sought;	baseline anti-a/h1n1 ab titers: 1.5;	spring anti-a/h1n1 ab titers: 1.5
+GSM1668176,GSE68310,Day2,2,Day2,subject id: JR0324;	time point: Day2;	gender: female;	infection: our tests did not detect one of the viruses sought;	baseline anti-a/h1n1 ab titers: 3.5;	spring anti-a/h1n1 ab titers: 3.5
+GSM1668222,GSE68310,Day2,2,Day2,subject id: JR1183;	time point: Day2;	gender: male;	infection: our tests did not detect one of the viruses sought;	baseline anti-a/h1n1 ab titers: 7;	spring anti-a/h1n1 ab titers: 6.5
+GSM1668233,GSE68310,Day2,2,Day2,subject id: JR1268;	time point: Day2;	gender: female;	infection: our tests did not detect one of the viruses sought;	baseline anti-a/h1n1 ab titers: 2.5;	spring anti-a/h1n1 ab titers: 2.5
+GSM1668239,GSE68310,Day2,2,Day2,subject id: JR1424;	time point: Day2;	gender: male;	infection: our tests did not detect one of the viruses sought;	baseline anti-a/h1n1 ab titers: 1.5;	spring anti-a/h1n1 ab titers: 6.5
+GSM1668251,GSE68310,Day2,2,Day2,subject id: JR1800;	time point: Day2;	gender: female;	infection: our tests did not detect one of the viruses sought;	baseline anti-a/h1n1 ab titers: 4.5;	spring anti-a/h1n1 ab titers: 3.5
+GSM1165513,GSE48023,Day1,1,Day1,gender: female;	tissue: whole blood;	subject: IN0242;	time: Day1;	treatment: trivalent influenza vaccination
+GSM1165586,GSE48023,Day1,1,Day1,gender: female;	tissue: whole blood;	subject: IN0263;	time: Day1;	treatment: trivalent influenza vaccination
+GSM1165598,GSE48023,Day1,1,Day1,gender: female;	tissue: whole blood;	subject: IN0266;	time: Day1;	treatment: trivalent influenza vaccination
+GSM1165614,GSE48023,Day1,1,Day1,gender: female;	tissue: whole blood;	subject: IN0271;	time: Day1;	treatment: trivalent influenza vaccination
+GSM1165617,GSE48023,Day1,1,Day1,gender: female;	tissue: whole blood;	subject: IN0272;	time: Day1;	treatment: trivalent influenza vaccination
+GSM1165621,GSE48023,Day1,1,Day1,gender: female;	tissue: whole blood;	subject: IN0273;	time: Day1;	treatment: trivalent influenza vaccination
+GSM1165625,GSE48023,Day1,1,Day1,gender: female;	tissue: whole blood;	subject: IN0274;	time: Day1;	treatment: trivalent influenza vaccination
+GSM1165631,GSE48023,Day1,1,Day1,gender: female;	tissue: whole blood;	subject: IN0277;	time: Day1;	treatment: trivalent influenza vaccination
+GSM1165635,GSE48023,Day1,1,Day1,gender: female;	tissue: whole blood;	subject: IN0278;	time: Day1;	treatment: trivalent influenza vaccination
+GSM1165647,GSE48023,Day1,1,Day1,gender: female;	tissue: whole blood;	subject: IN0281;	time: Day1;	treatment: trivalent influenza vaccination
+GSM1165651,GSE48023,Day1,1,Day1,gender: female;	tissue: whole blood;	subject: IN0282;	time: Day1;	treatment: trivalent influenza vaccination
+GSM1165654,GSE48023,Day1,1,Day1,gender: female;	tissue: whole blood;	subject: IN0284;	time: Day1;	treatment: trivalent influenza vaccination
+GSM1165658,GSE48023,Day1,1,Day1,gender: female;	tissue: whole blood;	subject: IN0286;	time: Day1;	treatment: trivalent influenza vaccination
+GSM1165678,GSE48023,Day1,1,Day1,gender: female;	tissue: whole blood;	subject: IN0292;	time: Day1;	treatment: trivalent influenza vaccination
+GSM1165693,GSE48023,Day1,1,Day1,gender: female;	tissue: whole blood;	subject: IN0297;	time: Day1;	treatment: trivalent influenza vaccination
+GSM1165697,GSE48023,Day1,1,Day1,gender: female;	tissue: whole blood;	subject: IN0298;	time: Day1;	treatment: trivalent influenza vaccination
+GSM1165708,GSE48023,Day1,1,Day1,gender: female;	tissue: whole blood;	subject: IN0301;	time: Day1;	treatment: trivalent influenza vaccination
+GSM1165727,GSE48023,Day1,1,Day1,gender: female;	tissue: whole blood;	subject: IN0307;	time: Day1;	treatment: trivalent influenza vaccination
+GSM1165741,GSE48023,Day1,1,Day1,gender: female;	tissue: whole blood;	subject: IN0311;	time: Day1;	treatment: trivalent influenza vaccination
+GSM1165745,GSE48023,Day1,1,Day1,gender: female;	tissue: whole blood;	subject: IN0312;	time: Day1;	treatment: trivalent influenza vaccination
+GSM1165748,GSE48023,day1,1,Day1,gender: female;	tissue: whole blood;	subject: IN0315;	time: Day1;	treatment: trivalent influenza vaccination
+GSM1165756,GSE48023,Day1,1,Day1,gender: female;	tissue: whole blood;	subject: IN0317;	time: Day1;	treatment: trivalent influenza vaccination
+GSM1165759,GSE48023,day1,1,Day1,gender: female;	tissue: whole blood;	subject: IN0319;	time: Day1;	treatment: trivalent influenza vaccination
+GSM1165766,GSE48023,Day1,1,Day1,gender: female;	tissue: whole blood;	subject: IN0321;	time: Day1;	treatment: trivalent influenza vaccination
+GSM1165773,GSE48023,Day1,1,Day1,gender: female;	tissue: whole blood;	subject: IN0323;	time: Day1;	treatment: trivalent influenza vaccination
+GSM1165776,GSE48023,Day1,1,Day1,gender: female;	tissue: whole blood;	subject: IN0324;	time: Day1;	treatment: trivalent influenza vaccination
+GSM1165780,GSE48023,Day1,1,Day1,gender: female;	tissue: whole blood;	subject: IN0326;	time: Day1;	treatment: trivalent influenza vaccination
+GSM1165788,GSE48023,Day1,1,Day1,gender: female;	tissue: whole blood;	subject: IN0328;	time: Day1;	treatment: trivalent influenza vaccination
+GSM1165800,GSE48023,day1,1,Day1,gender: female;	tissue: whole blood;	subject: IN0331;	time: Day1;	treatment: trivalent influenza vaccination
+GSM1165803,GSE48023,Day1,1,Day1,gender: female;	tissue: whole blood;	subject: IN0333;	time: Day1;	treatment: trivalent influenza vaccination
+GSM1165805,GSE48023,Day1,1,Day1,gender: female;	tissue: whole blood;	subject: IN0334;	time: Day1;	treatment: trivalent influenza vaccination
+GSM1165813,GSE48023,Day1,1,Day1,gender: female;	tissue: whole blood;	subject: IN0336;	time: Day1;	treatment: trivalent influenza vaccination
+GSM1165817,GSE48023,Day1,1,Day1,gender: female;	tissue: whole blood;	subject: IN0337;	time: Day1;	treatment: trivalent influenza vaccination
+GSM1165872,GSE48023,Day1,1,Day1,gender: female;	tissue: whole blood;	subject: IN0354;	time: Day1;	treatment: trivalent influenza vaccination
+GSM1410450,GSE58411,wk1,1,wk1,group: Non-IRIS;	tissue: blood
+GSM1410451,GSE58411,wk2,2,wk2,group: Non-IRIS;	tissue: blood
+GSM1410458,GSE58411,wk1,1,wk1,group: Non-IRIS;	tissue: blood
+GSM1410459,GSE58411,wk2,2,wk2,group: Non-IRIS;	tissue: blood
+GSM1410526,GSE58411,wk1,1,wk1,group: Non-IRIS;	tissue: blood
+GSM1410527,GSE58411,wk2,2,wk2,group: Non-IRIS;	tissue: blood
+GSM1410533,GSE58411,wk1,1,wk1,group: Non-IRIS;	tissue: blood
+GSM1410534,GSE58411,wk2,2,wk2,group: Non-IRIS;	tissue: blood
+GSM1410553,GSE58411,wk1,1,wk1,group: Non-IRIS;	tissue: blood
+GSM1410554,GSE58411,wk2,2,wk2,group: Non-IRIS;	tissue: blood
+GSM1334971,GSE55374,2w,2,2 wk,subject: patient 299;	tissue: breat tumor ILC;	treatment: 2 wk endocrine therapy;	gender: Female;	clinical response: Responder
+GSM1334972,GSE55374,2w,2,2 wk,subject: patient 309;	tissue: breat tumor ILC;	treatment: 2 wk endocrine therapy;	gender: Female;	clinical response: Responder
+GSM1334975,GSE55374,2w,2,2 wk,subject: patient 200;	tissue: breat tumor IDC;	treatment: 2 wk endocrine therapy;	gender: Female;	clinical response: Responder
+GSM1334976,GSE55374,2w,2,2 wk,subject: patient 209;	tissue: breat tumor IDC;	treatment: 2 wk endocrine therapy;	gender: Female;	clinical response: Responder
+GSM1334977,GSE55374,2w,2,2 wk,subject: patient 291;	tissue: breat tumor IDC;	treatment: 2 wk endocrine therapy;	gender: Female;	clinical response: Responder
+GSM1334978,GSE55374,2w,2,2 wk,subject: patient 322;	tissue: breat tumor IDC;	treatment: 2 wk endocrine therapy;	gender: Female;	clinical response: Responder
+GSM1334979,GSE55374,2w,2,2 wk,subject: patient 334;	tissue: breat tumor IDC;	treatment: 2 wk endocrine therapy;	gender: Female;	clinical response: Responder
+GSM1334980,GSE55374,2w,2,2 wk,subject: patient 350;	tissue: breat tumor IDC;	treatment: 2 wk endocrine therapy;	gender: Female;	clinical response: Responder
+GSM1334981,GSE55374,3mo,3,3 mo,subject: patient 182;	tissue: breat tumor ILC;	treatment: 3 mo endocrine therapy;	gender: Female;	clinical response: Responder
+GSM1334982,GSE55374,3mo,3,3 mo,subject: patient 289;	tissue: breat tumor ILC;	treatment: 3 mo endocrine therapy;	gender: Female;	clinical response: Responder
+GSM1334983,GSE55374,3mo,3,3 mo,subject: patient 299;	tissue: breat tumor ILC;	treatment: 3 mo endocrine therapy;	gender: Female;	clinical response: Responder
+GSM1334985,GSE55374,3mo,3,3 mo,subject: patient 325;	tissue: breat tumor ILC;	treatment: 3 mo endocrine therapy;	gender: Female;	clinical response: Responder
+GSM1334986,GSE55374,3mo,3,3 mo,subject: patient 343;	tissue: breat tumor ILC;	treatment: 3 mo endocrine therapy;	gender: Female;	clinical response: Responder
+GSM1334987,GSE55374,3mo,3,3 mo,subject: patient 374;	tissue: breat tumor ILC;	treatment: 3 mo endocrine therapy;	gender: Female;	clinical response: Responder
+GSM1847627,GSE72068,12days,12,12days,tissue: liver;	cell type: primary human hepatocytes (PHH)
+GSM1971115,GSE75971,1wk,1,1 wk,cell line: MCF7;	cell type: estrogen receptor positive (ER+) breast cancer (BC) cell lines;	cultured in: 2D on plastic;	treated with: 10% dextran charcoal-stripped bovine serum (DCC) for 1 wk;	sample 
+GSM1971116,GSE75971,1wk,1,1 wk,cell line: MCF7;	cell type: estrogen receptor positive (ER+) breast cancer (BC) cell lines;	cultured in: 2D on plastic;	treated with: 10% dextran charcoal-stripped bovine serum (DCC) for 1 wk;	sample 
+GSM1971117,GSE75971,1wk,1,1 wk,cell line: MCF7;	cell type: estrogen receptor positive (ER+) breast cancer (BC) cell lines;	cultured in: 2D on plastic;	treated with: 10% dextran charcoal-stripped bovine serum (DCC) for 1 wk;	sample 
+GSM1971124,GSE75971,1wk,1,1 wk,cell line: MCF7;	cell type: estrogen receptor positive (ER+) breast cancer (BC) cell lines;	cultured in: 3D on collagen;	treated with: 10% dextran charcoal-stripped bovine serum (DCC) for 1 wk;	sample
+GSM1971125,GSE75971,1wk,1,1 wk,cell line: MCF7;	cell type: estrogen receptor positive (ER+) breast cancer (BC) cell lines;	cultured in: 3D on collagen;	treated with: 10% dextran charcoal-stripped bovine serum (DCC) for 1 wk;	sample
+GSM1971126,GSE75971,1wk,1,1 wk,cell line: MCF7;	cell type: estrogen receptor positive (ER+) breast cancer (BC) cell lines;	cultured in: 3D on collagen;	treated with: 10% dextran charcoal-stripped bovine serum (DCC) for 1 wk;	sample
+GSM1971142,GSE75971,1wk,1,1 wk,cell line: HCC1428;	cell type: estrogen receptor positive (ER+) breast cancer (BC) cell lines;	cultured in: 2D on plastic;	treated with: 10% dextran charcoal-stripped bovine serum (DCC) for 1 wk;	samp
+GSM1971143,GSE75971,1wk,1,1 wk,cell line: HCC1428;	cell type: estrogen receptor positive (ER+) breast cancer (BC) cell lines;	cultured in: 2D on plastic;	treated with: 10% dextran charcoal-stripped bovine serum (DCC) for 1 wk;	samp
+GSM2589800,GSE98244,7d,7,7 Days,cell line: MCF-10A;	replicate: Replicate 3;	stimulus duration: 7 Days;	transfection: RhoA shRNA;	stimulus: none;	array id: 3999545036
+GSM2589801,GSE98244,7d,7,7 Days,cell line: MCF-10A;	replicate: Replicate 1;	stimulus duration: 7 Days;	transfection: RhoA shRNA;	stimulus: none;	array id: 3999545056
+GSM907735,GSE36975,Day4,4,Day4,pathology: Healthy donor;	subject: 51;	cell type: purified naive B cells from blood;	growth protocol: stimulated;	il-2 treatment: no IL-2;	time point: Day4;	cell fraction: CSFElo
+GSM907736,GSE36975,Day4,4,Day4,pathology: Healthy donor;	subject: 51;	cell type: purified naive B cells from blood;	growth protocol: stimulated;	il-2 treatment: 50 U/ml IL-2 (added at Day0+16h);	time point: Day4;	cell fraction: CSF
+GSM907737,GSE36975,4,4,Day4,pathology: Healthy donor;	subject: 51;	cell type: purified naive B cells from blood;	growth protocol: stimulated;	il-2 treatment: 50 U/ml IL-2 (added at Day0+16h);	time point: Day4;	cell fraction: CSF
+GSM1229350,GSE50791,Day1,1,Day1,treatment: PLX4720;	time: Day1;	cell line: Colo-205;	tissue: Colon cancer cell line;	array id: 9259561012
+GSM1229351,GSE50791,Day3,3,Day3,treatment: DMSO;	time: Day3;	cell line: Colo-205;	tissue: Colon cancer cell line;	array id: 9259561012
+GSM1229352,GSE50791,Day3,3,Day3,treatment: PLX4720;	time: Day3;	cell line: Colo-205;	tissue: Colon cancer cell line;	array id: 9259561012
+GSM1229353,GSE50791,Day10,10,Day10,treatment: DMSO;	time: Day10;	cell line: Colo-205;	tissue: Colon cancer cell line;	array id: 9259561012
+GSM1229360,GSE50791,Day8,8,Day8,treatment: PLX4720;	time: Day8;	cell line: HT29;	tissue: Colon cancer cell line;	array id: 9270006077
+GSM1229366,GSE50791,Day8,8,Day8,treatment: PLX4720;	time: Day8;	cell line: HT29;	tissue: Colon cancer cell line;	array id: 9270006077
+GSM2438443,GSE92845,Day2,2,Day2,gender: Female;	day: Day2;	replicate: replicate3;	rin: 9.6
+GSM2438445,GSE92845,Day2,2,Day2,gender: Female;	day: Day2;	replicate: replicate4;	rin: 9.4
+GSM2438454,GSE92845,day5,5,Day5,gender: Female;	day: Day5;	replicate: replicate1;	rin: 8.6
+GSM2438457,GSE92845,Day2,2,Day2,gender: Female;	day: Day2;	replicate: replicate2;	rin: 9.7
+GSM2438460,GSE92845,Day2,2,Day2,gender: Female;	day: Day2;	replicate: replicate1;	rin: 9.8
+GSM2438462,GSE92845,day5,5,Day5,gender: Female;	day: Day5;	replicate: replicate2;	rin: 8.8
+GSM1446664,GSE59803,day7,7,day7,ID: C7-1;	cell type: Control reisolated CD34+ cells day7
+GSM1446665,GSE59803,day7,7,day7,ID: C7-2;	cell type: Control reisolated CD34+ cells day7
+GSM1446666,GSE59803,day7,7,day7,ID: S7-1;	cell type: Scriptaid reisolated CD34+ cells day7
+GSM1446667,GSE59803,day7,7,day7,ID: S7-2;	cell type: Scriptaid reisolated CD34+ cells day7
+GSM1446668,GSE59803,day7,7,Day7,ID: V7-1;	cell type: VPA  reisolated CD34+ cells Day7
+GSM1446669,GSE59803,day7,7,Day7,ID: V7-2;	cell type: VPA  reisolated CD34+ cells Day7
+GSM1020206,GSE41615,Day2 post transfection,2,Day2,cell type: N/TERT keratinocytes;	transfected with: non-targeting siRNA;	time point: Day2 post transfection
+GSM1020207,GSE41615,Day2 post transfection,2,Day2,cell type: N/TERT keratinocytes;	transfected with: non-targeting siRNA;	time point: Day2 post transfection
+GSM1020208,GSE41615,Day2 post transfection,2,Day2,cell type: N/TERT keratinocytes;	transfected with: non-targeting siRNA;	time point: Day2 post transfection
+GSM1020209,GSE41615,Day2 post transfection,2,Day2,cell type: N/TERT keratinocytes;	transfected with: Smartpool siRNA against FSTL1;	time point: Day2 post transfection
+GSM1020210,GSE41615,Day2 post transfection,2,Day2,cell type: N/TERT keratinocytes;	transfected with: Smartpool siRNA against FSTL1;	time point: Day2 post transfection
+GSM1020211,GSE41615,Day2 post transfection,2,Day2,cell type: N/TERT keratinocytes;	transfected with: Smartpool siRNA against FSTL1;	time point: Day2 post transfection
+GSM1477363,GSE60372,day10,10,day10,gender: male;	cell type: hiPSC from AG16102 skin fibroblast;	cell state: day10differentiated
+GSM1477364,GSE60372,day10,10,day10,gender: male;	cell type: hiPSC from AG16102 skin fibroblast;	cell state: day10differentiated
+GSM2722705,GSE102067,d10,10,10 day,cell type: differentiated cells;	genotype/variation: siControl;	time: d10
+GSM2722708,GSE102067,d10,10,10 day,cell type: differentiated cells;	genotype/variation: siHIPK4;	time: d10
+GSM2722709,GSE102067,d10,10,10 day,cell type: differentiated cells;	genotype/variation: siHIPK4;	time: d10
+GSM1660672,GSE67180,day1,1,day1,cell line: KA0717;	time point: day1
+GSM1660674,GSE67180,day2,2,day2,cell line: KA0717;	time point: day2
+GSM1660675,GSE67180,day2,2,day2,cell line: KA0717;	time point: day2
+GSM1660677,GSE67180,day3,3,day3,cell line: KA0717;	time point: day3
+GSM1660679,GSE67180,day6,6,day6,cell line: KA0717;	time point: day6
+GSM1660680,GSE67180,day10,10,day10,cell line: KA0717;	time point: day10
+GSM1660681,GSE67180,day10,10,day10,cell line: KA0717;	time point: day10
+GSM4230397,GSE142492,Day3,3,Day3,cell type: memory B cells;	differentiation: Day3;	culture-conditions: At day-3 cells were detached from the CD40L L-cell layer and reseeded at 1 X 10^5/ml in media supplemented with IL-2 (20 U/ml) and
+GSM4230403,GSE142492,Day3,3,Day3,cell type: memory B cells;	differentiation: Day3;	culture-conditions: At day-3 cells were detached from the CD40L L-cell layer and reseeded at 1 X 10^5/ml in media supplemented with IL-2 (20 U/ml) and
+GSM4230404,GSE142492,Day3,3,Day3,cell type: memory B cells;	differentiation: Day3;	culture-conditions: At day-3 cells were detached from the CD40L L-cell layer and reseeded at 1 X 10^5/ml in media supplemented with IL-2 (20 U/ml) and
+GSM4230405,GSE142492,Day3,3,Day3,cell type: memory B cells;	differentiation: Day3;	culture-conditions: At day-3 cells were detached from the CD40L L-cell layer and reseeded at 1 X 10^5/ml in media supplemented with IL-2 (20 U/ml) and
+GSM4230409,GSE142492,Day4,4,Day4,cell type: memory B cells;	differentiation: Day4;	culture-conditions: At day-3 cells were detached from the CD40L L-cell layer and reseeded at 1 X 10^5/ml in media supplemented with IL-2 (20 U/ml) and
+GSM4230411,GSE142492,Day4,4,Day4,cell type: memory B cells;	differentiation: Day4;	culture-conditions: At day-3 cells were detached from the CD40L L-cell layer and reseeded at 1 X 10^5/ml in media supplemented with IL-2 (20 U/ml) and
+GSM4230412,GSE142492,Day5,5,Day5,cell type: memory B cells;	differentiation: Day5;	culture-conditions: At day-3 cells were detached from the CD40L L-cell layer and reseeded at 1 X 10^5/ml in media supplemented with IL-2 (20 U/ml) and
+GSM4230413,GSE142492,Day5,5,Day5,cell type: memory B cells;	differentiation: Day5;	culture-conditions: At day-3 cells were detached from the CD40L L-cell layer and reseeded at 1 X 10^5/ml in media supplemented with IL-2 (20 U/ml) and
+GSM4230414,GSE142492,Day5,5,Day5,cell type: memory B cells;	differentiation: Day5;	culture-conditions: At day-3 cells were detached from the CD40L L-cell layer and reseeded at 1 X 10^5/ml in media supplemented with IL-2 (20 U/ml) and
+GSM4230421,GSE142492,day3,3,Day3,cell type: total B cells;	differentiation: Day3;	culture-conditions: At day-3 cells were detached from the CD40L L-cell layer and reseeded at 1 X 10^5/ml in media supplemented with IL-2 (20 U/ml) and 
+GSM4230422,GSE142492,Day3,3,Day3,cell type: total B cells;	differentiation: Day3;	culture-conditions: At day-3 cells were detached from the CD40L L-cell layer and reseeded at 1 X 10^5/ml in media supplemented with IL-2 (20 U/ml) and 
+GSM4230424,GSE142492,Day3,3,Day3,cell type: total B cells;	differentiation: Day3;	culture-conditions: At day-3 cells were detached from the CD40L L-cell layer and reseeded at 1 X 10^5/ml in media supplemented with IL-2 (20 U/ml) and 
+GSM4230425,GSE142492,Day3,3,Day3,cell type: total B cells;	differentiation: Day3;	culture-conditions: At day-3 cells were detached from the CD40L L-cell layer and reseeded at 1 X 10^5/ml in media supplemented with IL-2 (20 U/ml) and 
+GSM4230426,GSE142492,Day3,3,Day3,cell type: total B cells;	differentiation: Day3;	culture-conditions: At day-3 cells were detached from the CD40L L-cell layer and reseeded at 1 X 10^5/ml in media supplemented with IL-2 (20 U/ml) and 
+GSM4230428,GSE142492,Day3,3,Day3,cell type: total B cells;	differentiation: Day3;	culture-conditions: At day-3 cells were detached from the CD40L L-cell layer and reseeded at 1 X 10^5/ml in media supplemented with IL-2 (20 U/ml) and 
+GSM4230429,GSE142492,Day3,3,Day3,cell type: total B cells;	differentiation: Day3;	culture-conditions: At day-3 cells were detached from the CD40L L-cell layer and reseeded at 1 X 10^5/ml in media supplemented with IL-2 (20 U/ml) and 
+GSM4230430,GSE142492,Day3,3,Day3,cell type: total B cells;	differentiation: Day3;	culture-conditions: At day-3 cells were detached from the CD40L L-cell layer and reseeded at 1 X 10^5/ml in media supplemented with IL-2 (20 U/ml) and 
+GSM4230431,GSE142492,Day3,3,Day3,cell type: total B cells;	differentiation: Day3;	culture-conditions: At day-3 cells were detached from the CD40L L-cell layer and reseeded at 1 X 10^5/ml in media supplemented with IL-2 (20 U/ml) and 
+GSM4230432,GSE142492,Day3,3,Day3,cell type: total B cells;	differentiation: Day3;	culture-conditions: At day-3 cells were detached from the CD40L L-cell layer and reseeded at 1 X 10^5/ml in media supplemented with IL-2 (20 U/ml) and 
+GSM4230436,GSE142492,Day5,5,Day5,cell type: total B cells;	differentiation: Day5;	culture-conditions: At day-3 cells were detached from the CD40L L-cell layer and reseeded at 1 X 10^5/ml in media supplemented with IL-2 (20 U/ml) and 
+GSM4230437,GSE142492,Day5,5,Day5,cell type: total B cells;	differentiation: Day5;	culture-conditions: At day-3 cells were detached from the CD40L L-cell layer and reseeded at 1 X 10^5/ml in media supplemented with IL-2 (20 U/ml) and 
+GSM4230438,GSE142492,Day5,5,Day5,cell type: total B cells;	differentiation: Day5;	culture-conditions: At day-3 cells were detached from the CD40L L-cell layer and reseeded at 1 X 10^5/ml in media supplemented with IL-2 (20 U/ml) and 
+GSM4230439,GSE142492,Day6,6,Day6,cell type: total B cells;	differentiation: Day6;	culture-conditions: At day-3 cells were detached from the CD40L L-cell layer and reseeded at 1 X 10^5/ml in media supplemented with IL-2 (20 U/ml) and 
+GSM4230440,GSE142492,Day6,6,Day6,cell type: total B cells;	differentiation: Day6;	culture-conditions: At day-3 cells were detached from the CD40L L-cell layer and reseeded at 1 X 10^5/ml in media supplemented with IL-2 (20 U/ml) and 
+GSM4230441,GSE142492,Day6,6,Day6,cell type: total B cells;	differentiation: Day6;	culture-conditions: At day-3 cells were detached from the CD40L L-cell layer and reseeded at 1 X 10^5/ml in media supplemented with IL-2 (20 U/ml) and 
+GSM4230442,GSE142492,day3,3,Day3,cell type: total B cells;	differentiation: Day3;	culture-conditions: At day-3 cells were detached from the CD40L L-cell layer and reseeded at 1 X 10^5/ml in media supplemented with IL-2 (20 U/ml) and 
+GSM4230443,GSE142492,day3,3,Day3,cell type: total B cells;	differentiation: Day3;	culture-conditions: At day-3 cells were detached from the CD40L L-cell layer and reseeded at 1 X 10^5/ml in media supplemented with IL-2 (20 U/ml) and 
+GSM4230444,GSE142492,day3,3,Day3,cell type: total B cells;	differentiation: Day3;	culture-conditions: At day-3 cells were detached from the CD40L L-cell layer and reseeded at 1 X 10^5/ml in media supplemented with IL-2 (20 U/ml) and 
+GSM4230445,GSE142492,day3,3,Day3,cell type: total B cells;	differentiation: Day3;	culture-conditions: At day-3 cells were detached from the CD40L L-cell layer and reseeded at 1 X 10^5/ml in media supplemented with IL-2 (20 U/ml) and 
+GSM4230446,GSE142492,day3,3,Day3,cell type: total B cells;	differentiation: Day3;	culture-conditions: At day-3 cells were detached from the CD40L L-cell layer and reseeded at 1 X 10^5/ml in media supplemented with IL-2 (20 U/ml) and 
+GSM4230447,GSE142492,day3,3,Day3,cell type: total B cells;	differentiation: Day3;	culture-conditions: At day-3 cells were detached from the CD40L L-cell layer and reseeded at 1 X 10^5/ml in media supplemented with IL-2 (20 U/ml) and 
+GSM4230448,GSE142492,day3,3,Day3,cell type: total B cells;	differentiation: Day3;	culture-conditions: At day-3 cells were detached from the CD40L L-cell layer and reseeded at 1 X 10^5/ml in media supplemented with IL-2 (20 U/ml) and 
+GSM4230449,GSE142492,day3,3,Day3,cell type: total B cells;	differentiation: Day3;	culture-conditions: At day-3 cells were detached from the CD40L L-cell layer and reseeded at 1 X 10^5/ml in media supplemented with IL-2 (20 U/ml) and 
+GSM4230450,GSE142492,day3,3,Day3,cell type: total B cells;	differentiation: Day3;	culture-conditions: At day-3 cells were detached from the CD40L L-cell layer and reseeded at 1 X 10^5/ml in media supplemented with IL-2 (20 U/ml) and 
+GSM1937027,GSE74884,day12differentiated,12,day12,gender: male;	cell type: hiPSC from AG16102 skin fibroblast;	cell state: day12differentiated
+GSM1937028,GSE74884,day12differentiated,12,day12,gender: --;	cell type: hiPSC from N805-6 skin fibroblast;	cell state: day12differentiated
+GSM1937029,GSE74884,day12differentiated,12,day12,gender: female;	cell type: hiPSC from N805-1 skin fibroblast;	cell state: day12differentiated
+GSM1082841,GSE44303,7days,7,7days,cell type: Mesenchymal stem cell;	treatment: 7days after adipogenic induction
+GSM1082842,GSE44303,7days,7,7days,cell type: Mesenchymal stem cell;	treatment: 7days after adipogenic induction
+GSM1082843,GSE44303,7days,7,7days,cell type: Mesenchymal stem cell;	treatment: 7days after adipogenic induction
+GSM1082859,GSE44303,2week,2,2week,cell type: Fibroblast;	treatment: follow 2week adipogenic induction with 72hr after NC-siRNA transfection
+GSM1082860,GSE44303,2week,2,2week,cell type: Fibroblast;	treatment: follow 2week adipogenic induction with 72hr after NC-siRNA transfection
+GSM1082861,GSE44303,2week,2,2week,cell type: Fibroblast;	treatment: follow 2week adipogenic induction with 72hr after NC-siRNA transfection
+GSM1082862,GSE44303,2week,2,2week,cell type: Fibroblast;	treatment: follow 2week adipogenic induction with 72hr after 4mix-siRNA transfection
+GSM1082863,GSE44303,2week,2,2week,cell type: Fibroblast;	treatment: follow 2week adipogenic induction with 72hr after 4mix-siRNA transfection
+GSM1082864,GSE44303,2week,2,2week,cell type: Fibroblast;	treatment: follow 2week adipogenic induction with 72hr after 4mix-siRNA transfection
+GSM1037193,GSE42288,day3,3,DAY3,tissue: alveolar bone;	cell type: implant adherent cells;	subject: Smoking subject
+GSM1037194,GSE42288,day3,3,3 DAY,tissue: alveolar bone;	cell type: implant adherent cells;	subject: Smoking subject
+GSM1037195,GSE42288,3,3,DAY3,tissue: alveolar bone;	cell type: implant adherent cells;	subject: Smoking subject
+GSM1037197,GSE42288,3,3,DAY3,tissue: alveolar bone;	cell type: implant adherent cells;	subject: Smoking subject
+GSM1037198,GSE42288,day3,3,DAY3,tissue: alveolar bone;	cell type: implant adherent cells;	subject: Smoking subject
+GSM1037199,GSE42288,3,3,DAY3,tissue: alveolar bone;	cell type: implant adherent cells;	subject: Smoking subject
+GSM1320109,GSE54627,day5,5,Day5,cell type: T cells
+GSM1320113,GSE54627,day5,5,Day5,cell type: T cells
+GSM1320100,GSE54627,day5,5,Day5,cell type: T cells
+GSM1320111,GSE54627,day5,5,Day5,cell type: T cells
+GSM3068586,GSE112366,wk8,8,WK8,tissue: ileum;	diagnosis: Crohn's disease (CD);	subject: CNTO1275CRD3002-20038;	treatment_induction: Pbo;	treatment_maintenance: Ust12W;	visit: I-WK8;	i-wk8 response: N;	gi involvement: Ileum only;	il
+GSM3068658,GSE112366,wk8,8,WK8,tissue: ileum;	diagnosis: Crohn's disease (CD);	subject: CNTO1275CRD3002-20043;	treatment_induction: Ust;	treatment_maintenance: Ust8W;	visit: I-WK8;	i-wk8 response: Y;	gi involvement: Ileum only;	ile
+GSM3068608,GSE112366,I-WK8,8,WK8,tissue: ileum;	diagnosis: Crohn's disease (CD);	subject: CNTO1275CRD3002-20051;	treatment_induction: Ust;	treatment_maintenance: Discontinued;	visit: I-WK8;	i-wk8 response: N;	gi involvement: Ileum an
+GSM3068609,GSE112366,wk8,8,WK8,tissue: ileum;	diagnosis: Crohn's disease (CD);	subject: CNTO1275CRD3002-20065;	treatment_induction: Ust;	treatment_maintenance: Discontinued;	visit: I-WK8;	i-wk8 response: N;	gi involvement: Ileum on
+GSM3068603,GSE112366,I-WK8,8,WK8,tissue: ileum;	diagnosis: Crohn's disease (CD);	subject: CNTO1275CRD3002-20082;	treatment_induction: Ust;	treatment_maintenance: Discontinued;	visit: I-WK8;	i-wk8 response: N;	gi involvement: Colon on
+GSM3068660,GSE112366,wk8,8,WK8,tissue: ileum;	diagnosis: Crohn's disease (CD);	subject: CNTO1275CRD3002-20087;	treatment_induction: Ust;	treatment_maintenance: Ust8W;	visit: I-WK8;	i-wk8 response: N;	gi involvement: Ileum and colon
+GSM3068635,GSE112366,wk8,8,WK8,tissue: ileum;	diagnosis: Crohn's disease (CD);	subject: CNTO1275CRD3002-20098;	treatment_induction: Ust;	treatment_maintenance: Ust12W;	visit: I-WK8;	i-wk8 response: Y;	gi involvement: Ileum and colo
+GSM3068596,GSE112366,wk8,8,WK8,tissue: ileum;	diagnosis: Crohn's disease (CD);	subject: CNTO1275CRD3002-20109;	treatment_induction: Ust;	treatment_maintenance: Discontinued;	visit: I-WK8;	i-wk8 response: N;	gi involvement: Ileum an
+GSM3068649,GSE112366,wk8,8,WK8,tissue: ileum;	diagnosis: Crohn's disease (CD);	subject: CNTO1275CRD3002-20141;	treatment_induction: Ust;	treatment_maintenance: Ust8W;	visit: I-WK8;	i-wk8 response: N;	gi involvement: Ileum only;	ile
+GSM3068598,GSE112366,wk8,8,WK8,tissue: ileum;	diagnosis: Crohn's disease (CD);	subject: CNTO1275CRD3002-20171;	treatment_induction: Ust;	treatment_maintenance: Discontinued;	visit: I-WK8;	i-wk8 response: N;	gi involvement: Colon on
+GSM3068600,GSE112366,wk8,8,WK8,tissue: ileum;	diagnosis: Crohn's disease (CD);	subject: CNTO1275CRD3002-20173;	treatment_induction: Ust;	treatment_maintenance: Discontinued;	visit: I-WK8;	i-wk8 response: N;	gi involvement: Ileum on
+GSM3068590,GSE112366,wk8,8,WK8,tissue: ileum;	diagnosis: Crohn's disease (CD);	subject: CNTO1275CRD3002-20187;	treatment_induction: Pbo;	treatment_maintenance: Ust12W;	visit: I-WK8;	i-wk8 response: N;	gi involvement: Ileum and colo
+GSM3068568,GSE112366,wk8,8,WK8,tissue: ileum;	diagnosis: Crohn's disease (CD);	subject: CNTO1275CRD3002-20196;	treatment_induction: Pbo;	treatment_maintenance: Pbo;	visit: I-WK8;	i-wk8 response: Y;	gi involvement: Ileum and colon;	
+GSM3068629,GSE112366,wk8,8,WK8,tissue: ileum;	diagnosis: Crohn's disease (CD);	subject: CNTO1275CRD3002-20209;	treatment_induction: Ust;	treatment_maintenance: Ust12W;	visit: I-WK8;	i-wk8 response: Y;	gi involvement: Ileum and colo
+GSM3068563,GSE112366,wk8,8,WK8,tissue: ileum;	diagnosis: Crohn's disease (CD);	subject: CNTO1275CRD3002-20239;	treatment_induction: Pbo;	treatment_maintenance: Discontinued;	visit: I-WK8;	i-wk8 response: N;	gi involvement: Ileum on
+GSM3068571,GSE112366,wk8,8,WK8,tissue: ileum;	diagnosis: Crohn's disease (CD);	subject: CNTO1275CRD3002-20244;	treatment_induction: Pbo;	treatment_maintenance: Pbo;	visit: I-WK8;	i-wk8 response: Y;	gi involvement: Colon only;	ileum
+GSM3068614,GSE112366,I-WK8,8,WK8,tissue: ileum;	diagnosis: Crohn's disease (CD);	subject: CNTO1275CRD3002-20270;	treatment_induction: Ust;	treatment_maintenance: Pbo;	visit: I-WK8;	i-wk8 response: Y;	gi involvement: Colon only;	ileum
+GSM3068641,GSE112366,I-WK8,8,WK8,tissue: ileum;	diagnosis: Crohn's disease (CD);	subject: CNTO1275CRD3002-20295;	treatment_induction: Ust;	treatment_maintenance: Ust8W;	visit: I-WK8;	i-wk8 response: Y;	gi involvement: Ileum and colon
+GSM3068591,GSE112366,wk8,8,WK8,tissue: ileum;	diagnosis: Crohn's disease (CD);	subject: CNTO1275CRD3002-20301;	treatment_induction: Pbo;	treatment_maintenance: Ust12W;	visit: I-WK8;	i-wk8 response: N;	gi involvement: Ileum only;	il
+GSM3068613,GSE112366,wk8,8,WK8,tissue: ileum;	diagnosis: Crohn's disease (CD);	subject: CNTO1275CRD3002-20329;	treatment_induction: Ust;	treatment_maintenance: Discontinued;	visit: I-WK8;	i-wk8 response: N;	gi involvement: Ileum an
+GSM3068551,GSE112366,I-WK8,8,WK8,tissue: ileum;	diagnosis: Crohn's disease (CD);	subject: CNTO1275CRD3002-20367;	treatment_induction: Pbo;	treatment_maintenance: .;	visit: I-WK8;	i-wk8 response: N;	gi involvement: Ileum and colon;	il
+GSM3068636,GSE112366,wk8,8,WK8,tissue: ileum;	diagnosis: Crohn's disease (CD);	subject: CNTO1275CRD3002-20404;	treatment_induction: Ust;	treatment_maintenance: Ust12W;	visit: I-WK8;	i-wk8 response: Y;	gi involvement: Ileum and colo
+GSM3068594,GSE112366,wk8,8,WK8,tissue: ileum;	diagnosis: Crohn's disease (CD);	subject: CNTO1275CRD3002-20405;	treatment_induction: Pbo;	treatment_maintenance: Ust12W;	visit: I-WK8;	i-wk8 response: N;	gi involvement: Ileum only;	il
+GSM3068553,GSE112366,wk8,8,WK8,tissue: ileum;	diagnosis: Crohn's disease (CD);	subject: CNTO1275CRD3002-20441;	treatment_induction: Pbo;	treatment_maintenance: Discontinued;	visit: I-WK8;	i-wk8 response: N;	gi involvement: Ileum an
+GSM3068554,GSE112366,wk8,8,WK8,tissue: ileum;	diagnosis: Crohn's disease (CD);	subject: CNTO1275CRD3002-20484;	treatment_induction: Pbo;	treatment_maintenance: Discontinued;	visit: I-WK8;	i-wk8 response: N;	gi involvement: Ileum an
+GSM3068556,GSE112366,wk8,8,WK8,tissue: ileum;	diagnosis: Crohn's disease (CD);	subject: CNTO1275CRD3002-20547;	treatment_induction: Pbo;	treatment_maintenance: Discontinued;	visit: I-WK8;	i-wk8 response: N;	gi involvement: Ileum an
+GSM3068607,GSE112366,wk8,8,WK8,tissue: ileum;	diagnosis: Crohn's disease (CD);	subject: CNTO1275CRD3002-20559;	treatment_induction: Ust;	treatment_maintenance: Discontinued;	visit: I-WK8;	i-wk8 response: N;	gi involvement: Ileum an
+GSM3068634,GSE112366,wk8,8,WK8,tissue: ileum;	diagnosis: Crohn's disease (CD);	subject: CNTO1275CRD3002-20667;	treatment_induction: Ust;	treatment_maintenance: Ust12W;	visit: I-WK8;	i-wk8 response: Y;	gi involvement: Ileum and colo
+GSM3068610,GSE112366,wk8,8,WK8,tissue: ileum;	diagnosis: Crohn's disease (CD);	subject: CNTO1275CRD3002-20761;	treatment_induction: Ust;	treatment_maintenance: Discontinued;	visit: I-WK8;	i-wk8 response: N;	gi involvement: Ileum on
+GSM3068593,GSE112366,wk8,8,WK8,tissue: ileum;	diagnosis: Crohn's disease (CD);	subject: CNTO1275CRD3002-20783;	treatment_induction: Pbo;	treatment_maintenance: Ust12W;	visit: I-WK8;	i-wk8 response: N;	gi involvement: Ileum and colo
+GSM3068628,GSE112366,wk8,8,WK8,tissue: ileum;	diagnosis: Crohn's disease (CD);	subject: CNTO1275CRD3002-20927;	treatment_induction: Ust;	treatment_maintenance: Ust12W;	visit: I-WK8;	i-wk8 response: Y;	gi involvement: Ileum and colo
+GSM3068630,GSE112366,wk8,8,WK8,tissue: ileum;	diagnosis: Crohn's disease (CD);	subject: CNTO1275CRD3002-20962;	treatment_induction: Ust;	treatment_maintenance: Ust12W;	visit: I-WK8;	i-wk8 response: Y;	gi involvement: Ileum and colo
+GSM3068626,GSE112366,wk8,8,WK8,tissue: ileum;	diagnosis: Crohn's disease (CD);	subject: CNTO1275CRD3002-21017;	treatment_induction: Ust;	treatment_maintenance: Pbo;	visit: I-WK8;	i-wk8 response: Y;	gi involvement: Ileum only;	ileum
+GSM3068612,GSE112366,wk8,8,WK8,tissue: ileum;	diagnosis: Crohn's disease (CD);	subject: CNTO1275CRD3002-21019;	treatment_induction: Ust;	treatment_maintenance: Discontinued;	visit: I-WK8;	i-wk8 response: Y;	gi involvement: Ileum an
+GSM3068611,GSE112366,wk8,8,WK8,tissue: ileum;	diagnosis: Crohn's disease (CD);	subject: CNTO1275CRD3002-21028;	treatment_induction: Ust;	treatment_maintenance: Discontinued;	visit: I-WK8;	i-wk8 response: N;	gi involvement: Ileum on
+GSM3068576,GSE112366,wk8,8,WK8,tissue: ileum;	diagnosis: Crohn's disease (CD);	subject: CNTO1275CRD3002-21035;	treatment_induction: Pbo;	treatment_maintenance: Pbo;	visit: I-WK8;	i-wk8 response: Y;	gi involvement: Colon only;	ileum
+GSM1934013,GSE74811,3,3,days 3,tissue: blood;	cell type: mononuclear cells;	time point: D3;	subject id: 103
+GSM1934018,GSE74811,3,3,days 3,tissue: blood;	cell type: mononuclear cells;	time point: D3;	subject id: 2
+GSM1934021,GSE74811,3,3,days 3,tissue: blood;	cell type: mononuclear cells;	time point: D3;	subject id: 29
+GSM1934030,GSE74811,3,3,days 3,tissue: blood;	cell type: mononuclear cells;	time point: D3;	subject id: 39
+GSM1934036,GSE74811,3,3,days 3,tissue: blood;	cell type: mononuclear cells;	time point: D3;	subject id: 42
+GSM1934039,GSE74811,3,3,days 3,tissue: blood;	cell type: mononuclear cells;	time point: D3;	subject id: 43
+GSM1934045,GSE74811,3,3,days 3,tissue: blood;	cell type: mononuclear cells;	time point: D3;	subject id: 46
+GSM1934048,GSE74811,3,3,days 3,tissue: blood;	cell type: mononuclear cells;	time point: D3;	subject id: 51
+GSM1934051,GSE74811,3,3,days 3,tissue: blood;	cell type: mononuclear cells;	time point: D3;	subject id: 53
+GSM1934057,GSE74811,3,3,days 3,tissue: blood;	cell type: mononuclear cells;	time point: D3;	subject id: 63
+GSM1934063,GSE74811,3,3,days 3,tissue: blood;	cell type: mononuclear cells;	time point: D3;	subject id: 67
+GSM1934075,GSE74811,3,3,days 3,tissue: blood;	cell type: mononuclear cells;	time point: D3;	subject id: 83
+GSM1934078,GSE74811,3,3,days 3,tissue: blood;	cell type: mononuclear cells;	time point: D3;	subject id: 86
+GSM1934205,GSE74813,3,3,days 3,tissue: blood;	cell type: mononuclear cells;	time point: D3;	subject id: 31
+GSM1934210,GSE74813,3,3,days 3,tissue: blood;	cell type: mononuclear cells;	time point: D3;	subject id: 32
+GSM1934215,GSE74813,3,3,days 3,tissue: blood;	cell type: mononuclear cells;	time point: D3;	subject id: 34
+GSM733862,GSE29615,d3,3,days 3,"cell type: PBMC;	subject id: 25;	time point: D3;	vaccine: LAIV (FluMist,  MedImmune);	hai titer (day 0) - a/south dakota/6/2007 (h1n1): 320;	hai titer (day 28) - a/south dakota/6/2007 (h1n1): 320;	hai"
+GSM733868,GSE29615,3,3,days 3,"cell type: PBMC;	subject id: 33;	time point: D3;	vaccine: LAIV (FluMist,  MedImmune);	hai titer (day 0) - a/south dakota/6/2007 (h1n1): 5;	hai titer (day 28) - a/south dakota/6/2007 (h1n1): 5;	hai tit"
+GSM733951,GSE29617,d3,3,days 3,"cell type: PBMC;	subject id: 3;	time point: D3;	vaccine: TIV (Fluarix, GlaxoSmithKline Biologicals);	hai titer (day 0) - a/uruguay (h3n2): 5;	hai titer (day 28) - a/uruguay (h3n2): 80;	hai titer (day "
+GSM734005,GSE29617,d3,3,days 3,"cell type: PBMC;	subject id: 73;	time point: D3;	vaccine: TIV (Fluarix, GlaxoSmithKline Biologicals);	hai titer (day 0) - a/uruguay (h3n2): 5;	hai titer (day 28) - a/uruguay (h3n2): 160;	hai titer (da"
+GSM3638359,GSE127763,day8,8,day8,cell line: HepG2;	treatment: Control
+GSM3638360,GSE127763,day8,8,day8,cell line: HepG2;	treatment: Control
+GSM3638361,GSE127763,day8,8,day8,cell line: HepG2;	treatment: Control
+GSM1380383,GSE57342,3,3,Day3,cell line: MDA231;	cell type: breast cancer cell line;	sample group: AZA_Day3
+GSM1380385,GSE57342,day7,7,Day7,cell line: MDA231;	cell type: breast cancer cell line;	sample group: AZA_Day7
+GSM1380386,GSE57342,day10,10,Day10,cell line: MDA231;	cell type: breast cancer cell line;	sample group: Mock_Day10
+GSM1380387,GSE57342,day10,10,Day10,cell line: MDA231;	cell type: breast cancer cell line;	sample group: AZA_Day10
+GSM1380391,GSE57342,day3,3,Day3,cell line: MDA468;	cell type: breast cancer cell line;	sample group: AZA_Day3
+GSM1380392,GSE57342,day7,7,Day7,cell line: MDA468;	cell type: breast cancer cell line;	sample group: Mock_Day7
+GSM1380393,GSE57342,day7,7,Day7,cell line: MDA468;	cell type: breast cancer cell line;	sample group: AZA_Day7
+GSM1380394,GSE57342,day10,10,Day10,cell line: MDA468;	cell type: breast cancer cell line;	sample group: Mock_Day10
+GSM1380395,GSE57342,day10,10,Day10,cell line: MDA468;	cell type: breast cancer cell line;	sample group: AZA_Day10
+GSM1380399,GSE57342,3,3,Day3,cell line: MDA453;	cell type: breast cancer cell line;	sample group: AZA_Day3
+GSM1380400,GSE57342,day7,7,Day7,cell line: MDA453;	cell type: breast cancer cell line;	sample group: Mock_Day7
+GSM1380401,GSE57342,day7,7,Day7,cell line: MDA453;	cell type: breast cancer cell line;	sample group: AZA_Day7
+GSM1380402,GSE57342,day10,10,Day10,cell line: MDA453;	cell type: breast cancer cell line;	sample group: Mock_Day10
+GSM1380403,GSE57342,day10,10,Day10,cell line: MDA453;	cell type: breast cancer cell line;	sample group: AZA_Day10
+GSM1380407,GSE57342,3,3,Day3,cell line: HCC1569;	cell type: breast cancer cell line;	sample group: AZA_Day3
+GSM1380410,GSE57342,day10,10,Day10,cell line: HCC1569;	cell type: breast cancer cell line;	sample group: Mock_Day10
+GSM1380414,GSE57342,3,3,Day3,cell line: T47D;	cell type: breast cancer cell line;	sample group: Mock_Day3
+GSM1380415,GSE57342,3,3,Day3,cell line: T47D;	cell type: breast cancer cell line;	sample group: AZA_Day3
+GSM1380416,GSE57342,day7,7,Day7,cell line: T47D;	cell type: breast cancer cell line;	sample group: Mock_Day7
+GSM1380418,GSE57342,day10,10,Day10,cell line: T47D;	cell type: breast cancer cell line;	sample group: Mock_Day10
+GSM1380422,GSE57342,3,3,Day3,cell line: EFM19;	cell type: breast cancer cell line;	sample group: Mock_Day3
+GSM1380423,GSE57342,3,3,Day3,cell line: EFM19;	cell type: breast cancer cell line;	sample group: AZA_Day3
+GSM1380424,GSE57342,day7,7,Day7,cell line: EFM19;	cell type: breast cancer cell line;	sample group: Mock_Day7
+GSM1380426,GSE57342,day10,10,Day10,cell line: EFM19;	cell type: breast cancer cell line;	sample group: Mock_Day10
+GSM1380427,GSE57342,day10,10,Day10,cell line: EFM19;	cell type: breast cancer cell line;	sample group: AZA_Day10
+GSM1380453,GSE57342,day10,10,Day10,cell line: HCC38;	cell type: breast cancer cell line;	sample group: AZA_Day10
+GSM1380456,GSE57342,3,3,Day3,cell line: SUM149;	cell type: breast cancer cell line;	sample group: Mock_Day3
+GSM1380457,GSE57342,3,3,Day3,cell line: SUM149;	cell type: breast cancer cell line;	sample group: AZA_Day3
+GSM1380460,GSE57342,day10,10,Day10,cell line: SUM149;	cell type: breast cancer cell line;	sample group: Mock_Day10
+GSM1380464,GSE57342,3,3,Day3,cell line: SUM159;	cell type: breast cancer cell line;	sample group: Mock_Day3
+GSM1380465,GSE57342,3,3,Day3,cell line: SUM159;	cell type: breast cancer cell line;	sample group: AZA_Day3
+GSM1380468,GSE57342,day10,10,Day10,cell line: SUM159;	cell type: breast cancer cell line;	sample group: Mock_Day10
+GSM1380481,GSE57342,3,3,Day3,cell line: HCC1500;	cell type: breast cancer cell line;	sample group: AZA_Day3
+GSM1380482,GSE57342,day7,7,Day7,cell line: HCC1500;	cell type: breast cancer cell line;	sample group: Mock_Day7
+GSM1380489,GSE57342,3,3,Day3,cell line: MDA415;	cell type: breast cancer cell line;	sample group: AZA_Day3
+GSM1380490,GSE57342,day7,7,Day7,cell line: MDA415;	cell type: breast cancer cell line;	sample group: Mock_Day7
+GSM1380491,GSE57342,day7,7,Day7,cell line: MDA415;	cell type: breast cancer cell line;	sample group: AZA_Day7
+GSM1380492,GSE57342,day10,10,Day10,cell line: MDA415;	cell type: breast cancer cell line;	sample group: Mock_Day10
+GSM1380493,GSE57342,day10,10,Day10,cell line: MDA415;	cell type: breast cancer cell line;	sample group: AZA_Day10
+GSM1380494,GSE57342,day10,10,Day10,cell line: MDA175;	cell type: breast cancer cell line;	sample group: Mock_Day10
+GSM1380499,GSE57342,3,3,Day3,cell line: MDA436;	cell type: breast cancer cell line;	sample group: AZA_Day3
+GSM1380501,GSE57342,day7,7,Day7,cell line: MDA436;	cell type: breast cancer cell line;	sample group: AZA_Day7
+GSM1380502,GSE57342,day10,10,Day10,cell line: MDA436;	cell type: breast cancer cell line;	sample group: Mock_Day10
+GSM1380503,GSE57342,Day10,10,Day10,cell line: MDA436;	cell type: breast cancer cell line;	sample group: AZA_Day10
+GSM1380506,GSE57342,3,3,Day3,cell line: EFM192A;	cell type: breast cancer cell line;	sample group: Mock_Day3
+GSM1380507,GSE57342,3,3,Day3,cell line: EFM192A;	cell type: breast cancer cell line;	sample group: AZA_Day3
+GSM1380508,GSE57342,day7,7,Day7,cell line: EFM192A;	cell type: breast cancer cell line;	sample group: Mock_Day7
+GSM1380511,GSE57342,Day10,10,Day10,cell line: EFM192A;	cell type: breast cancer cell line;	sample group: AZA_Day10
+GSM1380515,GSE57342,3,3,Day3,cell line: HCC1419;	cell type: breast cancer cell line;	sample group: AZA_Day3
+GSM1380516,GSE57342,day7,7,Day7,cell line: HCC1419;	cell type: breast cancer cell line;	sample group: Mock_Day7
+GSM1380518,GSE57342,day10,10,Day10,cell line: HCC1419;	cell type: breast cancer cell line;	sample group: Mock_Day10
+GSM1380523,GSE57342,3,3,Day3,cell line: MDA175;	cell type: breast cancer cell line;	sample group: AZA_Day3
+GSM1380529,GSE57342,3,3,Day3,cell line: HCC1954;	cell type: breast cancer cell line;	sample group: AZA_Day3
+GSM1380530,GSE57342,day7,7,Day7,cell line: HCC1954;	cell type: breast cancer cell line;	sample group: Mock_Day7
+GSM1380532,GSE57342,day10,10,Day10,cell line: HCC1954;	cell type: breast cancer cell line;	sample group: Mock_Day10
+GSM1380537,GSE57342,3,3,Day3,cell line: HCC1187;	cell type: breast cancer cell line;	sample group: AZA_Day3
+GSM1380538,GSE57342,day7,7,Day7,cell line: HCC1187;	cell type: breast cancer cell line;	sample group: Mock_Day7
+GSM1380540,GSE57342,day10,10,Day10,cell line: HCC1187;	cell type: breast cancer cell line;	sample group: Mock_Day10
+GSM1380544,GSE57342,3,3,Day3,cell line: SKBR3;	cell type: breast cancer cell line;	sample group: Mock_Day3
+GSM1380552,GSE57342,3,3,Day3,cell line: CAMA1;	cell type: breast cancer cell line;	sample group: Mock_Day3
+GSM1380553,GSE57342,3,3,Day3,cell line: CAMA1;	cell type: breast cancer cell line;	sample group: AZA_Day3
+GSM1380569,GSE57342,3,3,Day3,cell line: MDA361;	cell type: breast cancer cell line;	sample group: AZA_Day3
+GSM1380570,GSE57342,day7,7,Day7,cell line: MDA361;	cell type: breast cancer cell line;	sample group: Mock_Day7
+GSM1380571,GSE57342,day7,7,Day7,cell line: MDA361;	cell type: breast cancer cell line;	sample group: AZA_Day7
+GSM1380573,GSE57342,day10,10,Day10,cell line: MDA361;	cell type: breast cancer cell line;	sample group: AZA_Day10
+GSM1380585,GSE57342,3,3,Day3,cell line: HCC1937;	cell type: breast cancer cell line;	sample group: AZA_Day3
+GSM1380586,GSE57342,day7,7,Day7,cell line: HCC1937;	cell type: breast cancer cell line;	sample group: Mock_Day7
+GSM1380588,GSE57342,day10,10,Day10,cell line: HCC1937;	cell type: breast cancer cell line;	sample group: Mock_Day10
+GSM1380589,GSE57342,day10,10,Day10,cell line: HCC1937;	cell type: breast cancer cell line;	sample group: AZA_Day10
+GSM1380601,GSE57342,3,3,Day3,cell line: DLD1;	cell type: colon cancer cell line;	sample group: AZA_Day3
+GSM1380602,GSE57342,day7,7,Day7,cell line: DLD1;	cell type: colon cancer cell line;	sample group: AZA_Day7
+GSM1380617,GSE57342,3,3,Day3,cell line: Lovo;	cell type: colon cancer cell line;	sample group: AZA_Day3
+GSM1092267,GSE44837,day3,3,day3,gender: Female;	disease: Breast cancer;	er: -
+GSM1092268,GSE44837,day3,3,day3,gender: Female;	disease: Breast cancer;	er: +;	her2: +
+GSM1092270,GSE44837,day3,3,day3,gender: Female;	disease: Breast cancer;	er: +
+GSM1092271,GSE44837,day3,3,day3,gender: Female;	disease: Breast cancer;	er: +;	her2: +
+GSM1092278,GSE44837,day3,3,day3,gender: Female;	disease: Breast cancer;	er: -
+GSM1092291,GSE44837,day3,3,day3,gender: Female;	disease: Breast cancer;	er: +
+GSM1375385,GSE57107,4,4,4 days,cell type: peripheral blood mononuclear cells;	treatment: recombinant human growth hormone;	patient: 4
+GSM1889930,GSE73270,10month,10,10 months,tissue/cell type: patient-derived glioblastoma tumorsphere;	idh1: mutant;	treated with: DMSO (0.1%) for 10 months + 2 days
+GSM4478754,GSE148775,day12,12,Day12,cell type: CD34+
+GSM4478756,GSE148775,day12,12,Day12,cell type: CD34+
+GSM3904685,GSE133277,day7,7,day7,cell type: human amnion epithelial cells (hAECs);	treatment: none on day7
+GSM3904686,GSE133277,day7,7,day7,cell type: human amnion epithelial cells (hAECs);	treatment: none on day7
+GSM3904687,GSE133277,day7,7,day7,cell type: human amnion epithelial cells (hAECs);	treatment: none on day7
+GSM5680979,GSE188411,day7,7,day7,treatment: Untreated control hAECs on day7
+GSM5680981,GSE188411,day7,7,day7,treatment: Untreated control hAECs on day8
+GSM5680983,GSE188411,day7_3,7,day7,treatment: Untreated control hAECs on day9
+GSM4066407,GSE137061,day7,7,day7,cell type: amnion epithelial cells;	treatment: untreated control hAECs on 7th day
+GSM4066408,GSE137061,day7,7,day7,cell type: amnion epithelial cells;	treatment: untreated control hAECs on 7th day
+GSM4478766,GSE148776,7days,7,Day 7,cell type: amnion epithelial cells
+GSM1370687,GSE56886,3m,3,3 Months,diagnosis: coronary artery disease (CAD);	cell type: PBMCs
+GSM1370688,GSE56886,3m,3,3 Months,diagnosis: coronary artery disease (CAD);	cell type: PBMCs
+GSM1370689,GSE56886,3m,3,3 Months,diagnosis: coronary artery disease (CAD);	cell type: PBMCs
+GSM1370690,GSE56886,3m,3,3 Months,diagnosis: coronary artery disease (CAD);	cell type: PBMCs
+GSM1370691,GSE56886,6M,6,6 Months,diagnosis: coronary artery disease (CAD);	cell type: PBMCs
+GSM1370692,GSE56886,6M,6,6 Months,diagnosis: coronary artery disease (CAD);	cell type: PBMCs
+GSM1370693,GSE56886,6M,6,6 Months,diagnosis: coronary artery disease (CAD);	cell type: PBMCs
+GSM1370694,GSE56886,6M,6,6 Months,diagnosis: coronary artery disease (CAD);	cell type: PBMCs
+GSM2829244,GSE106080,day5,5,day5,tissue: Blood (Monocytes);	cell type: Monocyte-derived DCs;	agent: Cholera Toxin
+GSM2829246,GSE106080,day5,5,day5,tissue: Blood (Monocytes);	cell type: Monocyte-derived DCs;	agent: LPS
+GSM2829247,GSE106080,day5,5,day5,tissue: Blood (Monocytes);	cell type: Monocyte-derived DCs;	agent: none
+GSM3104677,GSE113384,3weeks,3,3weeks,cell line: HCT116 (RIKEN RCB2979);	genotype/variation: RECQL4 KO;	treatment: Cell expansion
+GSM3104672,GSE113384,3weeks,3,3weeks,cell line: HCT116 (RIKEN RCB2979);	genotype/variation: WT;	treatment: Cell expansion
+GSM5667731,GSE187285,day2,2,day2,disease: AML;	time point: day2
+GSM5667732,GSE187285,day2,2,day2,disease: AML;	time point: day2
+GSM5667733,GSE187285,day2,2,day2,disease: AML;	time point: day2
+GSM5667740,GSE187285,day4,4,day4,disease: AML;	time point: day4
+GSM5667741,GSE187285,day4,4,day4,disease: AML;	time point: day4
+GSM5667742,GSE187285,day4,4,day4,disease: AML;	time point: day4
+GSM5667739,GSE187285,day4,4,day4,disease: AML;	time point: day4
+GSM5667734,GSE187285,day2,2,day2,disease: AML;	time point: day2
+GSM5667735,GSE187285,day2,2,day2,disease: AML;	time point: day2
+GSM5667736,GSE187285,day2,2,day2,disease: AML;	time point: day2
+GSM2784547,GSE103845,7days,7,7days,cell type: A549;	condition: normal medium
+GSM2784548,GSE103845,7days,7,7days,cell type: A549;	condition: normal medium
+GSM2784549,GSE103845,7days,7,7days,cell type: A549;	condition: normal medium
+GSM2784550,GSE103845,7days,7,7days,cell type: A549;	condition: low-attachment plate with normal medium
+GSM2784551,GSE103845,7days,7,7days,cell type: A549;	condition: low-attachment plate with normal medium
+GSM2784552,GSE103845,7days,7,7days,cell type: A549;	condition: low-attachment plate with normal medium
+GSM2784553,GSE103845,7days,7,7days,cell type: A549;	condition: ow-attachment plate with LA717 containing medium
+GSM1702850,GSE69523,11days,11,11days,cell line: SKOV3 cells;	treatment: 2D culture
+GSM1702851,GSE69523,11days,11,11days,cell line: SKOV3 cells;	treatment: 2D culture
+GSM1702854,GSE69523,11days,11,11days,cell line: SKOV3 cells;	treatment: 3D culture
+GSM1704108,GSE69577,5days,5,5days,cell line: A549;	medium: normal attachment plate with FP001
+GSM4873895,GSE160482,day7,7,day7,cell line: H2107;	construct: TetO-GFP;	treatment: Dox;	time: day7
+GSM4873896,GSE160482,day7,7,day7,cell line: H2107;	construct: TetO-GFP;	treatment: Dox;	time: day7
+GSM4873897,GSE160482,day7,7,day7,cell line: H2107;	construct: TetO-GFP;	treatment: Dox;	time: day7
+GSM4873915,GSE160482,day7,7,day7,cell line: H2107;	construct: TetO-KRAS-G12V;	treatment: Dox;	time: day7
+GSM4873877,GSE160482,day7,7,day7,cell line: H82;	construct: TetO-EGFR-L858R;	treatment: Dox;	time: day7
+GSM4873878,GSE160482,day7,7,day7,cell line: H82;	construct: TetO-EGFR-L858R;	treatment: Dox;	time: day7
+GSM4873879,GSE160482,day7,7,day7,cell line: H82;	construct: TetO-EGFR-L858R;	treatment: Dox;	time: day7
+GSM4873868,GSE160482,day7,7,day7,cell line: H82;	construct: TetO-GFP;	treatment: Dox;	time: day7
+GSM4873869,GSE160482,day7,7,day7,cell line: H82;	construct: TetO-GFP;	treatment: Dox;	time: day7
+GSM4873870,GSE160482,day7,7,day7,cell line: H82;	construct: TetO-GFP;	treatment: Dox;	time: day7
+GSM4873886,GSE160482,day7,7,day7,cell line: H82;	construct: TetO-KRAS-G12V;	treatment: Dox;	time: day7
+GSM4873887,GSE160482,day7,7,day7,cell line: H82;	construct: TetO-KRAS-G12V;	treatment: Dox;	time: day7
+GSM4873888,GSE160482,day7,7,day7,cell line: H82;	construct: TetO-KRAS-G12V;	treatment: Dox;	time: day7
+GSM1701816,GSE69477,5days,5,5days,cell line: A549
+GSM1701817,GSE69477,5days,5,5days,cell line: A549
+GSM1701819,GSE69477,5days,5,5days,cell line: A549
+GSM1701820,GSE69477,5days,5,5days,cell line: A549
+GSM1701821,GSE69477,5days,5,5days,cell line: A549
+GSM1701822,GSE69477,5days,5,5days,cell line: A549
+GSM1701823,GSE69477,5days,5,5days,cell line: A549
+GSM1701824,GSE69477,5days,5,5days,cell line: A549
+GSM2779418,GSE103702,7days,7,7days,cell line: A549;	culture condition: low-attachment plates with LA717 containing medium
+GSM2779419,GSE103702,7days,7,7days,cell line: A549;	culture condition: low-attachment plates with LA717 containing medium
+GSM2159910,GSE81624,4 wks,4,4 wks,subject status: control;	gender: male;	genotype/variation: WT;	cell type source: Neural precursor cells from iPSC line;	cell type: neurons;	neuron age: 4 wks; MACS-purified at 3 weeks and grown for ad
+GSM2159911,GSE81624,4 wks,4,4 wks,subject status: control;	gender: female;	genotype/variation: WT;	cell type source: Neural precursor cells from iPSC line;	cell type: neurons;	neuron age: 4 wks; MACS-purified at 3 weeks and grown for 
+GSM2159912,GSE81624,4 wks,4,4 wks,subject status: control;	gender: female;	genotype/variation: WT;	cell type source: Neural precursor cells from iPSC line;	cell type: neurons;	neuron age: 4 wks; MACS-purified at 3 weeks and grown for 
+GSM2159913,GSE81624,4 wks,4,4 wks,subject status: control;	gender: female;	genotype/variation: WT;	cell type source: Neural precursor cells from iPSC line;	cell type: neurons;	neuron age: 4 wks; MACS-purified at 3 weeks and grown for 
+GSM2159914,GSE81624,4 wks,4,4 wks,subject status: autism spectrum disorder (ASD) subject with PTCHD1 locus microdeletions;	gender: male;	genotype/variation: PTCHD1/PTCHD1AS NULL;	cell type source: Neural precursor cells from iPSC line
+GSM2159915,GSE81624,4 wks,4,4 wks,subject status: autism spectrum disorder (ASD) subject with PTCHD1 locus microdeletions;	gender: male;	genotype/variation: PTCHD1/PTCHD1AS NULL;	cell type source: Neural precursor cells from iPSC line
+GSM2159918,GSE81624,4 wks,4,4 wks,subject status: autism spectrum disorder (ASD) subject with PTCHD1 locus microdeletions;	gender: male;	genotype/variation: PTCHD1AS NULL;	cell type source: Neural precursor cells from iPSC line;	cell 
+GSM2159919,GSE81624,4 wks,4,4 wks,subject status: control;	gender: male;	genotype/variation: WT;	cell type source: Neural precursor cells from iPSC line;	cell type: neurons;	neuron age: 4 wks; MACS-purified at 3 weeks and grown for ad
+GSM2159920,GSE81624,4 wks,4,4 wks,subject status: control;	gender: female;	genotype/variation: WT;	cell type source: Neural precursor cells from iPSC line;	cell type: neurons;	neuron age: 4 wks; MACS-purified at 3 weeks and grown for 
+GSM2159921,GSE81624,4 wks,4,4 wks,subject status: control;	gender: female;	genotype/variation: WT;	cell type source: Neural precursor cells from iPSC line;	cell type: neurons;	neuron age: 4 wks; MACS-purified at 3 weeks and grown for 
+GSM2159922,GSE81624,4 wks,4,4 wks,subject status: control;	gender: female;	genotype/variation: WT;	cell type source: Neural precursor cells from iPSC line;	cell type: neurons;	neuron age: 4 wks; MACS-purified at 3 weeks and grown for 
+GSM2159923,GSE81624,4 wks,4,4 wks,subject status: autism spectrum disorder (ASD) subject with PTCHD1 locus microdeletions;	gender: male;	genotype/variation: PTCHD1/PTCHD1AS NULL;	cell type source: Neural precursor cells from iPSC line
+GSM2159924,GSE81624,4 wks,4,4 wks,subject status: autism spectrum disorder (ASD) subject with PTCHD1 locus microdeletions;	gender: male;	genotype/variation: PTCHD1/PTCHD1AS NULL;	cell type source: Neural precursor cells from iPSC line
+GSM1308843,GSE54143,7day,7,7day,in vitro culture: 7day in GMCSF/IL4 DC culture
+GSM5912352,GSE197285,12wk,12,12 weeks,"Sex: Male;	subject_id: P002;	intervention: diet1;	specification intervention diet: 25% energy restricted (ER), low nutrient quality;	moment of adipose tissue sampling: 12 weeks after intervention;	tim"
+GSM5912356,GSE197285,12wk,12,12 weeks,"Sex: Male;	subject_id: P003;	intervention: diet1;	specification intervention diet: 25% energy restricted (ER), low nutrient quality;	moment of adipose tissue sampling: 12 weeks after intervention;	tim"
+GSM5912360,GSE197285,12wk,12,12 weeks,"Sex: Male;	subject_id: P005;	intervention: diet1;	specification intervention diet: 25% energy restricted (ER), low nutrient quality;	moment of adipose tissue sampling: 12 weeks after intervention;	tim"
+GSM5912364,GSE197285,12wk,12,12 weeks,"Sex: Male;	subject_id: P006;	intervention: diet2;	specification intervention diet: 25% energy restricted (ER), high nutrient quality;	moment of adipose tissue sampling: 12 weeks after intervention;	ti"
+GSM5912368,GSE197285,12wk,12,12 weeks,Sex: Male;	subject_id: P008;	intervention: diet0;	specification intervention diet: habitual diet;	moment of adipose tissue sampling: 12 weeks after intervention;	time of adipose tissue sampling: 0 hou
+GSM5912369,GSE197285,12wk,12,12 weeks,Sex: Male;	subject_id: P008;	intervention: diet0;	specification intervention diet: habitual diet;	moment of adipose tissue sampling: 12 weeks after intervention;	time of adipose tissue sampling: 4 hou
+GSM5912372,GSE197285,12wk,12,12 weeks,"Sex: Male;	subject_id: P009;	intervention: diet2;	specification intervention diet: 25% energy restricted (ER), high nutrient quality;	moment of adipose tissue sampling: 12 weeks after intervention;	ti"
+GSM5912376,GSE197285,12wk,12,12 weeks,"Sex: Female;	subject_id: P010;	intervention: diet2;	specification intervention diet: 25% energy restricted (ER), high nutrient quality;	moment of adipose tissue sampling: 12 weeks after intervention;	"
+GSM5912380,GSE197285,12wk,12,12 weeks,"Sex: Female;	subject_id: P011;	intervention: diet2;	specification intervention diet: 25% energy restricted (ER), high nutrient quality;	moment of adipose tissue sampling: 12 weeks after intervention;	"
+GSM5912384,GSE197285,12wk,12,12 weeks,"Sex: Male;	subject_id: P012;	intervention: diet1;	specification intervention diet: 25% energy restricted (ER), low nutrient quality;	moment of adipose tissue sampling: 12 weeks after intervention;	tim"
+GSM5912388,GSE197285,12wk,12,12 weeks,"Sex: Male;	subject_id: P014;	intervention: diet1;	specification intervention diet: 25% energy restricted (ER), low nutrient quality;	moment of adipose tissue sampling: 12 weeks after intervention;	tim"
+GSM5912392,GSE197285,12wk,12,12 weeks,"Sex: Female;	subject_id: P015;	intervention: diet1;	specification intervention diet: 25% energy restricted (ER), low nutrient quality;	moment of adipose tissue sampling: 12 weeks after intervention;	t"
+GSM5912396,GSE197285,12wk,12,12 weeks,Sex: Female;	subject_id: P016;	intervention: diet0;	specification intervention diet: habitual diet;	moment of adipose tissue sampling: 12 weeks after intervention;	time of adipose tissue sampling: 0 h
+GSM5912397,GSE197285,12wk,12,12 weeks,Sex: Female;	subject_id: P016;	intervention: diet0;	specification intervention diet: habitual diet;	moment of adipose tissue sampling: 12 weeks after intervention;	time of adipose tissue sampling: 4 h
+GSM5912400,GSE197285,12wk,12,12 weeks,"Sex: Female;	subject_id: P017;	intervention: diet1;	specification intervention diet: 25% energy restricted (ER), low nutrient quality;	moment of adipose tissue sampling: 12 weeks after intervention;	t"
+GSM5912404,GSE197285,12wk,12,12 weeks,"Sex: Female;	subject_id: P019;	intervention: diet2;	specification intervention diet: 25% energy restricted (ER), high nutrient quality;	moment of adipose tissue sampling: 12 weeks after intervention;	"
+GSM5912408,GSE197285,12wk,12,12 weeks,"Sex: Male;	subject_id: P021;	intervention: diet2;	specification intervention diet: 25% energy restricted (ER), high nutrient quality;	moment of adipose tissue sampling: 12 weeks after intervention;	ti"
+GSM5912412,GSE197285,12wk,12,12 weeks,"Sex: Female;	subject_id: P024;	intervention: diet1;	specification intervention diet: 25% energy restricted (ER), low nutrient quality;	moment of adipose tissue sampling: 12 weeks after intervention;	t"
+GSM5912416,GSE197285,12wk,12,12 weeks,Sex: Male;	subject_id: P026;	intervention: diet0;	specification intervention diet: habitual diet;	moment of adipose tissue sampling: 12 weeks after intervention;	time of adipose tissue sampling: 0 hou
+GSM5912420,GSE197285,12wk,12,12 weeks,Sex: Female;	subject_id: P028;	intervention: diet0;	specification intervention diet: habitual diet;	moment of adipose tissue sampling: 12 weeks after intervention;	time of adipose tissue sampling: 0 h
+GSM5912424,GSE197285,12wk,12,12 weeks,"Sex: Male;	subject_id: P030;	intervention: diet2;	specification intervention diet: 25% energy restricted (ER), high nutrient quality;	moment of adipose tissue sampling: 12 weeks after intervention;	ti"
+GSM5912428,GSE197285,12wk,12,12 weeks,Sex: Female;	subject_id: P031;	intervention: diet0;	specification intervention diet: habitual diet;	moment of adipose tissue sampling: 12 weeks after intervention;	time of adipose tissue sampling: 0 h
+GSM5912429,GSE197285,12wk,12,12 weeks,Sex: Female;	subject_id: P031;	intervention: diet0;	specification intervention diet: habitual diet;	moment of adipose tissue sampling: 12 weeks after intervention;	time of adipose tissue sampling: 4 h
+GSM5912432,GSE197285,12wk,12,12 weeks,"Sex: Male;	subject_id: P033;	intervention: diet1;	specification intervention diet: 25% energy restricted (ER), low nutrient quality;	moment of adipose tissue sampling: 12 weeks after intervention;	tim"
+GSM5912436,GSE197285,12wk,12,12 weeks,"Sex: Male;	subject_id: P034;	intervention: diet1;	specification intervention diet: 25% energy restricted (ER), low nutrient quality;	moment of adipose tissue sampling: 12 weeks after intervention;	tim"
+GSM5912440,GSE197285,12wk,12,12 weeks,"Sex: Female;	subject_id: P035;	intervention: diet2;	specification intervention diet: 25% energy restricted (ER), high nutrient quality;	moment of adipose tissue sampling: 12 weeks after intervention;	"
+GSM5912444,GSE197285,12wk,12,12 weeks,"Sex: Male;	subject_id: P037;	intervention: diet2;	specification intervention diet: 25% energy restricted (ER), high nutrient quality;	moment of adipose tissue sampling: 12 weeks after intervention;	ti"
+GSM5912448,GSE197285,12wk,12,12 weeks,"Sex: Female;	subject_id: P038;	intervention: diet2;	specification intervention diet: 25% energy restricted (ER), high nutrient quality;	moment of adipose tissue sampling: 12 weeks after intervention;	"
+GSM5912452,GSE197285,12wk,12,12 weeks,Sex: Male;	subject_id: P041;	intervention: diet0;	specification intervention diet: habitual diet;	moment of adipose tissue sampling: 12 weeks after intervention;	time of adipose tissue sampling: 0 hou
+GSM5912453,GSE197285,12wk,12,12 weeks,Sex: Male;	subject_id: P041;	intervention: diet0;	specification intervention diet: habitual diet;	moment of adipose tissue sampling: 12 weeks after intervention;	time of adipose tissue sampling: 4 hou
+GSM5912456,GSE197285,12wk,12,12 weeks,Sex: Female;	subject_id: P045;	intervention: diet0;	specification intervention diet: habitual diet;	moment of adipose tissue sampling: 12 weeks after intervention;	time of adipose tissue sampling: 0 h
+GSM5912457,GSE197285,12wk,12,12 weeks,Sex: Female;	subject_id: P045;	intervention: diet0;	specification intervention diet: habitual diet;	moment of adipose tissue sampling: 12 weeks after intervention;	time of adipose tissue sampling: 4 h
+GSM5912460,GSE197285,12wk,12,12 weeks,Sex: Male;	subject_id: P047;	intervention: diet0;	specification intervention diet: habitual diet;	moment of adipose tissue sampling: 12 weeks after intervention;	time of adipose tissue sampling: 0 hou
+GSM5912461,GSE197285,12wk,12,12 weeks,Sex: Male;	subject_id: P047;	intervention: diet0;	specification intervention diet: habitual diet;	moment of adipose tissue sampling: 12 weeks after intervention;	time of adipose tissue sampling: 4 hou
+GSM5912464,GSE197285,12wk,12,12 weeks,"Sex: Male;	subject_id: P049;	intervention: diet2;	specification intervention diet: 25% energy restricted (ER), high nutrient quality;	moment of adipose tissue sampling: 12 weeks after intervention;	ti"
+GSM5912468,GSE197285,12wk,12,12 weeks,Sex: Female;	subject_id: P050;	intervention: diet0;	specification intervention diet: habitual diet;	moment of adipose tissue sampling: 12 weeks after intervention;	time of adipose tissue sampling: 0 h
+GSM5912472,GSE197285,12wk,12,12 weeks,"Sex: Female;	subject_id: P051;	intervention: diet2;	specification intervention diet: 25% energy restricted (ER), high nutrient quality;	moment of adipose tissue sampling: 12 weeks after intervention;	"
+GSM5912476,GSE197285,12wk,12,12 weeks,"Sex: Male;	subject_id: P052;	intervention: diet2;	specification intervention diet: 25% energy restricted (ER), high nutrient quality;	moment of adipose tissue sampling: 12 weeks after intervention;	ti"
+GSM5912480,GSE197285,12wk,12,12 weeks,Sex: Male;	subject_id: P054;	intervention: diet0;	specification intervention diet: habitual diet;	moment of adipose tissue sampling: 12 weeks after intervention;	time of adipose tissue sampling: 0 hou
+GSM5912484,GSE197285,12wk,12,12 weeks,Sex: Male;	subject_id: P055;	intervention: diet0;	specification intervention diet: habitual diet;	moment of adipose tissue sampling: 12 weeks after intervention;	time of adipose tissue sampling: 0 hou
+GSM5912488,GSE197285,12wk,12,12 weeks,"Sex: Female;	subject_id: P059;	intervention: diet1;	specification intervention diet: 25% energy restricted (ER), low nutrient quality;	moment of adipose tissue sampling: 12 weeks after intervention;	t"
+GSM5912496,GSE197285,12wk,12,12 weeks,"Sex: Female;	subject_id: P064;	intervention: diet2;	specification intervention diet: 25% energy restricted (ER), high nutrient quality;	moment of adipose tissue sampling: 12 weeks after intervention;	"
+GSM5912500,GSE197285,12wk,12,12 weeks,"Sex: Female;	subject_id: P065;	intervention: diet2;	specification intervention diet: 25% energy restricted (ER), high nutrient quality;	moment of adipose tissue sampling: 12 weeks after intervention;	"
+GSM5912504,GSE197285,12wk,12,12 weeks,Sex: Female;	subject_id: P067;	intervention: diet0;	specification intervention diet: habitual diet;	moment of adipose tissue sampling: 12 weeks after intervention;	time of adipose tissue sampling: 0 h
+GSM5912505,GSE197285,12wk,12,12 weeks,Sex: Female;	subject_id: P067;	intervention: diet0;	specification intervention diet: habitual diet;	moment of adipose tissue sampling: 12 weeks after intervention;	time of adipose tissue sampling: 4 h
+GSM5912508,GSE197285,12wk,12,12 weeks,"Sex: Male;	subject_id: P068;	intervention: diet1;	specification intervention diet: 25% energy restricted (ER), low nutrient quality;	moment of adipose tissue sampling: 12 weeks after intervention;	tim"
+GSM5912512,GSE197285,12wk,12,12 weeks,Sex: Female;	subject_id: P071;	intervention: diet0;	specification intervention diet: habitual diet;	moment of adipose tissue sampling: 12 weeks after intervention;	time of adipose tissue sampling: 0 h
+GSM5912513,GSE197285,12wk,12,12 weeks,Sex: Female;	subject_id: P071;	intervention: diet0;	specification intervention diet: habitual diet;	moment of adipose tissue sampling: 12 weeks after intervention;	time of adipose tissue sampling: 4 h
+GSM5912516,GSE197285,12wk,12,12 weeks,"Sex: Female;	subject_id: P073;	intervention: diet1;	specification intervention diet: 25% energy restricted (ER), low nutrient quality;	moment of adipose tissue sampling: 12 weeks after intervention;	t"
+GSM5912520,GSE197285,12wk,12,12 weeks,Sex: Male;	subject_id: P074;	intervention: diet0;	specification intervention diet: habitual diet;	moment of adipose tissue sampling: 12 weeks after intervention;	time of adipose tissue sampling: 0 hou
+GSM5912521,GSE197285,12wk,12,12 weeks,Sex: Male;	subject_id: P074;	intervention: diet0;	specification intervention diet: habitual diet;	moment of adipose tissue sampling: 12 weeks after intervention;	time of adipose tissue sampling: 4 hou
+GSM5912524,GSE197285,12wk,12,12 weeks,"Sex: Male;	subject_id: P075;	intervention: diet2;	specification intervention diet: 25% energy restricted (ER), high nutrient quality;	moment of adipose tissue sampling: 12 weeks after intervention;	ti"
+GSM5912528,GSE197285,12wk,12,12 weeks,Sex: Male;	subject_id: P076;	intervention: diet0;	specification intervention diet: habitual diet;	moment of adipose tissue sampling: 12 weeks after intervention;	time of adipose tissue sampling: 0 hou
+GSM5912529,GSE197285,12wk,12,12 weeks,Sex: Male;	subject_id: P076;	intervention: diet0;	specification intervention diet: habitual diet;	moment of adipose tissue sampling: 12 weeks after intervention;	time of adipose tissue sampling: 4 hou
+GSM5912532,GSE197285,12wk,12,12 weeks,Sex: Female;	subject_id: P077;	intervention: diet0;	specification intervention diet: habitual diet;	moment of adipose tissue sampling: 12 weeks after intervention;	time of adipose tissue sampling: 0 h
+GSM5912533,GSE197285,12wk,12,12 weeks,Sex: Female;	subject_id: P077;	intervention: diet0;	specification intervention diet: habitual diet;	moment of adipose tissue sampling: 12 weeks after intervention;	time of adipose tissue sampling: 4 h
+GSM5912536,GSE197285,12wk,12,12 weeks,"Sex: Male;	subject_id: P079;	intervention: diet2;	specification intervention diet: 25% energy restricted (ER), high nutrient quality;	moment of adipose tissue sampling: 12 weeks after intervention;	ti"
+GSM5912540,GSE197285,12wk,12,12 weeks,"Sex: Male;	subject_id: P080;	intervention: diet1;	specification intervention diet: 25% energy restricted (ER), low nutrient quality;	moment of adipose tissue sampling: 12 weeks after intervention;	tim"
+GSM5912544,GSE197285,12wk,12,12 weeks,"Sex: Female;	subject_id: P081;	intervention: diet1;	specification intervention diet: 25% energy restricted (ER), low nutrient quality;	moment of adipose tissue sampling: 12 weeks after intervention;	t"
+GSM5912548,GSE197285,12wk,12,12 weeks,"Sex: Female;	subject_id: P083;	intervention: diet1;	specification intervention diet: 25% energy restricted (ER), low nutrient quality;	moment of adipose tissue sampling: 12 weeks after intervention;	t"
+GSM5912552,GSE197285,12wk,12,12 weeks,"Sex: Male;	subject_id: P084;	intervention: diet1;	specification intervention diet: 25% energy restricted (ER), low nutrient quality;	moment of adipose tissue sampling: 12 weeks after intervention;	tim"
+GSM5912556,GSE197285,12wk,12,12 weeks,"Sex: Male;	subject_id: P087;	intervention: diet2;	specification intervention diet: 25% energy restricted (ER), high nutrient quality;	moment of adipose tissue sampling: 12 weeks after intervention;	ti"
+GSM5912560,GSE197285,12wk,12,12 weeks,"Sex: Female;	subject_id: P088;	intervention: diet2;	specification intervention diet: 25% energy restricted (ER), high nutrient quality;	moment of adipose tissue sampling: 12 weeks after intervention;	"
+GSM5912564,GSE197285,12wk,12,12 weeks,"Sex: Female;	subject_id: P089;	intervention: diet2;	specification intervention diet: 25% energy restricted (ER), high nutrient quality;	moment of adipose tissue sampling: 12 weeks after intervention;	"
+GSM5912568,GSE197285,12wk,12,12 weeks,"Sex: Female;	subject_id: P091;	intervention: diet1;	specification intervention diet: 25% energy restricted (ER), low nutrient quality;	moment of adipose tissue sampling: 12 weeks after intervention;	t"
+GSM5912572,GSE197285,12wk,12,12 weeks,"Sex: Female;	subject_id: P092;	intervention: diet1;	specification intervention diet: 25% energy restricted (ER), low nutrient quality;	moment of adipose tissue sampling: 12 weeks after intervention;	t"
+GSM5912576,GSE197285,12wk,12,12 weeks,"Sex: Female;	subject_id: P093;	intervention: diet1;	specification intervention diet: 25% energy restricted (ER), low nutrient quality;	moment of adipose tissue sampling: 12 weeks after intervention;	t"
+GSM5912580,GSE197285,12wk,12,12 weeks,"Sex: Female;	subject_id: P095;	intervention: diet1;	specification intervention diet: 25% energy restricted (ER), low nutrient quality;	moment of adipose tissue sampling: 12 weeks after intervention;	t"
+GSM5912584,GSE197285,12wk,12,12 weeks,"Sex: Female;	subject_id: P096;	intervention: diet1;	specification intervention diet: 25% energy restricted (ER), low nutrient quality;	moment of adipose tissue sampling: 12 weeks after intervention;	t"
+GSM5912588,GSE197285,12wk,12,12 weeks,"Sex: Male;	subject_id: P097;	intervention: diet1;	specification intervention diet: 25% energy restricted (ER), low nutrient quality;	moment of adipose tissue sampling: 12 weeks after intervention;	tim"
+GSM5912592,GSE197285,12wk,12,12 weeks,Sex: Male;	subject_id: P098;	intervention: diet0;	specification intervention diet: habitual diet;	moment of adipose tissue sampling: 12 weeks after intervention;	time of adipose tissue sampling: 0 hou
+GSM5912593,GSE197285,12wk,12,12 weeks,Sex: Male;	subject_id: P098;	intervention: diet0;	specification intervention diet: habitual diet;	moment of adipose tissue sampling: 12 weeks after intervention;	time of adipose tissue sampling: 4 hou
+GSM5912596,GSE197285,12wk,12,12 weeks,"Sex: Female;	subject_id: P099;	intervention: diet1;	specification intervention diet: 25% energy restricted (ER), low nutrient quality;	moment of adipose tissue sampling: 12 weeks after intervention;	t"
+GSM5912600,GSE197285,12wk,12,12 weeks,"Sex: Male;	subject_id: P100;	intervention: diet1;	specification intervention diet: 25% energy restricted (ER), low nutrient quality;	moment of adipose tissue sampling: 12 weeks after intervention;	tim"
+GSM5912604,GSE197285,12wk,12,12 weeks,"Sex: Female;	subject_id: P101;	intervention: diet2;	specification intervention diet: 25% energy restricted (ER), high nutrient quality;	moment of adipose tissue sampling: 12 weeks after intervention;	"
+GSM5912608,GSE197285,12wk,12,12 weeks,"Sex: Female;	subject_id: P103;	intervention: diet2;	specification intervention diet: 25% energy restricted (ER), high nutrient quality;	moment of adipose tissue sampling: 12 weeks after intervention;	"
+GSM5912612,GSE197285,12wk,12,12 weeks,"Sex: Female;	subject_id: P104;	intervention: diet2;	specification intervention diet: 25% energy restricted (ER), high nutrient quality;	moment of adipose tissue sampling: 12 weeks after intervention;	"
+GSM5912616,GSE197285,12wk,12,12 weeks,"Sex: Male;	subject_id: P106;	intervention: diet2;	specification intervention diet: 25% energy restricted (ER), high nutrient quality;	moment of adipose tissue sampling: 12 weeks after intervention;	ti"
+GSM5912620,GSE197285,12wk,12,12 weeks,"Sex: Male;	subject_id: P107;	intervention: diet2;	specification intervention diet: 25% energy restricted (ER), high nutrient quality;	moment of adipose tissue sampling: 12 weeks after intervention;	ti"
+GSM5912624,GSE197285,12wk,12,12 weeks,Sex: Female;	subject_id: P108;	intervention: diet0;	specification intervention diet: habitual diet;	moment of adipose tissue sampling: 12 weeks after intervention;	time of adipose tissue sampling: 0 h
+GSM5912625,GSE197285,12wk,12,12 weeks,Sex: Female;	subject_id: P108;	intervention: diet0;	specification intervention diet: habitual diet;	moment of adipose tissue sampling: 12 weeks after intervention;	time of adipose tissue sampling: 4 h
+GSM5912628,GSE197285,12wk,12,12 weeks,"Sex: Female;	subject_id: P109;	intervention: diet2;	specification intervention diet: 25% energy restricted (ER), high nutrient quality;	moment of adipose tissue sampling: 12 weeks after intervention;	"
+GSM5912632,GSE197285,12wk,12,12 weeks,"Sex: Female;	subject_id: P110;	intervention: diet1;	specification intervention diet: 25% energy restricted (ER), low nutrient quality;	moment of adipose tissue sampling: 12 weeks after intervention;	t"
+GSM5912633,GSE197285,12wk,12,12 weeks,"Sex: Female;	subject_id: P110;	intervention: diet1;	specification intervention diet: 25% energy restricted (ER), low nutrient quality;	moment of adipose tissue sampling: 12 weeks after intervention;	t"
+GSM5912636,GSE197285,12wk,12,12 weeks,"Sex: Female;	subject_id: P111;	intervention: diet2;	specification intervention diet: 25% energy restricted (ER), high nutrient quality;	moment of adipose tissue sampling: 12 weeks after intervention;	"
+GSM1263986,GSE52363,day3,3,DAY3,cell line: glioblastoma tumor initiating cell
+GSM1263992,GSE52363,day3,3,DAY3,cell line: glioblastoma tumor initiating cell
+GSM1263998,GSE52363,day3,3,DAY3,cell line: glioblastoma tumor initiating cell
+GSM1264004,GSE52363,3,3,DAY3,cell line: glioblastoma tumor initiating cell
+GSM1264007,GSE52363,3,3,DAY3,cell line: glioblastoma tumor initiating cell
+GSM1264013,GSE52363,day3,3,DAY3,cell line: glioblastoma tumor initiating cell
+GSM1264019,GSE52363,day3,3,DAY3,cell line: glioblastoma tumor initiating cell
+GSM1264025,GSE52363,5,5,DAY5,cell line: glioblastoma tumor initiating cell
+GSM1264028,GSE52363,5,5,DAY5,cell line: glioblastoma tumor initiating cell
+GSM1264031,GSE52363,5,5,DAY5,cell line: glioblastoma tumor initiating cell
+GSM1313124,GSE54329,4,4,day 4,cell line: BT-483;	cell type: ERα-positive breast cancer cell line;	treatment: D1: 10 ng/mL IL-6;	time point (day): 4
+GSM1313125,GSE54329,4,4,day 4,cell line: BT-483;	cell type: ERα-positive breast cancer cell line;	treatment: D1: 10 ng/mL IL-6;	time point (day): 4
+GSM1313126,GSE54329,4,4,day 4,cell line: BT-483;	cell type: ERα-positive breast cancer cell line;	treatment: D1: 10 ng/mL IL-6;	time point (day): 4
+GSM1313141,GSE54329,5,5,day 5,cell line: BT-483;	cell type: ERα-positive breast cancer cell line;	treatment: D1: 10 ng/mL IL-6;	time point (day): 5
+GSM1313142,GSE54329,5,5,day 5,cell line: BT-483;	cell type: ERα-positive breast cancer cell line;	treatment: D1: 10 ng/mL IL-6;	time point (day): 5
+GSM1313145,GSE54329,6,6,day 6,cell line: BT-483;	cell type: ERα-positive breast cancer cell line;	treatment: D1: 10 ng/mL IL-6;	time point (day): 6
+GSM1313146,GSE54329,6,6,day 6,cell line: BT-483;	cell type: ERα-positive breast cancer cell line;	treatment: D1: 10 ng/mL IL-6;	time point (day): 6
+GSM1313136,GSE54329,4,4,day 4,cell line: BT-483;	cell type: ERα-positive breast cancer cell line;	treatment: hMSC-CM + 50 ug/mL Siltuximab;	time point (day): 4
+GSM1313137,GSE54329,4,4,day 4,cell line: BT-483;	cell type: ERα-positive breast cancer cell line;	treatment: hMSC-CM + 50 ug/mL Siltuximab;	time point (day): 4
+GSM1313138,GSE54329,4,4,day 4,cell line: BT-483;	cell type: ERα-positive breast cancer cell line;	treatment: hMSC-CM + 50 ug/mL Siltuximab;	time point (day): 4
+GSM1313133,GSE54329,4,4,day 4,cell line: BT-483;	cell type: ERα-positive breast cancer cell line;	treatment: hMSC-CM;	time point (day): 4
+GSM1313134,GSE54329,4,4,day 4,cell line: BT-483;	cell type: ERα-positive breast cancer cell line;	treatment: hMSC-CM;	time point (day): 4
+GSM1313135,GSE54329,4,4,day 4,cell line: BT-483;	cell type: ERα-positive breast cancer cell line;	treatment: hMSC-CM;	time point (day): 4
+GSM1313115,GSE54329,1,1,day 1,cell line: BT-483;	cell type: ERα-positive breast cancer cell line;	treatment: untreated;	time point (day): 1
+GSM1313116,GSE54329,1,1,day 1,cell line: BT-483;	cell type: ERα-positive breast cancer cell line;	treatment: untreated;	time point (day): 1
+GSM1313117,GSE54329,1,1,day 1,cell line: BT-483;	cell type: ERα-positive breast cancer cell line;	treatment: untreated;	time point (day): 1
+GSM1313092,GSE54329,4,4,day 4,cell line: BT474;	cell type: ERα-positive breast cancer cell line;	treatment: D1: 10 ng/mL IL-6;	time point (day): 4
+GSM1313093,GSE54329,4,4,day 4,cell line: BT474;	cell type: ERα-positive breast cancer cell line;	treatment: D1: 10 ng/mL IL-6;	time point (day): 4
+GSM1313094,GSE54329,4,4,day 4,cell line: BT474;	cell type: ERα-positive breast cancer cell line;	treatment: D1: 10 ng/mL IL-6;	time point (day): 4
+GSM1313109,GSE54329,5,5,day 5,cell line: BT474;	cell type: ERα-positive breast cancer cell line;	treatment: D1: 10 ng/mL IL-6;	time point (day): 5
+GSM1313110,GSE54329,5,5,day 5,cell line: BT474;	cell type: ERα-positive breast cancer cell line;	treatment: D1: 10 ng/mL IL-6;	time point (day): 5
+GSM1313113,GSE54329,6,6,day 6,cell line: BT474;	cell type: ERα-positive breast cancer cell line;	treatment: D1: 10 ng/mL IL-6;	time point (day): 6
+GSM1313114,GSE54329,6,6,day 6,cell line: BT474;	cell type: ERα-positive breast cancer cell line;	treatment: D1: 10 ng/mL IL-6;	time point (day): 6
+GSM1313089,GSE54329,4,4,day 4,cell line: BT474;	cell type: ERα-positive breast cancer cell line;	treatment: 50 ug/mL Siltuximab;	time point (day): 4
+GSM1313090,GSE54329,4,4,day 4,cell line: BT474;	cell type: ERα-positive breast cancer cell line;	treatment: 50 ug/mL Siltuximab;	time point (day): 4
+GSM1313091,GSE54329,4,4,day 4,cell line: BT474;	cell type: ERα-positive breast cancer cell line;	treatment: 50 ug/mL Siltuximab;	time point (day): 4
+GSM1313104,GSE54329,4,4,day 4,cell line: BT474;	cell type: ERα-positive breast cancer cell line;	treatment: hMSC-CM + 50 ug/mL Siltuximab;	time point (day): 4
+GSM1313105,GSE54329,4,4,day 4,cell line: BT474;	cell type: ERα-positive breast cancer cell line;	treatment: hMSC-CM + 50 ug/mL Siltuximab;	time point (day): 4
+GSM1313106,GSE54329,4,4,day 4,cell line: BT474;	cell type: ERα-positive breast cancer cell line;	treatment: hMSC-CM + 50 ug/mL Siltuximab;	time point (day): 4
+GSM1313101,GSE54329,4,4,day 4,cell line: BT474;	cell type: ERα-positive breast cancer cell line;	treatment: hMSC-CM;	time point (day): 4
+GSM1313102,GSE54329,4,4,day 4,cell line: BT474;	cell type: ERα-positive breast cancer cell line;	treatment: hMSC-CM;	time point (day): 4
+GSM1313103,GSE54329,4,4,day 4,cell line: BT474;	cell type: ERα-positive breast cancer cell line;	treatment: hMSC-CM;	time point (day): 4
+GSM1313083,GSE54329,1,1,day 1,cell line: BT474;	cell type: ERα-positive breast cancer cell line;	treatment: untreated;	time point (day): 1
+GSM1313084,GSE54329,1,1,day 1,cell line: BT474;	cell type: ERα-positive breast cancer cell line;	treatment: untreated;	time point (day): 1
+GSM1313085,GSE54329,1,1,day 1,cell line: BT474;	cell type: ERα-positive breast cancer cell line;	treatment: untreated;	time point (day): 1
+GSM1313191,GSE54329,4,4,day 4,cell line: EFM-19;	cell type: ERα-positive breast cancer cell line;	treatment: D1: 10 ng/mL IL-6;	time point (day): 4
+GSM1313192,GSE54329,4,4,day 4,cell line: EFM-19;	cell type: ERα-positive breast cancer cell line;	treatment: D1: 10 ng/mL IL-6;	time point (day): 4
+GSM1313193,GSE54329,4,4,day 4,cell line: EFM-19;	cell type: ERα-positive breast cancer cell line;	treatment: D1: 10 ng/mL IL-6;	time point (day): 4
+GSM1313208,GSE54329,5,5,day 5,cell line: EFM-19;	cell type: ERα-positive breast cancer cell line;	treatment: D1: 10 ng/mL IL-6;	time point (day): 5
+GSM1313209,GSE54329,5,5,day 5,cell line: EFM-19;	cell type: ERα-positive breast cancer cell line;	treatment: D1: 10 ng/mL IL-6;	time point (day): 5
+GSM1313212,GSE54329,6,6,day 6,cell line: EFM-19;	cell type: ERα-positive breast cancer cell line;	treatment: D1: 10 ng/mL IL-6;	time point (day): 6
+GSM1313213,GSE54329,6,6,day 6,cell line: EFM-19;	cell type: ERα-positive breast cancer cell line;	treatment: D1: 10 ng/mL IL-6;	time point (day): 6
+GSM1313200,GSE54329,4,4,day 4,cell line: EFM-19;	cell type: ERα-positive breast cancer cell line;	treatment: hMSC-CM;	time point (day): 4
+GSM1313201,GSE54329,4,4,day 4,cell line: EFM-19;	cell type: ERα-positive breast cancer cell line;	treatment: hMSC-CM;	time point (day): 4
+GSM1313202,GSE54329,4,4,day 4,cell line: EFM-19;	cell type: ERα-positive breast cancer cell line;	treatment: hMSC-CM;	time point (day): 4
+GSM1313182,GSE54329,1,1,day 1,cell line: EFM-19;	cell type: ERα-positive breast cancer cell line;	treatment: untreated;	time point (day): 1
+GSM1313183,GSE54329,1,1,day 1,cell line: EFM-19;	cell type: ERα-positive breast cancer cell line;	treatment: untreated;	time point (day): 1
+GSM1313184,GSE54329,1,1,day 1,cell line: EFM-19;	cell type: ERα-positive breast cancer cell line;	treatment: untreated;	time point (day): 1
+GSM1313156,GSE54329,4,4,day 4,cell line: HCC1428;	cell type: ERα-positive breast cancer cell line;	treatment: D1: 10 ng/mL IL-6;	time point (day): 4
+GSM1313157,GSE54329,4,4,day 4,cell line: HCC1428;	cell type: ERα-positive breast cancer cell line;	treatment: D1: 10 ng/mL IL-6;	time point (day): 4
+GSM1313158,GSE54329,4,4,day 4,cell line: HCC1428;	cell type: ERα-positive breast cancer cell line;	treatment: D1: 10 ng/mL IL-6;	time point (day): 4
+GSM1313173,GSE54329,5,5,day 5,cell line: HCC1428;	cell type: ERα-positive breast cancer cell line;	treatment: D1: 10 ng/mL IL-6;	time point (day): 5
+GSM1313174,GSE54329,5,5,day 5,cell line: HCC1428;	cell type: ERα-positive breast cancer cell line;	treatment: D1: 10 ng/mL IL-6;	time point (day): 5
+GSM1313177,GSE54329,6,6,day 6,cell line: HCC1428;	cell type: ERα-positive breast cancer cell line;	treatment: D1: 10 ng/mL IL-6;	time point (day): 6
+GSM1313178,GSE54329,6,6,day 6,cell line: HCC1428;	cell type: ERα-positive breast cancer cell line;	treatment: D1: 10 ng/mL IL-6;	time point (day): 6
+GSM1313165,GSE54329,4,4,day 4,cell line: HCC1428;	cell type: ERα-positive breast cancer cell line;	treatment: hMSC-CM;	time point (day): 4
+GSM1313166,GSE54329,4,4,day 4,cell line: HCC1428;	cell type: ERα-positive breast cancer cell line;	treatment: hMSC-CM;	time point (day): 4
+GSM1313167,GSE54329,4,4,day 4,cell line: HCC1428;	cell type: ERα-positive breast cancer cell line;	treatment: hMSC-CM;	time point (day): 4
+GSM1313147,GSE54329,1,1,day 1,cell line: HCC1428;	cell type: ERα-positive breast cancer cell line;	treatment: untreated;	time point (day): 1
+GSM1313148,GSE54329,1,1,day 1,cell line: HCC1428;	cell type: ERα-positive breast cancer cell line;	treatment: untreated;	time point (day): 1
+GSM1313149,GSE54329,1,1,day 1,cell line: HCC1428;	cell type: ERα-positive breast cancer cell line;	treatment: untreated;	time point (day): 1
+GSM1313223,GSE54329,4,4,day 4,cell line: MCF-7;	cell type: ERα-positive breast cancer cell line;	treatment: 50 ug/mL Siltuximab;	time point (day): 4
+GSM1313224,GSE54329,4,4,day 4,cell line: MCF-7;	cell type: ERα-positive breast cancer cell line;	treatment: 50 ug/mL Siltuximab;	time point (day): 4
+GSM1313225,GSE54329,4,4,day 4,cell line: MCF-7;	cell type: ERα-positive breast cancer cell line;	treatment: 50 ug/mL Siltuximab;	time point (day): 4
+GSM1313238,GSE54329,4,4,day 4,cell line: MCF-7;	cell type: ERα-positive breast cancer cell line;	treatment: hMSC-CM + 50 ug/mL Siltuximab;	time point (day): 4
+GSM1313239,GSE54329,4,4,day 4,cell line: MCF-7;	cell type: ERα-positive breast cancer cell line;	treatment: hMSC-CM + 50 ug/mL Siltuximab;	time point (day): 4
+GSM1313240,GSE54329,4,4,day 4,cell line: MCF-7;	cell type: ERα-positive breast cancer cell line;	treatment: hMSC-CM + 50 ug/mL Siltuximab;	time point (day): 4
+GSM1313217,GSE54329,1,1,day 1,cell line: MCF-7;	cell type: ERα-positive breast cancer cell line;	treatment: untreated;	time point (day): 1
+GSM1313218,GSE54329,1,1,day 1,cell line: MCF-7;	cell type: ERα-positive breast cancer cell line;	treatment: untreated;	time point (day): 1
+GSM1313219,GSE54329,1,1,day 1,cell line: MCF-7;	cell type: ERα-positive breast cancer cell line;	treatment: untreated;	time point (day): 1
+GSM1313060,GSE54329,4,4,day 4,cell line: MDA-MB-134VI;	cell type: ERα-positive breast cancer cell line;	treatment: D1: 10 ng/mL IL-6;	time point (day): 4
+GSM1313062,GSE54329,4,4,day 4,cell line: MDA-MB-134VI;	cell type: ERα-positive breast cancer cell line;	treatment: D1: 10 ng/mL IL-6;	time point (day): 4
+GSM1313077,GSE54329,5,5,day 5,cell line: MDA-MB-134VI;	cell type: ERα-positive breast cancer cell line;	treatment: D1: 10 ng/mL IL-6;	time point (day): 5
+GSM1313078,GSE54329,5,5,day 5,cell line: MDA-MB-134VI;	cell type: ERα-positive breast cancer cell line;	treatment: D1: 10 ng/mL IL-6;	time point (day): 5
+GSM1313081,GSE54329,6,6,day 6,cell line: MDA-MB-134VI;	cell type: ERα-positive breast cancer cell line;	treatment: D1: 10 ng/mL IL-6;	time point (day): 6
+GSM1313082,GSE54329,6,6,day 6,cell line: MDA-MB-134VI;	cell type: ERα-positive breast cancer cell line;	treatment: D1: 10 ng/mL IL-6;	time point (day): 6
+GSM1313057,GSE54329,4,4,day 4,cell line: MDA-MB-134VI;	cell type: ERα-positive breast cancer cell line;	treatment: 50 ug/mL Siltuximab;	time point (day): 4
+GSM1313058,GSE54329,4,4,day 4,cell line: MDA-MB-134VI;	cell type: ERα-positive breast cancer cell line;	treatment: 50 ug/mL Siltuximab;	time point (day): 4
+GSM1313059,GSE54329,4,4,day 4,cell line: MDA-MB-134VI;	cell type: ERα-positive breast cancer cell line;	treatment: 50 ug/mL Siltuximab;	time point (day): 4
+GSM1313072,GSE54329,4,4,day 4,cell line: MDA-MB-134VI;	cell type: ERα-positive breast cancer cell line;	treatment: hMSC-CM + 50 ug/mL Siltuximab;	time point (day): 4
+GSM1313074,GSE54329,4,4,day 4,cell line: MDA-MB-134VI;	cell type: ERα-positive breast cancer cell line;	treatment: hMSC-CM + 50 ug/mL Siltuximab;	time point (day): 4
+GSM1313054,GSE54329,4,4,day 4,cell line: MDA-MB-134VI;	cell type: ERα-positive breast cancer cell line;	treatment: untreated;	time point (day): 4
+GSM1313055,GSE54329,4,4,day 4,cell line: MDA-MB-134VI;	cell type: ERα-positive breast cancer cell line;	treatment: untreated;	time point (day): 4
+GSM1313056,GSE54329,4,4,day 4,cell line: MDA-MB-134VI;	cell type: ERα-positive breast cancer cell line;	treatment: untreated;	time point (day): 4
+GSM1313258,GSE54329,4,4,day 4,cell line: MDA-MB-175-VIIdsRed;	cell type: ERα-positive breast cancer cell line;	treatment: 50 ug/mL Siltuximab;	time point (day): 4
+GSM1313259,GSE54329,4,4,day 4,cell line: MDA-MB-175-VIIdsRed;	cell type: ERα-positive breast cancer cell line;	treatment: 50 ug/mL Siltuximab;	time point (day): 4
+GSM1313260,GSE54329,4,4,day 4,cell line: MDA-MB-175-VIIdsRed;	cell type: ERα-positive breast cancer cell line;	treatment: 50 ug/mL Siltuximab;	time point (day): 4
+GSM1313273,GSE54329,4,4,day 4,cell line: MDA-MB-175-VIIdsRed;	cell type: ERα-positive breast cancer cell line;	treatment: hMSC-CM + 50 ug/mL Siltuximab;	time point (day): 4
+GSM1313275,GSE54329,4,4,day 4,cell line: MDA-MB-175-VIIdsRed;	cell type: ERα-positive breast cancer cell line;	treatment: hMSC-CM + 50 ug/mL Siltuximab;	time point (day): 4
+GSM1313252,GSE54329,1,1,day 1,cell line: MDA-MB-175-VIIdsRed;	cell type: ERα-positive breast cancer cell line;	treatment: untreated;	time point (day): 1
+GSM1313253,GSE54329,1,1,day 1,cell line: MDA-MB-175-VIIdsRed;	cell type: ERα-positive breast cancer cell line;	treatment: untreated;	time point (day): 1
+GSM1313254,GSE54329,1,1,day 1,cell line: MDA-MB-175-VIIdsRed;	cell type: ERα-positive breast cancer cell line;	treatment: untreated;	time point (day): 1
+GSM1313313,GSE54329,5,5,day 5,cell line: MDA-MB-415;	cell type: ERα-positive breast cancer cell line;	treatment: D1: 10 ng/mL IL-6;	time point (day): 5
+GSM1313314,GSE54329,5,5,day 5,cell line: MDA-MB-415;	cell type: ERα-positive breast cancer cell line;	treatment: D1: 10 ng/mL IL-6;	time point (day): 5
+GSM1313317,GSE54329,6,6,day 6,cell line: MDA-MB-415;	cell type: ERα-positive breast cancer cell line;	treatment: D1: 10 ng/mL IL-6;	time point (day): 6
+GSM1313318,GSE54329,6,6,day 6,cell line: MDA-MB-415;	cell type: ERα-positive breast cancer cell line;	treatment: D1: 10 ng/mL IL-6;	time point (day): 6
+GSM1313293,GSE54329,4,4,day 4,cell line: MDA-MB-415;	cell type: ERα-positive breast cancer cell line;	treatment: 50 ug/mL Siltuximab;	time point (day): 4
+GSM1313294,GSE54329,4,4,day 4,cell line: MDA-MB-415;	cell type: ERα-positive breast cancer cell line;	treatment: 50 ug/mL Siltuximab;	time point (day): 4
+GSM1313295,GSE54329,4,4,day 4,cell line: MDA-MB-415;	cell type: ERα-positive breast cancer cell line;	treatment: 50 ug/mL Siltuximab;	time point (day): 4
+GSM1313287,GSE54329,1,1,day 1,cell line: MDA-MB-415;	cell type: ERα-positive breast cancer cell line;	treatment: untreated;	time point (day): 1
+GSM1313288,GSE54329,1,1,day 1,cell line: MDA-MB-415;	cell type: ERα-positive breast cancer cell line;	treatment: untreated;	time point (day): 1
+GSM1313289,GSE54329,1,1,day 1,cell line: MDA-MB-415;	cell type: ERα-positive breast cancer cell line;	treatment: untreated;	time point (day): 1
+GSM1313290,GSE54329,4,4,day 4,cell line: MDA-MB-415;	cell type: ERα-positive breast cancer cell line;	treatment: untreated;	time point (day): 4
+GSM1313291,GSE54329,4,4,day 4,cell line: MDA-MB-415;	cell type: ERα-positive breast cancer cell line;	treatment: untreated;	time point (day): 4
+GSM1313292,GSE54329,4,4,day 4,cell line: MDA-MB-415;	cell type: ERα-positive breast cancer cell line;	treatment: untreated;	time point (day): 4
+GSM1313312,GSE54329,5,5,day 5,cell line: MDA-MB-415;	cell type: ERα-positive breast cancer cell line;	treatment: untreated;	time point (day): 5
+GSM1313028,GSE54329,4,4,day 4,cell line: T47D;	cell type: ERα-positive breast cancer cell line;	treatment: D1: 10 ng/mL IL-6;	time point (day): 4
+GSM1313029,GSE54329,4,4,day 4,cell line: T47D;	cell type: ERα-positive breast cancer cell line;	treatment: D1: 10 ng/mL IL-6;	time point (day): 4
+GSM1313030,GSE54329,4,4,day 4,cell line: T47D;	cell type: ERα-positive breast cancer cell line;	treatment: D1: 10 ng/mL IL-6;	time point (day): 4
+GSM1313045,GSE54329,5,5,day 5,cell line: T47D;	cell type: ERα-positive breast cancer cell line;	treatment: D1: 10 ng/mL IL-6;	time point (day): 5
+GSM1313046,GSE54329,5,5,day 5,cell line: T47D;	cell type: ERα-positive breast cancer cell line;	treatment: D1: 10 ng/mL IL-6;	time point (day): 5
+GSM1313049,GSE54329,6,6,day 6,cell line: T47D;	cell type: ERα-positive breast cancer cell line;	treatment: D1: 10 ng/mL IL-6;	time point (day): 6
+GSM1313050,GSE54329,6,6,day 6,cell line: T47D;	cell type: ERα-positive breast cancer cell line;	treatment: D1: 10 ng/mL IL-6;	time point (day): 6
+GSM1313040,GSE54329,4,4,day 4,cell line: T47D;	cell type: ERα-positive breast cancer cell line;	treatment: hMSC-CM + 50 ug/mL Siltuximab;	time point (day): 4
+GSM1313041,GSE54329,4,4,day 4,cell line: T47D;	cell type: ERα-positive breast cancer cell line;	treatment: hMSC-CM + 50 ug/mL Siltuximab;	time point (day): 4
+GSM1313042,GSE54329,4,4,day 4,cell line: T47D;	cell type: ERα-positive breast cancer cell line;	treatment: hMSC-CM + 50 ug/mL Siltuximab;	time point (day): 4
+GSM1313037,GSE54329,4,4,day 4,cell line: T47D;	cell type: ERα-positive breast cancer cell line;	treatment: hMSC-CM;	time point (day): 4
+GSM1313038,GSE54329,4,4,day 4,cell line: T47D;	cell type: ERα-positive breast cancer cell line;	treatment: hMSC-CM;	time point (day): 4
+GSM1313039,GSE54329,4,4,day 4,cell line: T47D;	cell type: ERα-positive breast cancer cell line;	treatment: hMSC-CM;	time point (day): 4
+GSM1313020,GSE54329,1,1,day 1,cell line: T47D;	cell type: ERα-positive breast cancer cell line;	treatment: untreated;	time point (day): 1
+GSM1313331,GSE54329,4,4,day 4,cell line: ZR-751;	cell type: ERα-positive breast cancer cell line;	treatment: D1: 10 ng/mL IL-6;	time point (day): 4
+GSM1313332,GSE54329,4,4,day 4,cell line: ZR-751;	cell type: ERα-positive breast cancer cell line;	treatment: D1: 10 ng/mL IL-6;	time point (day): 4
+GSM1313333,GSE54329,4,4,day 4,cell line: ZR-751;	cell type: ERα-positive breast cancer cell line;	treatment: D1: 10 ng/mL IL-6;	time point (day): 4
+GSM1313348,GSE54329,5,5,day 5,cell line: ZR-751;	cell type: ERα-positive breast cancer cell line;	treatment: D1: 10 ng/mL IL-6;	time point (day): 5
+GSM1313349,GSE54329,5,5,day 5,cell line: ZR-751;	cell type: ERα-positive breast cancer cell line;	treatment: D1: 10 ng/mL IL-6;	time point (day): 5
+GSM1313352,GSE54329,6,6,day 6,cell line: ZR-751;	cell type: ERα-positive breast cancer cell line;	treatment: D1: 10 ng/mL IL-6;	time point (day): 6
+GSM1313353,GSE54329,6,6,day 6,cell line: ZR-751;	cell type: ERα-positive breast cancer cell line;	treatment: D1: 10 ng/mL IL-6;	time point (day): 6
+GSM1313340,GSE54329,4,4,day 4,cell line: ZR-751;	cell type: ERα-positive breast cancer cell line;	treatment: hMSC-CM;	time point (day): 4
+GSM1313341,GSE54329,4,4,day 4,cell line: ZR-751;	cell type: ERα-positive breast cancer cell line;	treatment: hMSC-CM;	time point (day): 4
+GSM1313342,GSE54329,4,4,day 4,cell line: ZR-751;	cell type: ERα-positive breast cancer cell line;	treatment: hMSC-CM;	time point (day): 4
+GSM1313322,GSE54329,1,1,day 1,cell line: ZR-751;	cell type: ERα-positive breast cancer cell line;	treatment: untreated;	time point (day): 1
+GSM1313323,GSE54329,1,1,day 1,cell line: ZR-751;	cell type: ERα-positive breast cancer cell line;	treatment: untreated;	time point (day): 1
+GSM1313324,GSE54329,1,1,day 1,cell line: ZR-751;	cell type: ERα-positive breast cancer cell line;	treatment: untreated;	time point (day): 1
+GSM1355199,GSE56104,6month,6,6month,cell type: immortalized bronchial epithelial cell;	cell line: BEASE2B;	treatment: control
+GSM1355200,GSE56104,6month,6,6month,cell type: immortalized bronchial epithelial cell;	cell line: BEASE2B;	treatment: control
+GSM1355201,GSE56104,6month,6,6month,cell type: immortalized bronchial epithelial cell;	cell line: BEASE2B;	treatment: control
+GSM2590363,GSE98277,day4,4,day4,genotype/variation: I2A SMARCB1-reexpressed;	tissue: rhabdoid tumor cell line
+GSM2590366,GSE98277,day7,7,day7,genotype/variation: I2A SMARCB1-reexpressed;	tissue: rhabdoid tumor cell line
+GSM1858547,GSE72246,Day1,1,Day1,group: Responder;	tissue: skin;	disease state: psoriasis;	time: Day1
+GSM1858548,GSE72246,Day1,1,Day1,group: Responder;	tissue: skin;	disease state: psoriasis;	time: Day1
+GSM1858549,GSE72246,Day1,1,Day1,group: Responder;	tissue: skin;	disease state: psoriasis;	time: Day1
+GSM1858552,GSE72246,Day1,1,Day1,group: Responder;	tissue: skin;	disease state: psoriasis;	time: Day1
+GSM1858553,GSE72246,Day1,1,Day1,group: Responder;	tissue: skin;	disease state: psoriasis;	time: Day1
+GSM1858555,GSE72246,Day1,1,Day1,group: Responder;	tissue: skin;	disease state: psoriasis;	time: Day1
+GSM1858556,GSE72246,Day1,1,Day1,group: Non-Responder;	tissue: skin;	disease state: psoriasis;	time: Day1
+GSM1858557,GSE72246,Day1,1,Day1,group: Responder;	tissue: skin;	disease state: psoriasis;	time: Day1
+GSM1858558,GSE72246,Day1,1,Day1,group: Responder;	tissue: skin;	disease state: psoriasis;	time: Day1
+GSM1858559,GSE72246,Day1,1,Day1,group: Responder;	tissue: skin;	disease state: psoriasis;	time: Day1
+GSM1858560,GSE72246,Day1,1,Day1,group: Responder;	tissue: skin;	disease state: psoriasis;	time: Day1
+GSM1858561,GSE72246,Day1,1,Day1,group: Non-Responder;	tissue: skin;	disease state: psoriasis;	time: Day1
+GSM1858562,GSE72246,Day1,1,Day1,group: Responder;	tissue: skin;	disease state: psoriasis;	time: Day1
+GSM1858563,GSE72246,Day1,1,Day1,group: Responder;	tissue: skin;	disease state: psoriasis;	time: Day1
+GSM1858566,GSE72246,Day1,1,Day1,group: Non-Responder;	tissue: skin;	disease state: psoriasis;	time: Day1
+GSM1858568,GSE72246,Day1,1,Day1,group: Responder;	tissue: skin;	disease state: psoriasis;	time: Day1
+GSM1858569,GSE72246,Day1,1,Day1,group: Non-Responder;	tissue: skin;	disease state: psoriasis;	time: Day1
+GSM1858570,GSE72246,Day1,1,Day1,group: Non-Responder;	tissue: skin;	disease state: psoriasis;	time: Day1
+GSM1858574,GSE72246,Day1,1,Day1,group: Responder;	tissue: skin;	disease state: psoriasis;	time: Day1
+GSM1858579,GSE72246,Day1,1,Day1,group: Non-Responder;	tissue: skin;	disease state: psoriasis;	time: Day1
+GSM1858581,GSE72246,Day1,1,Day1,group: Responder;	tissue: skin;	disease state: psoriasis;	time: Day1
+GSM1858582,GSE72246,Day1,1,Day1,group: Non-Responder;	tissue: skin;	disease state: psoriasis;	time: Day1
+GSM1858588,GSE72246,Day1,1,Day1,group: Non-Responder;	tissue: skin;	disease state: psoriasis;	time: Day1
+GSM1858589,GSE72246,Day1,1,Day1,group: Responder;	tissue: skin;	disease state: psoriasis;	time: Day1
+GSM1570017,GSE64382,day3,3,3 Day,subject status: normal healthy volunteer;	tissue: blood;	cell type: PBMCs;	stimulated with: anti-CD3/anti-CD28 beads in presence of control;	time point: day3
+GSM7413260,GSE233228,day7,7,day7,cell line: HiPS-RIKEN-2A;	cell type: Human induced pluripotent stem cell;	treatment: shControl;	treatment: hiPSC-derived neural progenitor cell day7
+GSM7413261,GSE233228,day7,7,day7,cell line: HiPS-RIKEN-2A;	cell type: Human induced pluripotent stem cell;	treatment: shControl;	treatment: hiPSC-derived neural progenitor cell day7
+GSM7413262,GSE233228,day7,7,day7,cell line: HiPS-RIKEN-2A;	cell type: Human induced pluripotent stem cell;	treatment: shControl;	treatment: hiPSC-derived neural progenitor cell day7
+GSM7413272,GSE233228,day7,7,day7,cell line: HiPS-RIKEN-2A;	cell type: Human induced pluripotent stem cell;	treatment: shROR2;	treatment: hiPSC-derived neural progenitor cell day7
+GSM7413273,GSE233228,day7,7,day7,cell line: HiPS-RIKEN-2A;	cell type: Human induced pluripotent stem cell;	treatment: shROR2;	treatment: hiPSC-derived neural progenitor cell day7
+GSM4981721,GSE163560,day1,1,Day1,diagnosis: ALS;	tissue: peripheral blood;	treatment: 2MIU IL2;	time point: Day1
+GSM4981722,GSE163560,day1,1,Day1,diagnosis: ALS;	tissue: peripheral blood;	treatment: 2MIU IL2;	time point: Day1
+GSM4981725,GSE163560,day1,1,Day1,diagnosis: ALS;	tissue: peripheral blood;	treatment: 2MIU IL2;	time point: Day1
+GSM4981726,GSE163560,day1,1,Day1,diagnosis: ALS;	tissue: peripheral blood;	treatment: 2MIU IL2;	time point: Day1
+GSM4981727,GSE163560,day1,1,Day1,diagnosis: ALS;	tissue: peripheral blood;	treatment: 2MIU IL2;	time point: Day1
+GSM4981728,GSE163560,day1,1,Day1,diagnosis: ALS;	tissue: peripheral blood;	treatment: 2MIU IL2;	time point: Day1
+GSM4981730,GSE163560,day1,1,Day1,diagnosis: ALS;	tissue: peripheral blood;	treatment: 2MIU IL2;	time point: Day1
+GSM4981731,GSE163560,day1,1,Day1,diagnosis: ALS;	tissue: peripheral blood;	treatment: 2MIU IL2;	time point: Day1
+GSM4981732,GSE163560,day1,1,Day1,diagnosis: ALS;	tissue: peripheral blood;	treatment: 2MIU IL2;	time point: Day1
+GSM4981735,GSE163560,day1,1,Day1,diagnosis: ALS;	tissue: peripheral blood;	treatment: Placebo;	time point: Day1
+GSM4981736,GSE163560,day1,1,Day1,diagnosis: ALS;	tissue: peripheral blood;	treatment: Placebo;	time point: Day1
+GSM4981737,GSE163560,day1,1,Day1,diagnosis: ALS;	tissue: peripheral blood;	treatment: Placebo;	time point: Day1
+GSM4981738,GSE163560,day1,1,Day1,diagnosis: ALS;	tissue: peripheral blood;	treatment: Placebo;	time point: Day1
+GSM4981739,GSE163560,day1,1,Day1,diagnosis: ALS;	tissue: peripheral blood;	treatment: Placebo;	time point: Day1
+GSM4981740,GSE163560,day1,1,Day1,diagnosis: ALS;	tissue: peripheral blood;	treatment: Placebo;	time point: Day1
+GSM4981741,GSE163560,day1,1,Day1,diagnosis: ALS;	tissue: peripheral blood;	treatment: Placebo;	time point: Day1
+GSM4981742,GSE163560,day1,1,Day1,diagnosis: ALS;	tissue: peripheral blood;	treatment: Placebo;	time point: Day1
+GSM4981743,GSE163560,day1,1,Day1,diagnosis: ALS;	tissue: peripheral blood;	treatment: Placebo;	time point: Day1
+GSM4132454,GSE139085,day5,5,day5,donor id: donor 02;	gender: female;	status: healthy;	cell type: primary MnS;	passage: passage 2-4;	genotype/variation: AOX5 transduction
+GSM3105701,GSE113420,1week,1,1week,patient: patient1;	time: 1week
+GSM3105686,GSE113420,Day2,2,Day2,patient: patient2;	time: Day2
+GSM3105703,GSE113420,1week,1,1week,patient: patient2;	time: 1week
+GSM3105688,GSE113420,Day2,2,Day2,patient: patient3;	time: Day2
+GSM3105704,GSE113420,1week,1,1week,patient: patient3;	time: 1week
+GSM3105690,GSE113420,Day2,2,Day2,patient: patient4;	time: Day2
+GSM3105706,GSE113420,1week,1,1week,patient: patient4;	time: 1week
+GSM3105691,GSE113420,Day2,2,Day2,patient: patient5;	time: Day2
+GSM3105708,GSE113420,1week,1,1week,patient: patient5;	time: 1week
+GSM3105693,GSE113420,Day2,2,Day2,patient: patient6;	time: Day2
+GSM3105710,GSE113420,1week,1,1week,patient: patient6;	time: 1week
+GSM3105695,GSE113420,Day2,2,Day2,patient: patient7;	time: Day2
+GSM3105711,GSE113420,1week,1,1week,patient: patient7;	time: 1week
+GSM3105697,GSE113420,Day2,2,Day2,patient: patient8;	time: Day2
+GSM3105713,GSE113420,1week,1,1week,patient: patient8;	time: 1week
+GSM3105699,GSE113420,Day2,2,Day2,patient: patient9;	time: Day2
+GSM3105715,GSE113420,1week,1,1week,patient: patient9;	time: 1week
+GSM3105311,GSE113419,Day2,2,Day2,patient: patient3;	time point: Day2
+GSM3105316,GSE113419,Day2,2,Day2,patient: patient6;	time point: Day2
+GSM3105319,GSE113419,Day2,2,Day2,patient: patient8;	time point: Day2
+GSM3355266,GSE118976,Day1,1,Day1,cell type: PBMC;	time point: Day1;	nab respond: NonResponder;	vaccination interval regimen: 8weeks;	subject id: VX2012001
+GSM3355267,GSE118976,day3,3,Day3,cell type: PBMC;	time point: Day3;	nab respond: NonResponder;	vaccination interval regimen: 8weeks;	subject id: VX2012001
+GSM3355268,GSE118976,day7,7,Day7,cell type: PBMC;	time point: Day7;	nab respond: NonResponder;	vaccination interval regimen: 8weeks;	subject id: VX2012001
+GSM3355274,GSE118976,Day1,1,Day1,cell type: PBMC;	time point: Day1;	nab respond: LowResponder;	vaccination interval regimen: 8weeks;	subject id: VX2012003
+GSM3355275,GSE118976,day3,3,Day3,cell type: PBMC;	time point: Day3;	nab respond: LowResponder;	vaccination interval regimen: 8weeks;	subject id: VX2012003
+GSM3355276,GSE118976,day7,7,Day7,cell type: PBMC;	time point: Day7;	nab respond: LowResponder;	vaccination interval regimen: 8weeks;	subject id: VX2012003
+GSM3355282,GSE118976,Day1,1,Day1,cell type: PBMC;	time point: Day1;	nab respond: HighResponder;	vaccination interval regimen: 8weeks;	subject id: VX2012004
+GSM3355283,GSE118976,day3,3,Day3,cell type: PBMC;	time point: Day3;	nab respond: HighResponder;	vaccination interval regimen: 8weeks;	subject id: VX2012004
+GSM3355290,GSE118976,Day1,1,Day1,cell type: PBMC;	time point: Day1;	nab respond: LowResponder;	vaccination interval regimen: 8weeks;	subject id: VX2012005
+GSM3355291,GSE118976,day3,3,Day3,cell type: PBMC;	time point: Day3;	nab respond: LowResponder;	vaccination interval regimen: 8weeks;	subject id: VX2012005
+GSM3355292,GSE118976,day7,7,Day7,cell type: PBMC;	time point: Day7;	nab respond: LowResponder;	vaccination interval regimen: 8weeks;	subject id: VX2012005
+GSM3355298,GSE118976,Day1,1,Day1,cell type: PBMC;	time point: Day1;	nab respond: LowResponder;	vaccination interval regimen: 8weeks;	subject id: VX2012006
+GSM3355299,GSE118976,day3,3,Day3,cell type: PBMC;	time point: Day3;	nab respond: LowResponder;	vaccination interval regimen: 8weeks;	subject id: VX2012006
+GSM3355300,GSE118976,day7,7,Day7,cell type: PBMC;	time point: Day7;	nab respond: LowResponder;	vaccination interval regimen: 8weeks;	subject id: VX2012006
+GSM3355306,GSE118976,day1,1,Day1,cell type: PBMC;	time point: Day1;	nab respond: HighResponder;	vaccination interval regimen: 8weeks;	subject id: VX2012007
+GSM3355307,GSE118976,day3,3,Day3,cell type: PBMC;	time point: Day3;	nab respond: HighResponder;	vaccination interval regimen: 8weeks;	subject id: VX2012007
+GSM3355308,GSE118976,day7,7,Day7,cell type: PBMC;	time point: Day7;	nab respond: HighResponder;	vaccination interval regimen: 8weeks;	subject id: VX2012007
+GSM3355313,GSE118976,Day3,3,Day3,cell type: PBMC;	time point: Day3;	nab respond: NonResponder;	vaccination interval regimen: 24weeks;	subject id: VX2012009
+GSM3355314,GSE118976,day7,7,Day7,cell type: PBMC;	time point: Day7;	nab respond: NonResponder;	vaccination interval regimen: 24weeks;	subject id: VX2012009
+GSM3355318,GSE118976,day3,3,Day3,cell type: PBMC;	time point: Day3;	nab respond: HighResponder;	vaccination interval regimen: 24weeks;	subject id: VX2012011
+GSM3355323,GSE118976,day3,3,Day3,cell type: PBMC;	time point: Day3;	nab respond: HighResponder;	vaccination interval regimen: 8weeks;	subject id: VX2012012
+GSM3355329,GSE118976,Day3,3,Day3,cell type: PBMC;	time point: Day3;	nab respond: NonResponder;	vaccination interval regimen: 24weeks;	subject id: VX2012014
+GSM3355330,GSE118976,day7,7,Day7,cell type: PBMC;	time point: Day7;	nab respond: NonResponder;	vaccination interval regimen: 24weeks;	subject id: VX2012014
+GSM3355334,GSE118976,Day3,3,Day3,cell type: PBMC;	time point: Day3;	nab respond: NonResponder;	vaccination interval regimen: 24weeks;	subject id: VX2012015
+GSM3355335,GSE118976,day7,7,Day7,cell type: PBMC;	time point: Day7;	nab respond: NonResponder;	vaccination interval regimen: 24weeks;	subject id: VX2012015
+GSM3355339,GSE118976,day3,3,Day3,cell type: PBMC;	time point: Day3;	nab respond: LowResponder;	vaccination interval regimen: 24weeks;	subject id: VX2012016
+GSM3355340,GSE118976,day7,7,Day7,cell type: PBMC;	time point: Day7;	nab respond: LowResponder;	vaccination interval regimen: 24weeks;	subject id: VX2012016
+GSM3355344,GSE118976,day3,3,Day3,cell type: PBMC;	time point: Day3;	nab respond: NonResponder;	vaccination interval regimen: 24weeks;	subject id: VX2012017
+GSM3355345,GSE118976,day7,7,Day7,cell type: PBMC;	time point: Day7;	nab respond: NonResponder;	vaccination interval regimen: 24weeks;	subject id: VX2012017
+GSM3355349,GSE118976,day3,3,Day3,cell type: PBMC;	time point: Day3;	nab respond: LowResponder;	vaccination interval regimen: 24weeks;	subject id: VX2012018
+GSM3355350,GSE118976,day7,7,Day7,cell type: PBMC;	time point: Day7;	nab respond: LowResponder;	vaccination interval regimen: 24weeks;	subject id: VX2012018
+GSM3355354,GSE118976,day3,3,Day3,cell type: PBMC;	time point: Day3;	nab respond: HighResponder;	vaccination interval regimen: 24weeks;	subject id: VX2012019
+GSM3355359,GSE118976,day3,3,Day3,cell type: PBMC;	time point: Day3;	nab respond: HighResponder;	vaccination interval regimen: 24weeks;	subject id: VX2012022
+GSM3355360,GSE118976,day7,7,Day7,cell type: PBMC;	time point: Day7;	nab respond: HighResponder;	vaccination interval regimen: 24weeks;	subject id: VX2012022
+GSM727542,GSE29421,1 d,1,day1,cell line: H9;	cell type: ESC-derived cells;	passage: 40-50;	treatment: activin;	time: 1 d
+GSM727543,GSE29421,1 d,1,day1,cell line: H9;	cell type: ESC-derived cells;	passage: 40-50;	treatment: activin;	time: 1 d
+GSM727544,GSE29421,1 d,1,day1,cell line: H9;	cell type: ESC-derived cells;	passage: 40-50;	treatment: activin;	time: 1 d
+GSM727545,GSE29421,3 d,3,day3,cell line: H9;	cell type: ESC-derived cells;	passage: 40-50;	treatment: activin;	time: 3 d
+GSM727546,GSE29421,3 d,3,day3,cell line: H9;	cell type: ESC-derived cells;	passage: 40-50;	treatment: activin;	time: 3 d
+GSM727547,GSE29421,3 d,3,day3,cell line: H9;	cell type: ESC-derived cells;	passage: 40-50;	treatment: activin;	time: 3 d
+GSM727548,GSE29421,5 d,5,day5,cell line: H9;	cell type: ESC-derived cells;	passage: 40-50;	treatment: activin;	time: 5 d
+GSM727549,GSE29421,5 d,5,day5,cell line: H9;	cell type: ESC-derived cells;	passage: 40-50;	treatment: activin;	time: 5 d
+GSM727550,GSE29421,5 d,5,day5,cell line: H9;	cell type: ESC-derived cells;	passage: 40-50;	treatment: activin;	time: 5 d
+GSM727551,GSE29421,5 d,5,day5,cell line: H9;	cell type: ESC-derived cells;	passage: 40-50;	treatment: activin;	time: 5 d
+GSM727552,GSE29421,5 d,5,day5,cell line: H9;	cell type: ESC-derived cells;	passage: 40-50;	treatment: activin;	time: 5 d
+GSM1209133,GSE49897,6weeks,6,6weeks,tissue: human transduced CD34+ cells sorted after 6weeks of engraftment in immunodeficient mice
+GSM1209134,GSE49897,6weeks,6,6weeks,tissue: human transduced CD34+ cells sorted after 6weeks of engraftment in immunodeficient mice
+GSM1209135,GSE49897,6weeks,6,6weeks,tissue: human transduced CD34+ cells sorted after 6weeks of engraftment in immunodeficient mice
+GSM1209136,GSE49897,6weeks,6,6weeks,tissue: human transduced CD34+ cells sorted after 6weeks of engraftment in immunodeficient mice
+GSM4097336,GSE138043,12months,12,12months,rejection at 12months post transplant: AR;	tissue: percutaneous allograft biopsy
+GSM4097337,GSE138043,12months,12,12months,rejection at 12months post transplant: non-AR;	tissue: percutaneous allograft biopsy
+GSM4097339,GSE138043,12months,12,12months,rejection at 12months post transplant: non-AR;	tissue: percutaneous allograft biopsy
+GSM4097340,GSE138043,12months,12,12months,rejection at 12months post transplant: non-AR;	tissue: percutaneous allograft biopsy
+GSM4097341,GSE138043,12months,12,12months,rejection at 12months post transplant: non-AR;	tissue: percutaneous allograft biopsy
+GSM4097342,GSE138043,12months,12,12months,rejection at 12months post transplant: non-AR;	tissue: percutaneous allograft biopsy
+GSM4097343,GSE138043,12months,12,12months,rejection at 12months post transplant: non-AR;	tissue: percutaneous allograft biopsy
+GSM4097344,GSE138043,12months,12,12months,rejection at 12months post transplant: non-AR;	tissue: percutaneous allograft biopsy
+GSM4097345,GSE138043,12months,12,12months,rejection at 12months post transplant: non-AR;	tissue: percutaneous allograft biopsy
+GSM4097346,GSE138043,12months,12,12months,rejection at 12months post transplant: non-AR;	tissue: percutaneous allograft biopsy
+GSM4097347,GSE138043,12months,12,12months,rejection at 12months post transplant: non-AR;	tissue: percutaneous allograft biopsy
+GSM4097348,GSE138043,12months,12,12months,rejection at 12months post transplant: non-AR;	tissue: percutaneous allograft biopsy
+GSM4097349,GSE138043,12months,12,12months,rejection at 12months post transplant: non-AR;	tissue: percutaneous allograft biopsy
+GSM4097350,GSE138043,12months,12,12months,rejection at 12months post transplant: non-AR;	tissue: percutaneous allograft biopsy
+GSM4097351,GSE138043,12months,12,12months,rejection at 12months post transplant: AR;	tissue: percutaneous allograft biopsy
+GSM4097352,GSE138043,12months,12,12months,rejection at 12months post transplant: AR;	tissue: percutaneous allograft biopsy
+GSM4097353,GSE138043,12months,12,12months,rejection at 12months post transplant: non-AR;	tissue: percutaneous allograft biopsy
+GSM4097354,GSE138043,12months,12,12months,rejection at 12months post transplant: AR;	tissue: percutaneous allograft biopsy
+GSM4097355,GSE138043,12months,12,12months,rejection at 12months post transplant: non-AR;	tissue: percutaneous allograft biopsy
+GSM4097356,GSE138043,12months,12,12months,rejection at 12months post transplant: non-AR;	tissue: percutaneous allograft biopsy
+GSM4097357,GSE138043,12months,12,12months,rejection at 12months post transplant: AR;	tissue: percutaneous allograft biopsy
+GSM4097358,GSE138043,12months,12,12months,rejection at 12months post transplant: non-AR;	tissue: percutaneous allograft biopsy
+GSM4097359,GSE138043,12months,12,12months,rejection at 12months post transplant: non-AR;	tissue: percutaneous allograft biopsy
+GSM4097361,GSE138043,12months,12,12months,rejection at 12months post transplant: non-AR;	tissue: percutaneous allograft biopsy
+GSM4097362,GSE138043,12months,12,12months,rejection at 12months post transplant: non-AR;	tissue: percutaneous allograft biopsy
+GSM4097363,GSE138043,12months,12,12months,rejection at 12months post transplant: AR;	tissue: percutaneous allograft biopsy
+GSM4097364,GSE138043,12months,12,12months,rejection at 12months post transplant: non-AR;	tissue: percutaneous allograft biopsy
+GSM4097365,GSE138043,12months,12,12months,rejection at 12months post transplant: AR;	tissue: percutaneous allograft biopsy
+GSM4097366,GSE138043,12months,12,12months,rejection at 12months post transplant: non-AR;	tissue: percutaneous allograft biopsy
+GSM4097367,GSE138043,12months,12,12months,rejection at 12months post transplant: non-AR;	tissue: percutaneous allograft biopsy
+GSM4097368,GSE138043,12months,12,12months,rejection at 12months post transplant: AR;	tissue: percutaneous allograft biopsy
+GSM4097369,GSE138043,12months,12,12months,rejection at 12months post transplant: non-AR;	tissue: percutaneous allograft biopsy
+GSM4097370,GSE138043,12months,12,12months,rejection at 12months post transplant: non-AR;	tissue: percutaneous allograft biopsy
+GSM4097371,GSE138043,12months,12,12months,rejection at 12months post transplant: non-AR;	tissue: percutaneous allograft biopsy
+GSM4097374,GSE138043,12months,12,12months,rejection at 12months post transplant: non-AR;	tissue: percutaneous allograft biopsy
+GSM4097376,GSE138043,12months,12,12months,rejection at 12months post transplant: non-AR;	tissue: percutaneous allograft biopsy
+GSM4097377,GSE138043,12months,12,12months,rejection at 12months post transplant: non-AR;	tissue: percutaneous allograft biopsy
+GSM4097378,GSE138043,12months,12,12months,rejection at 12months post transplant: AR;	tissue: percutaneous allograft biopsy
+GSM4097379,GSE138043,12months,12,12months,rejection at 12months post transplant: non-AR;	tissue: percutaneous allograft biopsy
+GSM4097382,GSE138043,12months,12,12months,rejection at 12months post transplant: non-AR;	tissue: percutaneous allograft biopsy
+GSM4097383,GSE138043,12months,12,12months,rejection at 12months post transplant: AR;	tissue: percutaneous allograft biopsy
+GSM4097384,GSE138043,12months,12,12months,rejection at 12months post transplant: AR;	tissue: percutaneous allograft biopsy
+GSM4097385,GSE138043,12months,12,12months,rejection at 12months post transplant: non-AR;	tissue: percutaneous allograft biopsy
+GSM4097387,GSE138043,12months,12,12months,rejection at 12months post transplant: non-AR;	tissue: percutaneous allograft biopsy
+GSM1440801,GSE59630,4mo,4,4mo,braincode: 132-DFC;	region: DFC;	disease status: CTL;	Sex: M;	age: 4mo;	Stage: 8;	postmortem interval: 22;	race: CC;	rna integrity number: 7.6
+GSM1440802,GSE59630,4mo,4,4mo,braincode: 132-V1C;	region: V1C;	disease status: CTL;	Sex: M;	age: 4mo;	Stage: 8;	postmortem interval: 22;	race: CC;	rna integrity number: 9.5
+GSM1440803,GSE59630,4mo,4,4mo,braincode: 132-CBC;	region: CBC;	disease status: CTL;	Sex: M;	age: 4mo;	Stage: 8;	postmortem interval: 22;	race: CC;	rna integrity number: 9.2
+GSM1440804,GSE59630,6mo,6,6mo,braincode: 131-OFC;	region: OFC;	disease status: CTL;	Sex: F;	age: 6mo;	Stage: 9;	postmortem interval: 26;	race: CC;	rna integrity number: 7
+GSM1440805,GSE59630,6mo,6,6mo,braincode: 131-DFC;	region: DFC;	disease status: CTL;	Sex: F;	age: 6mo;	Stage: 9;	postmortem interval: 26;	race: CC;	rna integrity number: 7.1
+GSM1440806,GSE59630,6mo,6,6mo,braincode: 131-VFC;	region: VFC;	disease status: CTL;	Sex: F;	age: 6mo;	Stage: 9;	postmortem interval: 26;	race: CC;	rna integrity number: 7.5
+GSM1440807,GSE59630,6mo,6,6mo,braincode: 131-ITC;	region: ITC;	disease status: CTL;	Sex: F;	age: 6mo;	Stage: 9;	postmortem interval: 26;	race: CC;	rna integrity number: 7
+GSM1440808,GSE59630,6mo,6,6mo,braincode: 131-V1C;	region: V1C;	disease status: CTL;	Sex: F;	age: 6mo;	Stage: 9;	postmortem interval: 26;	race: CC;	rna integrity number: 7.5
+GSM1440809,GSE59630,6mo,6,6mo,braincode: 131-HIP;	region: HIP;	disease status: CTL;	Sex: F;	age: 6mo;	Stage: 9;	postmortem interval: 26;	race: CC;	rna integrity number: 7.4
+GSM1440810,GSE59630,6mo,6,6mo,braincode: 131-CBC;	region: CBC;	disease status: CTL;	Sex: F;	age: 6mo;	Stage: 9;	postmortem interval: 26;	race: CC;	rna integrity number: 8.4
+GSM1440811,GSE59630,10mo,10,10mo,braincode: 171-DFC;	region: DFC;	disease status: CTL;	Sex: M;	age: 10mo;	Stage: 9;	postmortem interval: 18;	race: AA;	rna integrity number: 8.6
+GSM1440812,GSE59630,10mo,10,10mo,braincode: 171-VFC;	region: VFC;	disease status: CTL;	Sex: M;	age: 10mo;	Stage: 9;	postmortem interval: 18;	race: AA;	rna integrity number: 8.8
+GSM1440813,GSE59630,10mo,10,10mo,braincode: 171-MFC;	region: MFC;	disease status: CTL;	Sex: M;	age: 10mo;	Stage: 9;	postmortem interval: 18;	race: AA;	rna integrity number: 8.7
+GSM1440814,GSE59630,10mo,10,10mo,braincode: 171-OFC;	region: OFC;	disease status: CTL;	Sex: M;	age: 10mo;	Stage: 9;	postmortem interval: 18;	race: AA;	rna integrity number: 9.4
+GSM1440815,GSE59630,10mo,10,10mo,braincode: 171-S1C;	region: S1C;	disease status: CTL;	Sex: M;	age: 10mo;	Stage: 9;	postmortem interval: 18;	race: AA;	rna integrity number: 8.6
+GSM1440816,GSE59630,10mo,10,10mo,braincode: 171-IPC;	region: IPC;	disease status: CTL;	Sex: M;	age: 10mo;	Stage: 9;	postmortem interval: 18;	race: AA;	rna integrity number: 9
+GSM1440817,GSE59630,10mo,10,10mo,braincode: 171-STC;	region: STC;	disease status: CTL;	Sex: M;	age: 10mo;	Stage: 9;	postmortem interval: 18;	race: AA;	rna integrity number: 9.2
+GSM1440818,GSE59630,10mo,10,10mo,braincode: 171-ITC;	region: ITC;	disease status: CTL;	Sex: M;	age: 10mo;	Stage: 9;	postmortem interval: 18;	race: AA;	rna integrity number: 9.2
+GSM1440819,GSE59630,10mo,10,10mo,braincode: 171-V1C;	region: V1C;	disease status: CTL;	Sex: M;	age: 10mo;	Stage: 9;	postmortem interval: 18;	race: AA;	rna integrity number: 8.9
+GSM1440820,GSE59630,10mo,10,10mo,braincode: 171-CBC;	region: CBC;	disease status: CTL;	Sex: M;	age: 10mo;	Stage: 9;	postmortem interval: 18;	race: AA;	rna integrity number: 9.2
+GSM1440821,GSE59630,12mo,12,12mo,braincode: 122-V1C;	region: V1C;	disease status: CTL;	Sex: F;	age: 12mo;	Stage: 9;	postmortem interval: 18;	race: CC;	rna integrity number: 9.6
+GSM1440822,GSE59630,12mo,12,12mo,braincode: 122-CBC;	region: CBC;	disease status: CTL;	Sex: F;	age: 12mo;	Stage: 9;	postmortem interval: 18;	race: CC;	rna integrity number: 9.8
+GSM1440859,GSE59630,1mo,1,1mo,braincode: 1273-FC;	region: FC;	disease status: DS;	Sex: M;	age: 1mo;	Stage: 8;	postmortem interval: 28;	race: CC;	rna integrity number: 9.3
+GSM1440860,GSE59630,1mo,1,1mo,braincode: 1273-V1C;	region: V1C;	disease status: DS;	Sex: M;	age: 1mo;	Stage: 8;	postmortem interval: 28;	race: CC;	rna integrity number: 9.1
+GSM1440861,GSE59630,1mo,1,1mo,braincode: 1273-CBC;	region: CBC;	disease status: DS;	Sex: M;	age: 1mo;	Stage: 8;	postmortem interval: 28;	race: CC;	rna integrity number: 9.4
+GSM1440862,GSE59630,6mo,6,6mo,braincode: 1282-OFC;	region: OFC;	disease status: DS;	Sex: F;	age: 6mo;	Stage: 9;	postmortem interval: 28;	race: CC;	rna integrity number: 7.6
+GSM1440863,GSE59630,6mo,6,6mo,braincode: 1282-DFC;	region: DFC;	disease status: DS;	Sex: F;	age: 6mo;	Stage: 9;	postmortem interval: 28;	race: CC;	rna integrity number: 9.3
+GSM1440864,GSE59630,6mo,6,6mo,braincode: 1282-VFC;	region: VFC;	disease status: DS;	Sex: F;	age: 6mo;	Stage: 9;	postmortem interval: 28;	race: CC;	rna integrity number: 9.5
+GSM1440865,GSE59630,6mo,6,6mo,braincode: 1282-ITC;	region: ITC;	disease status: DS;	Sex: F;	age: 6mo;	Stage: 9;	postmortem interval: 28;	race: CC;	rna integrity number: 9
+GSM1440866,GSE59630,6mo,6,6mo,braincode: 1282-V1C;	region: V1C;	disease status: DS;	Sex: F;	age: 6mo;	Stage: 9;	postmortem interval: 28;	race: CC;	rna integrity number: 9.2
+GSM1440867,GSE59630,6mo,6,6mo,braincode: 1282-HIP;	region: HIP;	disease status: DS;	Sex: F;	age: 6mo;	Stage: 9;	postmortem interval: 28;	race: CC;	rna integrity number: 9.1
+GSM1440868,GSE59630,6mo,6,6mo,braincode: 1282-CBC;	region: CBC;	disease status: DS;	Sex: F;	age: 6mo;	Stage: 9;	postmortem interval: 28;	race: CC;	rna integrity number: 9.6
+GSM1440869,GSE59630,9mo,9,9mo,braincode: 170-DFC;	region: DFC;	disease status: DS;	Sex: M;	age: 9mo;	Stage: 9;	postmortem interval: 23;	race: AA;	rna integrity number: 7.6
+GSM1440870,GSE59630,9mo,9,9mo,braincode: 170-VFC;	region: VFC;	disease status: DS;	Sex: M;	age: 9mo;	Stage: 9;	postmortem interval: 23;	race: AA;	rna integrity number: 6.8
+GSM1440871,GSE59630,9mo,9,9mo,braincode: 170-MFC;	region: MFC;	disease status: DS;	Sex: M;	age: 9mo;	Stage: 9;	postmortem interval: 23;	race: AA;	rna integrity number: 7.7
+GSM1440872,GSE59630,9mo,9,9mo,braincode: 170-OFC;	region: OFC;	disease status: DS;	Sex: M;	age: 9mo;	Stage: 9;	postmortem interval: 23;	race: AA;	rna integrity number: 6.1
+GSM1440873,GSE59630,9mo,9,9mo,braincode: 170-S1C;	region: S1C;	disease status: DS;	Sex: M;	age: 9mo;	Stage: 9;	postmortem interval: 23;	race: AA;	rna integrity number: 8
+GSM1440874,GSE59630,9mo,9,9mo,braincode: 170-IPC;	region: IPC;	disease status: DS;	Sex: M;	age: 9mo;	Stage: 9;	postmortem interval: 23;	race: AA;	rna integrity number: 6
+GSM1440875,GSE59630,9mo,9,9mo,braincode: 170-STC;	region: STC;	disease status: DS;	Sex: M;	age: 9mo;	Stage: 9;	postmortem interval: 23;	race: AA;	rna integrity number: 6.6
+GSM1440876,GSE59630,9mo,9,9mo,braincode: 170-ITC;	region: ITC;	disease status: DS;	Sex: M;	age: 9mo;	Stage: 9;	postmortem interval: 23;	race: AA;	rna integrity number: 6.7
+GSM1440877,GSE59630,9mo,9,9mo,braincode: 170-V1C;	region: V1C;	disease status: DS;	Sex: M;	age: 9mo;	Stage: 9;	postmortem interval: 23;	race: AA;	rna integrity number: 7.4
+GSM1440878,GSE59630,9mo,9,9mo,braincode: 170-CBC;	region: CBC;	disease status: DS;	Sex: M;	age: 9mo;	Stage: 9;	postmortem interval: 23;	race: AA;	rna integrity number: 8
+GSM1384307,GSE57529,4,4,day 4,cell line: LP6;	cell type: dedifferentiated liposarcoma (DDLPS);	jun status: Jun amplified LPS
+GSM2335537,GSE87619,2,2,day2,tissue: human fetal brain;	timepoint: 2
+GSM7439141,GSE233924,Day1,1,Day1,gender: female;	state: proliferating state;	agent: Control;	time point: Day1
+GSM7439142,GSE233924,Day1,1,Day1,gender: female;	state: proliferating state;	agent: Control;	time point: Day1
+GSM7439143,GSE233924,Day1,1,Day1,gender: female;	state: proliferating state;	agent: Control;	time point: Day1
+GSM7439144,GSE233924,Day4,4,Day4,gender: female;	state: proliferating state;	agent: Control;	time point: Day4
+GSM7439145,GSE233924,Day4,4,Day4,gender: female;	state: proliferating state;	agent: Control;	time point: Day4
+GSM7439146,GSE233924,Day4,4,Day4,gender: female;	state: proliferating state;	agent: Control;	time point: Day4
+GSM7439154,GSE233924,Day4,4,Day4,gender: female;	state: proliferating state;	agent: Dmso;	time point: Day4
+GSM7439155,GSE233924,Day4,4,Day4,gender: female;	state: proliferating state;	agent: Dmso;	time point: Day4
+GSM7439163,GSE233924,Day4,4,Day4,gender: female;	state: proliferating state;	agent: Buspirone;	time point: Day4
+GSM7439164,GSE233924,Day4,4,Day4,gender: female;	state: proliferating state;	agent: Buspirone;	time point: Day4
+GSM7439171,GSE233924,day4,4,Day4,gender: female;	state: proliferating state;	agent: Isotretinoin;	time point: Day4
+GSM7439172,GSE233924,Day4,4,Day4,gender: female;	state: proliferating state;	agent: Isotretinoin;	time point: Day4
+GSM7439173,GSE233924,Day4,4,Day4,gender: female;	state: proliferating state;	agent: Isotretinoin;	time point: Day4
+GSM7439180,GSE233924,Day4,4,Day4,gender: female;	state: proliferating state;	agent: VPA;	time point: Day4
+GSM7439181,GSE233924,Day4,4,Day4,gender: female;	state: proliferating state;	agent: VPA;	time point: Day4
+GSM7439182,GSE233924,Day4,4,Day4,gender: female;	state: proliferating state;	agent: VPA;	time point: Day4
+GSM7439189,GSE233924,day4,4,Day4,gender: female;	state: proliferating state;	agent: Thalidomide;	time point: Day4
+GSM7439190,GSE233924,day4,4,Day4,gender: female;	state: proliferating state;	agent: Thalidomide;	time point: Day4
+GSM7439191,GSE233924,day4,4,Day4,gender: female;	state: proliferating state;	agent: Thalidomide;	time point: Day4
+GSM244467,GSE9692,day1,1,Day1,Septic shock;	gender: Male;	Non survivor;	organism: Neisseria
+GSM244470,GSE9692,day1,1,Day1,Septic shock;	gender: Male;	Non survivor;	organism: None
+GSM244474,GSE9692,day1,1,Day1,Septic shock;	gender: Male;	Survivor;	organism: None
+GSM244475,GSE9692,day1,1,Day1,Septic shock;	gender: Male;	Survivor;	organism: None
+GSM244476,GSE9692,day1,1,Day1,Septic shock;	gender: Female;	Non survivor;	organism: Staph aureus
+GSM244477,GSE9692,day1,1,Day1,Septic shock;	gender: Male;	Survivor;	organism: None
+GSM244486,GSE9692,day1,1,Day1,Septic shock;	gender: Male;	Survivor;	organism: None
+GSM244487,GSE9692,day1_20,1,Day1,Septic shock;	gender: Male;	Survivor;	organism: None
+GSM4554598,GSE116975,1,1,Day 1,adjuvant: AS03A;	subject id: 101;	time (sample day): D1
+GSM578789,GSE23597,W8,8,wk8,dosage_time_resp: 10mg/kg_w8_No;	dose: 10mg/kg;	time: W8;	subject: P32;	wk8 response: No;	wk30 response: No
+GSM578793,GSE23597,W8,8,wk8,dosage_time_resp: 10mg/kg_w8_No;	dose: 10mg/kg;	time: W8;	subject: P34;	wk8 response: No;	wk30 response: No
+GSM2238556,GSE84500,day2,2,2 days,cell type: hMSC;	time: day2;	treatment: BMP2
+GSM2238557,GSE84500,day2,2,2 days,cell type: hMSC;	time: day2;	treatment: BMP2
+GSM2238558,GSE84500,day2,2,2 days,cell type: hMSC;	time: day2;	treatment: BMP2
+GSM2238562,GSE84500,day2,2,2 days,cell type: hMSC;	time: day2;	treatment: BMP2+IBMX
+GSM2238563,GSE84500,day2,2,2 days,cell type: hMSC;	time: day2;	treatment: BMP2+IBMX
+GSM2238564,GSE84500,day2,2,2 days,cell type: hMSC;	time: day2;	treatment: BMP2+IBMX
+GSM2238565,GSE84500,day2,2,2 days,cell type: hMSC;	time: day2;	treatment: BMP2+TGFB+IBMX
+GSM2238566,GSE84500,day2,2,2 days,cell type: hMSC;	time: day2;	treatment: BMP2+TGFB+IBMX
+GSM2238567,GSE84500,day2,2,2 days,cell type: hMSC;	time: day2;	treatment: BMP2+TGFB+IBMX
+GSM2238568,GSE84500,day3,3,3 days,cell type: hMSC;	time: day3;	treatment: BMP2
+GSM2238569,GSE84500,day3,3,3 days,cell type: hMSC;	time: day3;	treatment: BMP2
+GSM2238570,GSE84500,day3,3,3 days,cell type: hMSC;	time: day3;	treatment: BMP2
+GSM2238571,GSE84500,day3,3,3 days,cell type: hMSC;	time: day3;	treatment: BMP2+TGFB
+GSM2238572,GSE84500,day3,3,3 days,cell type: hMSC;	time: day3;	treatment: BMP2+TGFB
+GSM2238573,GSE84500,day3,3,3 days,cell type: hMSC;	time: day3;	treatment: BMP2+TGFB
+GSM2238574,GSE84500,day3,3,3 days,cell type: hMSC;	time: day3;	treatment: BMP2+IBMX
+GSM2238575,GSE84500,day3,3,3 days,cell type: hMSC;	time: day3;	treatment: BMP2+IBMX
+GSM2238576,GSE84500,day3,3,3 days,cell type: hMSC;	time: day3;	treatment: BMP2+IBMX
+GSM2238577,GSE84500,day3,3,3 days,cell type: hMSC;	time: day3;	treatment: BMP2+TGFB+IBMX
+GSM2238578,GSE84500,day3,3,3 days,cell type: hMSC;	time: day3;	treatment: BMP2+TGFB+IBMX
+GSM2238579,GSE84500,day3,3,3 days,cell type: hMSC;	time: day3;	treatment: BMP2+TGFB+IBMX
+GSM2238580,GSE84500,day7,7,7 days,cell type: hMSC;	time: day7;	treatment: BMP2
+GSM2238581,GSE84500,day7,7,7 days,cell type: hMSC;	time: day7;	treatment: BMP2
+GSM2238582,GSE84500,day7,7,7 days,cell type: hMSC;	time: day7;	treatment: BMP2
+GSM2238583,GSE84500,day7,7,7 days,cell type: hMSC;	time: day7;	treatment: BMP2+TGFB
+GSM2238584,GSE84500,day7,7,7 days,cell type: hMSC;	time: day7;	treatment: BMP2+TGFB
+GSM2238585,GSE84500,day7,7,7 days,cell type: hMSC;	time: day7;	treatment: BMP2+TGFB
+GSM1104089,GSE45426,2,2,day 2,tissue: Vastus lateralis muscle;	gender: Male;	subject: 2;	protocol: control (non-exercised);	time: day 2;	tech rep: 1of1
+GSM1104098,GSE45426,4,4,day 4,tissue: Vastus lateralis muscle;	gender: Male;	subject: 4;	protocol: control (non-exercised);	time: day 4;	tech rep: 1of1
+GSM1327532,GSE54992,3m,3,3 months,disease state: TB patient after anti-tuberculosis treatment for 3 months;	tissue: PBMC
+GSM1327534,GSE54992,3m,3,3 months,disease state: TB patient after anti-tuberculosis treatment for 3 months;	tissue: PBMC
+GSM1327536,GSE54992,3m,3,3 months,disease state: TB patient after anti-tuberculosis treatment for 3 months;	tissue: PBMC
+GSM1327537,GSE54992,3m,3,3 months,disease state: TB patient after anti-tuberculosis treatment for 3 months;	tissue: PBMC
+GSM1327538,GSE54992,3m,3,3 months,disease state: TB patient after anti-tuberculosis treatment for 3 months;	tissue: PBMC
+GSM1327555,GSE54992,3m,3,3 months,disease state: TB patient after anti-tuberculosis treatment for 3 months;	tissue: PBMC
+GSM1327557,GSE54992,3m,3,3 months,disease state: TB patient after anti-tuberculosis treatment for 3 months;	tissue: PBMC
+GSM1327559,GSE54992,3m,3,3 months,disease state: TB patient after anti-tuberculosis treatment for 3 months;	tissue: PBMC
+GSM1014565,GSE41315,day3,3,day3,genotype: EZH2 Y641N;	disease: DLBCL;	cell line: Karpas422
+GSM1014566,GSE41315,day3,3,day3,genotype: EZH2 Y641N;	disease: DLBCL;	cell line: Karpas422
+GSM1014567,GSE41315,day3,3,day3,genotype: EZH2 Y641N;	disease: DLBCL;	cell line: Karpas422
+GSM941836,GSE38417,11mo,11,11mo,sample type: Duchenne muscular dystrophy (DMD) patient;	age: 11mo;	tissue: skeletal muscle
+GSM2395384,GSE90000,day3,3,day3,cell type: KP d3
+GSM2395385,GSE90000,day4,4,day4,cell type: KP d4
+GSM4825993,GSE159289,6months,6,6months,substudy: Microarray Stability;	sample: RS2;	condition: Lot1 - 6months
+GSM4825994,GSE159289,6months,6,6months,substudy: Microarray Stability;	sample: RS3;	condition: Lot1 - 6months
+GSM4825995,GSE159289,6months,6,6months,substudy: Microarray Stability;	sample: RS4;	condition: Lot1 - 6months
+GSM4825996,GSE159289,9months,9,9months,substudy: Microarray Stability;	sample: RS2;	condition: Lot1 - 9months
+GSM4825997,GSE159289,9months,9,9months,substudy: Microarray Stability;	sample: RS3;	condition: Lot1 - 9months
+GSM4825998,GSE159289,9months,9,9months,substudy: Microarray Stability;	sample: RS4;	condition: Lot1 - 9months
+GSM4825999,GSE159289,12months,12,12months,substudy: Microarray Stability;	sample: RS2;	condition: Lot1 - 12months
+GSM4826000,GSE159289,12months,12,12months,substudy: Microarray Stability;	sample: RS3;	condition: Lot1 - 12months
+GSM4826001,GSE159289,12months,12,12months,substudy: Microarray Stability;	sample: RS4;	condition: Lot1 - 12months
+GSM4826014,GSE159289,1months,1,1months,substudy: Microarray Stability;	sample: RS2;	condition: Lot2 - 1months
+GSM4826015,GSE159289,1months,1,1months,substudy: Microarray Stability;	sample: RS2;	condition: Lot2 - 1months
+GSM4826016,GSE159289,1months,1,1months,substudy: Microarray Stability;	sample: RS3;	condition: Lot2 - 1months
+GSM4826017,GSE159289,1months,1,1months,substudy: Microarray Stability;	sample: RS3;	condition: Lot2 - 1months
+GSM4826018,GSE159289,1months,1,1months,substudy: Microarray Stability;	sample: RS4;	condition: Lot2 - 1months
+GSM4826019,GSE159289,1months,1,1months,substudy: Microarray Stability;	sample: RS4;	condition: Lot2 - 1months
+GSM4826026,GSE159289,6months,6,6months,substudy: Microarray Stability;	sample: RS2;	condition: Lot2 - 6months
+GSM4826027,GSE159289,6months,6,6months,substudy: Microarray Stability;	sample: RS2;	condition: Lot2 - 6months
+GSM4826028,GSE159289,6months,6,6months,substudy: Microarray Stability;	sample: RS3;	condition: Lot2 - 6months
+GSM4826029,GSE159289,6months,6,6months,substudy: Microarray Stability;	sample: RS3;	condition: Lot2 - 6months
+GSM4826030,GSE159289,6months,6,6months,substudy: Microarray Stability;	sample: RS4;	condition: Lot2 - 6months
+GSM4826031,GSE159289,6months,6,6months,substudy: Microarray Stability;	sample: RS4;	condition: Lot2 - 6months
+GSM4826032,GSE159289,9months,9,9months,substudy: Microarray Stability;	sample: RS2;	condition: Lot2 - 9months
+GSM4826033,GSE159289,9months,9,9months,substudy: Microarray Stability;	sample: RS2;	condition: Lot2 - 9months
+GSM4826034,GSE159289,9months,9,9months,substudy: Microarray Stability;	sample: RS3;	condition: Lot2 - 9months
+GSM4826035,GSE159289,9months,9,9months,substudy: Microarray Stability;	sample: RS3;	condition: Lot2 - 9months
+GSM4826036,GSE159289,9months,9,9months,substudy: Microarray Stability;	sample: RS4;	condition: Lot2 - 9months
+GSM4826037,GSE159289,9months,9,9months,substudy: Microarray Stability;	sample: RS4;	condition: Lot2 - 9months
+GSM4826038,GSE159289,12months,12,12months,substudy: Microarray Stability;	sample: RS2;	condition: Lot2 - 12months
+GSM4826039,GSE159289,12months,12,12months,substudy: Microarray Stability;	sample: RS2;	condition: Lot2 - 12months
+GSM4826040,GSE159289,12months,12,12months,substudy: Microarray Stability;	sample: RS3;	condition: Lot2 - 12months
+GSM4826041,GSE159289,12months,12,12months,substudy: Microarray Stability;	sample: RS3;	condition: Lot2 - 12months
+GSM4826042,GSE159289,12months,12,12months,substudy: Microarray Stability;	sample: RS4;	condition: Lot2 - 12months
+GSM4826043,GSE159289,12months,12,12months,substudy: Microarray Stability;	sample: RS4;	condition: Lot2 - 12months
+GSM4826061,GSE159289,3months,3,3months,substudy: Microarray Stability;	sample: RS2;	condition: Lot3 - 3months
+GSM4826062,GSE159289,3months,3,3months,substudy: Microarray Stability;	sample: RS3;	condition: Lot3 - 3months
+GSM4826063,GSE159289,3months,3,3months,substudy: Microarray Stability;	sample: RS4;	condition: Lot3 - 3months
+GSM4826064,GSE159289,6months,6,6months,substudy: Microarray Stability;	sample: RS2;	condition: Lot3 - 6months
+GSM4826065,GSE159289,6months,6,6months,substudy: Microarray Stability;	sample: RS3;	condition: Lot3 - 6months
+GSM4826066,GSE159289,6months,6,6months,substudy: Microarray Stability;	sample: RS4;	condition: Lot3 - 6months
+GSM4826067,GSE159289,9months,9,9months,substudy: Microarray Stability;	sample: RS2;	condition: Lot3 - 9months
+GSM4826068,GSE159289,9months,9,9months,substudy: Microarray Stability;	sample: RS3;	condition: Lot3 - 9months
+GSM4826069,GSE159289,9months,9,9months,substudy: Microarray Stability;	sample: RS4;	condition: Lot3 - 9months
+GSM4826070,GSE159289,12months,12,12months,substudy: Microarray Stability;	sample: RS2;	condition: Lot3 - 12months
+GSM4826071,GSE159289,12months,12,12months,substudy: Microarray Stability;	sample: RS3;	condition: Lot3 - 12months
+GSM4826072,GSE159289,12months,12,12months,substudy: Microarray Stability;	sample: RS4;	condition: Lot3 - 12months
+GSM4484499,GSE148871,3,3,3 DAY,patient diagnosis: COPD;	tissue: whole blood;	treatment: All Placebo;	visit: V3 DAY 12;	Sex: F;	subject: 3;	rin: 8.9;	investigatorcountry: CANADA
+GSM4484665,GSE148871,3,3,3 DAY,patient diagnosis: COPD;	tissue: sputum;	treatment: All Placebo;	visit: V3 DAY 12;	Sex: F;	subject: 3;	rin: 2.6;	investigatorcountry: CANADA
+GSM3907433,GSE133385,Day1,1,Day1,patient_id: 1;	batch_date: 2018-01-16;	tissue: NL;	week: Day1;	treatment: 80mg
+GSM1905667,GSE73906,3wks,3,3wks,tumor type: xenograft model of human colorectal cancer;	host strain: NOD/SCID;	treated with: control antibody for 3wks;	tissue: whole xenograft sample containing human tumor cells and mouse stroma
+GSM1905668,GSE73906,3wks,3,3wks,tumor type: xenograft model of human colorectal cancer;	host strain: NOD/SCID;	treated with: control antibody for 3wks;	tissue: whole xenograft sample containing human tumor cells and mouse stroma
+GSM1905669,GSE73906,3wks,3,3wks,tumor type: xenograft model of human colorectal cancer;	host strain: NOD/SCID;	treated with: control antibody for 3wks;	tissue: whole xenograft sample containing human tumor cells and mouse stroma
+GSM388747,GSE15543,day4,4,day4,cell type: re-differentiated cells after expansion from islets
+GSM388748,GSE15543,day6,6,day6,cell type: re-differentiated cells after expansion from islets
+GSM4991101,GSE163950,3,3,Day3,cell line: HepG2;	hbv-integration: No;	selenium: Se +;	day: 3
+GSM4991113,GSE163950,3,3,Day3,cell line: HepG2;	hbv-integration: No;	selenium: Se +;	day: 3
+GSM1666057,GSE68231,post 3days,3,3days,subject group: high responder group;	Sex: male;	time point: after (post) 3days high fat diet;	tissue: skeletal muscle
+GSM1834875,GSE71290,day3,3,Day3,cell type: macrophage;	infection: HIV-1;	time: Day3
+GSM2112010,GSE80060,day1,1,Day1,tissue: Whole blood;	disease status: SJIA;	subject id: SJIA_2_168;	visit: Day1_BL;	treatment: Placebo;	acr response at day 15: NA
+GSM2112021,GSE80060,day1,1,Day1,tissue: Whole blood;	disease status: SJIA;	subject id: SJIA_2_2313;	visit: Day1_BL;	treatment: Placebo;	acr response at day 15: 70
+GSM2112042,GSE80060,day1,1,Day1,tissue: Whole blood;	disease status: SJIA;	subject id: SJIA_2_810;	visit: Day1_BL;	treatment: Placebo;	acr response at day 15: NA
+GSM2112043,GSE80060,day1,1,Day1,tissue: Whole blood;	disease status: SJIA;	subject id: SJIA_2_913;	visit: Day1_BL;	treatment: Placebo;	acr response at day 15: NA
+GSM2112059,GSE80060,day1,1,Day1,tissue: Whole blood;	disease status: SJIA;	subject id: SJIA_2_176;	visit: Day1_BL;	treatment: Placebo;	acr response at day 15: NA
+GSM2112062,GSE80060,1,1,Day1,tissue: Whole blood;	disease status: SJIA;	subject id: SJIA_2_186;	visit: Day1_BL;	treatment: Placebo;	acr response at day 15: NA
+GSM2112081,GSE80060,day1,1,Day1,tissue: Whole blood;	disease status: SJIA;	subject id: SJIA_1_3430;	visit: Day1_BL;	treatment: Canakinumab;	acr response at day 15: 100
+GSM2112083,GSE80060,day1,1,Day1,tissue: Whole blood;	disease status: SJIA;	subject id: SJIA_1_3529;	visit: Day1_BL;	treatment: Canakinumab;	acr response at day 15: 50
+GSM2112086,GSE80060,day1,1,Day1,tissue: Whole blood;	disease status: SJIA;	subject id: SJIA_1_926;	visit: Day1_BL;	treatment: Canakinumab;	acr response at day 15: 50
+GSM2112089,GSE80060,1,1,Day1,tissue: Whole blood;	disease status: SJIA;	subject id: SJIA_1_1130;	visit: Day1_BL;	treatment: Canakinumab;	acr response at day 15: 70
+GSM2112091,GSE80060,day1,1,Day1,tissue: Whole blood;	disease status: SJIA;	subject id: SJIA_1_1530;	visit: Day1_BL;	treatment: Canakinumab;	acr response at day 15: 30
+GSM2112095,GSE80060,day1,1,Day1,tissue: Whole blood;	disease status: SJIA;	subject id: SJIA_1_1729;	visit: Day1_BL;	treatment: Canakinumab;	acr response at day 15: 0
+GSM2112099,GSE80060,day1,1,Day1,tissue: Whole blood;	disease status: SJIA;	subject id: SJIA_1_2730;	visit: Day1_BL;	treatment: Canakinumab;	acr response at day 15: 50
+GSM2112101,GSE80060,day1,1,Day1,tissue: Whole blood;	disease status: SJIA;	subject id: SJIA_1_2430;	visit: Day1_BL;	treatment: Canakinumab;	acr response at day 15: 70
+GSM2112102,GSE80060,1,1,Day1,tissue: Whole blood;	disease status: SJIA;	subject id: SJIA_1_229;	visit: Day1_BL;	treatment: Canakinumab;	acr response at day 15: 0
+GSM2112108,GSE80060,day1,1,Day1,tissue: Whole blood;	disease status: SJIA;	subject id: SJIA_1_319;	visit: Day1_BL;	treatment: Canakinumab;	acr response at day 15: 0
+GSM2112115,GSE80060,day1,1,Day1,tissue: Whole blood;	disease status: SJIA;	subject id: SJIA_1_3629;	visit: Day1_BL;	treatment: Canakinumab;	acr response at day 15: 90
+GSM2112117,GSE80060,day1,1,Day1,tissue: Whole blood;	disease status: SJIA;	subject id: SJIA_1_824;	visit: Day1_BL;	treatment: Canakinumab;	acr response at day 15: 50
+GSM2112123,GSE80060,day1,1,Day1,tissue: Whole blood;	disease status: SJIA;	subject id: SJIA_1_4130;	visit: Day1_BL;	treatment: Canakinumab;	acr response at day 15: 0
+GSM2112127,GSE80060,day1,1,Day1,tissue: Whole blood;	disease status: SJIA;	subject id: SJIA_1_1125;	visit: Day1_BL;	treatment: Canakinumab;	acr response at day 15: 70
+GSM2112129,GSE80060,1,1,Day1,tissue: Whole blood;	disease status: SJIA;	subject id: SJIA_1_1230;	visit: Day1_BL;	treatment: Canakinumab;	acr response at day 15: 70
+GSM2112137,GSE80060,day1,1,Day1,tissue: Whole blood;	disease status: SJIA;	subject id: SJIA_1_1424;	visit: Day1_BL;	treatment: Canakinumab;	acr response at day 15: 90
+GSM2112138,GSE80060,day1,1,Day1,tissue: Whole blood;	disease status: SJIA;	subject id: SJIA_1_1624;	visit: Day1_BL;	treatment: Canakinumab;	acr response at day 15: 90
+GSM2112148,GSE80060,day1,1,Day1,tissue: Whole blood;	disease status: SJIA;	subject id: SJIA_1_1428;	visit: Day1_BL;	treatment: Canakinumab;	acr response at day 15: 90
+GSM2112151,GSE80060,1,1,Day1,tissue: Whole blood;	disease status: SJIA;	subject id: SJIA_1_320;	visit: Day1_BL;	treatment: Canakinumab;	acr response at day 15: NA
+GSM2112153,GSE80060,day1,1,Day1,tissue: Whole blood;	disease status: SJIA;	subject id: SJIA_1_315;	visit: Day1_BL;	treatment: Canakinumab;	acr response at day 15: 0
+GSM2112154,GSE80060,day1,1,Day1,tissue: Whole blood;	disease status: SJIA;	subject id: SJIA_1_3830;	visit: Day1_BL;	treatment: Canakinumab;	acr response at day 15: 100
+GSM2112159,GSE80060,day1,1,Day1,tissue: Whole blood;	disease status: SJIA;	subject id: SJIA_1_2230;	visit: Day1_BL;	treatment: Canakinumab;	acr response at day 15: 0
+GSM2112174,GSE80060,1,1,Day1,tissue: Whole blood;	disease status: Healthy;	subject id: Healthy_subject_3;	visit: Day1_BL;	treatment: none;	acr response at day 15: NA
+GSM2112175,GSE80060,1,1,Day1,tissue: Whole blood;	disease status: Healthy;	subject id: Healthy_subject_4;	visit: Day1_BL;	treatment: none;	acr response at day 15: NA
+GSM2112195,GSE80060,day1,1,Day1,tissue: Whole blood;	disease status: SJIA;	subject id: SJIA_1_3630;	visit: Day1_BL;	treatment: Canakinumab;	acr response at day 15: 0
+GSM201230,GSE8121,Day1,1,Day1,"15_0005_Normal, Day1"
+GSM201231,GSE8121,Day1,1,Day1,"15_0003_Normal, Day1"
+GSM201232,GSE8121,Day1,1,Day1,"15_0002_Normal, Day1"
+GSM201234,GSE8121,Day1,1,Day1,"11_0037_Normal, Day1"
+GSM201235,GSE8121,Day1,1,Day1,"11_0027_Normal, Day1"
+GSM201237,GSE8121,Day1,1,Day1,"11_0019_Normal, Day1"
+GSM201238,GSE8121,Day1,1,Day1,"11_0018_Normal, Day1"
+GSM201239,GSE8121,Day1,1,Day1,"11_0014_Normal, Day1"
+GSM201240,GSE8121,Day1,1,Day1,"11_0013_Normal, Day1"
+GSM201241,GSE8121,Day1,1,Day1,"11_0012_Normal, Day1"
+GSM201242,GSE8121,Day1,1,Day1,"11_0011_Normal, Day1"
+GSM201244,GSE8121,Day1,1,Day1,"11_0008_Normal, Day1"
+GSM201245,GSE8121,day1,1,Day1,"05_0007_Patient, Day1"
+GSM201246,GSE8121,day1,1,Day1,"27_70603_Patient, Day1"
+GSM201247,GSE8121,day1,1,Day1,"04_0004_Patient, Day1"
+GSM201248,GSE8121,Day1,1,Day1,"15_0008_Patient, Day1"
+GSM201249,GSE8121,day1,1,Day1,"15_0007_Patient, Day1"
+GSM201250,GSE8121,day1,1,Day1,"15_0004_Patient, Day1"
+GSM201251,GSE8121,Day1,1,Day1,"11_0029_Patient, Day1"
+GSM201252,GSE8121,day1,1,Day1,"11_0017_Patient, Day1"
+GSM201254,GSE8121,Day1,1,Day1,"10_0020_Patient, Day1"
+GSM201255,GSE8121,day1,1,Day1,"10_0017_Patient, Day1"
+GSM201256,GSE8121,day1,1,Day1,"10_0012_Patient, Day1"
+GSM201257,GSE8121,Day1,1,Day1,"10_0004_Patient, Day1"
+GSM201258,GSE8121,Day1,1,Day1,"09_0002_Patient, Day1"
+GSM201259,GSE8121,Day1,1,Day1,"09_0001_Patient, Day1"
+GSM201260,GSE8121,day1,1,Day1,"07_0002_Patient, Day1"
+GSM201261,GSE8121,day1,1,Day1,"06_0006_Patient, Day1"
+GSM201262,GSE8121,day1,1,Day1,"06_0004_Patient, Day1"
+GSM201263,GSE8121,day1,1,Day1,"06_0003_Patient, Day1"
+GSM201264,GSE8121,day1,1,Day1,"06_0001_Patient, Day1"
+GSM201265,GSE8121,Day1,1,Day1,"05_0010_Patient, Day1"
+GSM201266,GSE8121,day1,1,Day1,"05_0008_Patient, Day1"
+GSM201267,GSE8121,day1,1,Day1,"05_0006_Patient, Day1"
+GSM201268,GSE8121,day1,1,Day1,"04_0003_Patient, Day1"
+GSM201269,GSE8121,day1,1,Day1,"02_0001_Patient, Day1"
+GSM201270,GSE8121,day1,1,Day1,"01_0030_Patient, Day1"
+GSM201271,GSE8121,day1,1,Day1,"01_0026_Patient, Day1"
+GSM201272,GSE8121,Day1,1,Day1,"01_0025_Patient, Day1"
+GSM201273,GSE8121,day1,1,Day1,"01_0024_Patient, Day1"
+GSM201274,GSE8121,day1,1,Day1,"01_0019_Patient, Day1"
+GSM201275,GSE8121,day3,3,Day3,"05_0007_Patient, Day3"
+GSM201277,GSE8121,Day3,3,Day3,"04_0004_Patient, Day3"
+GSM201281,GSE8121,Day3,3,Day3,"11_0029_Patient, Day3"
+GSM201282,GSE8121,day3,3,Day3,"11_0017_Patient, Day3"
+GSM201284,GSE8121,Day3,3,Day3,"10_0020_Patient, Day3"
+GSM201285,GSE8121,Day3,3,Day3,"10_0017_Patient, Day3"
+GSM201286,GSE8121,Day3,3,Day3,"10_0012_Patient, Day3"
+GSM201288,GSE8121,Day3,3,Day3,"09_0002_Patient, Day3"
+GSM201290,GSE8121,Day3,3,Day3,"07_0002_Patient, Day3"
+GSM201292,GSE8121,day3,3,Day3,"06_0004_Patient, Day3"
+GSM201293,GSE8121,Day3,3,Day3,"06_0003_Patient, Day3"
+GSM201295,GSE8121,Day3,3,Day3,"05_0010_Patient, Day3"
+GSM201296,GSE8121,Day3,3,Day3,"05_0008_Patient, Day3"
+GSM201297,GSE8121,Day3,3,Day3,"05_0006_Patient, Day3"
+GSM201300,GSE8121,day3,3,Day3,"01_0030_Patient, Day3"
+GSM201301,GSE8121,Day3,3,Day3,"01_0026_Patient, Day3"
+GSM201302,GSE8121,Day3,3,Day3,"01_0025_Patient, Day3"
+GSM201303,GSE8121,day3,3,Day3,"01_0024_Patient, Day3"
+GSM201304,GSE8121,day3,3,Day3,"01_0019_Patient, Day3"
+GSM1070474,GSE43762,7days,7,7day,cell: Glioma initiating cell
+GSM1070475,GSE43762,7days,7,7day,cell: Glioma initiating cell
+GSM687651,GSE27858,4weeks,4,4weeks,tumor type: chronic lymphocytic leukemia;	tissue type: whole peripheral blood;	therapeutic agent: SPC2996;	dose group: 0.2mg per kg;	time point: 4weeks post tx
+GSM687667,GSE27858,4weeks,4,4weeks,tumor type: chronic lymphocytic leukemia;	tissue type: whole peripheral blood;	therapeutic agent: SPC2996;	dose group: 0.2mg per kg;	time point: 4weeks post tx
+GSM687671,GSE27858,4weeks,4,4weeks,tumor type: chronic lymphocytic leukemia;	tissue type: whole peripheral blood;	therapeutic agent: SPC2996;	dose group: 1mg per kg;	time point: 4weeks post tx
+GSM687677,GSE27858,4weeks,4,4weeks,tumor type: chronic lymphocytic leukemia;	tissue type: whole peripheral blood;	therapeutic agent: SPC2996;	dose group: 2mg per kg;	time point: 4weeks post tx
+GSM687682,GSE27858,4weeks,4,4weeks,tumor type: chronic lymphocytic leukemia;	tissue type: whole peripheral blood;	therapeutic agent: SPC2996;	dose group: 4mg per kg;	time point: 4weeks post tx
+GSM687687,GSE27858,4weeks,4,4weeks,tumor type: chronic lymphocytic leukemia;	tissue type: whole peripheral blood;	therapeutic agent: SPC2996;	dose group: 2mg per kg;	time point: 4weeks post tx
+GSM687694,GSE27858,4weeks,4,4weeks,tumor type: chronic lymphocytic leukemia;	tissue type: whole peripheral blood;	therapeutic agent: SPC2996;	dose group: 4mg per kg;	time point: 4weeks post tx
+GSM687702,GSE27858,4weeks,4,4weeks,tumor type: chronic lymphocytic leukemia;	tissue type: whole peripheral blood;	therapeutic agent: SPC2996;	dose group: 4mg per kg;	time point: 4weeks post tx
+GSM687718,GSE27858,4weeks,4,4weeks,tumor type: chronic lymphocytic leukemia;	tissue type: whole peripheral blood;	therapeutic agent: SPC2996;	dose group: 4mg per kg;	time point: 4weeks post tx
+GSM687723,GSE27858,4weeks,4,4weeks,tumor type: chronic lymphocytic leukemia;	tissue type: whole peripheral blood;	therapeutic agent: SPC2996;	dose group: 4mg per kg;	time point: 4weeks post tx
+GSM687727,GSE27858,4weeks,4,4weeks,tumor type: chronic lymphocytic leukemia;	tissue type: whole peripheral blood;	therapeutic agent: SPC2996;	dose group: 6mg per kg;	time point: 4weeks post tx
+GSM687731,GSE27858,4weeks,4,4weeks,tumor type: chronic lymphocytic leukemia;	tissue type: whole peripheral blood;	therapeutic agent: SPC2996;	dose group: 6mg per kg;	time point: 4weeks post tx
+GSM1488227,GSE60771,1,1,day1,erg expression: Low
+GSM1488232,GSE60771,day10,10,day10,erg expression: High
+GSM1488237,GSE60771,day3,3,day3,erg expression: Low
+GSM1488238,GSE60771,day7,7,day7,erg expression: High
+GSM1488241,GSE60771,day10 +dox,10,day10,erg expression: Low
+GSM1012076,GSE40972,10days,10,10days,cell line: KARPAS-422;	tissue type: DLBCL (diffuse large B-cell lymphoma);	treatment: Non targetting Control (10days)
+GSM1012079,GSE40972,10days,10,10days,cell line: Pfeiffer;	tissue type: DLBCL (diffuse large B-cell lymphoma);	treatment: shEZH2 (10days)
+GSM350210,GSE13904,1,1,day1,"Whole blood from normal children and children with SIRS, sepsis, or septic shock."
+GSM350212,GSE13904,day1,1,day1,"Whole blood from normal children and children with SIRS, sepsis, or septic shock."
+GSM350213,GSE13904,day1,1,day1,"Whole blood from normal children and children with SIRS, sepsis, or septic shock."
+GSM350214,GSE13904,day1,1,day1,"Whole blood from normal children and children with SIRS, sepsis, or septic shock."
+GSM350215,GSE13904,day1,1,day1,"Whole blood from normal children and children with SIRS, sepsis, or septic shock."
+GSM350219,GSE13904,day1,1,day1,"Whole blood from normal children and children with SIRS, sepsis, or septic shock."
+GSM350225,GSE13904,day1,1,day1,"Whole blood from normal children and children with SIRS, sepsis, or septic shock."
+GSM350226,GSE13904,day1,1,day1,"Whole blood from normal children and children with SIRS, sepsis, or septic shock."
+GSM350227,GSE13904,day1,1,day1,"Whole blood from normal children and children with SIRS, sepsis, or septic shock."
+GSM350228,GSE13904,day1,1,day1,"Whole blood from normal children and children with SIRS, sepsis, or septic shock."
+GSM350234,GSE13904,day1,1,day1,"Whole blood from normal children and children with SIRS, sepsis, or septic shock."
+GSM350235,GSE13904,day1,1,day1,"Whole blood from normal children and children with SIRS, sepsis, or septic shock."
+GSM350237,GSE13904,day1,1,day1,"Whole blood from normal children and children with SIRS, sepsis, or septic shock."
+GSM350241,GSE13904,day3,3,day3,"Whole blood from normal children and children with SIRS, sepsis, or septic shock."
+GSM350242,GSE13904,day3,3,day3,"Whole blood from normal children and children with SIRS, sepsis, or septic shock."
+GSM350243,GSE13904,day3,3,day3,"Whole blood from normal children and children with SIRS, sepsis, or septic shock."
+GSM350244,GSE13904,day3,3,day3,"Whole blood from normal children and children with SIRS, sepsis, or septic shock."
+GSM350245,GSE13904,day3,3,day3,"Whole blood from normal children and children with SIRS, sepsis, or septic shock."
+GSM350246,GSE13904,day3,3,day3,"Whole blood from normal children and children with SIRS, sepsis, or septic shock."
+GSM350247,GSE13904,day3,3,day3,"Whole blood from normal children and children with SIRS, sepsis, or septic shock."
+GSM350248,GSE13904,day3,3,day3,"Whole blood from normal children and children with SIRS, sepsis, or septic shock."
+GSM350249,GSE13904,day3,3,day3,"Whole blood from normal children and children with SIRS, sepsis, or septic shock."
+GSM350251,GSE13904,day3,3,day3,"Whole blood from normal children and children with SIRS, sepsis, or septic shock."
+GSM350252,GSE13904,day3,3,day3,"Whole blood from normal children and children with SIRS, sepsis, or septic shock."
+GSM350253,GSE13904,day3,3,day3,"Whole blood from normal children and children with SIRS, sepsis, or septic shock."
+GSM350254,GSE13904,day3,3,day3,"Whole blood from normal children and children with SIRS, sepsis, or septic shock."
+GSM350255,GSE13904,day3,3,day3,"Whole blood from normal children and children with SIRS, sepsis, or septic shock."
+GSM350256,GSE13904,day3,3,day3,"Whole blood from normal children and children with SIRS, sepsis, or septic shock."
+GSM350258,GSE13904,day3,3,day3,"Whole blood from normal children and children with SIRS, sepsis, or septic shock."
+GSM350260,GSE13904,day1_0,1,day1,"Whole blood from normal children and children with SIRS, sepsis, or septic shock."
+GSM350261,GSE13904,day1,1,day1,"Whole blood from normal children and children with SIRS, sepsis, or septic shock."
+GSM350263,GSE13904,day1,1,day1,"Whole blood from normal children and children with SIRS, sepsis, or septic shock."
+GSM350264,GSE13904,day1_10,1,day1,"Whole blood from normal children and children with SIRS, sepsis, or septic shock."
+GSM350265,GSE13904,day1,1,day1,"Whole blood from normal children and children with SIRS, sepsis, or septic shock."
+GSM350267,GSE13904,day1,1,day1,"Whole blood from normal children and children with SIRS, sepsis, or septic shock."
+GSM350268,GSE13904,day1_17,1,day1,"Whole blood from normal children and children with SIRS, sepsis, or septic shock."
+GSM350272,GSE13904,day1_27,1,day1,"Whole blood from normal children and children with SIRS, sepsis, or septic shock."
+GSM350273,GSE13904,day1_28,1,day1,"Whole blood from normal children and children with SIRS, sepsis, or septic shock."
+GSM350279,GSE13904,day1_43,1,day1,"Whole blood from normal children and children with SIRS, sepsis, or septic shock."
+GSM350280,GSE13904,day1_48,1,day1,"Whole blood from normal children and children with SIRS, sepsis, or septic shock."
+GSM350281,GSE13904,day1_52,1,day1,"Whole blood from normal children and children with SIRS, sepsis, or septic shock."
+GSM350283,GSE13904,day1_55,1,day1,"Whole blood from normal children and children with SIRS, sepsis, or septic shock."
+GSM350284,GSE13904,day1_59,1,day1,"Whole blood from normal children and children with SIRS, sepsis, or septic shock."
+GSM350286,GSE13904,day1_68,1,day1,"Whole blood from normal children and children with SIRS, sepsis, or septic shock."
+GSM350287,GSE13904,day1,1,day1,"Whole blood from normal children and children with SIRS, sepsis, or septic shock."
+GSM350290,GSE13904,day1_77,1,day1,"Whole blood from normal children and children with SIRS, sepsis, or septic shock."
+GSM350291,GSE13904,day1_79,1,day1,"Whole blood from normal children and children with SIRS, sepsis, or septic shock."
+GSM350297,GSE13904,day1,1,day1,"Whole blood from normal children and children with SIRS, sepsis, or septic shock."
+GSM350318,GSE13904,day1_202,1,day1,"Whole blood from normal children and children with SIRS, sepsis, or septic shock."
+GSM350319,GSE13904,day1_207,1,day1,"Whole blood from normal children and children with SIRS, sepsis, or septic shock."
+GSM350323,GSE13904,day1_219,1,day1,"Whole blood from normal children and children with SIRS, sepsis, or septic shock."
+GSM1159749,GSE47796,3wk,3,3WK,cell type: PSC-neurons;	protocol: purified by facs for DCX-GFP reporter
+GSM1159750,GSE47796,3wk,3,3WK,cell type: PSC-neurons;	protocol: purified by facs for DCX-GFP reporter
+GSM3059033,GSE112165,6month,6,6month,subject id: 4541;	subject status: chronic obstructive pulmonary disease (COPD) patient;	timepoint: 6month;	tissue: sputum
+GSM3059041,GSE112165,6month,6,6month,subject id: 6036;	subject status: chronic obstructive pulmonary disease (COPD) patient;	timepoint: 6month;	tissue: sputum
+GSM3059044,GSE112165,6month,6,6month,subject id: 6629;	subject status: chronic obstructive pulmonary disease (COPD) patient;	timepoint: 6month;	tissue: sputum
+GSM3059057,GSE112165,6month,6,6month,subject id: 1584;	subject status: chronic obstructive pulmonary disease (COPD) patient;	timepoint: 6month;	tissue: sputum
+GSM3059065,GSE112165,6month,6,6month,subject id: 13943;	subject status: chronic obstructive pulmonary disease (COPD) patient;	timepoint: 6month;	tissue: sputum
+GSM3059069,GSE112165,6month,6,6month,subject id: 11630;	subject status: chronic obstructive pulmonary disease (COPD) patient;	timepoint: 6month;	tissue: sputum
+GSM3059071,GSE112165,6month,6,6month,subject id: 9910;	subject status: chronic obstructive pulmonary disease (COPD) patient;	timepoint: 6month;	tissue: sputum
+GSM733820,GSE29614,d3,3,days 3,"cell type: PBMC;	subject id: 16;	time point: D3;	vaccine: TIV (Fluarix, GlaxoSmithKline Biologicals);	hai titer (day 0) - a/ solomon islands/3/2006 (h1n1): 40;	hai titer (day 28) - a/ solomon islands/"
+GSM733826,GSE29614,3,3,days 3,"cell type: PBMC;	subject id: 21;	time point: D3;	vaccine: TIV (Fluarix, GlaxoSmithKline Biologicals);	hai titer (day 0) - a/ solomon islands/3/2006 (h1n1): 160;	hai titer (day 28) - a/ solomon islands"
+GSM733829,GSE29614,3,3,days 3,"cell type: PBMC;	subject id: 23;	time point: D3;	vaccine: TIV (Fluarix, GlaxoSmithKline Biologicals);	hai titer (day 0) - a/ solomon islands/3/2006 (h1n1): 5;	hai titer (day 28) - a/ solomon islands/3"
+GSM733832,GSE29614,d3,3,days 3,"cell type: PBMC;	subject id: 29;	time point: D3;	vaccine: TIV (Fluarix, GlaxoSmithKline Biologicals);	hai titer (day 0) - a/ solomon islands/3/2006 (h1n1): 40;	hai titer (day 28) - a/ solomon islands/"
+GSM733838,GSE29614,d3,3,days 3,"cell type: PBMC;	subject id: 35;	time point: D3;	vaccine: TIV (Fluarix, GlaxoSmithKline Biologicals);	hai titer (day 0) - a/ solomon islands/3/2006 (h1n1): 5;	hai titer (day 28) - a/ solomon islands/3"
+GSM513708,GSE20476,1day,1,1 day,transduction: USP2 shRNA;	treatment: phorbol 12-myristate 13-acetate;	duration: 1 day;	pretreatment(dose): 32nM
+GSM513709,GSE20476,1day,1,1 day,transduction: USP2 shRNA;	treatment: phorbol 12-myristate 13-acetate;	duration: 1 day;	pretreatment(dose): 32nM
+GSM513710,GSE20476,1day,1,1 day,transduction: USP2 shRNA;	treatment: phorbol 12-myristate 13-acetate;	duration: 1 day;	pretreatment(dose): 32nM
+GSM513720,GSE20476,1day,1,1 day,transduction: negative control shRNA;	treatment: phorbol 12-myristate 13-acetate;	duration: 1 day;	pretreatment(dose): 32nM
+GSM513721,GSE20476,1day,1,1 day,transduction: negative control shRNA;	treatment: phorbol 12-myristate 13-acetate;	duration: 1 day;	pretreatment(dose): 32nM
+GSM513722,GSE20476,1day,1,1 day,transduction: negative control shRNA;	treatment: phorbol 12-myristate 13-acetate;	duration: 1 day;	pretreatment(dose): 32nM
+GSM307892,GSE12251,wk8,8,WK8,WK8RSPHM: No
+GSM307893,GSE12251,wk8,8,WK8,WK8RSPHM: No
+GSM307908,GSE12251,wk8,8,WK8,WK8RSPHM: No
+GSM1637493,GSE67051,8days,8,8day,tissue: lung;	cell line: PC9;	agent: DMSO
+GSM1637494,GSE67051,8days,8,8day,tissue: lung;	cell line: PC9;	agent: DMSO
+GSM1637495,GSE67051,8days,8,8day,tissue: lung;	cell line: PC9;	agent: DMSO
+GSM1637496,GSE67051,8days,8,8day,tissue: lung;	cell line: PC9;	agent: Erlotinib
+GSM1637497,GSE67051,8days,8,8day,tissue: lung;	cell line: PC9;	agent: Erlotinib
+GSM1637498,GSE67051,8days,8,8day,tissue: lung;	cell line: PC9;	agent: Erlotinib
+GSM1637499,GSE67051,8days,8,8day,tissue: lung;	cell line: HCC827;	agent: DMSO
+GSM1637500,GSE67051,8days,8,8day,tissue: lung;	cell line: HCC827;	agent: DMSO
+GSM1637501,GSE67051,8days,8,8day,tissue: lung;	cell line: HCC827;	agent: DMSO
+GSM1637502,GSE67051,8days,8,8day,tissue: lung;	cell line: HCC827;	agent: Erlotinib
+GSM1637503,GSE67051,8days,8,8day,tissue: lung;	cell line: HCC827;	agent: Erlotinib
+GSM1637504,GSE67051,8days,8,8day,tissue: lung;	cell line: HCC827;	agent: Erlotinib
+GSM2948088,GSE109662,day7,7,day7,"cell: HUVEC;	stimulation: siFLI1, day7"
+GSM1540259,GSE63074,1day,1,Day 1,study: PRECISION STUDY;	tissue: non-small-cell lung carcinoma;	patient: Patient 1 in 1st sub-study (Operator 2;Day 1;NuGen lot 1211216-A;Encore lot1211102-B;Rep.3);	risk: high
+GSM1540260,GSE63074,1day,1,Day 1,study: PRECISION STUDY;	tissue: non-small-cell lung carcinoma;	patient: Patient 1 in 1st sub-study (Operator 2;Day 1;NuGen lot 1211216-A;Encore lot1211102-B;Rep.2);	risk: high
+GSM1540265,GSE63074,1day,1,Day 1,study: PRECISION STUDY;	tissue: non-small-cell lung carcinoma;	patient: Patient 1 in 1st sub-study (Operator 1;Day 1;NuGen lot 1211216-A;Encore lot1211102-B;Rep.1);	risk: low
+GSM1540266,GSE63074,1day,1,Day 1,study: PRECISION STUDY;	tissue: non-small-cell lung carcinoma;	patient: Patient 1 in 1st sub-study (Operator 1;Day 1;NuGen lot 1211216-A;Encore lot1211102-B;Rep.2);	risk: low
+GSM1540267,GSE63074,1day,1,Day 1,study: PRECISION STUDY;	tissue: non-small-cell lung carcinoma;	patient: Patient 1 in 1st sub-study (Operator 1;Day 1;NuGen lot 1211216-A;Encore lot1211102-B;Rep.3);	risk: low
+GSM1540268,GSE63074,1day,1,Day 1,study: PRECISION STUDY;	tissue: non-small-cell lung carcinoma;	patient: Patient 1 in 1st sub-study (Operator 2;Day 1;NuGen lot 1211216-A;Encore lot1211102-B;Rep.1);	risk: low
+GSM1540269,GSE63074,1day,1,Day 1,study: PRECISION STUDY;	tissue: non-small-cell lung carcinoma;	patient: Patient 1 in 1st sub-study (Operator 2;Day 1;NuGen lot 1211216-A;Encore lot1211102-B;Rep.3);	risk: low
+GSM1540270,GSE63074,1day,1,Day 1,study: PRECISION STUDY;	tissue: non-small-cell lung carcinoma;	patient: Patient 1 in 1st sub-study (Operator 2;Day 1;NuGen lot 1211216-A;Encore lot1211102-B;Rep.2);	risk: low
+GSM1540287,GSE63074,1day,1,Day 1,study: PRECISION STUDY;	tissue: non-small-cell lung carcinoma;	patient: Patient 1 in 1st sub-study (Operator 3;Day 1;NuGen lot 1211216-A;Encore lot1211102-B;Rep.3);	risk: high
+GSM1540322,GSE63074,1day,1,Day 1,study: PRECISION STUDY;	tissue: non-small-cell lung carcinoma;	patient: Patient 1 in 1st sub-study (Operator 3;Day 1;NuGen lot 1211216-A;Encore lot1211102-B;Rep.3);	risk: low
+GSM1540323,GSE63074,1day,1,Day 1,study: PRECISION STUDY;	tissue: non-small-cell lung carcinoma;	patient: Patient 1 in 1st sub-study (Operator 3;Day 1;NuGen lot 1211216-A;Encore lot1211102-B;Rep.2);	risk: low
+GSM1540324,GSE63074,1day,1,Day 1,study: PRECISION STUDY;	tissue: non-small-cell lung carcinoma;	patient: Patient 1 in 1st sub-study (Operator 3;Day 1;NuGen lot 1211216-A;Encore lot1211102-B;Rep.1);	risk: low
+GSM1540335,GSE63074,1day,1,Day 1,study: PRECISION STUDY;	tissue: non-small-cell lung carcinoma;	patient: Patient 2 in 1st sub-study (Operator 3;Day 1;NuGen lot 1211216-A;Encore lot1211102-B;Rep.1);	risk: low
+GSM3909915,GSE133477,DAY1,1,DAY1,patient_id: 1;	batch_date: 6262018;	tissue: LESIONAL;	week: DAY1;	treatment: Vehicle
+GSM3909920,GSE133477,DAY1,1,DAY1,patient_id: 1;	batch_date: 6262018;	tissue: LESIONAL;	week: DAY1;	treatment: Crisaborole
+GSM3909922,GSE133477,DAY1,1,DAY1,patient_id: 3;	batch_date: 6262018;	tissue: LESIONAL;	week: DAY1;	treatment: Crisaborole
+GSM3909927,GSE133477,DAY1,1,DAY1,patient_id: 3;	batch_date: 6262018;	tissue: LESIONAL;	week: DAY1;	treatment: Vehicle
+GSM3909929,GSE133477,DAY1,1,DAY1,patient_id: 4;	batch_date: 6262018;	tissue: LESIONAL;	week: DAY1;	treatment: Vehicle
+GSM3909931,GSE133477,DAY1,1,DAY1,patient_id: 4;	batch_date: 6262018;	tissue: LESIONAL;	week: DAY1;	treatment: Crisaborole
+GSM3909934,GSE133477,DAY1,1,DAY1,patient_id: 5;	batch_date: 6262018;	tissue: LESIONAL;	week: DAY1;	treatment: Crisaborole
+GSM3909939,GSE133477,DAY1,1,DAY1,patient_id: 5;	batch_date: 6262018;	tissue: LESIONAL;	week: DAY1;	treatment: Vehicle
+GSM3909941,GSE133477,1,1,DAY1,patient_id: 6;	batch_date: 6272018;	tissue: LESIONAL;	week: DAY1;	treatment: Vehicle
+GSM3909943,GSE133477,DAY1,1,DAY1,patient_id: 6;	batch_date: 6272018;	tissue: LESIONAL;	week: DAY1;	treatment: Crisaborole
+GSM3909951,GSE133477,1,1,DAY1,patient_id: 7;	batch_date: 6272018;	tissue: LESIONAL;	week: DAY1;	treatment: Vehicle
+GSM3909958,GSE133477,1,1,DAY1,patient_id: 9;	batch_date: 6272018;	tissue: LESIONAL;	week: DAY1;	treatment: Vehicle
+GSM3909960,GSE133477,DAY1,1,DAY1,patient_id: 11;	batch_date: 6272018;	tissue: LESIONAL;	week: DAY1;	treatment: Vehicle
+GSM3909965,GSE133477,DAY1,1,DAY1,patient_id: 11;	batch_date: 6272018;	tissue: LESIONAL;	week: DAY1;	treatment: Crisaborole
+GSM3909967,GSE133477,DAY1,1,DAY1,patient_id: 12;	batch_date: 7032018;	tissue: LESIONAL;	week: DAY1;	treatment: Crisaborole
+GSM3909969,GSE133477,DAY1,1,DAY1,patient_id: 12;	batch_date: 7032018;	tissue: LESIONAL;	week: DAY1;	treatment: Vehicle
+GSM3909986,GSE133477,DAY1,1,DAY1,patient_id: 15;	batch_date: 7032018;	tissue: LESIONAL;	week: DAY1;	treatment: Vehicle
+GSM3910003,GSE133477,1,1,DAY1,patient_id: 22;	batch_date: 7052018;	tissue: LESIONAL;	week: DAY1;	treatment: Vehicle
+GSM3910010,GSE133477,1,1,DAY1,patient_id: 23;	batch_date: 7052018;	tissue: LESIONAL;	week: DAY1;	treatment: Vehicle
+GSM3910014,GSE133477,1,1,DAY1,patient_id: 23;	batch_date: 7062018;	tissue: NONLESIONAL;	week: DAY1;	treatment: NONLESIONAL
+GSM3910024,GSE133477,1,1,DAY1,patient_id: 27;	batch_date: 7062018;	tissue: LESIONAL;	week: DAY1;	treatment: Vehicle
+GSM3910029,GSE133477,1,1,DAY1,patient_id: 28;	batch_date: 7252018;	tissue: LESIONAL;	week: DAY1;	treatment: Vehicle
+GSM3910032,GSE133477,1,1,DAY1,patient_id: 29;	batch_date: 7252018;	tissue: LESIONAL;	week: DAY1;	treatment: Vehicle
+GSM3910043,GSE133477,1,1,DAY1,patient_id: 30;	batch_date: 7252018;	tissue: NONLESIONAL;	week: DAY1;	treatment: NONLESIONAL
+GSM3910044,GSE133477,1,1,DAY1,patient_id: 31;	batch_date: 7252018;	tissue: LESIONAL;	week: DAY1;	treatment: Crisaborole
+GSM3910046,GSE133477,1,1,DAY1,patient_id: 31;	batch_date: 7252018;	tissue: LESIONAL;	week: DAY1;	treatment: Vehicle
+GSM3910048,GSE133477,1,1,DAY1,patient_id: 31;	batch_date: 7252018;	tissue: NONLESIONAL;	week: DAY1;	treatment: NONLESIONAL
+GSM3910049,GSE133477,1,1,DAY1,patient_id: 32;	batch_date: 7252018;	tissue: LESIONAL;	week: DAY1;	treatment: Vehicle
+GSM3910054,GSE133477,1,1,DAY1,patient_id: 32;	batch_date: 7252018;	tissue: LESIONAL;	week: DAY1;	treatment: Crisaborole
+GSM3910055,GSE133477,1,1,DAY1,patient_id: 32;	batch_date: 7252018;	tissue: NONLESIONAL;	week: DAY1;	treatment: NONLESIONAL
+GSM3910060,GSE133477,1,1,DAY1,patient_id: 33;	batch_date: 7122018;	tissue: NONLESIONAL;	week: DAY1;	treatment: NONLESIONAL
+GSM3910072,GSE133477,1,1,DAY1,patient_id: 35;	batch_date: 7122018;	tissue: NONLESIONAL;	week: DAY1;	treatment: NONLESIONAL
+GSM3910073,GSE133477,1,1,DAY1,patient_id: 36;	batch_date: 7122018;	tissue: LESIONAL;	week: DAY1;	treatment: Vehicle
+GSM3910087,GSE133477,1,1,DAY1,patient_id: 40;	batch_date: 7132018;	tissue: LESIONAL;	week: DAY1;	treatment: Crisaborole
+GSM3910092,GSE133477,1,1,DAY1,patient_id: 40;	batch_date: 7132018;	tissue: LESIONAL;	week: DAY1;	treatment: Vehicle
+GSM3910093,GSE133477,1,1,DAY1,patient_id: 40;	batch_date: 7132018;	tissue: NONLESIONAL;	week: DAY1;	treatment: NONLESIONAL
+GSM3910094,GSE133477,1,1,DAY1,patient_id: 41;	batch_date: 7242018;	tissue: LESIONAL;	week: DAY1;	treatment: Vehicle
+GSM3910101,GSE133477,DAY1,1,DAY1,patient_id: 42;	batch_date: 7242018;	tissue: LESIONAL;	week: DAY1;	treatment: Vehicle
+GSM3910106,GSE133477,DAY1,1,DAY1,patient_id: 42;	batch_date: 7242018;	tissue: LESIONAL;	week: DAY1;	treatment: Crisaborole
+GSM3910108,GSE133477,1,1,DAY1,patient_id: 43;	batch_date: 7242018;	tissue: LESIONAL;	week: DAY1;	treatment: Vehicle
+GSM3910112,GSE133477,1,1,DAY1,patient_id: 43;	batch_date: 7242018;	tissue: NONLESIONAL;	week: DAY1;	treatment: NONLESIONAL
+GSM3910115,GSE133477,1,1,DAY1,patient_id: 44;	batch_date: 7192018;	tissue: LESIONAL;	week: DAY1;	treatment: Vehicle
+GSM3910117,GSE133477,1,1,DAY1,patient_id: 44;	batch_date: 7192018;	tissue: NONLESIONAL;	week: DAY1;	treatment: NONLESIONAL
+GSM3910124,GSE133477,1,1,DAY1,patient_id: 45;	batch_date: 7192018;	tissue: NONLESIONAL;	week: DAY1;	treatment: NONLESIONAL
+GSM3910125,GSE133477,1,1,DAY1,patient_id: 47;	batch_date: 7192018;	tissue: LESIONAL;	week: DAY1;	treatment: Vehicle
+GSM3910130,GSE133477,1,1,DAY1,patient_id: 47;	batch_date: 7192018;	tissue: LESIONAL;	week: DAY1;	treatment: Crisaborole
+GSM3910137,GSE133477,1,1,DAY1,patient_id: 48;	batch_date: 7192018;	tissue: LESIONAL;	week: DAY1;	treatment: Vehicle
+GSM3910144,GSE133477,1,1,DAY1,patient_id: 49;	batch_date: 7202018;	tissue: NONLESIONAL;	week: DAY1;	treatment: NONLESIONAL
+GSM3910145,GSE133477,1,1,DAY1,patient_id: 50;	batch_date: 7202018;	tissue: LESIONAL;	week: DAY1;	treatment: Vehicle
+GSM3910149,GSE133477,1,1,DAY1,patient_id: 50;	batch_date: 7202018;	tissue: NONLESIONAL;	week: DAY1;	treatment: NONLESIONAL
+GSM3910150,GSE133477,1,1,DAY1,patient_id: 51;	batch_date: 7202018;	tissue: LESIONAL;	week: DAY1;	treatment: Vehicle
+GSM3910156,GSE133477,1,1,DAY1,patient_id: 51;	batch_date: 7202018;	tissue: NONLESIONAL;	week: DAY1;	treatment: NONLESIONAL
+GSM301144,GSE11917,3,3,3 day,Media + dexamethasone + absorbic acid + beta-glycerophosphate Day 3
+GSM918580,GSE37418,6yrs 6mos,6,6mos,subgroup: WNT;	age: 6yrs 6mos;	Sex: Female;	ethnic: White;	m stage: MB-CL
+GSM918584,GSE37418,8yrs 8mos,8,8mos,subgroup: G4;	age: 8yrs 8mos;	Sex: Male;	ethnic: White;	m stage: MB-CL
+GSM918586,GSE37418,10yrs 10mos,10,10mos,subgroup: G3;	age: 10yrs 10mos;	Sex: Male;	ethnic: White;	m stage: MB-AN
+GSM918597,GSE37418,5yrs 5mos,5,5mos,subgroup: G4;	age: 5yrs 5mos;	Sex: Male;	ethnic: White;	m stage: MB-CL
+GSM918618,GSE37418,10yrs 10mos,10,10mos,subgroup: U;	age: 10yrs 10mos;	Sex: Male;	ethnic: White;	m stage: MB-Myo
+GSM918623,GSE37418,8yrs 8mos,8,8mos,subgroup: G4;	age: 8yrs 8mos;	Sex: Male;	ethnic: White;	m stage: MB-CL
+GSM918633,GSE37418,8yrs 8mos,8,8mos,subgroup: G4;	age: 8yrs 8mos;	Sex: Male;	ethnic: White;	m stage: MB-CL
+GSM918652,GSE37418,10yrs 10mos,10,10mos,subgroup: G4;	age: 10yrs 10mos;	Sex: Male;	ethnic: Hispanic;	m stage: MB-CL
+GSM610799,GSE24810,7days,7,7days,cell line: Human mammary fibroblasts (HMF3A);	treatment: pRS LAMIN (vector used for silencing genes expression and expresses lamin A) grown for 7days at 38oC
+GSM610800,GSE24810,7days,7,7days,cell line: Human mammary fibroblasts (HMF3A);	treatment: pRS LAMIN (vector used for silencing genes expression and expresses lamin A) grown for 7days at 38oC
+GSM610801,GSE24810,7days,7,7days,cell line: Human mammary fibroblasts (HMF3A);	treatment: pRS LAMIN (vector used for silencing genes expression and expresses lamin A) grown for 7days at 38oC
+GSM832865,GSE33687,wk1,1,wk1,cell type: PBMC;	infection status: SIV_ML29_sc_wk1
+GSM832866,GSE33687,wk1,1,wk1,cell type: PBMC;	infection status: SIV_ML29_sc_wk1
+GSM832867,GSE33687,wk1,1,wk1,cell type: PBMC;	infection status: SIV_ML29_sc_wk1
+GSM832868,GSE33687,wk1,1,wk1,cell type: PBMC;	infection status: SIV_ML29_sc_wk1
+GSM832869,GSE33687,wk1,1,wk1,cell type: PBMC;	infection status: SIV_ML29_sc_wk1
+GSM832871,GSE33687,wk1,1,wk1,cell type: PBMC;	infection status: SIV_ARM_sc_wk1
+GSM832874,GSE33687,wk2,2,wk2,cell type: PBMC;	infection status: SIV_ML29_sc_wk2
+GSM832875,GSE33687,wk2,2,wk2,cell type: PBMC;	infection status: SIV_ML29_sc_wk2
+GSM832876,GSE33687,wk2,2,wk2,cell type: PBMC;	infection status: SIV_ML29_sc_wk2
+GSM832877,GSE33687,wk2,2,wk2,cell type: PBMC;	infection status: SIV_ML29_sc_wk2
+GSM832878,GSE33687,wk2,2,wk2,cell type: PBMC;	infection status: SIV_ML29_sc_wk2
+GSM832881,GSE33687,wk2,2,wk2,cell type: PBMC;	infection status: SIV_ARM_sc_wk2
+GSM102748,GSE4655,3,3,day 3,Human adult
+GSM102749,GSE4655,3,3,day 3,Human adult
+GSM215633,GSE8702,3weeks: 3,3,3 weeks,Cultured prostate cancer cells at 3 weeks;
+GSM215636,GSE8702,1month,1,1month,Cultured prostate cancer cells at one month;
+GSM215637,GSE8702,1month,1,1 month,Cultured prostate cancer cells deprived of androgen for 1 month;
+GSM215638,GSE8702,1month,1,1 month,Cultured prostate cancer cells deprived of androgen for 1 month;
+GSM215639,GSE8702,5months,5,5 months,Cultured prostate cancer cells at 5 months;
+GSM215642,GSE8702,12month,12,12 months,Cultured prostate cancer cells at 12 months;
+GSM1199059,GSE49416,5days,5,5 days,tumor: hBT112;	treatment: BKM 120 100 nM for 5 days
+GSM1199060,GSE49416,5days,5,5 days,tumor: hBT112;	treatment: BKM 120 100 nM for 5 days
+GSM1199055,GSE49416,5days,5,5days,tumor: hBT112;	treatment: DMSO
+GSM1199058,GSE49416,5days,5,5 days,tumor: hBT112;	treatment: LDE225 at 1 uM for 5 days
+GSM1199051,GSE49416,5days,5,5 days,tumor: hBT70;	treatment: BKM 120 100 nM for 5 days
+GSM1199052,GSE49416,5days,5,5 days,tumor: hBT70;	treatment: BKM 120 100 nM for 5 days
+GSM1199047,GSE49416,5days,5,5days,tumor: hBT70;	treatment: DMSO
+GSM1199049,GSE49416,5days,5,5 days,tumor: hBT70;	treatment: LDE225 at 1 uM for 5 days
+GSM1199050,GSE49416,5days,5,5 days,tumor: hBT70;	treatment: LDE225 at 1 uM for 5 days
+GSM831372,GSE33622,day3 after cardiac differentiation onset,3,day3,cell line: hiPSCs (IMR90-1);	cell type: hiPSCs at day3 after cardiac differentiation onset
+GSM831373,GSE33622,day3 after cardiac differentiation onset,3,day3,cell line: hiPSCs (IMR90-1);	cell type: hiPSCs at day3 after cardiac differentiation onset
+GSM831374,GSE33622,day3 after cardiac differentiation onset,3,day3,cell line: hiPSCs (IMR90-1);	cell type: hiPSCs at day3 after cardiac differentiation onset
+GSM831375,GSE33622,day3 after cardiac differentiation onset,3,day3,cell line: hiPSCs (IMR90-1);	cell type: hiPSCs at day3 after cardiac differentiation onset
+GSM831376,GSE33622,day3 after cardiac differentiation onset,3,day3,cell line: hiPSCs (IMR90-1);	cell type: hiPSCs at day3 after cardiac differentiation onset
+GSM1050412,GSE42816,11 m,11,11 mo,gender: female;	age: 11 m;	disease state: Propionic acidemia;	treatment: low glucose;	cell line: GM22366
+GSM1134678,GSE46697,6,6,6 month,gender: female;	individual: 6;	disease state: Metabolic syndrome;	intervention: 6 month guided endurance exercise training program;	timepoint: before;	tissue: vastus lateralis muscle
+GSM469169,GSE18938,7days,7,7days,cell line: MCF10A;	genome/variation: HER2 overexpression;	treatment group: untreated;	length of treatment (days): 7
+GSM2790137,GSE104113,6months,6,6months,group: Juvenile;	cell type: chondrocyte
+GSM1583259,GSE64914,6,6,Day 6,cell type: CD4+ T cells;	car transduction status: cMet IgG4 CD28 CD3z
+GSM766342,GSE30915,day8,8,day8,cell type: hESCs;	cell line: H7;	feeder: on irradiated mouse embryonic fibroblast (MEF) feeders
+GSM766343,GSE30915,day8,8,day8,cell type: hESCs;	cell line: H7;	feeder: on irradiated mouse embryonic fibroblast (MEF) feeders
+GSM1115965,GSE45819,7days,7,7days,cell type: differentiated myoblasts
+GSM1115966,GSE45819,7days,7,7days,cell type: differentiated myoblasts
+GSM1115967,GSE45819,7days,7,7days,cell type: differentiated myoblasts
+GSM1657351,GSE67864,7days,7,7days,tissue: human embryonic carcinoma cells;	cell line: NCCIT
+GSM641556,GSE26123,7days,7,7days,gender: female
+GSM641552,GSE26123,7days,7,7days,gender: female
+GSM641557,GSE26123,7days,7,7days,gender: female
+GSM641561,GSE26123,7days,7,7days,gender: male
+GSM1141000,GSE46911,2days,2,2day,disease state: healthy;	cell type: monocyte;	treatment: autologous serum;	time: 2day
+GSM1141001,GSE46911,3days,3,3day,disease state: healthy;	cell type: monocyte;	treatment: autologous serum;	time: 3day
+GSM1141010,GSE46911,2day,2,2day,disease state: healthy;	cell type: monocyte;	treatment: autologous serum;	time: 2day
+GSM1141011,GSE46911,3days,3,3day,disease state: healthy;	cell type: monocyte;	treatment: autologous serum;	time: 3day
+GSM1141016,GSE46911,3day,3,3day,disease state: healthy;	cell type: monocyte;	treatment: autologous serum IFNa2b;	time: 3day

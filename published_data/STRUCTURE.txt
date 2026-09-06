@@ -1,0 +1,71 @@
+Paper_Data/ — code, input data, intermediate + final results, evaluation, figures
+
+code/                     pipeline code (no tests, no manual-eval code)
+  1_extraction_phase1_1b/   Phase 1 + 1b + Age + Sex extraction
+  2_normalization_phase2/   Phase 2 normalization + DB/index build + run scripts
+  4_final_assembly/         pointer to the final-corpus merge (data/merge_final_labels.py)
+  (deterministic evaluation code lives with its results under data/evaluation/, one folder per table)
+data/
+  01_input_metadata/        samples_804k.json (exact frozen input that starts Phase 1);
+                            gse_meta_scraped.json.gz (GSE study context, input to the S9 audit)
+  02_phase1_1b_output/      p1_*.json.gz (Phase 1 + 1b per-sample labels)
+  03_age_output/            age_804k.json + age_804k.json.gz (authoritative Age output);
+                            age_804k.tsv.gz is a legacy convenience export
+  04_phase2_output/         final/<GPL>/ + dictionary.json.gz (Phase 2 normalized)
+  05_final_labels/          LLM_labels_all_samples.csv.gz (the FIRST extraction pass, kept so the
+                            correction stays traceable; the corpus the paper reports is
+                            06_final_labels_repaired/LLM_labels_all_samples_FINAL.csv.gz)
+  merge_final_labels.py     builds 05_final_labels from Phase 2 + Phase 1/1b Sex + Age run
+  evaluation/  (incl. LLM_judge/ + multilabel/ — LLM-judge audits)               one folder per evaluation table (code + result CSV + README each):
+                              S1_manual_benchmark/         (human 1,500-per-label gold + scorers)
+                              S5_database_resolution/     (= main Table 2)
+                              S6_acronym_expansion/
+                              S7_vocabulary_precision/
+                              S8_oov_consolidation/       (ships its pre-fold dictionary snapshot)
+                              S9_gse_shortform_audit/
+                              S10_corpus_composition/
+                              S11_age_analysis/            (age value composition)
+                              S12_casefold/                (effect of the final case-fold step)
+                              S13_baseline_comparison/
+                              S14_routing_decomposition/
+                              S17_condition_control_split/ (control vs disease Condition split)
+                              S19_metadata_grounding/      (Sex/Age grounded in own record)
+                              S20_age_provenance/          (donor vs developmental vs free-text age)
+                              S21_resource_summary/        (distinct concepts the corpus contains)
+                              S22_field_scope/             (field-scope enforcement audit)
+                              S23_integrity_screens/       (six cross-field contradiction screens)
+                              S24_acronym_population/      (acronym-shaped Condition population)
+                              Table3_normalization_quality/  (main Table 3)
+                              error_analysis/              (main text 3.3 - residual errors
+                                                            per label, with their cause)
+                            README.md maps every S-table (incl. derived/manual ones) to its source
+reference/                  mesh.sqlite, cellosaurus.sqlite,
+                            cellosaurus_repaired.sqlite (adds organism + donor_sex, needed by S23)
+figures/                    figure_1_pipeline_schematic.png, figure_S1_label_distribution.png
+README.md, requirements.txt
+
+--- added for the reported corpus -------------------------------------------
+
+code/
+  5_repaired_pipeline/      the repaired pipeline that produced the re-extracted
+                            samples; Phase 1 byte-identical to 1_extraction_*,
+                            Phase 2 six files changed and three added.
+                            README.md lists the repair per function.
+data/
+  06_final_labels_repaired/ the corpus the paper reports (804,427 samples, the
+                            first pass with the re-extracted samples substituted
+                            in), its Phase 2 output and dictionaries, the
+                            collected evaluation results, and scripts/ that
+                            rebuilds it from its three inputs
+  07_reextraction_outputs/  what the two corrective runs produced before
+                            merging: acronym_normalisation/ and
+                            integrity_reextraction/
+  evaluation/S23_integrity_screens/
+                            the six integrity screens, their evidence lists and
+                            the verdicts
+prompts/                    every prompt as plain text, one file each, grouped
+                            by stage (01_phase1, 02_phase1b, 03_phase2,
+                            04_judge, 05_repaired)
+reference/                  cellosaurus_repaired.sqlite added: it carries
+                            organism and donor_sex, which two screens need
+WHERE_IS_WHAT.md            what is where, and how to check it

@@ -1,0 +1,24 @@
+field,raw_value,assigned_id,instances,verdict,matched_id,matched_name,evidence
+Tissue,PBMC,ART-T-00001,13437,inappropriate,D007963,"Leukocytes, Mononuclear",PBMC denotes peripheral-blood mononuclear cells; MeSH D007963 denotes it
+Tissue,Lymphoblastoid cell lines,OOV-T-E3103FC62D,3353,appropriate,,,generic transformed-lymphocyte line; no single in-branch MeSH/CVCL term
+Tissue,Breast,OOV-T-4B6CE79624,2622,inappropriate,D001940,Breast,exact MeSH term exists (also flagged deterministically in S20)
+Tissue,GBM 104,OOV-T-3EFC8929F5,2,appropriate,,,study-specific sample id
+Tissue,human-derived melanoma cells,OOV-T-FEB3936798,17,appropriate,,,descriptive phrase; no exact in-branch term
+Tissue,Acute Lymphoblastic Leukemia cells,OOV-T-0DB4BAF1A4,10,appropriate,,,cell-state phrase; ALL is a Condition not a Tissue term
+Tissue,HUC1,ART-T-00101,2,indeterminate,,,possible cell line; needs Cellosaurus lookup
+Tissue,MDA-HNS-073,OOV-T-4D46A4B83D,1,indeterminate,,,possible MD-Anderson line; needs Cellosaurus lookup
+Condition,normal,OOV-C-4151FED50D,31280,appropriate,,,control/normal state; no MeSH disease descriptor
+Condition,NSCLC,ART-C-00622,16375,inappropriate,D002289,"Carcinoma, Non-Small-Cell Lung",bare acronym; MeSH descriptor exists (missed by exact match)
+Condition,control,OOV-C-D2446A4E3F,16224,appropriate,,,control state; not a disease
+Condition,Endometrioid,OOV-C-2AA1B93977,3,inappropriate,D018269,"Carcinoma, Endometrioid",denotes endometrioid carcinoma; MeSH descriptor exists
+Condition,AdenoCa,OOV-C-2AA52AC531,9,inappropriate,D000230,Adenocarcinoma,abbreviation of adenocarcinoma; MeSH descriptor exists
+Condition,ITGA3 mutation,OOV-C-BFF70CCF1C,1,appropriate,,,specific mutation; no MeSH descriptor
+Condition,infected with KY/136 (pdmH1N1),OOV-C-99E64C9B0B,3,appropriate,,,study-specific strain challenge
+Condition,BRCA2 'one-hit' mutant,OOV-C-0AAA00359B,12,appropriate,,,specific genotype; no MeSH descriptor
+Treatment,vehicle,OOV-X-B880FC6CDD,8258,appropriate,,,vehicle control; kept distinct by design
+Treatment,Placebo,OOV-X-36F9CDA7AB,3477,inappropriate,D010919,Placebos,MeSH descriptor exists (plural; missed by exact match)
+Treatment,placebo,OOV-X-36F9CDA7AB,1132,inappropriate,D010919,Placebos,MeSH descriptor exists (plural; missed by exact match)
+Treatment,cp-81518,OOV-X-09B6284ABD,1,appropriate,,,compound code; no MeSH descriptor
+Treatment,siLincSTXBP5,OOV-X-AF45DBF418,3,appropriate,,,specific siRNA; no MeSH descriptor
+Treatment,BafA,ART-X-26741,3,indeterminate,,,likely bafilomycin A; MeSH coverage uncertain
+Treatment,pyrazolanthrone 0.12uM,OOV-X-115A0DA3DE,38,appropriate,,,SP600125 with dose; appropriate OOV mint

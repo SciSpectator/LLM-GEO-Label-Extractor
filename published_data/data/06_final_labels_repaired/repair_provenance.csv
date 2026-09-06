@@ -1,0 +1,5 @@
+quantity,samples,source
+corpus size,804427,LLM_labels_all_samples_FINAL.csv.gz
+acronym-labelled samples re-normalised,55858,07_reextraction_outputs/acronym_normalisation/acronym_all.csv
+samples flagged by the integrity screens and re-extracted,5804,07_reextraction_outputs/integrity_reextraction/merged/manifest.json
+samples whose labels differ from the first pass,59728,diff against 05_final_labels/LLM_labels_all_samples.csv.gz

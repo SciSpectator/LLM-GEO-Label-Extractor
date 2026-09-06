@@ -1,0 +1,7 @@
+screen,errors,fixed,still_failing,absent_from_run,not_evaluable,expectation
+species,1076,1076,0,0,0,repaired
+donorsex,571,571,0,0,0,repaired
+staging,2736,2736,0,0,0,repaired
+age,1414,1414,0,0,0,repaired
+sexcond,239,211,28,0,0,partly (staging-driven only)
+sexanat,11,11,0,0,0,no code repair by design

@@ -1,0 +1,40 @@
+acronym,samples,outcome,target
+AD,647,not_resolved,AD
+AF,8,resolved,Atrial Fibrillation
+ALL,41,not_resolved,ALL
+ALS,344,not_resolved,ALS
+AML,3494,not_resolved,AML
+ASD,241,not_resolved,ASD
+CAD,31,resolved,Coronary Artery Disease
+CD,751,not_resolved,CD
+CF,63,not_resolved,CF
+CKD,79,not_resolved,cKD
+CLL,1836,not_resolved,CLL
+CML,143,resolved,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive"
+COPD,2831,resolved,"Pulmonary Disease, Chronic Obstructive"
+CRC,198,not_resolved,CRC
+GBM,1038,resolved,Glioblastoma
+HCC,322,not_resolved,HCC
+HD,244,not_resolved,HD
+HF,34,resolved,Heart Failure
+IBD,55,resolved,Inflammatory Bowel Diseases
+IPF,478,resolved,Idiopathic Pulmonary Fibrosis
+MDD,376,not_resolved,MDD
+MDS,885,not_resolved,MDS
+MI,206,resolved,Myocardial Infarction
+MS,93,resolved,Multiple Sclerosis
+NASH,321,resolved,Non-alcoholic Fatty Liver Disease
+NSCLC,16375,not_resolved,NSCLC
+OA,268,not_resolved,OA
+PAH,7,resolved,Pulmonary Arterial Hypertension
+PCOS,135,resolved,Polycystic Ovary Syndrome
+PD,14,resolved,Parkinson Disease
+PDAC,93,not_resolved,PDAC
+RA,320,not_resolved,RA
+RCC,33,resolved,"Carcinoma, Renal Cell"
+SLE,4683,resolved,"Lupus Erythematosus, Systemic"
+T1D,267,resolved,"Diabetes Mellitus, Type 1"
+T2D,39,resolved,"Diabetes Mellitus, Type 2"
+TB,130,resolved,Tuberculosis
+TNBC,173,resolved,Triple Negative Breast Neoplasms
+UC,556,resolved,"Colitis, Ulcerative"

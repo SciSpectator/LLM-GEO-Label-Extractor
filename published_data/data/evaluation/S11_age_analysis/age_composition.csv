@@ -1,0 +1,9 @@
+class,samples,pct_of_corpus,pct_of_age_labels
+chronological,361679,44.96,94.39
+descriptor,12912,1.61,3.37
+non_age,3596,0.45,0.94
+implausible,4986,0.62,1.30
+not_specified,421254,52.37,
+total_spurious,8582,1.07,2.24
+age_labels_extracted,383173,47.63,100.00
+corpus_total,804427,100.00,

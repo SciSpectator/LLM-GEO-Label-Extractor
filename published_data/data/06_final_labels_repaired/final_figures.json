@@ -1,0 +1,34 @@
+{
+  "composition": {
+    "released": [],
+    "final": []
+  },
+  "db_resolution": {
+    "released": [],
+    "final": []
+  },
+  "vocabulary_precision": {
+    "released": [],
+    "final": []
+  },
+  "collapse": {
+    "released": [],
+    "final": []
+  },
+  "branch_validity": {
+    "released": [],
+    "final": []
+  },
+  "resource_summary": {
+    "released": [],
+    "final": []
+  },
+  "field_scope": {
+    "released": [],
+    "final": []
+  },
+  "condition_split": {
+    "released": [],
+    "final": []
+  }
+}

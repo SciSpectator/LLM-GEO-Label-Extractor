@@ -1,0 +1,10 @@
+# Python >= 3.12.
+numpy>=1.26,<3
+requests>=2.31,<3
+sentence-transformers>=3.0,<6
+torch>=2.2
+transformers>=4.45,<6
+# python-docx is required by the document-update script; matplotlib by the
+# Figure S1 generator.
+python-docx>=1.1,<2
+matplotlib>=3.7,<4

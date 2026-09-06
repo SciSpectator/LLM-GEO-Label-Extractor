@@ -1,0 +1,6 @@
+verdict,acronym_study_pairs,occurrences,pct_of_unresolved,pct_of_corpus,of_which_surface_resolves_in_another_study
+defined in the study and MeSH has it in-branch,10,947,6.74,0.118,0
+defined in the study but MeSH holds it outside the branch,11,116,0.83,0.014,13
+defined in the study and MeSH has no term for it,133,2467,17.57,0.307,542
+not defined in the study's own text,570,10512,74.86,1.307,2378
+total,724,14042,100.00,1.746,2933

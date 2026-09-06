@@ -1,0 +1,15 @@
+label,surface_shape_of_raw_label,samples
+Condition,underscore used as a word separator,202
+Condition,no distinguishing surface feature,87
+Condition,written in all lower case,79
+Condition,written in all capitals,19
+Condition,contains a non-ASCII character (curly apostrophe / en dash),14
+Tissue,no distinguishing surface feature,2918
+Tissue,written in all capitals,439
+Tissue,underscore used as a word separator,148
+Tissue,written in all lower case,68
+Tissue,contains a non-ASCII character (curly apostrophe / en dash),14
+Treatment,written in all capitals,52
+Treatment,contains a non-ASCII character (curly apostrophe / en dash),48
+Treatment,written in all lower case,39
+Treatment,no distinguishing surface feature,5

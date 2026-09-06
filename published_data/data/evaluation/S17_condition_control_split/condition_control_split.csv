@@ -1,0 +1,5 @@
+category,samples,pct_of_corpus
+condition_labels,647007,80.43
+healthy_control,83916,10.43
+disease_non_control,563091,70.00
+corpus_total,804427,100.00

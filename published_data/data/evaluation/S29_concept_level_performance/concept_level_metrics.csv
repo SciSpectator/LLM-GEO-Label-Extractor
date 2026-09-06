@@ -1,0 +1,3 @@
+field,distinct_gold_concepts,singleton_concepts,largest_class,accuracy_micro,accuracy_macro,delta,rare_concepts,rare_samples,accuracy_rare,common_concepts,common_samples,accuracy_common
+Tissue,254,56,63,0.9967,0.9959,-0.0008,93,130,1.0,46,851,0.9988
+Condition,154,28,576,0.95,0.926,-0.024,58,88,0.875,32,1116,0.9489

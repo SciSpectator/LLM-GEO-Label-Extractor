@@ -1,0 +1,6 @@
+label,action,samples
+Condition,filtered:cellline-in-condition,1014
+Condition,rerouted:tissue->condition,156
+Tissue,filtered:disease-in-tissue,20420
+Tissue,rerouted:->tissue,20
+Treatment,filtered:cellline-in-treatment,2048

@@ -1,0 +1,16 @@
+{
+  "gold_39": {
+    "pooled_samples": 34956,
+    "TP": 33650,
+    "FN": 1306,
+    "recall": 0.9626,
+    "released_recall": 0.077
+  },
+  "all_acronyms": {
+    "samples": 55858,
+    "resolved": 46135,
+    "resolved_pct": 82.59,
+    "released_resolved": 42918,
+    "released_samples": 233970
+  }
+}

@@ -1,0 +1,6 @@
+numpy>=1.26,<3
+requests>=2.31,<3
+sentence-transformers>=3.0,<6
+torch>=2.2
+transformers>=4.45,<6
+

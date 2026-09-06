@@ -1,0 +1,74 @@
+%%{init: {"theme":"base","themeCSS":".nodeLabel,.edgeLabel,.cluster-label,.label{font-weight:600;} .cluster-label{font-weight:700;}","themeVariables": {"fontSize": "30px","lineColor":"#3a4250"}, "flowchart": {"htmlLabels": true, "nodeSpacing": 60, "rankSpacing": 80, "padding": 30, "curve":"linear", "wrappingWidth": 460, "useMaxWidth": false}}}%%
+flowchart TB
+
+    subgraph INPUT["1. Your choices"]
+      direction LR
+      PLAT["Platform: one or more GPL accessions,<br/>or a GSM list of your own"]:::det
+      SCOPE["Sample scope: modality and organism"]:::det
+      COLS["Metadata columns the model reads<br/>default five: title, source_name, characteristics,<br/>treatment_protocol, description"]:::det
+      LABS["Labels to extract:<br/>Tissue, Condition, Treatment, Sex, Age"]:::det
+    end
+
+    subgraph S1["2. Phase 1"]
+      direction LR
+      P1A["Copy a value that literally appears<br/>in this sample's own metadata"]:::m12
+      P1B["Age is read by the reasoning model:<br/>units, coded values, life stages"]:::me2
+      P1C["Guards: reject anything absent from the text,<br/>decode legends written in the sample"]:::det
+      P1A --> P1C
+      P1B --> P1C
+    end
+
+    Q1{"Any of Tissue, Condition or Treatment<br/>still Not Specified?"}:::det
+
+    subgraph S1B["3. Phase 1b"]
+      direction TB
+      CTX["Evidence: the GSE title, summary and design,<br/>plus what sibling samples in the series got"]:::cache
+      REC["Recover only the missing labels.<br/>An explicit per-sample value always wins"]:::m12
+      CTX --> REC
+    end
+
+    KEEP["Keep the Phase 1 value"]:::det
+    JOIN["Tissue, Condition, Treatment settled"]:::det
+    SEXAGE["Sex and Age settled in Phase 1,<br/>they skip Phase 1b and Phase 2"]:::det
+
+    subgraph S2["4. Phase 2"]
+      direction TB
+      DICT["Each distinct value is decided once.<br/>Collect every Tissue, Condition and<br/>Treatment string in the corpus"]:::det
+      LOOK["Match against MeSH and Cellosaurus,<br/>with semantic retrieval for candidates"]:::emb
+      PICK["The model picks the term that denotes the concept,<br/>or declares it out of vocabulary"]:::me2
+      MINT["Out-of-vocabulary values become local concepts,<br/>one identifier per concept"]:::det
+      FOLD["Case fold: merge identifiers differing only<br/>in case, spacing or hyphenation"]:::det
+      DICT --> LOOK --> PICK --> MINT --> FOLD
+    end
+
+    subgraph S3["5. Assembly"]
+      direction TB
+      MERGE["Deterministic, no model.<br/>Merge every platform table into one corpus"]:::det
+      DEDUP["De-duplicate within each sample: a repeated<br/>identifier in one cell collapses to one"]:::det
+      MERGE --> DEDUP
+    end
+
+    subgraph OUT["6. Output"]
+      direction LR
+      O1["LLM_labels_all_samples.csv.gz<br/>every sample, all five labels"]:::det
+      O2["by_GPL/&lt;GPL&gt;.csv.gz<br/>the same rows split per platform"]:::det
+      O3["manifest.json<br/>counts and what was relocated"]:::det
+    end
+
+    LABS ==> P1A
+    P1C ==> Q1
+    P1C ==> SEXAGE
+    Q1 -- yes --> CTX
+    Q1 -- no --> KEEP
+    REC ==> JOIN
+    KEEP ==> JOIN
+    JOIN ==> DICT
+    FOLD ==> MERGE
+    SEXAGE ==> MERGE
+    DEDUP ==> O1
+
+    classDef m12 fill:#dbe9ff,stroke:#3b6fb0,color:#0b1f3a;
+    classDef me2 fill:#e7dcff,stroke:#6b4fb0,color:#1f0b3a;
+    classDef det fill:#e9efe9,stroke:#5a7a5a,color:#12251a;
+    classDef emb fill:#fff1d6,stroke:#c08a2a,color:#3a2a0b;
+    classDef cache fill:#f3f3f3,stroke:#999,color:#333,stroke-dasharray:3 3;

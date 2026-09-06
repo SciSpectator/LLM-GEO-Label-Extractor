@@ -1,0 +1,7 @@
+{
+  "corpus": "LLM GEO five-label final corpus",
+  "samples": 5804,
+  "platforms": 65,
+  "sex_present": 2633,
+  "age_present": 3148
+}

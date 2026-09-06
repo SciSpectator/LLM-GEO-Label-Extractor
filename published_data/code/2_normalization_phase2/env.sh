@@ -1,0 +1,10 @@
+export HF_ENDPOINT=https://hf-mirror.com
+export HF_HOME=Directory to HuggingFace cache
+export HF_HUB_OFFLINE=1
+export PHASE2_VLLM_URLS="http://127.0.0.1:8000/v1,http://127.0.0.1:8001/v1,http://127.0.0.1:8002/v1,http://127.0.0.1:8003/v1,http://127.0.0.1:8004/v1,http://127.0.0.1:8005/v1,http://127.0.0.1:8006/v1,http://127.0.0.1:8007/v1"
+export PHASE2_EMBED_DEVICE=cpu
+export PHASE2_THINK_BUDGET=256
+export PHASE2_T4_THINK_BUDGET=1024
+export PHASE2_MAX_TOKENS=4096
+export PHASE2_T4_TOKENS=6144
+export PHASE2_TOKEN_CEILING=6144

@@ -1,0 +1,5 @@
+field,oov_values,distinct_concepts,variants_folded,multi_variant_clusters
+Tissue,6675,5926,749,535
+Condition,9055,7789,1266,930
+Treatment,38866,35461,3405,2811
+Total,54596,49176,5420,4276

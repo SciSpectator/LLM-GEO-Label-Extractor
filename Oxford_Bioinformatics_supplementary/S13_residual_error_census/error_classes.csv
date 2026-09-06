@@ -1,0 +1,20 @@
+label,error_class,samples,pct_of_extracted,cause,note
+Sex,not_specified_though_record_states_it,6632,1.368,extraction,the record carries a sex token and the pipeline still returned Not Specified
+Sex,value_not_grounded_in_own_record,88,0.028,extraction,a value was returned that no token in the sample's record supports
+Age,value_not_grounded_in_own_record,25649,6.694,extraction,no age-like token in the record; Table S20 separates identifiers and assay times from legitimate developmental ages
+Sex,contradicts_sex_specific_condition,1,0.000,extraction,unexplained after the germ-cell and fetal-material exemptions
+Sex,contradicts_cell_line_donor_sex,0,0.000,extraction,screen clears on the released corpus
+Sex,contradicts_sex_specific_anatomy,0,0.000,extraction,screen clears on the released corpus
+Age,implausible_value,4986,1.301,extraction,outside a plausible human range
+Age,non_age_value,3596,0.938,extraction,a value captured that is not an age
+Tissue,value_present_no_concept,0,0.000,normalization,label read but no controlled concept assigned; largely experimental descriptors that no vocabulary covers such as Mock or Naive
+Tissue,oov_though_vocabulary_term_existed,3587,0.448,normalization,exact in-branch name/synonym existed; deterministic lower bound
+Condition,value_present_no_concept,447,0.072,normalization,label read but no controlled concept assigned; largely experimental descriptors that no vocabulary covers such as Mock or Naive
+Condition,oov_though_vocabulary_term_existed,401,0.065,normalization,exact in-branch name/synonym existed; deterministic lower bound
+Treatment,value_present_no_concept,0,0.000,normalization,label read but no controlled concept assigned; largely experimental descriptors that no vocabulary covers such as Mock or Naive
+Treatment,oov_though_vocabulary_term_existed,144,0.042,normalization,exact in-branch name/synonym existed; deterministic lower bound
+Condition,acronym_unresolved_though_resolved_elsewhere,2933,,acronym,"the same surface resolves in at least one other study, so the answer was available and was not applied here"
+Condition,acronym_unresolved_though_study_defines_it,947,,acronym,the study spells the abbreviation out and MeSH holds that expansion in-branch; established by acronym_audit.py without adjudication
+Treatment,missed_extraction_on_benchmark,177,11.800,extraction,"treatment stated in the record but not extracted; benchmark of 1,500 hand-adjudicated samples, recall 0.847 - not a corpus-wide count"
+Treatment,wrong_value_on_benchmark,24,1.600,extraction,a treatment extracted that the record does not support; same benchmark
+Condition,expansion_unattested_in_own_study,467,,acronym,expansion neither the concept nor the acronym appears in the GSE text

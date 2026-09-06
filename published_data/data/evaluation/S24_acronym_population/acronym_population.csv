@@ -1,0 +1,88 @@
+acronym,occurrences,concept,resolved,instances_resolved
+NSCLC,16375,"Carcinoma, Non-Small-Cell Lung",16310,16310/16375
+SLE,4683,"Lupus Erythematosus, Systemic",4683,all
+AML,3493,"Leukemia, Myeloid, Acute",3472,3472/3493
+COPD,2831,"Pulmonary Disease, Chronic Obstructive",2831,all
+CLL,1836,"Leukemia, Lymphocytic, Chronic, B-Cell",1819,1819/1836
+T-ALL,1339,Precursor T-Cell Lymphoblastic Leukemia-Lymphoma,1339,all
+GBM,1037,Glioblastoma,1037,all
+DLBCL,1003,"Lymphoma, Large B-Cell, Diffuse",967,967/1003
+MDS,885,Myelodysplastic Syndromes,879,879/885
+CD,751,Colitis,83,83/751
+BCP-ALL,732,,0,0/732
+HNSqCC,698,,0,0/698
+CONTROL,683,,0,0/683
+ABMR,676,,0,0/676
+SIV,668,,0,0/668
+COVID-19,652,COVID-19,652,all
+AD,647,Alzheimer Disease,587,587/647
+RRMS,566,"Multiple Sclerosis, Relapsing-Remitting",489,489/566
+UC,556,"Colitis, Ulcerative",556,all
+HC,539,,0,0/539
+HIV,518,HIV Infections,518,all
+HIV+,516,HIV Infections,516,all
+RSV,503,Respiratory Syncytial Virus Infections,417,417/503
+IPF,478,Idiopathic Pulmonary Fibrosis,478,all
+BP,470,Pain,212,212/470
+HNSCC,383,Squamous Cell Carcinoma of Head and Neck,383,all
+MDD,376,Major Depressive Disorder,362,362/376
+ALS,344,Amyotrophic Lateral Sclerosis,344,all
+HCC,322,"Carcinoma, Hepatocellular",310,310/322
+CNS-PNET,321,,0,0/321
+NASH,321,Non-alcoholic Fatty Liver Disease,321,all
+RA,320,"Arthritis, Rheumatoid",319,319/320
+SZA,301,"Stress, Psychological",159,159/301
+OA,268,Osteoarthritis,95,95/268
+T1D,267,"Diabetes Mellitus, Type 1",267,all
+TCMR,255,"Hypersensitivity, Delayed",190,190/255
+SCD,248,"Anemia, Sickle Cell",248,all
+HD,244,Huntington Disease,202,202/244
+MGUS,243,Multiple Myeloma,243,all
+ASD,234,Autism Spectrum Disorder,234,all
+H1N1,232,"Influenza, Human",28,28/232
+SSc,228,"Scleroderma, Systemic",228,all
+HCV,227,Hepatitis C,227,all
+PTSD,220,"Stress Disorders, Post-Traumatic",220,all
+SZ,215,Schizophrenia,215,all
+LPR,210,,0,0/210
+MI,206,Myocardial Infarction,206,all
+LESIONAL,202,,0,0/202
+CRC,198,Colorectal Neoplasms,198,all
+BP1,193,Bipolar Disorder,193,all
+PPROM,189,Premature Rupture of Fetal Membranes,189,all
+SEPTIC,185,Sepsis,185,all
+SJIA,184,"Arthritis, Juvenile",184,all
+SCLC,180,Small Cell Lung Carcinoma,180,all
+CHF,176,Heart Failure,176,all
+TNBC,173,Triple Negative Breast Neoplasms,173,all
+sPTD,166,Premature Birth,166,all
+JIA,164,"Arthritis, Juvenile",164,all
+CIS,159,Crohn Disease,44,44/159
+IPD,157,Parkinson Disease,157,all
+CML,143,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",143,all
+PCOS,135,Polycystic Ovary Syndrome,135,all
+SPMS,135,"Multiple Sclerosis, Chronic Progressive",135,all
+SHIV,133,,0,0/133
+B-ALL,132,,0,0/132
+TB,132,Tuberculosis,132,all
+OFI,128,,0,0/128
+HVT,126,Respiratory Distress Syndrome,82,82/126
+CTR,125,,0,0/125
+DM,125,Diabetes Mellitus,113,113/125
+FTD,125,Frontotemporal Dementia,125,all
+HIV-1,120,,0,0/120
+MCI,120,Cognitive Dysfunction,110,110/120
+IPF/UIP,119,,0,0/119
+HTA-2,116,,0,0/116
+B-CLL,114,,0,0/114
+LS,112,,0,0/112
+HBV,111,Hepatitis B,111,all
+MM,110,Multiple Myeloma,110,all
+OSCC,110,Squamous Cell Carcinoma of Head and Neck,110,all
+SGA,108,,0,0/108
+T-PLL,105,,0,0/105
+CN-AML,103,,0,0/103
+STEMI,103,ST Elevation Myocardial Infarction,84,84/103
+NSOI,102,,0,0/102
+DKD,101,Diabetic Nephropathies,101,all
+ID,101,Id,101,all

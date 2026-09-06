@@ -1,0 +1,7 @@
+outcome,occurrences,pct_of_acronym_shaped
+resolved to a controlled concept,51654,78.63
+unresolved - defined in the study and MeSH has it in-branch,947,1.44
+unresolved - defined in the study but MeSH holds it outside the branch,116,0.18
+unresolved - defined in the study and MeSH has no term for it,2467,3.76
+unresolved - not defined in the study's own text,10512,16.00
+total acronym-shaped occurrences,65696,100.00

@@ -1,0 +1,83 @@
+# Phase 1 · Age
+#
+# Verbatim system prompt as used in the released run.
+# Reproduced from the supplementary prompt tables; the text below is the
+# prompt itself and is not reformatted.
+
+Extracts Age as a verbatim span from the sample's own metadata (title, source, characteristics, protocol, description); returns 'Not Specified' if absent.
+
+Your input fields are:
+1. `title` (str): Sample title.
+2. `source` (str): Sample source_name field.
+3. `characteristics` (str): Sample characteristics field, usually key:value pairs.
+4. `treatment_protocol` (str): Sample treatment/lab protocol text.
+5. `description` (str): Sample description.
+Your output fields are:
+1. `age` (str): Structured age span: '<unit>: <number>' with unit ∈ {years, months, weeks, days}, OR 'age: <descriptor>' for qualitative life-stage tokens, OR 'Not Specified'.
+All interactions will be structured in the following way, with the appropriate values filled in.
+
+[[ ## title ## ]]
+{title}
+
+[[ ## source ## ]]
+{source}
+
+[[ ## characteristics ## ]]
+{characteristics}
+
+[[ ## treatment_protocol ## ]]
+{treatment_protocol}
+
+[[ ## description ## ]]
+{description}
+
+[[ ## age ## ]]
+{age}
+
+[[ ## completed ## ]]
+In adhering to this structure, your objective is:
+        Extract the AGE of THIS sample's own subject from this sample's own metadata.
+        Use the subject's OWN age only -- never another individual's age in the same
+        record (e.g. a maternal / paternal / donor age carried in a separate field).
+
+        OUTPUT -- use the FIRST form that fits, and format it EXACTLY:
+          A. structured  ->  <unit>: <number>
+             unit is one of years, months, weeks, days; number is digits (decimals
+             allowed; a range is N-M). Unit comes FIRST, then a colon, then the number
+             (years: 37, months: 10, weeks: 22, years: 6-8). Use whenever the age is a
+             clean number placeable on one of the four units.
+          B. verbatim    ->  age: <expression>
+             the source age text, lowercased and whitespace-collapsed. Use for ANY age
+             form A cannot represent.
+
+        Find the value in priority order, stopping at the FIRST field that gives THIS
+        subject's age: a characteristics field whose name is or contains "age" (incl.
+        gestational age, postnatal day, developmental / life stage) but is NOT another
+        person's age; then title / source / description.
+
+        FORM A unit, first rule that applies:
+          1. a unit token on the number (year/yr/y, month/mo, week/wk, day/d);
+          2. otherwise a unit named in the field itself;
+          3. otherwise a bare number under an age field is the subject's age in years.
+        Convert spelled-out numbers to digits. Postnatal "day N" / "P N" / "PND N" ->
+        days: N. Approximate markers (~, about, approx, average, mean, median) are
+        dropped -- keep the number in form A.
+
+        FORM B (age: <expression>), kept verbatim -- never Not Specified -- for age
+        information form A cannot hold:
+          - a comparator bound (<, >, <=, >=, under, over, younger/older than, up to,
+            at least): e.g. age: <1.5 years, age: >50 years;
+          - gestational / embryonic / developmental shorthand (22 weeks gestation,
+            GW22, E14.5, blastocyst, larval L3);
+          - a qualitative life stage with no number+unit (newborn, neonate, infant,
+            juvenile, adult, elderly, fetal);
+          - any other non-standard age phrasing.
+
+        NOT an age -> "Not Specified": a lone code under an "age group / age category /
+        age class" field with no stated age, or a coded token with no legend in this
+        sample.
+
+        Several distinct ages for THIS subject -> join with "; " in source order. When
+        a number and a descriptor both appear for the subject, keep the number. Emit
+        "Not Specified" ONLY when THIS subject has no age at all, or only a null /
+        unknown placeholder (unknown, N/A, NA, none, not collected, not reported, -).

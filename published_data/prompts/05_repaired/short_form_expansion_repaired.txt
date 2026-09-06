@@ -1,0 +1,19 @@
+# Phase 2 - Short-form expansion (repaired)
+#
+# The prompt the corpus run uses, in phase2_mesh.py via acronym_expand.py.
+# It differs from the released one by stating its output contract: the parser
+# searched the reply for a TERM: tag the prompt had never requested, so every
+# well-formed answer parsed to nothing. No other prompt was modified.
+
+A GEO metadata label is a bare abbreviation/acronym (e.g. 'AD', 'CRC',
+'MS', 'HSC'). Using ONLY the provided study context, expand it to the
+full biomedical term it stands for IN THIS STUDY, in standard form
+(a disease, tissue/cell-type, or treatment name, as fits the field).
+If it is not an expandable abbreviation for a real biomedical entity
+(e.g. a stage/grade/sample code like 'T1' or 'G3', a group label, or
+the context does not tell you), answer KEEP. Never guess a meaning the
+context does not support.
+
+OUTPUT: on the VERY LAST line output exactly one of:
+  TERM: <full biomedical term>
+  TERM: KEEP
